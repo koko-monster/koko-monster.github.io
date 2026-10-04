@@ -1,13 +1,24 @@
-const $=(selector,root=document)=>root.querySelector(selector);
-const $$=(selector,root=document)=>[...root.querySelectorAll(selector)];
+const $=(selector,root=document)=>root?.querySelector(selector)??null;
+const $$=(selector,root=document)=>root?[...root.querySelectorAll(selector)]:[];
 
-$('.menu-button')?.addEventListener('click',()=>document.body.classList.toggle('menu-open'));
-$$('.main-nav a').forEach(link=>link.addEventListener('click',()=>document.body.classList.remove('menu-open')));
+const menuButton=$('.menu-button');
+const mainNavigation=$('.main-nav');
+const setMenuOpen=open=>{
+  if(!menuButton||!mainNavigation)return;
+  document.body.classList.toggle('menu-open',open);
+  menuButton.setAttribute('aria-expanded',String(open));
+  menuButton.setAttribute('aria-label',open?'Close menu':'Open menu');
+  menuButton.textContent=open?'×':'☰';
+};
+menuButton?.addEventListener('click',()=>setMenuOpen(!document.body.classList.contains('menu-open')));
+$$('.main-nav a').forEach(link=>link.addEventListener('click',()=>setMenuOpen(false)));
+document.addEventListener('keydown',event=>{if(event.key==='Escape'&&document.body.classList.contains('menu-open')){setMenuOpen(false);menuButton?.focus();}});
+document.addEventListener('click',event=>{if(!document.body.classList.contains('menu-open')||event.target.closest('.site-header'))return;setMenuOpen(false);});
 
 const pathContent={
-  today:{title:'Read one story from today’s Japan',copy:'Choose your level, listen once, then save three expressions for a five-minute chat with ご飯子.',meta:['7–10 minutes','Furigana and translation optional','Moves directly into practice'],href:'news.html',cta:'Open News',image:'assets/koko-newsroom.png'},
+  today:{title:'Read one story from today’s Japan',copy:'Choose your level, read once, then practise three expressions in a five-minute chat with ご飯子.',meta:['7–10 minutes','Furigana and translation optional','Moves directly into practice'],href:'news.html',cta:'Open News',image:'assets/koko-newsroom.png'},
   culture:{title:'Enter a story through a subject you love',copy:'Start with a chapter about art, food or craft, then use its language in an interactive reading session.',meta:['Print + digital together','Narration and cultural notes','N4 through N2+'],href:'story.html',cta:'Browse Stories',image:'assets/koko-stories.png'},
-  speak:{title:'Have one useful, low-pressure conversation',copy:'Pick a theme, borrow a starter when you need one and receive concise corrections without breaking the flow.',meta:['Voice or text','Level-aware support','Saved words included'],href:'chat.html',cta:'Start Chat',image:'assets/koko-chat-world.png'}
+  speak:{title:'Have one useful, low-pressure conversation',copy:'Pick a theme, borrow a starter when you need one and receive concise corrections without breaking the flow.',meta:['Voice or text','Level-aware support','Chapter-linked topics'],href:'chat.html',cta:'Start Chat',image:'assets/koko-chat-world.png'}
 };
 $$('[data-path-choices] .choice').forEach(button=>button.addEventListener('click',()=>{
   $$('[data-path-choices] .choice').forEach(item=>item.classList.toggle('active',item===button));
@@ -27,10 +38,8 @@ $('[data-news-level]')?.addEventListener('change',event=>{
   const names={n5:'N5 · Gentle',n4:'N4 · Supported',n3:'N3 · Natural',original:'Original Japanese'};
   const card=$('.level-card b'); if(card) card.textContent=names[event.target.value];
 });
-$$('[data-save]').forEach(button=>button.addEventListener('click',()=>{
-  const saved=button.classList.toggle('saved');button.textContent=saved?'✓ Saved':'＋ Save expressions';
-  const count=$('[data-saved-count]');if(count)count.textContent=Number(count.textContent)+(saved?1:-1);
-}));
+// Vocabulary persistence is not part of the current product. Keep any legacy save hooks inert.
+$$('[data-save]').forEach(button=>{button.disabled=true;button.textContent='Meaning available';});
 
 let readerFont=18,readerTimer;
 $$('[data-reader-toggle]').forEach(button=>button.addEventListener('click',()=>{
@@ -61,7 +70,7 @@ $('[data-chat-support]')?.addEventListener('click',event=>{event.currentTarget.c
 const sendChat=()=>{
   const value=chatInput?.value.trim();if(!value||!conversation)return;
   const user=document.createElement('article');user.className='message user-message';user.innerHTML=`<div><p>${value.replace(/[<>]/g,'')}</p><small>Now</small></div>`;conversation.appendChild(user);chatInput.value='';conversation.scrollTop=conversation.scrollHeight;
-  window.setTimeout(()=>{const reply=document.createElement('article');reply.className='message character-message';reply.innerHTML=`<img src="assets/koko-gohanko.png" alt=""><div><p>いいね！「${value.replace(/[<>]/g,'')}」について、もう少し教えて。どうしてそう思ったの？</p><div class="message-tools"><button>▶ Listen</button><button>☆ Save expression</button></div></div>`;conversation.appendChild(reply);conversation.scrollTop=conversation.scrollHeight;},650);
+  window.setTimeout(()=>{const reply=document.createElement('article');reply.className='message character-message';reply.innerHTML=`<img src="assets/koko-gohanko.png" alt=""><div><p>いいね！「${value.replace(/[<>]/g,'')}」について、もう少し教えて。どうしてそう思ったの？</p><div class="message-tools"><button disabled aria-label="Audio sample pending approval">Audio pending</button><span>Helpful correction</span></div></div>`;conversation.appendChild(reply);conversation.scrollTop=conversation.scrollHeight;},650);
 };
 $('[data-chat-send]')?.addEventListener('click',sendChat);chatInput?.addEventListener('keydown',event=>{if(event.key==='Enter'&&!event.shiftKey){event.preventDefault();sendChat();}});
 
@@ -69,13 +78,12 @@ const miniNews={
   n5:{title:'東京で桜が咲きました',copy:'<button data-vocab="さくら">桜</button>が 東京で 咲きました。ことしは いつもの年より 早いです。'},
   n4:{title:'東京で桜の開花が発表されました',copy:'東京で <button data-vocab="かいか">桜の開花</button>が 発表されました。今年は 平年より 早く、週末には 見ごろを迎えるそうです。'}
 };
-const bindMiniVocab=()=>{$$('[data-mini-news] [data-vocab]').forEach(button=>button.addEventListener('click',()=>{const saved=button.classList.toggle('saved');const count=$('[data-mini-saved]');if(count)count.textContent=$$('[data-mini-news] [data-vocab].saved').length;const carry=$('[data-carry-word]');if(carry){carry.hidden=!saved;const word=$('b',carry);if(word)word.textContent=button.textContent.trim();}}));};
-$$('[data-mini-level]').forEach(button=>button.addEventListener('click',()=>{$$('[data-mini-level]').forEach(item=>item.classList.toggle('active',item===button));const content=miniNews[button.dataset.miniLevel];$('[data-mini-news-title]').textContent=content.title;$('[data-mini-news-copy]').innerHTML=content.copy;$('[data-mini-saved]').textContent='0';bindMiniVocab();}));
+const bindMiniVocab=()=>{$$('[data-mini-news] [data-vocab]').forEach(button=>button.addEventListener('click',()=>{const meaning=button.dataset.vocab==='さくら'?'cherry blossom':'blossom';const note=$('[data-mini-news-copy]');if(note)note.setAttribute('aria-label',`${button.textContent.trim()}: ${meaning}`);}));};
+$$('[data-mini-level]').forEach(button=>button.addEventListener('click',()=>{$$('[data-mini-level]').forEach(item=>item.classList.toggle('active',item===button));const content=miniNews[button.dataset.miniLevel];$('[data-mini-news-title]').textContent=content.title;$('[data-mini-news-copy]').innerHTML=content.copy;bindMiniVocab();}));
 bindMiniVocab();
-$('[data-mini-listen]')?.addEventListener('click',event=>{const playing=event.currentTarget.classList.toggle('active');event.currentTarget.innerHTML=playing?'<span>Ⅱ</span> Listening…':'<span>▶</span> Listen';});
 
 $$('[data-mini-reader-toggle]').forEach(button=>button.addEventListener('click',()=>{button.classList.toggle('active');const reader=$('[data-mini-reader]');if(button.dataset.miniReaderToggle==='furigana')reader.classList.toggle('hide-furigana',!button.classList.contains('active'));if(button.dataset.miniReaderToggle==='translation')$('.mini-translation',reader).hidden=!button.classList.contains('active');}));
-$('[data-mini-reader-play]')?.addEventListener('click',event=>{const playing=event.currentTarget.classList.toggle('active');event.currentTarget.innerHTML=playing?'<span>Ⅱ</span> Reading…':'<span>▶</span> Read aloud';});
+$('[data-mini-reader-play]')?.addEventListener('click',event=>{event.currentTarget.disabled=true;event.currentTarget.innerHTML='<span>▶</span> Audio pending';});
 
 const miniFeedback={
   '花火を見たいです。':'いいですね！ニュースと物語で覚えた「花火」を会話でも使えました。「友達と花火を見に行きたいです」と広げることもできます。',
@@ -85,47 +93,75 @@ const miniFeedback={
 };
 $$('[data-mini-reply]').forEach(button=>button.addEventListener('click',()=>{$$('[data-mini-reply]').forEach(item=>item.classList.toggle('selected',item===button));const result=$('[data-mini-chat-result]');result.hidden=false;result.innerHTML=`<div class="user">${button.dataset.miniReply}</div><div class="feedback"><b>GENTLE FEEDBACK</b>${miniFeedback[button.dataset.miniReply]}</div>`;}));
 
+// Previous landing-page reader scripts, restored by request.
+const sourcePassages={
+  fireworks:{
+    english:'On summer nights in Japan, fireworks spread across the sky.',
+    compact:'<span data-story-hero-karaoke><ruby>日本<rt>にほん</rt></ruby></span><span data-story-hero-karaoke>の</span><span data-story-hero-karaoke><ruby>夏<rt>なつ</rt></ruby>の<ruby>夜<rt>よる</rt></ruby>には、</span><span data-story-hero-karaoke><ruby>空<rt>そら</rt></ruby>いっぱいに</span><mark data-story-hero-karaoke data-vocab-audio="hanabi" tabindex="0" role="button" aria-label="Play 花火 pronunciation"><ruby>花火<rt>はなび</rt></ruby></mark><span data-story-hero-karaoke>が</span><span data-story-hero-karaoke><ruby>広<rt>ひろ</rt></ruby>がります。</span>',
+    reader:'<button class="hero-token hero-karaoke-token" data-karaoke data-speech="日本" data-word="日本" data-reading="にほん" data-meaning="Japan" data-meaning-zh="日本" data-vocab-audio="nihon"><ruby>日本<rt>にほん</rt></ruby></button><span class="hero-karaoke-token" data-karaoke data-speech="の">の</span><button class="hero-token hero-karaoke-token" data-karaoke data-speech="夏の夜" data-word="夏の夜" data-reading="なつのよる" data-meaning="summer night" data-meaning-zh="夏夜" data-vocab-audio="natsu-no-yoru"><ruby>夏<rt>なつ</rt></ruby>の<ruby>夜<rt>よる</rt></ruby></button><span class="hero-karaoke-token" data-karaoke data-speech="には、">には、</span><button class="hero-token hero-karaoke-token" data-karaoke data-speech="空" data-word="空" data-reading="そら" data-meaning="sky" data-meaning-zh="天空" data-vocab-audio="sora"><ruby>空<rt>そら</rt></ruby></button><span class="hero-karaoke-token" data-karaoke data-speech="いっぱいに">いっぱいに</span><button class="hero-token hero-karaoke-token" data-karaoke data-speech="花火" data-word="花火" data-reading="はなび" data-meaning="fireworks" data-meaning-zh="煙花" data-vocab-audio="hanabi"><ruby>花火<rt>はなび</rt></ruby></button><span class="hero-karaoke-token" data-karaoke data-speech="が">が</span><button class="hero-token hero-karaoke-token" data-karaoke data-speech="広がります" data-word="広がります" data-reading="ひろがります" data-meaning="spread" data-meaning-zh="鋪展開來" data-vocab-audio="hirogarimasu"><ruby>広<rt>ひろ</rt></ruby>がります</button><span class="hero-karaoke-token" data-karaoke data-speech="。">。</span>'
+  },
+  shinto:{
+    english:'At a shrine in the snowy mountains, a shrine maiden dances with prayer and respect for nature and her ancestors.',
+    markup:'<span class="SOURCE_TOKEN"><ruby>雪<rt>ゆき</rt></ruby>の</span><span class="SOURCE_TOKEN"><ruby>山<rt>やま</rt></ruby>にある</span><span class="SOURCE_TOKEN"><ruby>神社<rt>じんじゃ</rt></ruby>では、</span><span class="SOURCE_TOKEN"><ruby>白<rt>しろ</rt></ruby>い</span><span class="SOURCE_TOKEN"><ruby>衣装<rt>いしょう</rt></ruby>を</span><span class="SOURCE_TOKEN"><ruby>着<rt>き</rt></ruby>た</span><span class="SOURCE_TOKEN"><ruby>巫女<rt>みこ</rt></ruby>が</span><span class="SOURCE_TOKEN"><ruby>静<rt>しず</rt></ruby>かに</span><span class="SOURCE_TOKEN"><ruby>舞<rt>ま</rt></ruby>います。</span><span class="SOURCE_TOKEN"><ruby>雪<rt>ゆき</rt></ruby>が</span><span class="SOURCE_TOKEN"><ruby>積<rt>つ</rt></ruby>もる</span><span class="SOURCE_TOKEN"><ruby>中<rt>なか</rt></ruby>、</span><span class="SOURCE_TOKEN"><ruby>祈<rt>いの</rt></ruby>りを</span><span class="SOURCE_TOKEN">こめて、</span><span class="SOURCE_TOKEN">一つ一つの</span><span class="SOURCE_TOKEN"><ruby>動<rt>うご</rt></ruby>きを</span><span class="SOURCE_TOKEN"><ruby>大切<rt>たいせつ</rt></ruby>に</span><span class="SOURCE_TOKEN">します。</span><span class="SOURCE_TOKEN"><ruby>自然<rt>しぜん</rt></ruby>や</span><span class="SOURCE_TOKEN"><ruby>先祖<rt>せんぞ</rt></ruby>を</span><span class="SOURCE_TOKEN"><ruby>敬<rt>うやま</rt></ruby>う</span><span class="SOURCE_TOKEN"><ruby>心<rt>こころ</rt></ruby>を</span><span class="SOURCE_TOKEN"><ruby>表<rt>あらわ</rt></ruby>す</span><span class="SOURCE_TOKEN"><ruby>舞<rt>まい</rt></ruby>です。</span>'
+  }
+};
+const sourceHeroCompact=$('.story-reader-card__jp');
+if(sourceHeroCompact)sourceHeroCompact.innerHTML=sourcePassages.fireworks.compact;
+const sourceHeroCompactTranslation=$('[data-story-hero-translation-copy="en"]');
+if(sourceHeroCompactTranslation)sourceHeroCompactTranslation.textContent=sourcePassages.fireworks.english;
+$('[data-story-hero-translation]')?.addEventListener('click',event=>{
+  if(!sourceHeroCompactTranslation)return;
+  const active=event.currentTarget.getAttribute('aria-pressed')!=='true';
+  event.currentTarget.setAttribute('aria-pressed',String(active));
+  event.currentTarget.setAttribute('aria-label',active?'Hide English translation':'Show English translation');
+  $$('[data-story-hero-translation-copy]').forEach(item=>item.hidden=!active||item.dataset.storyHeroTranslationCopy!==($('[data-story-hero-language]')?.dataset.lang||'en'));
+});
+$('[data-story-hero-language]')?.addEventListener('click',event=>{
+  const button=event.currentTarget,next=button.dataset.lang==='en'?'zh':'en';
+  button.dataset.lang=next;button.textContent=next.toUpperCase();button.setAttribute('aria-label',next==='en'?'Switch translation to Chinese':'Switch translation to English');
+  const visible=$('[data-story-hero-translation]')?.getAttribute('aria-pressed')==='true';
+  $$('[data-story-hero-translation-copy]').forEach(item=>item.hidden=!visible||item.dataset.storyHeroTranslationCopy!==next);
+});
+const sourceHeroPassage=$('[data-hero-passage]');if(sourceHeroPassage)sourceHeroPassage.innerHTML=sourcePassages.fireworks.reader;
+const sourceHeroEnglish=$('[data-hero-translation="en"]');if(sourceHeroEnglish)sourceHeroEnglish.textContent=sourcePassages.fireworks.english;
+const sourceCompactBook=$('.story-book-moment__passage');if(sourceCompactBook)sourceCompactBook.innerHTML=sourcePassages.shinto.markup.replaceAll('SOURCE_TOKEN','story-book-karaoke-token');
+const sourceCompactBookTranslation=$('.story-book-moment__reader > small');if(sourceCompactBookTranslation)sourceCompactBookTranslation.textContent=sourcePassages.shinto.english;
+const sourceBookTitle=$('.story-book-app__reader-title');if(sourceBookTitle)sourceBookTitle.innerHTML='<ruby>雪<rt>ゆき</rt></ruby>の<ruby>山<rt>やま</rt></ruby>で、<mark><ruby>祈<rt>いの</rt></ruby>り</mark>をこめて';
+const sourceBookCopy=$('.story-book-app__reader-copy');if(sourceBookCopy)sourceBookCopy.innerHTML=sourcePassages.shinto.markup.replaceAll('SOURCE_TOKEN','story-book-app-karaoke-token');
+const sourceBookTranslation=$('[data-book-app-translation-copy]');if(sourceBookTranslation)sourceBookTranslation.textContent=sourcePassages.shinto.english;
+
 // Landing hero: the reading controls are the product demonstration.
 const heroReader=$('[data-hero-reader]');
 const heroControls=$$('[data-hero-control]',heroReader||document);
 const heroTranslations=$$('[data-hero-translation]',heroReader||document);
+const heroLanguageToggle=$('[data-hero-language-toggle]',heroReader);
 const heroTokens=$$('[data-word]',heroReader||document);
 const heroKaraokeTokens=$$('[data-karaoke]',heroReader||document);
-let heroNarrationFallbacks=[],heroNarrationIndex=0,heroNarrationRun=0,heroIsNarrating=false,heroSpeed=1,heroTextSize=0,heroLanguage='zh',heroTranslationVisible=true,activeHeroToken=heroTokens.find(token=>token.dataset.word==='花火')||null,preferredJapaneseVoice=null;
-const selectJapaneseVoice=()=>{
-  if(!('speechSynthesis' in window))return;
-  const voices=window.speechSynthesis.getVoices().filter(voice=>voice.lang.toLowerCase().startsWith('ja'));
-  const preferredNames=['O-ren','Kyoko','Siri','Nanami','Haruka','Google 日本語'];
-  preferredJapaneseVoice=preferredNames.map(name=>voices.find(voice=>voice.name.includes(name))).find(Boolean)||voices.find(voice=>voice.localService)||voices[0]||null;
-};
-selectJapaneseVoice();if('speechSynthesis' in window)window.speechSynthesis.addEventListener?.('voiceschanged',selectJapaneseVoice);
-const speakJapanese=(text,handlers={})=>{
-  if(!('speechSynthesis' in window))return;
-  window.speechSynthesis.cancel();
-  const utterance=new SpeechSynthesisUtterance(text);utterance.lang='ja-JP';utterance.rate=heroSpeed;utterance.pitch=1.04;if(preferredJapaneseVoice)utterance.voice=preferredJapaneseVoice;if(handlers.boundary)utterance.onboundary=handlers.boundary;if(handlers.end)utterance.onend=handlers.end;if(handlers.error)utterance.onerror=handlers.error;window.speechSynthesis.speak(utterance);return utterance;
-};
+let heroNarrationFallbacks=[],heroNarrationIndex=0,heroNarrationRun=0,heroIsNarrating=false,heroSpeed=1,heroTextSize=0,heroTranslationVisible=true,heroLanguage='en',activeHeroToken=heroTokens.find(token=>token.dataset.word==='花火')||null,preferredJapaneseVoice=null;
+// Narration uses the approved Nanami audio files below; browser TTS remains disabled.
+const speakJapanese=()=>null;
 heroControls.forEach(button=>button.addEventListener('click',()=>{
   heroReader?.classList.add('has-interacted');
   if(button.dataset.heroControl==='furigana'){
     const active=button.classList.toggle('active');button.setAttribute('aria-pressed',String(active));heroReader?.classList.toggle('hide-furigana',!active);
   }
 }));
-const updateHeroWordDetail=token=>{const detail=$('[data-hero-word-detail]',heroReader);if(!detail||!token)return;detail.classList.add('has-word');detail.innerHTML=`<span>${token.dataset.word} · ${token.dataset.reading}</span><b>${heroLanguage==='zh'?token.dataset.meaningZh:token.dataset.meaning}</b>`;};
+const updateHeroWordDetail=token=>{const detail=$('[data-hero-word-detail]',heroReader);if(!detail||!token)return;const meaning=heroLanguage==='zh'?(token.dataset.meaningZh||token.dataset.meaning):token.dataset.meaning;detail.classList.add('has-word');detail.innerHTML=`<span>${token.dataset.word} · ${token.dataset.reading}</span><b>${meaning}</b>`;};
 $('[data-hero-translation-toggle]',heroReader)?.addEventListener('click',event=>{
   heroReader?.classList.add('has-interacted');heroTranslationVisible=!heroTranslationVisible;const button=event.currentTarget;button.setAttribute('aria-pressed',String(heroTranslationVisible));button.setAttribute('aria-label',heroTranslationVisible?'Hide translation':'Show translation');$('[data-hero-translation-control]',heroReader)?.classList.toggle('active',heroTranslationVisible);heroTranslations.forEach(item=>item.hidden=!heroTranslationVisible||item.dataset.heroTranslation!==heroLanguage);
 });
-$('[data-hero-language-toggle]',heroReader)?.addEventListener('click',event=>{
-  heroReader?.classList.add('has-interacted');heroLanguage=heroLanguage==='zh'?'en':'zh';const button=event.currentTarget;button.dataset.heroLang=heroLanguage;button.setAttribute('aria-label',`Switch translation to ${heroLanguage==='zh'?'English':'Traditional Chinese'}`);heroTranslations.forEach(item=>item.hidden=!heroTranslationVisible||item.dataset.heroTranslation!==heroLanguage);updateHeroWordDetail(activeHeroToken);
+heroLanguageToggle?.addEventListener('click',event=>{
+  heroReader?.classList.add('has-interacted');heroLanguage=heroLanguage==='en'?'zh':'en';event.currentTarget.dataset.heroLang=heroLanguage;event.currentTarget.setAttribute('aria-label',heroLanguage==='en'?'Switch translation to Chinese':'Switch translation to English');heroTranslations.forEach(item=>item.hidden=!heroTranslationVisible||item.dataset.heroTranslation!==heroLanguage);updateHeroWordDetail(activeHeroToken);
 });
 $('[data-hero-size]',heroReader)?.addEventListener('click',event=>{
   heroReader?.classList.add('has-interacted');heroTextSize=heroTextSize===0?1:heroTextSize===1?-1:0;heroReader.classList.toggle('text-large',heroTextSize===1);heroReader.classList.toggle('text-small',heroTextSize===-1);event.currentTarget.querySelector('b').textContent=heroTextSize===1?'A+':heroTextSize===-1?'A−':'Aa';
 });
 const clearHeroNarrationFallbacks=()=>{heroNarrationFallbacks.forEach(window.clearTimeout);heroNarrationFallbacks=[];};
 const showHeroKaraoke=index=>{heroNarrationIndex=Math.max(0,index);heroKaraokeTokens.forEach((item,itemIndex)=>item.classList.toggle('speaking',itemIndex===index));};
-const setHeroNarrationUi=playing=>{const button=$('[data-hero-narrate]',heroReader);if(!button)return;button.classList.toggle('active',playing);button.setAttribute('aria-pressed',String(playing));button.querySelector('b').textContent=playing?'⏸':'▶';};
-const stopHeroNarration=(cancelSpeech=true)=>{heroNarrationRun+=1;heroIsNarrating=false;clearHeroNarrationFallbacks();heroKaraokeTokens.forEach(item=>item.classList.remove('speaking'));setHeroNarrationUi(false);if(cancelSpeech&&'speechSynthesis' in window)window.speechSynthesis.cancel();};
+const setHeroNarrationUi=playing=>{const button=$('[data-hero-narrate]',heroReader);if(!button)return;button.classList.toggle('active',playing);button.setAttribute('aria-pressed',String(playing));button.setAttribute('aria-label',playing?'Pause reading preview':'Play reading preview');button.title=playing?'Pause reading preview':'Play reading preview';button.querySelector('b').textContent=playing?'⏸':'▶';};
+const stopHeroNarration=(cancelSpeech=true)=>{heroNarrationRun+=1;heroIsNarrating=false;clearHeroNarrationFallbacks();heroKaraokeTokens.forEach(item=>item.classList.remove('speaking'));setHeroNarrationUi(false);};
 const startHeroNarration=(startIndex=0)=>{
-  if(!heroKaraokeTokens.length)return;heroNarrationRun+=1;const run=heroNarrationRun;clearHeroNarrationFallbacks();if('speechSynthesis' in window)window.speechSynthesis.cancel();heroIsNarrating=true;setHeroNarrationUi(true);showHeroKaraoke(startIndex);
+  if(!heroKaraokeTokens.length)return;heroNarrationRun+=1;const run=heroNarrationRun;clearHeroNarrationFallbacks();heroIsNarrating=true;setHeroNarrationUi(true);showHeroKaraoke(startIndex);
   const segments=heroKaraokeTokens.slice(startIndex).map((item,index)=>({index:startIndex+index,text:item.dataset.speech||item.textContent.trim()}));let cursor=0;const offsets=segments.map(segment=>{const offset=cursor;cursor+=segment.text.length;return {...segment,offset};});const speechText=segments.map(segment=>segment.text).join('');let boundarySeen=false;
   let elapsed=0;segments.forEach(segment=>{heroNarrationFallbacks.push(window.setTimeout(()=>{if(run===heroNarrationRun&&!boundarySeen)showHeroKaraoke(segment.index);},elapsed));elapsed+=Math.max(240,segment.text.length*145)/heroSpeed;});
   const finish=()=>{if(run!==heroNarrationRun)return;heroIsNarrating=false;clearHeroNarrationFallbacks();window.setTimeout(()=>{if(run===heroNarrationRun){heroKaraokeTokens.forEach(item=>item.classList.remove('speaking'));setHeroNarrationUi(false);}},220);};
@@ -135,7 +171,7 @@ $('[data-hero-speed]',heroReader)?.addEventListener('click',event=>{heroReader?.
 heroTokens.forEach(token=>token.addEventListener('click',()=>{
   heroReader?.classList.add('has-interacted');stopHeroNarration();heroTokens.forEach(item=>item.classList.toggle('speaking',item===token));
   activeHeroToken=token;updateHeroWordDetail(token);
-  speakJapanese(token.dataset.word);window.setTimeout(()=>token.classList.remove('speaking'),Math.round(900/heroSpeed));
+  window.setTimeout(()=>token.classList.remove('speaking'),Math.round(900/heroSpeed));
 }));
 $('[data-hero-narrate]',heroReader)?.addEventListener('click',event=>{
   heroReader?.classList.add('has-interacted');if(heroIsNarrating)stopHeroNarration();else startHeroNarration(0);
@@ -159,24 +195,153 @@ $$('[data-book-select]').forEach(button=>button.addEventListener('click',()=>{
 }));
 $('[data-book-furigana]',bookPreview)?.addEventListener('click',event=>{const active=event.currentTarget.classList.toggle('active');event.currentTarget.setAttribute('aria-pressed',String(active));$('[data-book-sample]',bookPreview).classList.toggle('hide-furigana',!active);});
 $('[data-book-translation]',bookPreview)?.addEventListener('click',event=>{const active=event.currentTarget.classList.toggle('active');event.currentTarget.setAttribute('aria-pressed',String(active));$('[data-book-translation-copy]',bookPreview).hidden=!active;});
-$('[data-book-audio]',bookPreview)?.addEventListener('click',event=>{const active=event.currentTarget.classList.toggle('active');event.currentTarget.setAttribute('aria-pressed',String(active));event.currentTarget.firstChild.textContent=active?'Ⅱ ': '▶ ';$('[data-book-sample]',bookPreview).classList.toggle('playing',active);if(active)speakJapanese($('[data-book-japanese]',bookPreview).textContent);else if('speechSynthesis' in window)window.speechSynthesis.cancel();});
+ $('[data-book-audio]',bookPreview)?.addEventListener('click',event=>{const active=event.currentTarget.classList.toggle('active');event.currentTarget.setAttribute('aria-pressed',String(active));event.currentTarget.firstChild.textContent=active?'Ⅱ ': '▶ ';$('[data-book-sample]',bookPreview).classList.toggle('playing',active);if(active)speakJapanese($('[data-book-japanese]',bookPreview).textContent);});
+
+// The full Book + App reader keeps the same accessible controls as the hero demo.
+const bookAppReader=$('.story-book-app__reader');
+const bookAppFurigana=$('[data-book-app-furigana]',bookAppReader);
+const bookAppTranslation=$('[data-book-app-translation]',bookAppReader);
+const bookAppLanguage=$('[data-book-app-language]',bookAppReader);
+const bookAppTranslations=$$('[data-book-app-translation-copy]',bookAppReader);
+bookAppFurigana?.addEventListener('click',event=>{
+  const active=event.currentTarget.getAttribute('aria-pressed')!=='true';
+  event.currentTarget.setAttribute('aria-pressed',String(active));
+  event.currentTarget.setAttribute('aria-label',active?'Hide furigana':'Show furigana');
+  bookAppReader?.classList.toggle('hide-furigana',!active);
+});
+bookAppTranslation?.addEventListener('click',event=>{
+  const active=event.currentTarget.getAttribute('aria-pressed')!=='true';
+  event.currentTarget.setAttribute('aria-pressed',String(active));
+  event.currentTarget.setAttribute('aria-label',active?'Hide translation':'Show translation');
+  const language=bookAppLanguage?.dataset.lang||'en';
+  bookAppTranslations.forEach(copy=>copy.hidden=!active||copy.dataset.lang!==language);
+});
+bookAppLanguage?.addEventListener('click',event=>{
+  const button=event.currentTarget,next=button.dataset.lang==='en'?'zh':'en',visible=bookAppTranslation?.getAttribute('aria-pressed')==='true';
+  button.dataset.lang=next;button.textContent=next.toUpperCase();button.setAttribute('aria-label',next==='en'?'Switch translation to Chinese':'Switch translation to English');bookAppTranslations.forEach(copy=>copy.hidden=!visible||copy.dataset.lang!==next);$$('[data-book-app-word-gloss]').forEach(gloss=>gloss.hidden=gloss.dataset.lang!==next);
+});
+// Upgrade the compact-reader labels into real controls and keep their display
+// options independent from playback.
+const installCompactReaderControls=({reader,toolSelector,furiganaAttr,translationAttr,translationCopies,languageButton,glosses=[]})=>{
+  if(!reader)return;
+  const tools=$(toolSelector,reader),labels=tools?[...tools.children].slice(0,2):[];
+  const makeButton=(label,attribute,ariaLabel)=>{
+    if(!label)return null;
+    const button=document.createElement('button');
+    button.type='button';button.textContent=label.textContent;button.setAttribute(attribute,'');
+    button.setAttribute('aria-pressed','true');button.setAttribute('aria-label',ariaLabel);
+    label.replaceWith(button);return button;
+  };
+  const furigana=makeButton(labels[0],furiganaAttr,'Hide furigana');
+  const translation=makeButton(labels[1],translationAttr,'Hide translation');
+  furigana?.addEventListener('click',event=>{
+    const active=event.currentTarget.getAttribute('aria-pressed')!=='true';
+    event.currentTarget.setAttribute('aria-pressed',String(active));
+    event.currentTarget.setAttribute('aria-label',active?'Hide furigana':'Show furigana');
+    reader.classList.toggle('hide-furigana',!active);
+  });
+  translation?.addEventListener('click',event=>{
+    const active=event.currentTarget.getAttribute('aria-pressed')!=='true';
+    event.currentTarget.setAttribute('aria-pressed',String(active));
+    event.currentTarget.setAttribute('aria-label',active?'Hide translation':'Show translation');
+    const language=languageButton?.dataset.lang||'en';
+    translationCopies.forEach(copy=>copy.hidden=!active||copy.dataset.lang!==language);
+  });
+  languageButton?.addEventListener('click',event=>{
+    const button=event.currentTarget,next=button.dataset.lang==='en'?'zh':'en',visible=translation?.getAttribute('aria-pressed')==='true';
+    button.dataset.lang=next;button.textContent=next.toUpperCase();button.setAttribute('aria-label',next==='en'?'Switch translation to Chinese':'Switch translation to English');translationCopies.forEach(copy=>copy.hidden=!visible||copy.dataset.lang!==next);glosses.forEach(gloss=>gloss.hidden=gloss.dataset.lang!==next);
+  });
+};
+const compactSnowReader=$('.story-book-moment__reader');
+const compactSnowTranslations=$$(':scope > [data-reader-translation]',compactSnowReader);
+const compactSnowTranslation=compactSnowTranslations.find(item=>item.dataset.lang==='en');
+if(compactSnowTranslation)compactSnowTranslation.textContent=sourcePassages.shinto.english;
+installCompactReaderControls({reader:compactSnowReader,toolSelector:'.story-book-moment__tools',furiganaAttr:'data-story-book-furigana',translationAttr:'data-story-book-translation',translationCopies:compactSnowTranslations,languageButton:$('[data-story-book-language]',compactSnowReader)});
+const compactNewsReader=$('.story-news-reader');
+const compactNewsTranslations=$$(':scope > [data-reader-translation]',compactNewsReader);
+const compactNewsTranslation=compactNewsTranslations.find(item=>item.dataset.lang==='en');
+if(compactNewsTranslation)compactNewsTranslation.textContent='Ōnosato has reached yokozuna, the highest rank in sumo. Attention is now focused on his performances in the ring.';
+installCompactReaderControls({reader:compactNewsReader,toolSelector:'.story-news-reader__tools',furiganaAttr:'data-news-reader-furigana',translationAttr:'data-news-reader-translation',translationCopies:compactNewsTranslations,languageButton:$('[data-news-reader-language]',compactNewsReader),glosses:$$('[data-news-word-gloss]')});
 
 // Compact hero sample: spoken Japanese plus word-by-word visual timing.
 const storyHeroPlay=$('[data-story-hero-play]');
 const storyHeroTokens=$$('[data-story-hero-karaoke]');
 let storyHeroTimer=[],storyHeroPlaying=false;
-const setStoryHeroPlayUi=playing=>{if(!storyHeroPlay)return;storyHeroPlay.setAttribute('aria-pressed',String(playing));$('strong',storyHeroPlay).textContent=playing?'Playing sentence':'Listen to this sentence';$('i',storyHeroPlay).textContent=playing?'Ⅱ':'▶';};
-const stopStoryHero=()=>{storyHeroTimer.forEach(window.clearTimeout);storyHeroTimer=[];storyHeroPlaying=false;storyHeroTokens.forEach(token=>token.classList.remove('speaking'));setStoryHeroPlayUi(false);if('speechSynthesis'in window)window.speechSynthesis.cancel();};
+const setStoryHeroPlayUi=playing=>{if(!storyHeroPlay)return;storyHeroPlay.setAttribute('aria-pressed',String(playing));storyHeroPlay.setAttribute('aria-label',playing?'Pause reading preview':'Play reading preview');storyHeroPlay.textContent=playing?'Ⅱ':'▶';};
+const stopStoryHero=()=>{storyHeroTimer.forEach(window.clearTimeout);storyHeroTimer=[];storyHeroPlaying=false;storyHeroTokens.forEach(token=>token.classList.remove('speaking'));setStoryHeroPlayUi(false);};
 storyHeroPlay?.addEventListener('click',()=>{
   if(storyHeroPlaying){stopStoryHero();return;}
   stopStoryHero();storyHeroPlaying=true;setStoryHeroPlayUi(true);
   const phrase='日本の夏には、花火が空いっぱいに広がります。';
   let elapsed=0;storyHeroTokens.forEach((token,index)=>{storyHeroTimer.push(window.setTimeout(()=>{storyHeroTokens.forEach(item=>item.classList.remove('speaking'));token.classList.add('speaking');if(index===storyHeroTokens.length-1)storyHeroTimer.push(window.setTimeout(stopStoryHero,620));},elapsed));elapsed+=index===3||index===5?430:360;});
-  if('speechSynthesis'in window){const utterance=new SpeechSynthesisUtterance(phrase);utterance.lang='ja-JP';utterance.rate=1;utterance.pitch=1.03;if(preferredJapaneseVoice)utterance.voice=preferredJapaneseVoice;utterance.onend=()=>window.setTimeout(stopStoryHero,180);utterance.onerror=stopStoryHero;window.speechSynthesis.speak(utterance);}
+  // The approved audio player below owns final playback; this keeps a visual fallback state.
 });
 $('[data-story-hero-frame-play]')?.addEventListener('click',()=>storyHeroPlay?.click());
 $('[data-story-hero-furigana]')?.addEventListener('click',event=>{const active=event.currentTarget.getAttribute('aria-pressed')!=='true';event.currentTarget.setAttribute('aria-pressed',String(active));event.currentTarget.setAttribute('aria-label',active?'Hide furigana':'Show furigana');$('.story-reader-card')?.classList.toggle('hide-furigana',!active);});
-$('[data-story-hero-translation]')?.addEventListener('click',event=>{const next=event.currentTarget.dataset.language==='en'?'zh':'en';event.currentTarget.dataset.language=next;event.currentTarget.textContent=next==='en'?'EN':'繁';event.currentTarget.setAttribute('aria-label',next==='en'?'Switch translation to Traditional Chinese':'Switch translation to English');$$('[data-story-hero-translation-copy]').forEach(copy=>{copy.hidden=copy.dataset.storyHeroTranslationCopy!==next;});});
+
+// Reader previews share a lightweight visual fallback; approved audio overrides playback below.
+const bindPreviewPlayer=(button,tokens)=>{
+  if(!button||!tokens.length)return;
+  let timer=0,index=0,playing=false;
+  const stop=()=>{window.clearInterval(timer);tokens.forEach(token=>token.classList.remove('is-reading'));playing=false;button.setAttribute('aria-pressed','false');button.setAttribute('aria-label','Play reading preview');button.textContent='▶';};
+  button.addEventListener('click',()=>{
+    if(playing){stop();return;}
+    playing=true;index=0;button.setAttribute('aria-pressed','true');button.setAttribute('aria-label','Pause reading preview');button.textContent='Ⅱ';
+    const step=()=>{tokens.forEach(token=>token.classList.remove('is-reading'));if(index>=tokens.length){stop();return;}tokens[index++].classList.add('is-reading');};
+    step();timer=window.setInterval(step,620);
+  });
+};
+bindPreviewPlayer($('[data-story-book-play]'),$$('.story-path--book .story-book-karaoke-token'));
+bindPreviewPlayer($('[data-news-reader-play]'),$$('.story-news-reader p ruby, .story-news-reader p mark'));
+bindPreviewPlayer($('[data-book-app-play]'),$$('.story-book-app__reader-copy ruby, .story-book-app__reader-title'));
+
+// Production narration uses one Nanami master per passage. Playback speed is applied
+// in the UI, so all rates share the same source and word-highlight timeline.
+const landingAudioBase='./audio/';
+const landingAudioPlayers=[];
+const stopLandingAudio=(except=null)=>landingAudioPlayers.forEach(player=>{if(player!==except)player.stop();});
+const tokenWeight=token=>Math.max(1,(token.dataset.speech||token.textContent||'').replace(/[。、，,.!?！？\s]/g,'').length);
+const createLandingAudioPlayer=({button,file,tokens,activeClass='is-reading',speedButton=null})=>{
+  if(!button||!tokens.length)return null;
+  const audio=new Audio(`${landingAudioBase}${file}`);
+  audio.preload='none';audio.playbackRate=1;audio.preservesPitch=true;
+  let playing=false,rate=1;
+  const weights=tokens.map(tokenWeight),totalWeight=weights.reduce((sum,value)=>sum+value,0);
+  const stops=[];let cursor=0;weights.forEach(weight=>{cursor+=weight;stops.push(cursor/totalWeight);});
+  const clearHighlight=()=>tokens.forEach(token=>token.classList.remove(activeClass));
+  const setButtonState=active=>{button.setAttribute('aria-pressed',String(active));button.setAttribute('aria-label',active?'Pause reading preview':'Play reading preview');const icon=button.querySelector('b');if(icon)icon.textContent=active?'⏸':'▶';else button.textContent=active?'Ⅱ':'▶';};
+  const highlightAt=time=>{if(!Number.isFinite(audio.duration)||audio.duration<=0)return;const progress=Math.min(.9999,time/audio.duration);const index=Math.max(0,stops.findIndex(stop=>progress<stop));tokens.forEach((token,itemIndex)=>token.classList.toggle(activeClass,itemIndex===index));};
+  const stop=(reset=true)=>{audio.pause();if(reset)audio.currentTime=0;playing=false;clearHighlight();setButtonState(false);};
+  const play=async()=>{stopLandingAudio(api);audio.playbackRate=rate;playing=true;setButtonState(true);highlightAt(audio.currentTime);try{await audio.play();}catch(error){stop();button.setAttribute('aria-label','Narration is being prepared');}};
+  const toggle=()=>{if(playing){stop(false);return;}play();};
+  const api={audio,stop,play,toggle};landingAudioPlayers.push(api);
+  button.addEventListener('click',event=>{event.preventDefault();event.stopImmediatePropagation();toggle();},{capture:true});
+  audio.addEventListener('timeupdate',()=>highlightAt(audio.currentTime));
+  audio.addEventListener('ended',()=>stop());
+  audio.addEventListener('pause',()=>{if(audio.ended)return;playing=false;clearHighlight();setButtonState(false);});
+  if(speedButton)speedButton.addEventListener('click',event=>{event.preventDefault();event.stopImmediatePropagation();const rates=[.8,1,1.2],next=(rates.indexOf(rate)+1)%rates.length;rate=rates[next];audio.playbackRate=rate;speedButton.textContent=`${rate}×`;},{capture:true});
+  return api;
+};
+
+createLandingAudioPlayer({button:storyHeroPlay,file:'nanami-fireworks.mp3',tokens:storyHeroTokens,activeClass:'speaking'});
+createLandingAudioPlayer({button:$('[data-hero-narrate]',heroReader),file:'nanami-fireworks.mp3',tokens:heroKaraokeTokens,activeClass:'speaking',speedButton:$('[data-hero-speed]',heroReader)});
+createLandingAudioPlayer({button:$('[data-story-book-play]'),file:'nanami-snow-maiden.mp3',tokens:$$('.story-path--book .story-book-karaoke-token')});
+createLandingAudioPlayer({button:$('[data-news-reader-play]'),file:'nanami-yokozuna.mp3',tokens:$$('.story-news-reader .story-news-karaoke-token')});
+createLandingAudioPlayer({button:$('[data-book-app-play]'),file:'nanami-snow-maiden.mp3',tokens:$$('.story-book-app__reader-copy .story-book-app-karaoke-token')});
+
+const vocabularyAudioFiles={nihon:'nanami-word-nihon.mp3','natsu-no-yoru':'nanami-word-natsu-no-yoru.mp3',sora:'nanami-word-sora.mp3',hanabi:'nanami-word-hanabi.mp3',hirogarimasu:'nanami-word-hirogarimasu.mp3',inori:'nanami-word-inori.mp3',yokozuna:'nanami-word-yokozuna.mp3'};
+let activeVocabularyAudio=null;
+const playVocabulary=element=>{
+  const file=vocabularyAudioFiles[element.dataset.vocabAudio];if(!file)return;
+  stopLandingAudio();if(activeVocabularyAudio)activeVocabularyAudio.pause();
+  const audio=new Audio(`${landingAudioBase}${file}`);activeVocabularyAudio=audio;audio.preservesPitch=true;element.classList.add('speaking');
+  const finish=()=>{element.classList.remove('speaking');if(activeVocabularyAudio===audio)activeVocabularyAudio=null;};
+  audio.addEventListener('ended',finish,{once:true});audio.addEventListener('error',finish,{once:true});audio.play().catch(finish);
+};
+$$('[data-vocab-audio]').forEach(element=>{
+  element.addEventListener('click',event=>{event.preventDefault();event.stopImmediatePropagation();if(element.dataset.word){activeHeroToken=element;updateHeroWordDetail(element);}playVocabulary(element);},{capture:true});
+  if(element.getAttribute('role')==='button')element.addEventListener('keydown',event=>{if(event.key==='Enter'||event.key===' '){event.preventDefault();playVocabulary(element);}});
+});
 
 // The guided-chat response is a one-time in-view demonstration, not a looping fake input.
 const guidedChatSection=$('.story-guided-chat');

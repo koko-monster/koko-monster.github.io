@@ -1,0 +1,135 @@
+{
+  "voice": "ja-JP-NanamiNeural",
+  "locale": "ja-JP",
+  "delivery": {
+    "rate": "0%",
+    "style": "calm, clear, warm, learner-friendly",
+    "outputFormat": "audio-24khz-160kbitrate-mono-mp3",
+    "uiPlaybackRates": [0.8, 1, 1.2],
+    "defaultPlaybackRate": 1,
+    "preservesPitch": true
+  },
+  "tracks": [
+    {
+      "id": "fireworks",
+      "file": "nanami-fireworks.mp3",
+      "usedBy": ["hero-reader", "hanabi-reader"],
+      "text": "日本の夏の夜には、空いっぱいに花火が広がります。",
+      "spokenText": "日本の夏の夜には、そらいっぱいに花火が広がります。",
+      "highlightTokens": [
+        "日本",
+        "の",
+        "夏の夜",
+        "には、",
+        "空",
+        "いっぱいに",
+        "花火",
+        "が",
+        "広がります。"
+      ]
+    },
+    {
+      "id": "snow-maiden",
+      "file": "nanami-snow-maiden.mp3",
+      "usedBy": ["start-where-you-are-reader", "book-app-reader"],
+      "text": "雪の山にある神社では、白い衣装を着た巫女が静かに舞います。雪が積もる中、祈りをこめて、一つ一つの動きを大切にします。自然や先祖を敬う心を表す舞です。",
+      "highlightTokens": [
+        "雪の",
+        "山にある",
+        "神社では、",
+        "白い",
+        "衣装を",
+        "着た",
+        "巫女が",
+        "静かに",
+        "舞います。",
+        "雪が",
+        "積もる",
+        "中、",
+        "祈りを",
+        "こめて、",
+        "一つ一つの",
+        "動きを",
+        "大切に",
+        "します。",
+        "自然や",
+        "先祖を",
+        "敬う",
+        "心を",
+        "表す",
+        "舞です。"
+      ]
+    },
+    {
+      "id": "yokozuna",
+      "file": "nanami-yokozuna.mp3",
+      "usedBy": ["easy-news-reader"],
+      "text": "大の里は、相撲でいちばん高い地位、横綱になりました。土俵での活躍に注目が集まります。",
+      "spokenText": "おおのさとは、相撲でいちばん高い地位、横綱になりました。土俵での活躍に注目が集まります。",
+      "highlightTokens": [
+        "大の里は、",
+        "相撲で",
+        "いちばん",
+        "高い",
+        "地位、",
+        "横綱に",
+        "なりました。",
+        "土俵での",
+        "活躍に",
+        "注目が",
+        "集まります。"
+      ]
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "nihon",
+      "file": "nanami-word-nihon.mp3",
+      "text": "日本",
+      "reading": "にほん",
+      "usedBy": ["hanabi-reader"]
+    },
+    {
+      "id": "natsu-no-yoru",
+      "file": "nanami-word-natsu-no-yoru.mp3",
+      "text": "夏の夜",
+      "reading": "なつのよる",
+      "usedBy": ["hanabi-reader"]
+    },
+    {
+      "id": "sora",
+      "file": "nanami-word-sora.mp3",
+      "text": "空",
+      "reading": "そら",
+      "usedBy": ["hanabi-reader"]
+    },
+    {
+      "id": "hanabi",
+      "file": "nanami-word-hanabi.mp3",
+      "text": "花火",
+      "reading": "はなび",
+      "usedBy": ["hero-reader", "hanabi-reader", "guided-chat-memory"]
+    },
+    {
+      "id": "hirogarimasu",
+      "file": "nanami-word-hirogarimasu.mp3",
+      "text": "広がります",
+      "reading": "ひろがります",
+      "usedBy": ["hanabi-reader"]
+    },
+    {
+      "id": "inori",
+      "file": "nanami-word-inori.mp3",
+      "text": "祈り",
+      "reading": "いのり",
+      "usedBy": ["start-where-you-are-reader", "book-app-reader"]
+    },
+    {
+      "id": "yokozuna",
+      "file": "nanami-word-yokozuna.mp3",
+      "text": "横綱",
+      "reading": "よこづな",
+      "usedBy": ["easy-news-reader", "easy-news-saved-word"]
+    }
+  ]
+}
