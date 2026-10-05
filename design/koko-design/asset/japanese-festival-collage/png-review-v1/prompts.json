@@ -1,0 +1,49 @@
+{
+  "tool": "Built-in image generation",
+  "status": "Review samples — not approved",
+  "prompts": [
+    {
+      "name": "koko",
+      "refs": [
+        "/Users/snapask/Documents/ChatGPT/kokomonster/design-library/asset/japanese-festival-collage/layered/layers/koko.png"
+      ],
+      "prompt": "Use case: background-extraction / precise-object-edit. Image 1 is the exact Koko character artwork to preserve. Produce one high-resolution transparent-background PNG of this SAME complete character and held yellow flower uchiwa fan. Preserve the face, proportions, blue body, peach heart-shaped face/ears/hands/feet, red cheeks and heart, black nose and mouth, expression, jumping pose, curled tail, fan and its grip exactly. Clean the silhouette and all alpha edges: remove stray pixels and fringes outside the artwork, retain smooth anti-aliased contours and subtle existing color shading. Do not simplify into basic geometric shapes, do not restyle, no thick outlines or white sticker border. Entire character including fan, tail and both feet visible with 6% clear transparent margin. Genuine alpha transparency, NOT a painted checkerboard, white, black, gray or colored backdrop. No ground shadow, no text, no extra decoration. This is an isolated production illustration asset, not a poster or mockup."
+    },
+    {
+      "name": "bear",
+      "refs": [
+        "/Users/snapask/Documents/ChatGPT/kokomonster/design-library/asset/japanese-festival-collage/layered/layers/bear.png"
+      ],
+      "prompt": "Use case: background-extraction / precise-object-edit. Image 1 is the exact Bear festival character artwork to preserve. Produce one high-resolution transparent-background PNG of the SAME full character with blue open happi, two drumsticks and taiko. Preserve stocky brown silhouette, pale muzzle and ear centers, angled black brows, oval black nose, open joyful mouth, red cheeks, blue and white happi pattern, turquoise waistband and white lower garment, stepping pose, grip and cream/red taiko with dark studs. Keep original identity and pose, don't geometrically simplify or restyle. Correct only edge quality: remove every stray red/yellow/white pixel floating outside figure and drum and ragged white residue along garment and bottom of drum. Clean beautifully smooth anti-aliased silhouette, retain existing soft flat illustration shading. All body parts and full drum visible with 6% transparent padding. Genuine alpha transparency, NOT checkerboard or solid backdrop. No white stroke border, no ground shadow, no text, no additional objects."
+    },
+    {
+      "name": "lantern",
+      "refs": [
+        "/Users/snapask/Documents/ChatGPT/kokomonster/design-library/asset/japanese-festival-collage/exact-layered/layers/exact-source.png"
+      ],
+      "prompt": "Use case: illustration-story. Input image is STYLE and PROP reference only. Create ONLY ONE standalone Japanese red paper festival lantern matching the left red lantern in the reference collage. Do not produce a collage or any characters. Charming polished flat illustration with subtle paper color variation, beautifully smooth crisp contours. Squat plump vertically oval lantern, red sides, warm white broad central vertical label, understated darker red horizontal paper ribs, very dark purple rectangular upper and lower caps and a curved purple suspension loop. Centered dark purple Japanese character exactly '祭' in bold playful hand-lettered style. Match reference's vibrant red and dark purple. Whole object upright centered on square canvas, occupying about 75% height with clear margin. Genuine transparent PNG background with alpha, no checkerboard pixels or white/black backdrop, no shadow, no sticker outline, no extra elements. Make the quality of the object equal to the original reference, not a simplified diagram."
+    },
+    {
+      "name": "folding-fan",
+      "refs": [
+        "/Users/snapask/Documents/ChatGPT/kokomonster/design-library/asset/japanese-festival-collage/exact-layered/layers/exact-source.png"
+      ],
+      "prompt": "Use case: illustration-story. Input image is STYLE and PROP reference only. Create ONLY ONE standalone pink Japanese folding fan matching the upper-right fan in this collage. No characters, no poster composition. Fan fully visible, about 100-degree spread, alternating raspberry-pink and light pink folded paper segments, outer edge smoothly curved, two or three white sakura blossoms with pink centers printed on the paper, dark purple slim ribs converge into a small dark purple pivot at bottom. Preserve reference's charming flat editorial illustration quality with very subtle tonal shading, clean sharp smooth edges, not photorealistic, no outlines around petals, no unnecessary detail. Centered object occupies about 80% canvas, ample transparent margin. Genuine transparent PNG with alpha; NO checkerboard, white or colored background. No text, watermark, shadow, border or additional decoration."
+    },
+    {
+      "name": "folding-fan-v2",
+      "path": "/Users/snapask/.codex/generated_images/01a0ce57-6498-77c1-8894-52f529f69672/exec-69845e03-73c9-42b8-bf76-0bc4b561af16.png",
+      "prompt": "Edit the supplied fan image. Remove ALL glow, blur, haze, shadow and background outside the precise solid fan silhouette. Reconstruct the lower fan with distinct slender dark-purple ribs and genuinely transparent open triangular gaps between the ribs. Preserve the pink folded paper and white blossom design. Output the entire fan sharply cut out on genuine alpha transparency. The silhouette boundary must be crisp and antialiased, with no translucent halo and no stray pixels. No checkerboard, no black or white background. No added elements."
+    },
+    {
+      "name": "bear-v2",
+      "path": "/Users/snapask/.codex/generated_images/01a0ce57-6498-77c1-8894-52f529f69672/exec-cd21fadb-474d-4996-80cd-53988a5bf2ce.png",
+      "prompt": "Clean this transparent character PNG's alpha mask precisely. Erase the floating red speck above and to the left of the left ear, all red/yellow specks around sticks and body, and the white gritty fringe below drum and garment. Every pixel outside the exact silhouette should be completely transparent alpha 0 except a thin smooth antialiased edge. Keep ALL interior artwork unchanged: full happy brown Bear, blue happi, sticks, cream/red drum, proportions, eyes, mouth and pose. No repainting or palette change, no white outline, no shadow. Output genuine transparent PNG."
+    },
+    {
+      "name": "koko-v2",
+      "path": "/Users/snapask/.codex/generated_images/01a0ce57-6498-77c1-8894-52f529f69672/exec-35791ccc-4894-47eb-8357-f3a4da0cef05.png",
+      "prompt": "Clean this transparent character PNG's alpha mask precisely. Erase all yellow stray pixels above the fan and around feet, all white and blue specks around silhouette and all colored halo fringes. Everything outside the exact character and fan silhouette must be alpha 0 except a fine smooth antialiased edge. Keep ALL interior artwork unchanged: blue Koko, peach face ears feet hands, red cheeks and heart, eyes mouth and nose, curled tail, jumping pose and held flower fan. Do not restyle or change proportions. Output genuine transparent PNG, no outline, no shadow."
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="1200" height="1200" viewBox="0 0 1200 1200">
+  <title>Japanese Festival Collage — やさしい日本語 — Vector</title>
+  <defs>
+    <style><![CDATA[
+      .ink{stroke:#171229;stroke-width:9;stroke-linecap:round;stroke-linejoin:round;fill:none}
+      .thin{stroke:#171229;stroke-width:6;stroke-linecap:round;stroke-linejoin:round;fill:none}
+      .whiteInk{stroke:#fffaf4;stroke-width:8;stroke-linecap:round;stroke-linejoin:round;fill:none}
+    ]]></style>
+  </defs>
+
+  <g inkscape:groupmode="layer" inkscape:label="Background" id="Background">
+    <rect width="1200" height="1200" rx="36" fill="#FFF9EE"/>
+    <circle cx="86" cy="105" r="8" fill="#F45E9B"/><circle cx="1110" cy="886" r="9" fill="#52DDBF"/>
+  </g>
+
+  <g inkscape:groupmode="layer" inkscape:label="Sun" id="Sun">
+    <circle cx="432" cy="138" r="94" fill="#FFD22F"/>
+    <circle cx="432" cy="138" r="37" fill="#FFF9EE"/>
+    <circle cx="432" cy="103" r="18" fill="#FFF9EE"/><circle cx="465" cy="128" r="18" fill="#FFF9EE"/>
+    <circle cx="452" cy="166" r="18" fill="#FFF9EE"/><circle cx="412" cy="166" r="18" fill="#FFF9EE"/>
+    <circle cx="399" cy="128" r="18" fill="#FFF9EE"/><circle cx="432" cy="138" r="10" fill="#FFD22F"/>
+  </g>
+
+  <g inkscape:groupmode="layer" inkscape:label="Mountain" id="Mountain">
+    <path d="M402 318 582 118 777 318Z" fill="#145DCA"/>
+    <path d="M428 318 567 172 620 224 656 188 749 318Z" fill="#3D83E8"/>
+  </g>
+  <g inkscape:groupmode="layer" inkscape:label="Snow cap" id="Snow-cap">
+    <path d="M532 173 582 118 640 178 620 224 585 197 558 225Z" fill="#FFFDF8"/>
+  </g>
+  <g inkscape:groupmode="layer" inkscape:label="Clouds" id="Clouds">
+    <path d="M325 273c0-28 23-48 49-44 10-31 54-32 68-3 31-7 51 18 48 47Z" fill="#FFFDF8"/>
+    <path d="M700 236c0-33 28-55 60-46 12-38 65-38 79-1 38-8 65 19 62 55Z" fill="#8DDE5B"/>
+    <path d="M651 304c0-25 20-43 43-38 11-30 52-30 63 0 30-5 51 18 48 47Z" fill="#F65AA0"/>
+  </g>
+
+  <g inkscape:groupmode="layer" inkscape:label="Left lantern" id="Left-lantern">
+    <path d="M51 246h116l17 33H34Z" fill="#20104A"/>
+    <path d="M54 278q54-23 108 0l10 194q-54 26-118 0Z" fill="#F43448"/>
+    <path d="M73 301q36-17 72 0l8 144q-36 18-78 0Z" fill="#FFF9EE"/>
+    <path d="M55 335h112M56 391h114" stroke="#D81F35" stroke-width="7"/>
+    <path d="M49 472h125l-15 31H65Z" fill="#20104A"/>
+    <path d="M97 246c-4-22 7-39 21-44" class="ink"/>
+    <text x="113" y="399" text-anchor="middle" font-family="Noto Sans JP, sans-serif" font-weight="900" font-size="76" fill="#241050">祭</text>
+  </g>
+  <g inkscape:groupmode="layer" inkscape:label="Right lantern" id="Right-lantern">
+    <path d="M1032 246h116l17 33h-150Z" fill="#20104A"/>
+    <path d="M1035 278q54-23 108 0l10 194q-54 26-118 0Z" fill="#F43448"/>
+    <path d="M1054 301q36-17 72 0l8 144q-36 18-78 0Z" fill="#FFF9EE"/>
+    <path d="M1036 335h112m-111 56h114" stroke="#D81F35" stroke-width="7"/>
+    <path d="M1030 472h125l-15 31h-94Z" fill="#20104A"/>
+    <path d="M1077 246c-4-22 7-39 21-44" class="ink"/>
+    <text x="1094" y="399" text-anchor="middle" font-family="Noto Sans JP, sans-serif" font-weight="900" font-size="76" fill="#241050">祭</text>
+  </g>
+
+  <g inkscape:groupmode="layer" inkscape:label="Fan" id="Fan">
+    <path d="M916 65q152-20 238 112l-190 67Z" fill="#F560A5"/>
+    <path d="M961 61 974 232M1012 59l-27 177M1065 70l-72 171M1110 100l-110 146" stroke="#C93079" stroke-width="8"/>
+    <path d="M970 236q28 14 53 5" stroke="#20104A" stroke-width="13" stroke-linecap="round"/>
+    <g fill="#FFF9EE"><circle cx="1018" cy="114" r="19"/><circle cx="1045" cy="106" r="19"/><circle cx="1052" cy="135" r="19"/><circle cx="1024" cy="142" r="19"/><circle cx="1036" cy="124" r="9"/></g>
+  </g>
+
+  <g inkscape:groupmode="layer" inkscape:label="Purple title panel" id="Purple-title-panel">
+    <path d="M190 358Q600 292 1010 366L952 770Q600 838 248 770Z" fill="#5520C9"/>
+    <path d="M232 401Q600 340 968 401" stroke="#6E3ADB" stroke-width="15" fill="none" stroke-linecap="round"/>
+    <g inkscape:groupmode="layer" inkscape:label="Editable title" id="Editable-title" fill="#FFFDF8" text-anchor="middle" font-family="Noto Sans JP, sans-serif" font-weight="900">
+      <text x="600" y="552" font-size="154" letter-spacing="-8">やさしい</text>
+      <text x="600" y="733" font-size="184" letter-spacing="-10">日本語</text>
+    </g>
+  </g>
+
+  <g inkscape:groupmode="layer" inkscape:label="Blue wave motifs" id="Blue-wave-motifs" fill="none" stroke="#438EEB" stroke-width="15">
+    <path d="M850 1024q34-60 68 0 34-60 68 0 34-60 68 0"/>
+    <path d="M820 1066q34-60 68 0 34-60 68 0 34-60 68 0 34-60 68 0"/>
+    <path d="M58 1035q30-52 60 0 30-52 60 0"/>
+  </g>
+  <g inkscape:groupmode="layer" inkscape:label="Pink petals" id="Pink-petals" fill="#F560A5">
+    <path d="M83 134q33-29 35 16-18 34-35 18Z"/><path d="M109 667q34-29 36 16-18 34-36 18Z"/>
+    <path d="M1006 524q42-31 43 20-24 38-43 17Z"/><path d="M1036 987q39-28 42 18-23 37-42 17Z"/>
+    <path d="M276 1052q37-28 41 17-19 37-41 18Z"/><path d="M751 1092q33-32 39 10-14 40-39 24Z"/>
+    <g transform="translate(927 902)"><circle r="13"/><circle cy="-25" r="14"/><circle cx="24" cy="-7" r="14"/><circle cx="15" cy="21" r="14"/><circle cx="-15" cy="21" r="14"/><circle cx="-24" cy="-7" r="14"/></g>
+  </g>
+  <g inkscape:groupmode="layer" inkscape:label="Yellow accent marks" id="Yellow-accent-marks" fill="#FFD22F">
+    <path d="M183 89h15v52h-15z" transform="rotate(-30 190 115)"/><path d="M216 72h16v58h-16z" transform="rotate(25 224 101)"/>
+    <path d="M984 677h16v53h-16z" transform="rotate(-25 992 703)"/><path d="M1013 690h16v48h-16z" transform="rotate(24 1021 714)"/>
+    <path d="M80 839h16v58H80z" transform="rotate(-26 88 868)"/><path d="M111 829h16v53h-16z" transform="rotate(22 119 855)"/>
+  </g>
+  <g inkscape:groupmode="layer" inkscape:label="Green and purple accents" id="Green-and-purple-accents">
+    <g fill="#5520C9"><ellipse cx="330" cy="879" rx="10" ry="25" transform="rotate(-25 330 879)"/><ellipse cx="358" cy="901" rx="9" ry="23" transform="rotate(-48 358 901)"/><ellipse cx="941" cy="520" rx="9" ry="26" transform="rotate(35 941 520)"/></g>
+    <g fill="#75D94E"><ellipse cx="483" cy="1002" rx="11" ry="25" transform="rotate(-27 483 1002)"/><ellipse cx="778" cy="1038" rx="9" ry="25" transform="rotate(25 778 1038)"/></g>
+  </g>
+
+  <g inkscape:groupmode="layer" inkscape:label="Koko" id="Koko">
+    <path d="M162 246c-56 27-69 104-20 140 38 28 86 2 80-38-5-31-45-36-54-9" class="ink"/>
+    <ellipse cx="269" cy="211" rx="99" ry="111" fill="#1459B8"/>
+    <circle cx="187" cy="206" r="47" fill="#F9B393"/><circle cx="351" cy="201" r="45" fill="#F9B393"/>
+    <path d="M211 152q58-46 116 0 37 28 21 85-16 61-80 65-69-4-80-66-9-52 23-84Z" fill="#FFC0A2"/>
+    <path d="M226 292q43-27 86 0l25 116q-68 62-136 0Z" fill="#1459B8"/>
+    <ellipse cx="220" cy="366" rx="31" ry="63" fill="#1459B8" transform="rotate(24 220 366)"/>
+    <ellipse cx="328" cy="354" rx="29" ry="65" fill="#1459B8" transform="rotate(-25 328 354)"/>
+    <ellipse cx="211" cy="408" rx="31" ry="42" fill="#F9B393"/><ellipse cx="330" cy="403" rx="31" ry="42" fill="#F9B393"/>
+    <ellipse cx="237" cy="211" rx="11" ry="17" fill="#171229"/><ellipse cx="299" cy="211" rx="11" ry="17" fill="#171229"/>
+    <path d="M268 225l-13 12 13 8 13-8Z" fill="#171229"/><path d="M268 245v8m0 0q-15 19-30 0m30 0q15 19 30 0" class="thin"/>
+    <circle cx="219" cy="248" r="17" fill="#F43448"/><circle cx="317" cy="248" r="17" fill="#F43448"/>
+    <path d="M268 333c-18-27-55-3-36 23l36 37 36-37c19-26-18-50-36-23Z" fill="#F43448"/>
+  </g>
+
+  <g inkscape:groupmode="layer" inkscape:label="Gohanko" id="Gohanko">
+    <ellipse cx="858" cy="228" rx="57" ry="65" fill="#171229"/><ellipse cx="1013" cy="228" rx="57" ry="65" fill="#171229"/>
+    <path d="M841 190q91-71 181 0l-12 103q-79 53-157 0Z" fill="#FFFDF8"/>
+    <path d="M850 181q34-42 70-9 35-39 87 8-12 24-34 26-62-22-123-1Z" fill="#171229"/>
+    <path d="M826 163q109-63 220 0l-9 34q-104-31-205 0Z" fill="#F4B447"/>
+    <path d="M865 158q31-74 112-58 48 12 65 60-109-25-217 7Z" fill="#FFC75B"/>
+    <path d="M859 291q78 38 147 0l35 136q-104 58-215 0Z" fill="#FFFDF8"/>
+    <path d="M877 300q56 31 108 0l-15 46h-77Z" fill="#171229"/>
+    <circle cx="929" cy="382" r="29" fill="#F43448"/>
+    <ellipse cx="889" cy="240" rx="10" ry="15" fill="#171229"/><ellipse cx="967" cy="240" rx="10" ry="15" fill="#171229"/>
+    <ellipse cx="928" cy="257" rx="10" ry="7" fill="#171229"/><path d="M928 268q-22 28-43 0m43 0q22 28 43 0" class="thin"/>
+    <circle cx="871" cy="274" r="15" fill="#F43448"/><circle cx="985" cy="274" r="15" fill="#F43448"/>
+    <g transform="translate(1032 309) rotate(-15)">
+      <path d="M0 21q46-35 95 0-49 35-95 0Z" fill="#71BCEE" stroke="#2379B9" stroke-width="6"/>
+      <path d="m94 21 34-27v54Z" fill="#71BCEE" stroke="#2379B9" stroke-width="6"/>
+      <path d="m38 8 17-18 15 19" fill="#71BCEE" stroke="#2379B9" stroke-width="6"/>
+      <circle cx="22" cy="18" r="5" fill="#171229"/><rect x="-18" y="8" width="24" height="26" rx="5" fill="#F43448"/>
+    </g>
+  </g>
+
+  <g inkscape:groupmode="layer" inkscape:label="Rabbit" id="Rabbit">
+    <ellipse cx="117" cy="515" rx="48" ry="138" fill="#FFA6C4" transform="rotate(-11 117 515)"/>
+    <ellipse cx="224" cy="506" rx="47" ry="142" fill="#FFA6C4" transform="rotate(12 224 506)"/>
+    <ellipse cx="169" cy="665" rx="105" ry="116" fill="#FFA6C4"/>
+    <path d="M117 644q53 29 108 0l28 53q-84 63-169 1Z" fill="#F43448"/>
+    <ellipse cx="102" cy="746" rx="37" ry="62" fill="#FFA6C4" transform="rotate(35 102 746)"/>
+    <ellipse cx="238" cy="744" rx="37" ry="62" fill="#FFA6C4" transform="rotate(-35 238 744)"/>
+    <path d="M153 615q16-27 31 0" class="ink"/><ellipse cx="133" cy="662" rx="10" ry="15" fill="#171229"/><ellipse cx="205" cy="662" rx="10" ry="15" fill="#171229"/>
+    <circle cx="169" cy="686" r="8" fill="#171229"/><path d="M169 694v7m0 0q-16 18-32 0m32 0q16 18 32 0" class="thin"/>
+    <path d="m111 688 27 11-25 15m114-26-27 11 25 15" stroke="#E33145" stroke-width="8" fill="none"/>
+    <circle cx="256" cy="722" r="21" fill="#FFFDF8"/><circle cx="281" cy="704" r="21" fill="#F8C85A"/><circle cx="306" cy="722" r="21" fill="#F560A5"/><path d="M256 742h55" class="thin"/>
+  </g>
+
+  <g inkscape:groupmode="layer" inkscape:label="Taiko drum" id="Taiko-drum">
+    <g transform="translate(302 921) rotate(-5)">
+      <ellipse cx="116" cy="21" rx="113" ry="38" fill="#FFF0D1" stroke="#7F3526" stroke-width="7"/>
+      <path d="M5 22h222l-18 159q-92 36-187 0Z" fill="#D9342E" stroke="#8E302A" stroke-width="7"/>
+      <ellipse cx="116" cy="22" rx="102" ry="29" fill="#FFE4BA"/>
+      <g fill="#5A3028"><circle cx="41" cy="20" r="7"/><circle cx="78" cy="9" r="7"/><circle cx="118" cy="6" r="7"/><circle cx="158" cy="10" r="7"/><circle cx="195" cy="22" r="7"/></g>
+      <path d="M47 49 66 166M183 48 165 168" stroke="#FFF7DF" stroke-width="14"/>
+    </g>
+  </g>
+
+  <g inkscape:groupmode="layer" inkscape:label="Bear" id="Bear">
+    <circle cx="172" cy="868" r="47" fill="#8C4A32"/><circle cx="322" cy="861" r="47" fill="#8C4A32"/>
+    <ellipse cx="246" cy="925" rx="117" ry="119" fill="#8C4A32"/>
+    <path d="M148 958q99 68 198 0v126q-100 67-198 0Z" fill="#FFFDF8"/>
+    <rect x="151" y="961" width="190" height="25" rx="12" fill="#37C8BD"/>
+    <ellipse cx="154" cy="1015" rx="45" ry="80" fill="#8C4A32" transform="rotate(20 154 1015)"/>
+    <ellipse cx="333" cy="1003" rx="42" ry="76" fill="#8C4A32" transform="rotate(-24 333 1003)"/>
+    <ellipse cx="210" cy="928" rx="78" ry="60" fill="#C9815F"/>
+    <ellipse cx="213" cy="918" rx="16" ry="12" fill="#171229"/><path d="M213 932v8m0 0q-22 25-42 0m42 0q22 25 42 0" class="thin"/>
+    <path d="m165 879 34 17m65 0 34-24" class="ink"/>
+    <circle cx="166" cy="940" r="17" fill="#F43448"/><circle cx="290" cy="940" r="17" fill="#F43448"/>
+    <path d="M146 870 116 732" stroke="#D09B55" stroke-width="18" stroke-linecap="round"/><path d="M336 861 377 724" stroke="#D09B55" stroke-width="18" stroke-linecap="round"/>
+  </g>
+
+  <g inkscape:groupmode="layer" inkscape:label="Yauyau" id="Yauyau">
+    <path d="M565 852 662 784l98 68 27 188q-124 92-248 0Z" fill="#33353C"/>
+    <ellipse cx="662" cy="914" rx="82" ry="67" fill="#111217"/>
+    <path d="M591 983q71 38 142 0l-10 43q-61 45-123 0Z" fill="#F43448"/>
+    <path d="M603 1005q-46-17-82 24-19 20-44 1" stroke="#F43448" stroke-width="28" fill="none" stroke-linecap="round"/>
+    <path d="M721 1004q48-13 79 29 17 23 45 9" stroke="#F43448" stroke-width="28" fill="none" stroke-linecap="round"/>
+    <circle cx="468" cy="1028" r="24" fill="#F43448"/><circle cx="853" cy="1038" r="24" fill="#F43448"/>
+    <circle cx="662" cy="775" r="25" fill="#F43448"/>
+    <path d="M622 905q14-22 28 0m26 0q14-22 28 0" class="whiteInk"/>
+    <path d="M650 939q12 14 24 0" class="whiteInk"/>
+    <path d="M594 1040q70 41 137 0l-17 100q-53 48-103 0Z" fill="#33353C"/>
+  </g>
+
+  <g inkscape:groupmode="layer" inkscape:label="Tree" id="Tree">
+    <path d="M946 574q67-78 128 4 41-3 61 44-22 55-86 50-89 31-151-29 8-46 48-69Z" fill="#7C432F"/>
+    <path d="M959 596q15-52 41-72m17 82q10-63 29-82m-6 90q37-42 55-57" stroke="#5E3226" stroke-width="10" fill="none" stroke-linecap="round"/>
+    <ellipse cx="1017" cy="673" rx="82" ry="76" fill="#FFC0A2"/>
+    <ellipse cx="981" cy="668" rx="9" ry="14" fill="#171229"/><ellipse cx="1052" cy="668" rx="9" ry="14" fill="#171229"/>
+    <path d="m1017 675-11 22h22Z" fill="#C96748"/><path d="M1017 704q-21 25-41 0m41 0q21 25 41 0" class="thin"/>
+    <circle cx="971" cy="705" r="15" fill="#F43448"/><circle cx="1063" cy="705" r="15" fill="#F43448"/>
+    <g fill="#F560A5"><circle cx="948" cy="748" r="35"/><circle cx="988" cy="766" r="35"/><circle cx="1031" cy="767" r="35"/><circle cx="1072" cy="748" r="35"/></g>
+    <path d="M956 768q62 32 122 0l24 169q-88 60-174 0Z" fill="#43B947"/>
+    <path d="M967 794v128m33-137v154m35-151v150m34-142v125" stroke="#218E3B" stroke-width="9" opacity=".75"/>
+    <ellipse cx="920" cy="839" rx="45" ry="84" fill="#43B947" transform="rotate(30 920 839)"/><ellipse cx="1105" cy="828" rx="45" ry="84" fill="#43B947" transform="rotate(-28 1105 828)"/>
+    <ellipse cx="972" cy="969" rx="25" ry="48" fill="#FFA6C4"/><ellipse cx="1051" cy="969" rx="25" ry="48" fill="#FFA6C4"/>
+    <ellipse cx="963" cy="1002" rx="36" ry="22" fill="#171229"/><ellipse cx="1060" cy="1002" rx="36" ry="22" fill="#171229"/>
+    <path d="M1101 790q52-54 84-17-29 37-83 42Z" fill="#F14332"/><path d="M1120 788q-7-55 34-68 19 43-11 79m2-9q45-32 66 2-31 28-74 19" fill="#F14332"/>
+  </g>
+
+  <g inkscape:groupmode="layer" inkscape:label="Official logo" id="Official-logo">
+    <g transform="translate(430 1135)">
+      <circle cx="29" cy="20" r="24" fill="#1459B8"/><circle cx="10" cy="20" r="10" fill="#F9B393"/><circle cx="48" cy="20" r="10" fill="#F9B393"/>
+      <path d="M16 11q13-11 26 0 8 16-2 27-12 10-23 0-10-11-1-27Z" fill="#FFC0A2"/>
+      <circle cx="23" cy="21" r="3.5" fill="#171229"/><circle cx="35" cy="21" r="3.5" fill="#171229"/><path d="m29 25-4 4 4 3 4-3Z" fill="#171229"/>
+      <circle cx="18" cy="31" r="4" fill="#F43448"/><circle cx="40" cy="31" r="4" fill="#F43448"/>
+      <text x="67" y="33" font-family="Arial Rounded MT Bold, Arial, sans-serif" font-weight="900" font-size="31" fill="#5520C9" letter-spacing="-2">KOKOMONSTER</text>
+    </g>
+  </g>
+</svg>

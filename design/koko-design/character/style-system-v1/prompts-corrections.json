@@ -1,0 +1,10 @@
+[
+  {
+    "code": "A",
+    "prompt": "Edit only facial details of this sheet. Preserve all layout, title, art finish, bodies, props and two Yauyau arms. Koko: use exactly the same filled black rounded triangular nose and short stem with rounded W muzzle in BOTH rows. Close Koko's lower-row mouth to achieve identical face construction. Rabbit: lower-row open mouth has swallowed the nose; replace with CLOSED rounded W muzzle and a distinct filled small black oval nose immediately above it, matching upper-row Rabbit. Keep forehead curl separate. Tree preserve terracotta nose. Gohanko preserve separate black oval nose. No other changes."
+  },
+  {
+    "code": "C",
+    "prompt": "Edit only Gohanko's accessory and Yauyau's lower-row hands in this sheet. Preserve every character, face/nose, compact proportions, layout, labels and fine outlined rendering. Gohanko in BOTH rows: move circular blue/red accessory to viewer LEFT hip, its character-right, strap appropriately attached. Yauyau lower row: EXACTLY TWO clearly separate red arms leave neck band at left and right. Viewer-left arm bends outward holding magnifier, viewer-right arm bends outward holding leaf. Move leaf to viewer-right and visibly grip stem with that hand. No crossing arms, no red U shape on chest, no third tail. Keep rest unchanged."
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "file": "rotation-sources/360bear.json",
+    "sha256": "5b7bd75f95df47b9d94410dd2938fa0b69af26e700e59cf626d4d36a01f995ca",
+    "bytes": 524960,
+    "canvas": [
+      500,
+      500
+    ],
+    "fps": 30,
+    "frameCount": 30,
+    "durationSeconds": 1.0,
+    "embeddedFrameDimensions": [
+      812,
+      812
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "type": "embedded-raster-image-sequence",
+    "externalAssets": false,
+    "sourceFolder": "https://drive.google.com/drive/u/1/folders/1p2s5mejBbgOjJe6nkAVDBClTUeYdEI3W",
+    "characterCode": "BEA",
+    "displayName": "Bear",
+    "inspectionStatus": "all-authored-frames-visually-surveyed",
+    "viewFrames": {
+      "front": 0,
+      "threeQuarter": 4,
+      "profileA": 7,
+      "back": 15,
+      "profileB": 22
+    },
+    "viewNote": "closest observed views, not calibrated angles",
+    "frameDirectory": "rotation-frames/360bear"
+  },
+  {
+    "file": "rotation-sources/360koko.json",
+    "sha256": "04d441e5bc8bced8db8be358d688a408fb2f2ea3fd7c21e930bf53fbcfea8420",
+    "bytes": 496020,
+    "canvas": [
+      500,
+      500
+    ],
+    "fps": 30,
+    "frameCount": 30,
+    "durationSeconds": 1.0,
+    "embeddedFrameDimensions": [
+      812,
+      812
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "type": "embedded-raster-image-sequence",
+    "externalAssets": false,
+    "sourceFolder": "https://drive.google.com/drive/u/1/folders/1p2s5mejBbgOjJe6nkAVDBClTUeYdEI3W",
+    "characterCode": "KOK",
+    "displayName": "Koko",
+    "inspectionStatus": "all-authored-frames-visually-surveyed",
+    "viewFrames": {
+      "front": 0,
+      "threeQuarter": 4,
+      "profileA": 7,
+      "back": 15,
+      "profileB": 22
+    },
+    "viewNote": "closest observed views, not calibrated angles",
+    "frameDirectory": "rotation-frames/360koko"
+  },
+  {
+    "file": "rotation-sources/360rabbit.json",
+    "sha256": "83d315609043b4067dfd9029b0ea2f7b7862d154f69d4607fe956ffec7540dc3",
+    "bytes": 621000,
+    "canvas": [
+      500,
+      500
+    ],
+    "fps": 30,
+    "frameCount": 30,
+    "durationSeconds": 1.0,
+    "embeddedFrameDimensions": [
+      812,
+      812
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "type": "embedded-raster-image-sequence",
+    "externalAssets": false,
+    "sourceFolder": "https://drive.google.com/drive/u/1/folders/1p2s5mejBbgOjJe6nkAVDBClTUeYdEI3W",
+    "characterCode": "RAB",
+    "displayName": "Rabbit",
+    "inspectionStatus": "all-authored-frames-visually-surveyed",
+    "viewFrames": {
+      "front": 0,
+      "threeQuarter": 4,
+      "profileA": 7,
+      "back": 15,
+      "profileB": 22
+    },
+    "viewNote": "closest observed views, not calibrated angles",
+    "frameDirectory": "rotation-frames/360rabbit"
+  },
+  {
+    "file": "rotation-sources/360rice.json",
+    "sha256": "3421d7045d4df3352be3f31f3530dba7ae1f9ae7febef28d701e447b373f36a2",
+    "bytes": 651256,
+    "canvas": [
+      500,
+      500
+    ],
+    "fps": 30,
+    "frameCount": 30,
+    "durationSeconds": 1.0,
+    "embeddedFrameDimensions": [
+      812,
+      812
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "type": "embedded-raster-image-sequence",
+    "externalAssets": false,
+    "sourceFolder": "https://drive.google.com/drive/u/1/folders/1p2s5mejBbgOjJe6nkAVDBClTUeYdEI3W",
+    "characterCode": "GOH",
+    "displayName": "Gohanko / Rice",
+    "inspectionStatus": "all-authored-frames-visually-surveyed",
+    "viewFrames": {
+      "front": 0,
+      "threeQuarter": 4,
+      "profileA": 7,
+      "back": 15,
+      "profileB": 22
+    },
+    "viewNote": "closest observed views, not calibrated angles",
+    "frameDirectory": "rotation-frames/360rice"
+  },
+  {
+    "file": "rotation-sources/360tree.json",
+    "sha256": "5a82b02cd9076f0221590e00be03f194cb34a35e08ea143c7bf049ca39413090",
+    "bytes": 675072,
+    "canvas": [
+      500,
+      500
+    ],
+    "fps": 30,
+    "frameCount": 30,
+    "durationSeconds": 1.0,
+    "embeddedFrameDimensions": [
+      812,
+      812
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "type": "embedded-raster-image-sequence",
+    "externalAssets": false,
+    "sourceFolder": "https://drive.google.com/drive/u/1/folders/1p2s5mejBbgOjJe6nkAVDBClTUeYdEI3W",
+    "characterCode": "TRE",
+    "displayName": "Tree",
+    "inspectionStatus": "all-authored-frames-visually-surveyed",
+    "viewFrames": {
+      "front": 0,
+      "threeQuarter": 4,
+      "profileA": 7,
+      "back": 15,
+      "profileB": 22
+    },
+    "viewNote": "closest observed views, not calibrated angles",
+    "frameDirectory": "rotation-frames/360tree"
+  },
+  {
+    "file": "rotation-sources/360yauyau.json",
+    "sha256": "51e5677f03390c5a1d11cdcab564ca851f1afa2a67f59daf6f08fe3c6a71afe4",
+    "bytes": 466977,
+    "canvas": [
+      500,
+      500
+    ],
+    "fps": 23,
+    "frameCount": 23,
+    "durationSeconds": 1.0,
+    "embeddedFrameDimensions": [
+      812,
+      812
+    ],
+    "alphaExtrema": [
+      0,
+      255
+    ],
+    "type": "embedded-raster-image-sequence",
+    "externalAssets": false,
+    "sourceFolder": "https://drive.google.com/drive/u/1/folders/1p2s5mejBbgOjJe6nkAVDBClTUeYdEI3W",
+    "characterCode": "GHO",
+    "displayName": "Ghost / Yauyau",
+    "inspectionStatus": "all-authored-frames-visually-surveyed",
+    "viewFrames": {
+      "front": 0,
+      "threeQuarter": 5,
+      "profileA": 6,
+      "back": 11,
+      "profileB": 17
+    },
+    "viewNote": "closest observed views, not calibrated angles",
+    "frameDirectory": "rotation-frames/360yauyau"
+  }
+]

@@ -1,0 +1,10 @@
+[
+  {
+    "c": "A",
+    "p": "Precise edit. In the LEFTMOST column only, make Koko's nose and muzzle in lower row IDENTICAL in shape to upper row: small filled black rounded triangular nose, short central stem, symmetric W-shaped closed muzzle. The upper-row nose/muzzle is the exact reference to duplicate into the lower-row face. Do NOT change any eyes or any other characters. Preserve the entire sheet, size, title and drawings."
+  },
+  {
+    "c": "C",
+    "p": "Precise edit on Gohanko ONLY (second column in each row). Its circular blue and red bag is currently at the RIGHT side of the image relative to its torso. Move the bag to the LEFT side of the image relative to torso, in BOTH rows. On the top character the bag should sit by its leftmost hand (viewer-left), not by the rightmost hand. On the lower character the bag should sit below the LEFT edge of the teacup. Reverse strap diagonal so it runs from viewer-right shoulder down to viewer-left hip. Erase the previous bag and strap cleanly. All other pixels, faces, costumes, bodies, compact proportions, Yauyau arms, labels and composition remain unchanged."
+  }
+]

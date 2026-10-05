@@ -1,0 +1,12 @@
+{
+  "id": "KM-CAM-A-JPFEST-EXACT-LAYERED-V2",
+  "source": "layers/exact-source.png",
+  "sourceDimensions": [1254, 1254],
+  "master": "KM-CAM-A-japanese-festival-exact-layered.svg",
+  "method": "Exact source pixels referenced through independently editable SVG clips and masks",
+  "visibleNamedLayers": 4,
+  "hiddenEditableAlternatives": ["live Japanese title", "verified official logo"],
+  "fidelityUnderlay": "Exact source composite is visible for reliable browser preview; reference underlay is hidden",
+  "pixelFidelity": "Visible items use the supplied source pixels; no character regeneration",
+  "editability": "Characters, props, lantern blank labels, title panel and title text are independently selectable SVG layers. Internal raster brushwork remains source-pixel based."
+}

@@ -1,0 +1,28 @@
+{
+  "id": "KM-CAM-A-JPFEST-LAYERED-V1",
+  "title": "Japanese-language festival collage",
+  "master": "KM-CAM-A-japanese-festival-layered.svg",
+  "canvas": {"width": 1400, "height": 1400, "units": "px"},
+  "format": "linked SVG master",
+  "editable": {
+    "background": "vector",
+    "backgroundMotifs": "vector",
+    "titlePanels": "vector",
+    "japaneseTitle": "live SVG text",
+    "characters": "six independently movable linked transparent PNG layers",
+    "foregroundMotifs": "vector",
+    "logo": "linked official PNG"
+  },
+  "liveText": ["にほんご", "まつり"],
+  "fontStack": "Noto Sans JP, Hiragino Sans, Yu Gothic, sans-serif",
+  "layers": [
+    "01 Background", "02 Background motifs", "03 Title panels", "04 Live Japanese title",
+    "05 Koko", "06 Gohanko", "07 Rabbit", "08 Bear and taiko", "09 Yauyau", "10 Tree",
+    "11 Foreground motifs", "12 Official logo"
+  ],
+  "limitations": [
+    "Character layers are editable as positioned raster objects; character anatomy is not vector-path editable.",
+    "Keep the SVG and layers directory together.",
+    "Retain a live-text master before outlining type for print."
+  ]
+}

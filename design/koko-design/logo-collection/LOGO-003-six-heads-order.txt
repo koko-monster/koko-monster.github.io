@@ -1,0 +1,6 @@
+1 Koko
+2 Gohanko
+3 Bear
+4 Rabbit
+5 Yauyau
+6 Tree

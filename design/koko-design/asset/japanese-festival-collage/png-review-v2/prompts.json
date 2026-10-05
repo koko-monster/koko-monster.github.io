@@ -1,0 +1,110 @@
+{
+  "tool": "Built-in image generation",
+  "jobs": [
+    {
+      "name": "lantern-blank",
+      "refs": [
+        "/Users/snapask/Documents/ChatGPT/kokomonster/design-library/asset/japanese-festival-collage/png-review-v1/lantern.png"
+      ],
+      "prompt": "Use case: precise-object-edit. Edit the supplied lantern: remove ONLY the dark-purple Japanese character 祭 from the white center label and fill that area with the same warm-white paper and subtle horizontal cream ribs. Preserve the red paper lantern, overall shape, purple caps, hanging loop, scale, colors, highlights and genuine transparent background exactly. Leave the label completely blank: absolutely no lettering, symbols or replacement design. Return one transparent PNG."
+    },
+    {
+      "name": "mountain",
+      "refs": [
+        "/Users/snapask/Documents/ChatGPT/kokomonster/design-library/asset/japanese-festival-collage/exact-layered/layers/exact-source.png"
+      ],
+      "prompt": "Use case: illustration-story. Input image is a visual style and motif reference only, NOT a request for a complete collage. Create one isolated illustration asset in the SAME cheerful Japanese festival editorial style: smooth confident contours, saturated clean colors, subtle restrained tonal texture, polished flat illustration, not a 3D render. Center whole object with 8% transparent margin. Genuine transparent PNG alpha background, no checkerboard baked in, no glow, no outside shadow, no white sticker border. No characters, letters, captions, watermark, logo or unrelated decoration. Subject: ONLY the blue Mount Fuji with its white snow cap from the top-center of the reference. Broad blue gently sloping triangular mountain, short flat summit, rounded white snow fingers descending into medium blue, slight lighter blue flank. Unoccluded full mountain down to its gently organic broad base. No sun, clouds, land, foliage or sky. Landscape aspect ratio. Snow cap belongs to this one mountain asset."
+    },
+    {
+      "name": "sun",
+      "refs": [
+        "/Users/snapask/Documents/ChatGPT/kokomonster/design-library/asset/japanese-festival-collage/exact-layered/layers/exact-source.png"
+      ],
+      "prompt": "Use case: illustration-story. Input image is a visual style and motif reference only, NOT a request for a complete collage. Create one isolated illustration asset in the SAME cheerful Japanese festival editorial style: smooth confident contours, saturated clean colors, subtle restrained tonal texture, polished flat illustration, not a 3D render. Center whole object with 8% transparent margin. Genuine transparent PNG alpha background, no checkerboard baked in, no glow, no outside shadow, no white sticker border. No characters, letters, captions, watermark, logo or unrelated decoration. Subject: ONLY one large cheerful golden-yellow circular sun disc like the sun behind Fuji in the reference. Near-round organically drawn silhouette, clean warm yellow, exceptionally subtle tonal variation within disc, no rays, no face, no orange ring, no surrounding objects. Square canvas, disc fills 80% of width."
+    },
+    {
+      "name": "blue-waves",
+      "refs": [
+        "/Users/snapask/Documents/ChatGPT/kokomonster/design-library/asset/japanese-festival-collage/exact-layered/layers/exact-source.png"
+      ],
+      "prompt": "Use case: illustration-story. Input image is a visual style and motif reference only, NOT a request for a complete collage. Create one isolated illustration asset in the SAME cheerful Japanese festival editorial style: smooth confident contours, saturated clean colors, subtle restrained tonal texture, polished flat illustration, not a 3D render. Center whole object with 8% transparent margin. Genuine transparent PNG alpha background, no checkerboard baked in, no glow, no outside shadow, no white sticker border. No characters, letters, captions, watermark, logo or unrelated decoration. Subject: ONLY a compact Japanese seigaiha blue wave cluster like bottom-right reference: three overlapping rows of nested semicircular bands, 6 scallops total, bright medium sky-blue bands separated by genuinely transparent gaps. Dense compact fan-shaped cluster, no foam, ocean scene or baseline. Preserve bold playful reference rhythm, smooth arcs with crisp squared-off band ends. Landscape aspect ratio."
+    },
+    {
+      "name": "cloud-green",
+      "refs": [
+        "/Users/snapask/Documents/ChatGPT/kokomonster/design-library/asset/japanese-festival-collage/exact-layered/layers/exact-source.png"
+      ],
+      "prompt": "Use case: illustration-story. Input image is a visual style and motif reference only, NOT a request for a complete collage. Create one isolated illustration asset in the SAME cheerful Japanese festival editorial style: smooth confident contours, saturated clean colors, subtle restrained tonal texture, polished flat illustration, not a 3D render. Center whole object with 8% transparent margin. Genuine transparent PNG alpha background, no checkerboard baked in, no glow, no outside shadow, no white sticker border. No characters, letters, captions, watermark, logo or unrelated decoration. Subject: ONLY one small lime-green stylized Japanese cloud from the top of the reference, three soft asymmetrical rounded lobes and a horizontally elongated flat lower edge with one stepped notch, solid lively light green. Simple strong graphic silhouette, not a realistic cloudy sky. Landscape aspect ratio."
+    },
+    {
+      "name": "cloud-pink",
+      "refs": [
+        "/Users/snapask/Documents/ChatGPT/kokomonster/design-library/asset/japanese-festival-collage/exact-layered/layers/exact-source.png"
+      ],
+      "prompt": "Use case: illustration-story. Input image is a visual style and motif reference only, NOT a request for a complete collage. Create one isolated illustration asset in the SAME cheerful Japanese festival editorial style: smooth confident contours, saturated clean colors, subtle restrained tonal texture, polished flat illustration, not a 3D render. Center whole object with 8% transparent margin. Genuine transparent PNG alpha background, no checkerboard baked in, no glow, no outside shadow, no white sticker border. No characters, letters, captions, watermark, logo or unrelated decoration. Subject: ONLY one small candy-pink stylized Japanese cloud similar to the cloud next to Fuji in the reference. Three soft round asymmetrical lobes with short horizontal tapering extensions, pink flat bold silhouette. No sun, no foliage. Landscape aspect ratio."
+    },
+    {
+      "name": "cloud-cream",
+      "refs": [
+        "/Users/snapask/Documents/ChatGPT/kokomonster/design-library/asset/japanese-festival-collage/exact-layered/layers/exact-source.png"
+      ],
+      "prompt": "Use case: illustration-story. Input image is a visual style and motif reference only, NOT a request for a complete collage. Create one isolated illustration asset in the SAME cheerful Japanese festival editorial style: smooth confident contours, saturated clean colors, subtle restrained tonal texture, polished flat illustration, not a 3D render. Center whole object with 8% transparent margin. Genuine transparent PNG alpha background, no checkerboard baked in, no glow, no outside shadow, no white sticker border. No characters, letters, captions, watermark, logo or unrelated decoration. Subject: ONLY one small warm-white stylized Japanese cloud similar to the one beside the Fuji summit in reference. Three asymmetrical rounded lobes and short flattened elongated base. OPAQUE cream-white cloud itself on transparent background. No blue outline. Landscape aspect ratio."
+    },
+    {
+      "name": "mint-curls",
+      "refs": [
+        "/Users/snapask/Documents/ChatGPT/kokomonster/design-library/asset/japanese-festival-collage/exact-layered/layers/exact-source.png"
+      ],
+      "prompt": "Use case: illustration-story. Input image is a visual style and motif reference only, NOT a request for a complete collage. Create one isolated illustration asset in the SAME cheerful Japanese festival editorial style: smooth confident contours, saturated clean colors, subtle restrained tonal texture, polished flat illustration, not a 3D render. Center whole object with 8% transparent margin. Genuine transparent PNG alpha background, no checkerboard baked in, no glow, no outside shadow, no white sticker border. No characters, letters, captions, watermark, logo or unrelated decoration. Subject: ONLY the mint turquoise ornamental curling cloud/wave motif from below the title in the reference: two rounded mint spiral crests joined at their base, cream-white curved interior marks, playful scalloped silhouette, mint palette. No blue waves, ocean, other decorations. Landscape aspect ratio."
+    },
+    {
+      "name": "sakura",
+      "refs": [
+        "/Users/snapask/Documents/ChatGPT/kokomonster/design-library/asset/japanese-festival-collage/exact-layered/layers/exact-source.png"
+      ],
+      "prompt": "Use case: illustration-story. Input image is a visual style and motif reference only, NOT a request for a complete collage. Create one isolated illustration asset in the SAME cheerful Japanese festival editorial style: smooth confident contours, saturated clean colors, subtle restrained tonal texture, polished flat illustration, not a 3D render. Center whole object with 8% transparent margin. Genuine transparent PNG alpha background, no checkerboard baked in, no glow, no outside shadow, no white sticker border. No characters, letters, captions, watermark, logo or unrelated decoration. Subject: ONLY one pink sakura blossom with five subtly notched rounded petals, tiny white center and five delicate white stamens each ending in a round dot. Match pink blossoms in the reference. Asymmetrical organic charm, not a rigid generic icon. No stem, leaves or branches. Square canvas."
+    },
+    {
+      "name": "pink-petal",
+      "refs": [
+        "/Users/snapask/Documents/ChatGPT/kokomonster/design-library/asset/japanese-festival-collage/exact-layered/layers/exact-source.png"
+      ],
+      "prompt": "Use case: illustration-story. Input image is a visual style and motif reference only, NOT a request for a complete collage. Create one isolated illustration asset in the SAME cheerful Japanese festival editorial style: smooth confident contours, saturated clean colors, subtle restrained tonal texture, polished flat illustration, not a 3D render. Center whole object with 8% transparent margin. Genuine transparent PNG alpha background, no checkerboard baked in, no glow, no outside shadow, no white sticker border. No characters, letters, captions, watermark, logo or unrelated decoration. Subject: ONLY one candy-pink falling sakura petal from the reference. An organic plump tilted teardrop / small heart-like petal with a single shallow V notch in its upper edge, round outer contour and tapered lower tip. Solid pink with almost imperceptible tonal variation. No stem, flower, vein, outline or other objects. Square canvas."
+    },
+    {
+      "name": "yellow-accents",
+      "refs": [
+        "/Users/snapask/Documents/ChatGPT/kokomonster/design-library/asset/japanese-festival-collage/exact-layered/layers/exact-source.png"
+      ],
+      "prompt": "Use case: illustration-story. Input image is a visual style and motif reference only, NOT a request for a complete collage. Create one isolated illustration asset in the SAME cheerful Japanese festival editorial style: smooth confident contours, saturated clean colors, subtle restrained tonal texture, polished flat illustration, not a 3D render. Center whole object with 8% transparent margin. Genuine transparent PNG alpha background, no checkerboard baked in, no glow, no outside shadow, no white sticker border. No characters, letters, captions, watermark, logo or unrelated decoration. Subject: ONLY one celebratory cluster of THREE bright yellow short radiating accent strokes like the sun / motion marks in the reference. The marks are thick short slightly irregular rounded wedges, diverging from an imaginary center toward upper-right, playful angled arrangement, clear transparent gaps between the 3 marks. No star, circle or sun. Square canvas."
+    },
+    {
+      "name": "purple-accents",
+      "refs": [
+        "/Users/snapask/Documents/ChatGPT/kokomonster/design-library/asset/japanese-festival-collage/exact-layered/layers/exact-source.png"
+      ],
+      "prompt": "Use case: illustration-story. Input image is a visual style and motif reference only, NOT a request for a complete collage. Create one isolated illustration asset in the SAME cheerful Japanese festival editorial style: smooth confident contours, saturated clean colors, subtle restrained tonal texture, polished flat illustration, not a 3D render. Center whole object with 8% transparent margin. Genuine transparent PNG alpha background, no checkerboard baked in, no glow, no outside shadow, no white sticker border. No characters, letters, captions, watermark, logo or unrelated decoration. Subject: ONLY one celebratory cluster of THREE saturated violet-purple accent strokes like the diagonal purple marks in the reference. Two medium-length thick rounded parallel brush dashes and one shorter rounded dash, playful oblique arrangement, clear transparent gaps. No text, stars, flowers or other objects. Square canvas."
+    },
+    {
+      "name": "green-accents",
+      "refs": [
+        "/Users/snapask/Documents/ChatGPT/kokomonster/design-library/asset/japanese-festival-collage/exact-layered/layers/exact-source.png"
+      ],
+      "prompt": "Use case: illustration-story. Input image is a visual style and motif reference only, NOT a request for a complete collage. Create one isolated illustration asset in the SAME cheerful Japanese festival editorial style: smooth confident contours, saturated clean colors, subtle restrained tonal texture, polished flat illustration, not a 3D render. Center whole object with 8% transparent margin. Genuine transparent PNG alpha background, no checkerboard baked in, no glow, no outside shadow, no white sticker border. No characters, letters, captions, watermark, logo or unrelated decoration. Subject: ONLY one cluster of THREE bright lime-green curved accent strokes like the green curved marks near bottom of the reference. Three short separated concentric curved thick strokes, round ends, playful swoosh arrangement with transparent gaps. No leaves, stem, lettering or other objects. Square canvas."
+    },
+    {
+      "name": "purple-title-panel",
+      "refs": [
+        "/Users/snapask/Documents/ChatGPT/kokomonster/design-library/asset/japanese-festival-collage/exact-layered/layers/exact-source.png"
+      ],
+      "prompt": "Use case: illustration-story. Input image is a visual style and motif reference only, NOT a request for a complete collage. Create one isolated illustration asset in the SAME cheerful Japanese festival editorial style: smooth confident contours, saturated clean colors, subtle restrained tonal texture, polished flat illustration, not a 3D render. Center whole object with 8% transparent margin. Genuine transparent PNG alpha background, no checkerboard baked in, no glow, no outside shadow, no white sticker border. No characters, letters, captions, watermark, logo or unrelated decoration. Subject: ONLY a completely BLANK saturated purple organic title backdrop inspired by the central panel of the reference. Two broad horizontal pillow-like banner lobes stacked, upper wider than lower, dynamic gently irregular silhouette with softened corners, narrow curving TRANSPARENT gap between the two lobes. Bold rich violet purple fill, subtle restrained darker variation at edges, no shadow. No writing or white decorative marks anywhere; leave generous clear blank area for editable Japanese text to be added later. Landscape aspect ratio, both panels fully visible. Do NOT include any reference letters, characters, motifs or flowers."
+    },
+    {
+      "name": "taiko-drum",
+      "refs": [
+        "/Users/snapask/Documents/ChatGPT/kokomonster/design-library/asset/japanese-festival-collage/exact-layered/layers/exact-source.png"
+      ],
+      "prompt": "Use case: illustration-story. Input image is a visual style and motif reference only, NOT a request for a complete collage. Create one isolated illustration asset in the SAME cheerful Japanese festival editorial style: smooth confident contours, saturated clean colors, subtle restrained tonal texture, polished flat illustration, not a 3D render. Center whole object with 8% transparent margin. Genuine transparent PNG alpha background, no checkerboard baked in, no glow, no outside shadow, no white sticker border. No characters, letters, captions, watermark, logo or unrelated decoration. Subject: ONLY the red taiko drum near the bear at bottom left of the reference. Plump short barrel with warm cream oval drumhead visible in three-quarter view, cream lower rim, dark brown round studs around both rims and two pale vertical slats on red body. Tilted slightly counterclockwise, drum not upright on a stand. No bear, hands, drumsticks, stand or shadow. Whole drum unobscured. Square canvas."
+    }
+  ]
+}

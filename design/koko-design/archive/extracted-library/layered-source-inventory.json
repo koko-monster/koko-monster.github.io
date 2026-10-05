@@ -1,0 +1,56 @@
+{
+  "schemaVersion": 1,
+  "inventoryDate": "2026-09-09",
+  "workingMasterCount": 15,
+  "collections": {
+    "365": {
+      "canonicalFolder": "https://drive.google.com/drive/u/1/folders/1-2BTEJu9vPuHYkBLb-QZFi3j9wEZV7d_",
+      "folderName": "Batch 2 - 365 / Card PSD (Edited for Output)",
+      "layeredDocumentsInFolder": 27,
+      "mastersRequiredForSelectedScenes": 6,
+      "selectedSceneCount": 70,
+      "masters": [
+        {"file": "Cards_365_245-256.psb", "selectedCards": "245-256"},
+        {"file": "Cards_365_257-268.psb", "selectedCards": "257-259"},
+        {"file": "Cards_365_293-304.psb", "selectedCards": "295-304"},
+        {"file": "Cards_365_305-316.psb", "selectedCards": "305-314"},
+        {"file": "Cards_365_365-380.psb", "selectedCards": "370-380"},
+        {"file": "Cards_365_381-405.psb", "selectedCards": "381-404"}
+      ],
+      "notes": "Only these six masters are required for the currently approved 70-scene catalogue. Each document contains multiple card layers."
+    },
+    "JP108": {
+      "canonicalFolder": "https://drive.google.com/drive/u/1/folders/14HdvcK54qYDS84IveeWGOMCyswHGiwfA",
+      "folderName": "Batch 3 - JP108 / Edited",
+      "canonicalMasterCount": 9,
+      "masters": [
+        "Cards_JP108_424-435.psd",
+        "Cards_JP108_436-447.psd",
+        "Cards_JP108_448-459.psd",
+        "Cards_JP108_460-471.psd",
+        "Cards_JP108_472-483.psd",
+        "Cards_JP108_484-495.psd",
+        "Cards_JP108_496-507.psd",
+        "Cards_JP108_508-519.psd",
+        "Cards_JP108_520-531.psd"
+      ],
+      "alternateCopies": {
+        "originalFolder": {
+          "url": "https://drive.google.com/drive/u/1/folders/1_CbBdVXvXcnTtTyJcEiHi31QI_53yRli",
+          "count": 9,
+          "purpose": "Original named/topic masters; retain as source history."
+        },
+        "nestedRevisionFolder": {
+          "count": 11,
+          "purpose": "Revision copies; ranges 496-507 and 508-519 are split into A/B documents."
+        },
+        "needFixFolder": {
+          "url": "https://drive.google.com/drive/u/1/folders/1oaUWbwvoyYPFS2u_hT_4vVXgniC6Rx_p",
+          "count": 1,
+          "file": "Cards_JP108_484-495.psd"
+        }
+      },
+      "notes": "Use the nine top-level Edited masters as the working set. Do not process Original, nested revisions, or Need Fix as separate art sets unless a visual comparison shows the canonical file is incomplete."
+    }
+  }
+}

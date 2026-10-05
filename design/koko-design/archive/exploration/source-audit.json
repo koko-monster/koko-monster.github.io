@@ -1,0 +1,3918 @@
+[
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-424",
+    "name": "sushi",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-424-sushi.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      45,
+      78,
+      1500,
+      1831
+    ],
+    "source": "Cards_JP108_424-435.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-425",
+    "name": "sashimi",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-425-sashimi.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      0,
+      123,
+      1500,
+      1785
+    ],
+    "source": "Cards_JP108_424-435.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-426",
+    "name": "tempura",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-426-tempura.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      0,
+      20,
+      1500,
+      1752
+    ],
+    "source": "Cards_JP108_424-435.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-427",
+    "name": "ramen",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-427-ramen.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      0,
+      0,
+      1493,
+      1757
+    ],
+    "source": "Cards_JP108_424-435.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-428",
+    "name": "okonmiyaki",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-428-okonmiyaki.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      0,
+      298,
+      1500,
+      1565
+    ],
+    "source": "Cards_JP108_424-435.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-429",
+    "name": "takoyaki",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-429-takoyaki.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      148,
+      198,
+      1500,
+      1755
+    ],
+    "source": "Cards_JP108_424-435.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-430",
+    "name": "kaiseki",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-430-kaiseki.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      68,
+      100,
+      1500,
+      1625
+    ],
+    "source": "Cards_JP108_424-435.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-431",
+    "name": "sukiyaki",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-431-sukiyaki.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      139,
+      143,
+      1500,
+      1552
+    ],
+    "source": "Cards_JP108_424-435.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-432",
+    "name": "shabu",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-432-shabu.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      0,
+      218,
+      1396,
+      1510
+    ],
+    "source": "Cards_JP108_424-435.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-433",
+    "name": "osechi",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-433-osechi.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      0,
+      0,
+      1374,
+      1613
+    ],
+    "source": "Cards_JP108_424-435.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-434",
+    "name": "oden",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-434-oden.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      77,
+      285,
+      1420,
+      1819
+    ],
+    "source": "Cards_JP108_424-435.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-435",
+    "name": "eel",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-435-eel.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      161,
+      459,
+      1350,
+      1393
+    ],
+    "source": "Cards_JP108_424-435.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-436",
+    "name": "\u83ef\u9053",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-436-.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      145,
+      372,
+      1355,
+      1547
+    ],
+    "source": "Cards_JP108_436-447.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-437",
+    "name": "\u8336\u9053",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-437-.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      152,
+      388,
+      1192,
+      1610
+    ],
+    "source": "Cards_JP108_436-447.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-438",
+    "name": "\u66f8\u9053",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-438-.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      72,
+      331,
+      1412,
+      1603
+    ],
+    "source": "Cards_JP108_436-447.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-439",
+    "name": "\u9676\u82b8",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-439-.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      218,
+      184,
+      1281,
+      1632
+    ],
+    "source": "Cards_JP108_436-447.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-440",
+    "name": "\u58a8\u7d75",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-440-.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      256,
+      366,
+      1333,
+      1629
+    ],
+    "source": "Cards_JP108_436-447.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-441",
+    "name": "\u6d6e\u4e16\u7d75",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-441-.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      144,
+      165,
+      1384,
+      1561
+    ],
+    "source": "Cards_JP108_436-447.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-442",
+    "name": "\u843d\u8a9e",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-442-.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      174,
+      449,
+      1307,
+      1692
+    ],
+    "source": "Cards_JP108_436-447.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-443",
+    "name": "\u80fd",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-443-.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      319,
+      396,
+      1291,
+      1822
+    ],
+    "source": "Cards_JP108_436-447.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-444",
+    "name": "\u72c2\u8a00",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-444-.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      344,
+      471,
+      1145,
+      1606
+    ],
+    "source": "Cards_JP108_436-447.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-445",
+    "name": "\u6b4c\u821e\u4f0e",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-445-.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      152,
+      139,
+      1337,
+      1732
+    ],
+    "source": "Cards_JP108_436-447.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-446",
+    "name": "\u65e5\u672c\u821e\u8e0a",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-446-.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      153,
+      258,
+      1280,
+      1511
+    ],
+    "source": "Cards_JP108_436-447.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-447",
+    "name": "\u9999\u9053",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-447-.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      173,
+      242,
+      1487,
+      1551
+    ],
+    "source": "Cards_JP108_436-447.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-448",
+    "name": "\u67d4\u9053",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-448-.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      122,
+      298,
+      1384,
+      1576
+    ],
+    "source": "Cards_JP108_448-459.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-449",
+    "name": "\u5263\u9053",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-449-.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      178,
+      284,
+      1377,
+      1706
+    ],
+    "source": "Cards_JP108_448-459.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-450",
+    "name": "\u5f13\u9053",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-450-.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      0,
+      0,
+      1500,
+      1850
+    ],
+    "source": "Cards_JP108_448-459.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-451",
+    "name": "\u76f8\u64b2",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-451-.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      0,
+      433,
+      1500,
+      2100
+    ],
+    "source": "Cards_JP108_448-459.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-452",
+    "name": "\u7a7a\u624b\u9053",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-452-.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      192,
+      134,
+      1168,
+      2006
+    ],
+    "source": "Cards_JP108_448-459.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-453",
+    "name": "\u5408\u6c17\u9053",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-453-.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      75,
+      169,
+      1414,
+      1888
+    ],
+    "source": "Cards_JP108_448-459.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-454",
+    "name": "\u5c45\u5408\u9053",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-454-.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      0,
+      265,
+      1376,
+      1883
+    ],
+    "source": "Cards_JP108_448-459.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-455",
+    "name": "\u6756\u9053",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-455-.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      0,
+      0,
+      1500,
+      1898
+    ],
+    "source": "Cards_JP108_448-459.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-456",
+    "name": "\u306a\u304e\u306a\u305f",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-456-.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      0,
+      249,
+      1500,
+      1890
+    ],
+    "source": "Cards_JP108_448-459.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-457",
+    "name": "\u9283\u5263\u9053",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-457-.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      0,
+      322,
+      1500,
+      2100
+    ],
+    "source": "Cards_JP108_448-459.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-458",
+    "name": "\u53e4\u6b66\u9053",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-458-.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      105,
+      249,
+      1359,
+      1820
+    ],
+    "source": "Cards_JP108_448-459.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-459",
+    "name": "\u69cd\u8853",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-459-.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      10,
+      213,
+      1466,
+      1903
+    ],
+    "source": "Cards_JP108_448-459.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-460",
+    "name": "\u7947\u5712\u796d",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-460-.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      181,
+      122,
+      1345,
+      1538
+    ],
+    "source": "Cards_JP108_460-471.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-461",
+    "name": "\u5929\u795e\u796d",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-461-.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      16,
+      0,
+      1378,
+      1547
+    ],
+    "source": "Cards_JP108_460-471.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-462",
+    "name": "\u963f\u6ce2\u8e0a\u308a",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-462-.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      1,
+      0,
+      1500,
+      1732
+    ],
+    "source": "Cards_JP108_460-471.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-463",
+    "name": "\u306d\u3076\u305f\u796d\u308a",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-463-.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      11,
+      96,
+      1444,
+      1803
+    ],
+    "source": "Cards_JP108_460-471.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-464",
+    "name": "\u4e09\u793e\u796d",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-464-.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      83,
+      76,
+      1386,
+      1498
+    ],
+    "source": "Cards_JP108_460-471.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-465",
+    "name": "\u672d\u5e4c\u96ea\u307e\u3064\u308a",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-465-.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      0,
+      0,
+      1500,
+      1454
+    ],
+    "source": "Cards_JP108_460-471.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-466",
+    "name": "\u9ad8\u5c71\u796d",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-466-.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      65,
+      113,
+      1367,
+      1851
+    ],
+    "source": "Cards_JP108_460-471.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-467",
+    "name": "\u82b1\u7b20\u796d\u308a",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-467-.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      160,
+      0,
+      1500,
+      1514
+    ],
+    "source": "Cards_JP108_460-471.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-468",
+    "name": "\u5fa1\u67f1\u796d",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-468-.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      111,
+      217,
+      1357,
+      1545
+    ],
+    "source": "Cards_JP108_460-471.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-469",
+    "name": "\u9577\u5d0e\u304f\u3093\u3061",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-469-.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      0,
+      0,
+      1366,
+      1491
+    ],
+    "source": "Cards_JP108_460-471.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-470",
+    "name": "\u5317\u6d77\u809a\u81cd\u796d",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-470-.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      0,
+      0,
+      1500,
+      1902
+    ],
+    "source": "Cards_JP108_460-471.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-471",
+    "name": "\u5c71\u9e7f\u71c8\u7c60\u796d",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-471-.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      64,
+      0,
+      1500,
+      1688
+    ],
+    "source": "Cards_JP108_460-471.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-472",
+    "name": "\u5fb7\u5ddd\u5bb6\u5eb7",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-472-.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      91,
+      205,
+      1408,
+      1754
+    ],
+    "source": "Cards_JP108_472-483.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-473",
+    "name": "\u8c50\u81e3\u79c0\u5409",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-473-.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      0,
+      83,
+      1472,
+      2045
+    ],
+    "source": "Cards_JP108_472-483.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-474",
+    "name": "\u7e54\u7530\u4fe1\u9577",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-474-.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      159,
+      75,
+      1478,
+      1873
+    ],
+    "source": "Cards_JP108_472-483.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-475",
+    "name": "\u6b66\u7530\u4fe1\u7384",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-475-.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      125,
+      114,
+      1369,
+      1899
+    ],
+    "source": "Cards_JP108_472-483.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-476",
+    "name": "\u4e0a\u6749\u8b19\u4fe1",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-476-.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      88,
+      153,
+      1429,
+      1868
+    ],
+    "source": "Cards_JP108_472-483.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-477",
+    "name": "\u771f\u7530\u4fe1\u7e41",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-477-.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      68,
+      83,
+      1412,
+      1905
+    ],
+    "source": "Cards_JP108_472-483.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-478",
+    "name": "\u6e90\u7fa9\u7d93",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-478-.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      217,
+      135,
+      1299,
+      1868
+    ],
+    "source": "Cards_JP108_472-483.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-479",
+    "name": "\u5e73\u6e05\u76db",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-479-.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      177,
+      131,
+      1390,
+      1890
+    ],
+    "source": "Cards_JP108_472-483.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-480",
+    "name": "\u6e90\u983c\u671d",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-480-.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      126,
+      153,
+      1408,
+      1857
+    ],
+    "source": "Cards_JP108_472-483.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-481",
+    "name": "\u8056\u5fb3\u592a\u5b50",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-481-.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      340,
+      107,
+      1204,
+      1912
+    ],
+    "source": "Cards_JP108_472-483.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-482",
+    "name": "\u5bab\u672c\u6b66\u85cf",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-482-.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      85,
+      138,
+      1429,
+      1956
+    ],
+    "source": "Cards_JP108_472-483.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-483",
+    "name": "\u5742\u672c\u9f8d\u99ac",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-483-.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      185,
+      133,
+      1492,
+      1901
+    ],
+    "source": "Cards_JP108_472-483.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-484",
+    "name": "\u4f0a\u90aa\u90a3\u5c90\u547d",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-484-.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      81,
+      103,
+      1500,
+      1888
+    ],
+    "source": "Cards_JP108_484-495.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-485",
+    "name": "\u4f0a\u90aa\u90a3\u7f8e\u547d",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-485-.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      156,
+      182,
+      1345,
+      1831
+    ],
+    "source": "Cards_JP108_484-495.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-486",
+    "name": "\u5929\u7167\u5927\u795e",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-486-.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      146,
+      179,
+      1324,
+      1825
+    ],
+    "source": "Cards_JP108_484-495.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-487",
+    "name": "\u6708\u8aad\u547d",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-487-.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      87,
+      182,
+      1417,
+      1850
+    ],
+    "source": "Cards_JP108_484-495.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-488",
+    "name": "\u9808\u4f50\u4e4b\u7537\u547d",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-488-.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      98,
+      130,
+      1384,
+      1930
+    ],
+    "source": "Cards_JP108_484-495.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-489",
+    "name": "\u5927\u56fd\u4e3b\u547d",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-489-.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      145,
+      239,
+      1354,
+      1840
+    ],
+    "source": "Cards_JP108_484-495.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-490",
+    "name": "\u60e0\u6bd4\u5bff",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-490-.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      48,
+      213,
+      1434,
+      1836
+    ],
+    "source": "Cards_JP108_484-495.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-491",
+    "name": "\u733f\u7530\u5f66\u547d",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-491-.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      96,
+      198,
+      1384,
+      1845
+    ],
+    "source": "Cards_JP108_484-495.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-492",
+    "name": "\u601d\u91d1\u795e",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-492-.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      202,
+      202,
+      1342,
+      1837
+    ],
+    "source": "Cards_JP108_484-495.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-493",
+    "name": "\u706b\u4e4b\u8fe6\u5177\u571f\u795e",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-493-.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      80,
+      203,
+      1376,
+      1883
+    ],
+    "source": "Cards_JP108_484-495.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-494",
+    "name": "\u7a3b\u7530\u59eb\u547d",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-494-.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      145,
+      224,
+      1398,
+      1830
+    ],
+    "source": "Cards_JP108_484-495.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-495",
+    "name": "\u5efa\u5fa1\u96f7\u795e",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-495-.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      71,
+      115,
+      1426,
+      1887
+    ],
+    "source": "Cards_JP108_484-495.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-496",
+    "name": "\u6cb3\u7ae5",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-496-.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      0,
+      0,
+      1500,
+      2100
+    ],
+    "source": "Cards_JP108_496-507.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-497",
+    "name": "\u4e5d\u5c3e\u306e\u72d0",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-497-.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      0,
+      0,
+      1500,
+      2100
+    ],
+    "source": "Cards_JP108_496-507.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-498",
+    "name": "\u4e00\u53cd\u6728\u7dbf",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-498-.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      0,
+      0,
+      1500,
+      2100
+    ],
+    "source": "Cards_JP108_496-507.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-499",
+    "name": "\u5ea7\u6577\u7ae5\u5b50",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-499-.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      0,
+      102,
+      1500,
+      2100
+    ],
+    "source": "Cards_JP108_496-507.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-500",
+    "name": "\u96ea\u5973",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-500-.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      0,
+      0,
+      1500,
+      2042
+    ],
+    "source": "Cards_JP108_496-507.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-501",
+    "name": "\u9b3c",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-501-.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      0,
+      0,
+      1500,
+      2100
+    ],
+    "source": "Cards_JP108_496-507.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-502",
+    "name": "\u308d\u304f\u308d\u9996",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-502-.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      0,
+      0,
+      1500,
+      2100
+    ],
+    "source": "Cards_JP108_496-507.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-503",
+    "name": "\u5857\u58c1",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-503-.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      0,
+      0,
+      1500,
+      2100
+    ],
+    "source": "Cards_JP108_496-507.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-504",
+    "name": "\u304b\u3089\u304b\u3055\u5c0f\u50e7",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-504-.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      0,
+      0,
+      1500,
+      2100
+    ],
+    "source": "Cards_JP108_496-507.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-505",
+    "name": "\u9152\u5451\u7ae5\u5b50",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-505-.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      0,
+      0,
+      1500,
+      2100
+    ],
+    "source": "Cards_JP108_496-507.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-506",
+    "name": "\u516b\u5c90\u5927\u86c7",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-506-.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      0,
+      0,
+      1500,
+      1794
+    ],
+    "source": "Cards_JP108_496-507.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-507",
+    "name": "\u9d7a",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-507-.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      0,
+      0,
+      1500,
+      2059
+    ],
+    "source": "Cards_JP108_496-507.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-508",
+    "name": "\u4e09\u5473\u7dda (Shamisen)",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-508-shamisen.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      0,
+      0,
+      1500,
+      2080
+    ],
+    "source": "Cards_JP108_508-519.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-509",
+    "name": "\u592a\u9f13 (Taiko)",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-509-taiko.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      138,
+      0,
+      1500,
+      1463
+    ],
+    "source": "Cards_JP108_508-519.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-510",
+    "name": "\u97a8\u9f13 (Kakk\u014d)",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-510-kakk.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      0,
+      0,
+      1500,
+      2100
+    ],
+    "source": "Cards_JP108_508-519.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-511",
+    "name": "\u5c3a\u516b (Shakuhachi)",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-511-shakuhachi.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      0,
+      0,
+      1306,
+      1822
+    ],
+    "source": "Cards_JP108_508-519.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-512",
+    "name": "\u9266 (Kane)",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-512-kane.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      0,
+      0,
+      1500,
+      2100
+    ],
+    "source": "Cards_JP108_508-519.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-513",
+    "name": "\u80e1\u5f13 (Koky\u016b)",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-513-koky.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      0,
+      0,
+      1500,
+      2044
+    ],
+    "source": "Cards_JP108_508-519.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-514",
+    "name": "\u9cf4\u5b50 (Naruko)",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-514-naruko.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      0,
+      86,
+      1376,
+      2100
+    ],
+    "source": "Cards_JP108_508-519.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-515",
+    "name": "\u7b19 (Sh\u014d)",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-515-sh.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      363,
+      0,
+      1500,
+      1734
+    ],
+    "source": "Cards_JP108_508-519.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-516",
+    "name": "\u7434 (Koto)",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-516-koto.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      0,
+      0,
+      1500,
+      2100
+    ],
+    "source": "Cards_JP108_508-519.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-517",
+    "name": "\u7435\u7436 (Biwa)",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-517-biwa.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      297,
+      384,
+      1354,
+      1788
+    ],
+    "source": "Cards_JP108_508-519.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-518",
+    "name": "\u6728\u9b5a (Mokugyo)",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-518-mokugyo.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      28,
+      185,
+      1388,
+      1802
+    ],
+    "source": "Cards_JP108_508-519.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-519",
+    "name": "\u7b0f\u62cd\u5b50 (Shakuby\u014dshi)",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-519-shakuby-shi.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      0,
+      155,
+      1500,
+      2100
+    ],
+    "source": "Cards_JP108_508-519.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-520",
+    "name": "\u93e1\u9905 (Kagami-mochi)",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-520-kagami-mochi.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      0,
+      268,
+      1500,
+      1790
+    ],
+    "source": "Cards_JP108_520-531.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-521",
+    "name": "\u9580\u677e (Kadomatsu)",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-521-kadomatsu.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      0,
+      0,
+      1500,
+      2100
+    ],
+    "source": "Cards_JP108_520-531.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-522",
+    "name": "\u7fbd\u5b50\u677f (Hagoita)",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-522-hagoita.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      0,
+      0,
+      1500,
+      1724
+    ],
+    "source": "Cards_JP108_520-531.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-523",
+    "name": "\u3057\u3081\u7e04 (Shimenawa)",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-523-shimenawa.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      0,
+      0,
+      1500,
+      1940
+    ],
+    "source": "Cards_JP108_520-531.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-524",
+    "name": "\u3053\u3044\u306e\u307c\u308a (Koinobori)",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-524-koinobori.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      0,
+      0,
+      1500,
+      1928
+    ],
+    "source": "Cards_JP108_520-531.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-525",
+    "name": "\u96db\u796d\u308a (Hinamatsuri)",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-525-hinamatsuri.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      0,
+      144,
+      1500,
+      2100
+    ],
+    "source": "Cards_JP108_520-531.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-526",
+    "name": "\u98a8\u9234 (F\u016brin \u590f\u796d)",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-526-f-rin.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      0,
+      0,
+      1500,
+      2100
+    ],
+    "source": "Cards_JP108_520-531.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-527",
+    "name": "\u7bc0\u5206\u306e\u8c46 (Setsubun no Mame)",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-527-setsubun-no-mame.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      0,
+      0,
+      1500,
+      1817
+    ],
+    "source": "Cards_JP108_520-531.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-528",
+    "name": "\u304a\u795e\u9152 (Omiki)",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-528-omiki.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      0,
+      0,
+      1500,
+      1722
+    ],
+    "source": "Cards_JP108_520-531.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-529",
+    "name": "\u76c6\u8e0a\u308a",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-529-.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      0,
+      195,
+      1500,
+      1895
+    ],
+    "source": "Cards_JP108_520-531.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-530",
+    "name": "\u71c8\u7c60 (T\u014dr\u014d, Obon Festival)",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-530-t-r-obon-festival.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      0,
+      0,
+      1500,
+      2100
+    ],
+    "source": "Cards_JP108_520-531.psd"
+  },
+  {
+    "family": "jp108",
+    "code": "KM-CUT-JP108-531",
+    "name": "\u7834\u9b54\u77e2 (Hamaya)",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-531-hamaya.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      0,
+      42,
+      1500,
+      1780
+    ],
+    "source": "Cards_JP108_520-531.psd"
+  },
+  {
+    "family": "365",
+    "code": "KM-CUT-365-245",
+    "name": "Piano",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-245-piano.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      65,
+      356,
+      1500,
+      2100
+    ],
+    "source": null
+  },
+  {
+    "family": "365",
+    "code": "KM-CUT-365-246",
+    "name": "Guitar",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-246-guitar.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      0,
+      365,
+      1500,
+      2100
+    ],
+    "source": null
+  },
+  {
+    "family": "365",
+    "code": "KM-CUT-365-247",
+    "name": "Violin",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-247-violin.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      0,
+      670,
+      1438,
+      2100
+    ],
+    "source": null
+  },
+  {
+    "family": "365",
+    "code": "KM-CUT-365-248",
+    "name": "Drum",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-248-drum.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      135,
+      0,
+      1500,
+      2100
+    ],
+    "source": null
+  },
+  {
+    "family": "365",
+    "code": "KM-CUT-365-249",
+    "name": "Trumpet",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-249-trumpet.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      0,
+      0,
+      1500,
+      2100
+    ],
+    "source": null
+  },
+  {
+    "family": "365",
+    "code": "KM-CUT-365-250",
+    "name": "Flute",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-250-flute.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      149,
+      0,
+      1365,
+      2100
+    ],
+    "source": null
+  },
+  {
+    "family": "365",
+    "code": "KM-CUT-365-251",
+    "name": "Saxophone",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-251-saxophone.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      273,
+      0,
+      1405,
+      2100
+    ],
+    "source": null
+  },
+  {
+    "family": "365",
+    "code": "KM-CUT-365-252",
+    "name": "Harp",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-252-harp.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      258,
+      0,
+      1500,
+      2100
+    ],
+    "source": null
+  },
+  {
+    "family": "365",
+    "code": "KM-CUT-365-253",
+    "name": "Cello",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-253-cello.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      0,
+      0,
+      1201,
+      2100
+    ],
+    "source": null
+  },
+  {
+    "family": "365",
+    "code": "KM-CUT-365-254",
+    "name": "Tambourine",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-254-tambourine.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      190,
+      0,
+      1500,
+      1668
+    ],
+    "source": null
+  },
+  {
+    "family": "365",
+    "code": "KM-CUT-365-255",
+    "name": "Xylophone",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-255-xylophone.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      0,
+      0,
+      1500,
+      2100
+    ],
+    "source": null
+  },
+  {
+    "family": "365",
+    "code": "KM-CUT-365-256",
+    "name": "Accordion",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-256-accordion.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      0,
+      0,
+      1500,
+      2100
+    ],
+    "source": null
+  },
+  {
+    "family": "365",
+    "code": "KM-CUT-365-257",
+    "name": "Rain",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-257-rain.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      0,
+      0,
+      1500,
+      1921
+    ],
+    "source": null
+  },
+  {
+    "family": "365",
+    "code": "KM-CUT-365-258",
+    "name": "Rainbow",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-258-rainbow.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      0,
+      0,
+      1500,
+      1706
+    ],
+    "source": null
+  },
+  {
+    "family": "365",
+    "code": "KM-CUT-365-259",
+    "name": "Fog",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-259-fog.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      0,
+      0,
+      1500,
+      2100
+    ],
+    "source": null
+  },
+  {
+    "family": "365",
+    "code": "KM-CUT-365-295",
+    "name": "Souvenir Shop",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-295-souvenir-shop.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      96,
+      134,
+      1500,
+      2100
+    ],
+    "source": null
+  },
+  {
+    "family": "365",
+    "code": "KM-CUT-365-296",
+    "name": "Seafood Restaurant",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-296-seafood-restaurant.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      0,
+      83,
+      1500,
+      2100
+    ],
+    "source": null
+  },
+  {
+    "family": "365",
+    "code": "KM-CUT-365-297",
+    "name": "Ice Cream Parlor",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-297-ice-cream-parlor.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      0,
+      95,
+      1367,
+      2100
+    ],
+    "source": null
+  },
+  {
+    "family": "365",
+    "code": "KM-CUT-365-298",
+    "name": "Seagulls",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-298-seagulls.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      264,
+      0,
+      1500,
+      1375
+    ],
+    "source": null
+  },
+  {
+    "family": "365",
+    "code": "KM-CUT-365-299",
+    "name": "Seals",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-299-seals.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      252,
+      653,
+      1500,
+      2100
+    ],
+    "source": null
+  },
+  {
+    "family": "365",
+    "code": "KM-CUT-365-300",
+    "name": "Cable Car",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-300-cable-car.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      0,
+      382,
+      1183,
+      2100
+    ],
+    "source": null
+  },
+  {
+    "family": "365",
+    "code": "KM-CUT-365-301",
+    "name": "Pier",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-301-pier.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      0,
+      951,
+      1160,
+      2100
+    ],
+    "source": null
+  },
+  {
+    "family": "365",
+    "code": "KM-CUT-365-302",
+    "name": "Boat",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-302-boat.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      197,
+      0,
+      1500,
+      1330
+    ],
+    "source": null
+  },
+  {
+    "family": "365",
+    "code": "KM-CUT-365-303",
+    "name": "Ferry",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-303-ferry.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      186,
+      160,
+      1500,
+      1393
+    ],
+    "source": null
+  },
+  {
+    "family": "365",
+    "code": "KM-CUT-365-304",
+    "name": "Military Fleet",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-304-military-fleet.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      110,
+      67,
+      1376,
+      1545
+    ],
+    "source": null
+  },
+  {
+    "family": "365",
+    "code": "KM-CUT-365-305",
+    "name": "Sandcastle",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-305-sandcastle.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      0,
+      197,
+      1500,
+      1920
+    ],
+    "source": null
+  },
+  {
+    "family": "365",
+    "code": "KM-CUT-365-306",
+    "name": "Seashell",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-306-seashell.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      111,
+      246,
+      1373,
+      1773
+    ],
+    "source": null
+  },
+  {
+    "family": "365",
+    "code": "KM-CUT-365-307",
+    "name": "Crab",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-307-crab.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      89,
+      338,
+      1392,
+      1535
+    ],
+    "source": null
+  },
+  {
+    "family": "365",
+    "code": "KM-CUT-365-308",
+    "name": "Surfboard",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-308-surfboard.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      78,
+      237,
+      1425,
+      1728
+    ],
+    "source": null
+  },
+  {
+    "family": "365",
+    "code": "KM-CUT-365-309",
+    "name": "Umbrella",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-309-umbrella.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      58,
+      150,
+      1350,
+      1732
+    ],
+    "source": null
+  },
+  {
+    "family": "365",
+    "code": "KM-CUT-365-310",
+    "name": "Beach Volleyball",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-310-beach-volleyball.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      27,
+      206,
+      1295,
+      1490
+    ],
+    "source": null
+  },
+  {
+    "family": "365",
+    "code": "KM-CUT-365-311",
+    "name": "Lifeguard",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-311-lifeguard.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      167,
+      199,
+      1177,
+      1689
+    ],
+    "source": null
+  },
+  {
+    "family": "365",
+    "code": "KM-CUT-365-312",
+    "name": "Palm Tree",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-312-palm-tree.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      1,
+      185,
+      1455,
+      1539
+    ],
+    "source": null
+  },
+  {
+    "family": "365",
+    "code": "KM-CUT-365-313",
+    "name": "Yacht",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-313-yacht.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      0,
+      168,
+      1388,
+      1802
+    ],
+    "source": null
+  },
+  {
+    "family": "365",
+    "code": "KM-CUT-365-314",
+    "name": "Buoy",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-314-buoy.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      65,
+      442,
+      1436,
+      1551
+    ],
+    "source": null
+  },
+  {
+    "family": "365",
+    "code": "KM-CUT-365-370",
+    "name": "Sportswear",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-370-sportswear.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      0,
+      145,
+      1500,
+      2028
+    ],
+    "source": null
+  },
+  {
+    "family": "365",
+    "code": "KM-CUT-365-371",
+    "name": "Cosmetic",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-371-cosmetic.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      0,
+      233,
+      1500,
+      2001
+    ],
+    "source": null
+  },
+  {
+    "family": "365",
+    "code": "KM-CUT-365-372",
+    "name": "Furniture",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-372-furniture.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      0,
+      0,
+      1500,
+      2100
+    ],
+    "source": null
+  },
+  {
+    "family": "365",
+    "code": "KM-CUT-365-373",
+    "name": "Pharmacy",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-373-pharmacy.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      84,
+      0,
+      1500,
+      1983
+    ],
+    "source": null
+  },
+  {
+    "family": "365",
+    "code": "KM-CUT-365-374",
+    "name": "Bookstore",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-374-bookstore.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      0,
+      0,
+      1500,
+      1991
+    ],
+    "source": null
+  },
+  {
+    "family": "365",
+    "code": "KM-CUT-365-375",
+    "name": "Pet Shop",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-375-pet-shop.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      0,
+      0,
+      1500,
+      1775
+    ],
+    "source": null
+  },
+  {
+    "family": "365",
+    "code": "KM-CUT-365-376",
+    "name": "Accessory",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-376-accessory.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      1,
+      64,
+      1500,
+      1839
+    ],
+    "source": null
+  },
+  {
+    "family": "365",
+    "code": "KM-CUT-365-377",
+    "name": "Eyewear",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-377-eyewear.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      0,
+      532,
+      1500,
+      2041
+    ],
+    "source": null
+  },
+  {
+    "family": "365",
+    "code": "KM-CUT-365-378",
+    "name": "Fitness",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-378-fitness.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      0,
+      107,
+      1500,
+      1693
+    ],
+    "source": null
+  },
+  {
+    "family": "365",
+    "code": "KM-CUT-365-379",
+    "name": "Toy Store",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-379-toy-store.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      0,
+      0,
+      1500,
+      2071
+    ],
+    "source": null
+  },
+  {
+    "family": "365",
+    "code": "KM-CUT-365-380",
+    "name": "Arcade Centre",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-380-arcade-centre.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      0,
+      0,
+      1500,
+      2100
+    ],
+    "source": null
+  },
+  {
+    "family": "365",
+    "code": "KM-CUT-365-381",
+    "name": "Anthropology",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-381-anthropology.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      106,
+      149,
+      1425,
+      1653
+    ],
+    "source": null
+  },
+  {
+    "family": "365",
+    "code": "KM-CUT-365-382",
+    "name": "Architecture",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-382-architecture.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      0,
+      152,
+      1500,
+      1880
+    ],
+    "source": null
+  },
+  {
+    "family": "365",
+    "code": "KM-CUT-365-383",
+    "name": "Astrophysics",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-383-astrophysics.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      0,
+      0,
+      1500,
+      2100
+    ],
+    "source": null
+  },
+  {
+    "family": "365",
+    "code": "KM-CUT-365-384",
+    "name": "Biology",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-384-biology.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      107,
+      341,
+      1404,
+      1765
+    ],
+    "source": null
+  },
+  {
+    "family": "365",
+    "code": "KM-CUT-365-385",
+    "name": "Chemistry",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-385-chemistry.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      98,
+      146,
+      1401,
+      1987
+    ],
+    "source": null
+  },
+  {
+    "family": "365",
+    "code": "KM-CUT-365-386",
+    "name": "Computer Science",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-386-computer-science.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      40,
+      93,
+      1455,
+      2040
+    ],
+    "source": null
+  },
+  {
+    "family": "365",
+    "code": "KM-CUT-365-387",
+    "name": "Design",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-387-design.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      114,
+      430,
+      1500,
+      2100
+    ],
+    "source": null
+  },
+  {
+    "family": "365",
+    "code": "KM-CUT-365-388",
+    "name": "Earth Science",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-388-earth-science.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      0,
+      113,
+      1500,
+      2100
+    ],
+    "source": null
+  },
+  {
+    "family": "365",
+    "code": "KM-CUT-365-389",
+    "name": "Economics",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-389-economics.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      0,
+      40,
+      1457,
+      2004
+    ],
+    "source": null
+  },
+  {
+    "family": "365",
+    "code": "KM-CUT-365-390",
+    "name": "Education",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-390-education.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      41,
+      41,
+      1413,
+      2100
+    ],
+    "source": null
+  },
+  {
+    "family": "365",
+    "code": "KM-CUT-365-391",
+    "name": "Engineering",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-391-engineering.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      49,
+      150,
+      1441,
+      1787
+    ],
+    "source": null
+  },
+  {
+    "family": "365",
+    "code": "KM-CUT-365-392",
+    "name": "Fine Art",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-392-fine-art.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      96,
+      94,
+      1456,
+      1903
+    ],
+    "source": null
+  },
+  {
+    "family": "365",
+    "code": "KM-CUT-365-393",
+    "name": "Law",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-393-law.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      328,
+      309,
+      1210,
+      1828
+    ],
+    "source": null
+  },
+  {
+    "family": "365",
+    "code": "KM-CUT-365-394",
+    "name": "Mathematics",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-394-mathematics.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      96,
+      135,
+      1500,
+      1851
+    ],
+    "source": null
+  },
+  {
+    "family": "365",
+    "code": "KM-CUT-365-395",
+    "name": "Medicine",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-395-medicine.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      111,
+      208,
+      1301,
+      1845
+    ],
+    "source": null
+  },
+  {
+    "family": "365",
+    "code": "KM-CUT-365-396",
+    "name": "Physics",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-396-physics.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      0,
+      0,
+      1500,
+      2100
+    ],
+    "source": null
+  },
+  {
+    "family": "365",
+    "code": "KM-CUT-365-397",
+    "name": "Plantology",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-397-plantology.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      63,
+      169,
+      1436,
+      1963
+    ],
+    "source": null
+  },
+  {
+    "family": "365",
+    "code": "KM-CUT-365-398",
+    "name": "Political Science",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-398-political-science.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      116,
+      171,
+      1444,
+      1985
+    ],
+    "source": null
+  },
+  {
+    "family": "365",
+    "code": "KM-CUT-365-399",
+    "name": "Library",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-399-library.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      19,
+      0,
+      1443,
+      2100
+    ],
+    "source": null
+  },
+  {
+    "family": "365",
+    "code": "KM-CUT-365-400",
+    "name": "Lecture Hall",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-400-lecture-hall.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      0,
+      0,
+      1500,
+      2045
+    ],
+    "source": null
+  },
+  {
+    "family": "365",
+    "code": "KM-CUT-365-401",
+    "name": "Laboratory",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-401-laboratory.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      0,
+      132,
+      1500,
+      2100
+    ],
+    "source": null
+  },
+  {
+    "family": "365",
+    "code": "KM-CUT-365-402",
+    "name": "Dining Hall",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-402-dining-hall.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      0,
+      0,
+      1500,
+      1763
+    ],
+    "source": null
+  },
+  {
+    "family": "365",
+    "code": "KM-CUT-365-403",
+    "name": "Theatre",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-403-theatre.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      0,
+      0,
+      1500,
+      2100
+    ],
+    "source": null
+  },
+  {
+    "family": "365",
+    "code": "KM-CUT-365-404",
+    "name": "Swimming Pool",
+    "path": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-404-swimming-pool.png",
+    "size": [
+      1500,
+      2100
+    ],
+    "mode": "RGBA",
+    "alpha": [
+      0,
+      255
+    ],
+    "bbox": [
+      0,
+      0,
+      1500,
+      1825
+    ],
+    "source": null
+  }
+]

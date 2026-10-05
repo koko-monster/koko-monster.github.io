@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" width="1400" height="1400" viewBox="0 0 1400 1400" role="img" aria-labelledby="title desc">
+  <title id="title">Kokomonster Japanese-language festival</title>
+  <desc id="desc">Six Kokomonster characters surround bold Japanese-language festival lettering with Japanese seasonal motifs.</desc>
+  <g inkscape:groupmode="layer" inkscape:label="01 Background" id="background">
+    <rect width="1400" height="1400" fill="#fff9ee"/>
+    <circle cx="700" cy="670" r="510" fill="#fffdf8"/>
+  </g>
+  <g inkscape:groupmode="layer" inkscape:label="02 Background motifs" id="background-motifs">
+    <circle cx="675" cy="250" r="145" fill="#ffd82e"/>
+    <path d="M545 330 675 150 805 330Z" fill="#70a8e7"/><path d="m641 197 34-47 34 47-24-8-10 18-10-18Z" fill="#fffdf8"/>
+    <path d="M310 290q65-70 130 0t130 0" fill="none" stroke="#70e7c0" stroke-width="36" stroke-linecap="round"/>
+    <path d="M1050 250q70-70 140 0t140 0" fill="none" stroke="#a8ed5b" stroke-width="36" stroke-linecap="round"/>
+  </g>
+  <g inkscape:groupmode="layer" inkscape:label="03 Title panels" id="title-panels">
+    <path d="M250 405Q700 315 1150 405L1090 820Q700 900 310 820Z" fill="#7128e5"/>
+    <path d="M285 580Q700 510 1115 580" fill="none" stroke="#fff9ee" stroke-width="12" opacity=".85"/>
+  </g>
+  <g inkscape:groupmode="layer" inkscape:label="04 Live Japanese title" id="live-title" fill="#fffdf8" text-anchor="middle" font-family="Noto Sans JP, Hiragino Sans, Yu Gothic, sans-serif" font-weight="900" letter-spacing="-14">
+    <text x="700" y="585" font-size="230">にほんご</text>
+    <text x="700" y="805" font-size="250">まつり</text>
+  </g>
+  <g inkscape:groupmode="layer" inkscape:label="05 Koko" id="character-koko"><image x="50" y="70" width="440" height="440" xlink:href="layers/koko.png"/></g>
+  <g inkscape:groupmode="layer" inkscape:label="06 Gohanko" id="character-gohanko"><image x="930" y="75" width="420" height="420" xlink:href="layers/gohanko.png"/></g>
+  <g inkscape:groupmode="layer" inkscape:label="07 Rabbit" id="character-rabbit"><image x="5" y="460" width="390" height="390" xlink:href="layers/rabbit.png"/></g>
+  <g inkscape:groupmode="layer" inkscape:label="08 Bear and taiko" id="character-bear"><image x="20" y="850" width="480" height="480" xlink:href="layers/bear.png"/></g>
+  <g inkscape:groupmode="layer" inkscape:label="09 Yauyau" id="character-yauyau"><image x="505" y="935" width="410" height="410" xlink:href="layers/yauyau.png"/></g>
+  <g inkscape:groupmode="layer" inkscape:label="10 Tree" id="character-tree"><image x="965" y="780" width="420" height="420" xlink:href="layers/tree.png"/></g>
+  <g inkscape:groupmode="layer" inkscape:label="11 Foreground motifs" id="foreground-motifs">
+    <g fill="#ff83b2"><path d="M190 230q35-46 70 0-35 44-70 0Z"/><path d="M1170 670q35-46 70 0-35 44-70 0Z"/><path d="M870 1040q35-46 70 0-35 44-70 0Z"/><path d="M300 880q35-46 70 0-35 44-70 0Z"/></g>
+    <g fill="none" stroke="#70a8e7" stroke-width="20" stroke-linecap="round"><path d="M890 1110q45-60 90 0t90 0t90 0"/><path d="M930 1165q45-60 90 0t90 0"/></g>
+    <g fill="#ffd82e"><path d="m1080 470 20-62 20 62Z"/><path d="m1130 480 50-42-10 68Z"/><path d="m250 1030 20-62 20 62Z"/></g>
+  </g>
+  <g inkscape:groupmode="layer" inkscape:label="12 Official logo" id="official-logo">
+    <image x="500" y="1275" width="400" height="113" preserveAspectRatio="xMidYMid meet" xlink:href="layers/official-logo.png"/>
+  </g>
+</svg>

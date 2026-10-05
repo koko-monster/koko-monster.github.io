@@ -1,0 +1,331 @@
+{
+  "schemaVersion": 1,
+  "status": "proposed-unbuilt",
+  "coordinateSystem": "normalized 0..1; origin top-left; boxes are [x,y,width,height]",
+  "identityVersion": "rotation-inspection-2026-09-12",
+  "defaultFinish": "editorial-soft",
+  "layerOrder": [
+    "ground",
+    "distant-environment",
+    "activity-props",
+    "characters",
+    "foreground-accents",
+    "live-text-ui"
+  ],
+  "rules": {
+    "characterAnatomy": "reference rotation view plus matching editorial source; do not regenerate identity from text alone",
+    "mirrorAsymmetricAssets": false,
+    "textBakedIntoArt": false,
+    "cameraFamily": "mild three-quarter, shared horizon per scene",
+    "motionDefault": "static"
+  },
+  "recipes": [
+    {
+      "id": "KM-REC-001",
+      "title": "Seasonal introduction",
+      "status": "brief-only-assets-not-produced",
+      "cast": [
+        {
+          "character": "KOK",
+          "poseAssetId": null,
+          "expressionAssetId": null,
+          "outfitVariant": "to-select-from-approved-source"
+        }
+      ],
+      "environment": {
+        "name": "seasonal-garden",
+        "assetId": null
+      },
+      "props": [
+        {
+          "name": "lantern",
+          "assetId": null
+        }
+      ],
+      "action": "Koko introduces the reader without covering it",
+      "requiredAnchors": [
+        "character-ground-contact",
+        "prop-grip-if-held",
+        "horizon"
+      ],
+      "layoutTrials": {
+        "wide": {
+          "aspectRatio": "16:9",
+          "textSafeBox": [
+            0.05,
+            0.1,
+            0.46,
+            0.7
+          ],
+          "illustrationZone": [
+            0.56,
+            0.13,
+            0.39,
+            0.74
+          ]
+        },
+        "narrow": {
+          "aspectRatio": "4:5",
+          "textSafeBox": [
+            0.08,
+            0.05,
+            0.84,
+            0.43
+          ],
+          "illustrationZone": [
+            0.15,
+            0.54,
+            0.7,
+            0.39
+          ]
+        },
+        "square-social": {
+          "aspectRatio": "1:1",
+          "textSafeBox": [
+            0.08,
+            0.07,
+            0.84,
+            0.3
+          ],
+          "illustrationZone": [
+            0.18,
+            0.42,
+            0.64,
+            0.5
+          ]
+        },
+        "portrait-social": {
+          "aspectRatio": "9:16",
+          "textSafeBox": [
+            0.1,
+            0.15,
+            0.76,
+            0.25
+          ],
+          "illustrationZone": [
+            0.14,
+            0.45,
+            0.68,
+            0.35
+          ]
+        }
+      },
+      "layoutNote": "Starting placements for an independent illustration/copy composition, not measured boxes from the current webpage. App/social overlay exclusions must be checked per destination. Reader-led hero places art outside the live reader rather than replacing it.",
+      "reviewChecks": [
+        "matching source identity/view",
+        "consistent finish",
+        "prop contact",
+        "correct accessory side",
+        "readable at target size",
+        "text/CTA safe",
+        "no alpha debris"
+      ]
+    },
+    {
+      "id": "KM-REC-002",
+      "title": "Read together",
+      "status": "brief-only-assets-not-produced",
+      "cast": [
+        {
+          "character": "KOK",
+          "poseAssetId": null,
+          "expressionAssetId": null,
+          "outfitVariant": "to-select-from-approved-source"
+        }
+      ],
+      "environment": {
+        "name": "reading-nook",
+        "assetId": null
+      },
+      "props": [
+        {
+          "name": "book",
+          "assetId": null
+        },
+        {
+          "name": "bench",
+          "assetId": null
+        }
+      ],
+      "action": "Koko reads one open book",
+      "requiredAnchors": [
+        "character-ground-contact",
+        "prop-grip-if-held",
+        "horizon"
+      ],
+      "layoutTrials": {
+        "wide": {
+          "aspectRatio": "16:9",
+          "textSafeBox": [
+            0.05,
+            0.1,
+            0.46,
+            0.7
+          ],
+          "illustrationZone": [
+            0.56,
+            0.13,
+            0.39,
+            0.74
+          ]
+        },
+        "narrow": {
+          "aspectRatio": "4:5",
+          "textSafeBox": [
+            0.08,
+            0.05,
+            0.84,
+            0.43
+          ],
+          "illustrationZone": [
+            0.15,
+            0.54,
+            0.7,
+            0.39
+          ]
+        },
+        "square-social": {
+          "aspectRatio": "1:1",
+          "textSafeBox": [
+            0.08,
+            0.07,
+            0.84,
+            0.3
+          ],
+          "illustrationZone": [
+            0.18,
+            0.42,
+            0.64,
+            0.5
+          ]
+        },
+        "portrait-social": {
+          "aspectRatio": "9:16",
+          "textSafeBox": [
+            0.1,
+            0.15,
+            0.76,
+            0.25
+          ],
+          "illustrationZone": [
+            0.14,
+            0.45,
+            0.68,
+            0.35
+          ]
+        }
+      },
+      "layoutNote": "Starting placements for an independent illustration/copy composition, not measured boxes from the current webpage. App/social overlay exclusions must be checked per destination. Reader-led hero places art outside the live reader rather than replacing it.",
+      "reviewChecks": [
+        "matching source identity/view",
+        "consistent finish",
+        "prop contact",
+        "correct accessory side",
+        "readable at target size",
+        "text/CTA safe",
+        "no alpha debris"
+      ]
+    },
+    {
+      "id": "KM-REC-003",
+      "title": "Conversation invitation",
+      "status": "brief-only-assets-not-produced",
+      "cast": [
+        {
+          "character": "GOH",
+          "poseAssetId": null,
+          "expressionAssetId": null,
+          "outfitVariant": "to-select-from-approved-source"
+        }
+      ],
+      "environment": {
+        "name": "neighbourhood-shop",
+        "assetId": null
+      },
+      "props": [
+        {
+          "name": "tea-bowl",
+          "assetId": null
+        }
+      ],
+      "action": "Gohanko listens and invites a reply",
+      "requiredAnchors": [
+        "character-ground-contact",
+        "prop-grip-if-held",
+        "horizon"
+      ],
+      "layoutTrials": {
+        "wide": {
+          "aspectRatio": "16:9",
+          "textSafeBox": [
+            0.05,
+            0.1,
+            0.46,
+            0.7
+          ],
+          "illustrationZone": [
+            0.56,
+            0.13,
+            0.39,
+            0.74
+          ]
+        },
+        "narrow": {
+          "aspectRatio": "4:5",
+          "textSafeBox": [
+            0.08,
+            0.05,
+            0.84,
+            0.43
+          ],
+          "illustrationZone": [
+            0.15,
+            0.54,
+            0.7,
+            0.39
+          ]
+        },
+        "square-social": {
+          "aspectRatio": "1:1",
+          "textSafeBox": [
+            0.08,
+            0.07,
+            0.84,
+            0.3
+          ],
+          "illustrationZone": [
+            0.18,
+            0.42,
+            0.64,
+            0.5
+          ]
+        },
+        "portrait-social": {
+          "aspectRatio": "9:16",
+          "textSafeBox": [
+            0.1,
+            0.15,
+            0.76,
+            0.25
+          ],
+          "illustrationZone": [
+            0.14,
+            0.45,
+            0.68,
+            0.35
+          ]
+        }
+      },
+      "layoutNote": "Starting placements for an independent illustration/copy composition, not measured boxes from the current webpage. App/social overlay exclusions must be checked per destination. Reader-led hero places art outside the live reader rather than replacing it.",
+      "reviewChecks": [
+        "matching source identity/view",
+        "consistent finish",
+        "prop contact",
+        "correct accessory side",
+        "readable at target size",
+        "text/CTA safe",
+        "no alpha debris"
+      ]
+    }
+  ]
+}

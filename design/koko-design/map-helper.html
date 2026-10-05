@@ -1,0 +1,10 @@
+<!doctype html><meta charset=utf-8><title>Applying Drive map</title><script defer src="library.js"></script><pre id=o>working</pre><script>
+(async()=>{try{
+ const map=JSON.parse(decodeURIComponent(location.hash.slice(1)));
+ const src=await (await fetch('/design-library/archive/index.html?source='+Date.now())).text();
+ const doc=new DOMParser().parseFromString(src,'text/html');
+ const norm=(s)=>{s=s.replace(/^\.\.\/thumbs\/archive\//,'').replace(/^extracted-library\//,''); if(s.startsWith('exploration/rotation-frames/')) return s.replace(/^exploration\//,'').replace(/\.jpg$/i,'.png'); if(s.startsWith('exploration/'))return s; if(s.startsWith('scenes/'))return s; if(s.startsWith('sources/'))return s; if(s.startsWith('characters/'))return s.replace(/\.jpg$/i,'.png'); if(s.startsWith('drive-thumbnails/'))return s.replace(/\.jpg$/i,'.png'); if(s.startsWith('rotation-frames/'))return s.replace(/\.jpg$/i,'.png'); return s};
+ let matched=0,unmatched=[];
+ for(const card of doc.querySelectorAll('article.pin')){const btn=card.querySelector('[data-src]');if(!btn)continue;const key=norm(btn.getAttribute('data-src')); const known={'exploration/game-style-trials/A-flat-adventure.jpg':'16RR8hqX5O2tA7z2V-rByXUePM9ULpVrX','exploration/game-style-trials/D-colour-doodle.jpg':'1dBgRrWk4IxAhAJkZNo381dIhjHfpGISc','exploration/game-style-trials/F-365-companion.jpg':'1BQgE_Nk5fiZCUiP-iw-DhrBO8xCjQDjY'}; const id=map[key]||map[key.replace(/^exploration\//,'')]||known[key];if(id){const a=card.querySelector('a[href*="drive.google.com"]');if(a){a.href='https://drive.google.com/file/d/'+id+'/view?usp=drive_link';matched++}}else if(!/Guidelines|README|review|comparison|usage|system|notes|list|placements/i.test(card.innerText))unmatched.push(key+' :: '+(card.querySelector('h2')?.textContent||''));}
+ const html='<!doctype html>\n'+doc.documentElement.outerHTML; const res=await fetch('/__apply',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({html,matched,unmatched})}); document.querySelector('#o').textContent=await res.text();
+}catch(e){document.querySelector('#o').textContent='ERR '+e}})();</script>

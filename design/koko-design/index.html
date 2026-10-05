@@ -1,0 +1,84 @@
+<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Interface foundations · Kokomonster</title><link rel="stylesheet" href="library.css"><script defer src="library.js"></script></head><body><aside class="sidebar"><a class="brand" href="index.html"><img class="official-logo" src="logo-collection/LOGO-004-six-heads-kokomonster.gif" alt="Kokomonster"></a><span class="side-label">DESIGN LIBRARY</span><nav aria-label="Library sections"><a href="index.html" class="active" aria-current="page">UI guidelines</a><a href="character/index.html" class="" >Characters</a><a href="asset/index.html" class="" >Scenes</a><a href="archive/index.html" class="" >Archive</a></nav></aside><div class="app"><div class="topbar"><a class="drive-link" href="https://drive.google.com/drive/folders/1O-DoyQILHphHDRthStbN0SGrFFkLFman" target="_blank" rel="noopener">Open library in Google Drive ↗</a><label class="search"><span aria-hidden="true"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><circle cx="10.5" cy="10.5" r="6.5"/><path d="m15.5 15.5 5 5"/></svg></span><input id="search" type="search" placeholder="Search this collection" aria-label="Search this collection"></label></div><main><header><span class="eyebrow">KOKOMONSTER / UI</span><h1>Interface foundations</h1><p>A shared visual language for every Kokomonster experience.</p></header><div class="filters" aria-label="Filter collection"><button data-filter="All" class="active" aria-pressed="true">All</button><button data-filter="Guidelines" class="" aria-pressed="false">Guidelines</button><button data-filter="Inspiration" class="" aria-pressed="false">Inspiration</button></div><p id="count" class="count"></p><div class="masonry"><article class="pin document feature" data-category="Guidelines"><div class="pin-body"><span class="tag">Guidelines · UI-GUIDELINES</span><h2>Existing interface foundation</h2>
+<p>These values document the current theme preview stylesheet; they do not introduce a new visual direction. Style A applies to illustrations.</p>
+<div class="table-scroll"><table>
+<thead>
+<tr>
+<th>Role</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody><tr>
+<td>Primary ink</td>
+<td><span class="colour-value"><i class="colour-dot" style="background:#16072d" aria-hidden="true"></i><code>#16072d</code></span></td>
+</tr>
+<tr>
+<td>Secondary ink</td>
+<td><span class="colour-value"><i class="colour-dot" style="background:#2e1747" aria-hidden="true"></i><code>#2e1747</code></span></td>
+</tr>
+<tr>
+<td>Primary purple</td>
+<td><span class="colour-value"><i class="colour-dot" style="background:#7128e5" aria-hidden="true"></i><code>#7128e5</code></span></td>
+</tr>
+<tr>
+<td>Deep purple</td>
+<td><span class="colour-value"><i class="colour-dot" style="background:#4f149e" aria-hidden="true"></i><code>#4f149e</code></span></td>
+</tr>
+<tr>
+<td>Cream background</td>
+<td><span class="colour-value"><i class="colour-dot" style="background:#fff9ee" aria-hidden="true"></i><code>#fff9ee</code></span></td>
+</tr>
+<tr>
+<td>Paper surface</td>
+<td><span class="colour-value"><i class="colour-dot" style="background:#fffdf8" aria-hidden="true"></i><code>#fffdf8</code></span></td>
+</tr>
+<tr>
+<td>Yellow accent</td>
+<td><span class="colour-value"><i class="colour-dot" style="background:#ffd82e" aria-hidden="true"></i><code>#ffd82e</code></span></td>
+</tr>
+<tr>
+<td>Mint accent</td>
+<td><span class="colour-value"><i class="colour-dot" style="background:#70e7c0" aria-hidden="true"></i><code>#70e7c0</code></span></td>
+</tr>
+<tr>
+<td>Pink accent</td>
+<td><span class="colour-value"><i class="colour-dot" style="background:#ff83b2" aria-hidden="true"></i><code>#ff83b2</code></span></td>
+</tr>
+<tr>
+<td>Lime accent</td>
+<td><span class="colour-value"><i class="colour-dot" style="background:#a8ed5b" aria-hidden="true"></i><code>#a8ed5b</code></span></td>
+</tr>
+<tr>
+<td>Lavender surface</td>
+<td><span class="colour-value"><i class="colour-dot" style="background:#eee4ff" aria-hidden="true"></i><code>#eee4ff</code></span></td>
+</tr>
+<tr>
+<td>Border</td>
+<td><span class="colour-value"><i class="colour-dot" style="background:#ded3e4" aria-hidden="true"></i><code>#ded3e4</code></span></td>
+</tr>
+<tr>
+<td>Muted text</td>
+<td><span class="colour-value"><i class="colour-dot" style="background:#71657a" aria-hidden="true"></i><code>#71657a</code></span></td>
+</tr>
+</tbody></table></div>
+<p>Typography: Manrope with Noto Sans JP and a sans-serif fallback. Preserve live text for headings, Japanese labels and buttons. Do not bake interface copy into scene artwork.</p>
+<p>The existing desktop shell is capped at 1320px with 24px side gutters. The small-screen shell uses 14px gutters and a single-column layout. The base radius token is 30px; keep component geometry consistent with the selected page stylesheet.</p>
+</div></article><article class="pin document " data-category="Guidelines"><div class="pin-body"><span class="tag">Guidelines · UI-GUIDELINES</span><h2>Usage rules</h2>
+<ul>
+<li>Deliver new visual designs with a layered editable master. Keep live text, official logo, background, characters, props and decoration independently selectable; provide flattened exports only as previews or final renditions.</li>
+<li>Use one primary action per section and visible keyboard focus. Check text contrast for the actual colour pairing; accent colours are not automatically suitable as text backgrounds.</li>
+<li>Pair one main illustration with a clear headline and action. Use supporting scenes only where they explain the content.</li>
+<li>On mobile stack text and artwork, preserve faces and essential props, and avoid cropping a wide hero into an unreadable strip.</li>
+<li>Use real links and buttons with accessible names. Use empty alt text for purely decorative scenes, or short activity descriptions when the illustration conveys information.</li>
+<li>Style A is the default landing-page illustration style. Other character styles have separate usage rules in the character guide.</li>
+</ul>
+</div></article><article class="pin document " data-category="Guidelines"><div class="pin-body"><span class="tag">Guidelines · UI-GUIDELINES</span><h2>Interface examples</h2>
+<div class="ui-demo"><p class="demo-label">TYPOGRAPHY</p><h3>A world of curious learners</h3><p>Read, explore and discover Japanese together.</p><div class="demo-actions"><a class="demo-primary" href="asset/index.html">Explore scenes</a><a class="demo-secondary" href="character/index.html">Meet the characters</a></div><p class="demo-note">Purple primary action · paper surface · dark ink · lavender border</p></div>
+
+</div></article><article class="pin document " data-category="Guidelines"><div class="pin-body"><span class="tag">Guidelines · UI-GUIDELINES</span><h2>Related guidelines</h2>
+<ul>
+<li>Interface examples below demonstrate the palette, typography and controls directly.</li>
+<li><a href="https://koko-monster.github.io/">Current landing preview</a></li>
+<li><a href="character/style-system-v1/GUIDE.html">Character style guide</a></li>
+<li><a href="asset/japanese-20-style-A/README.html">Scene placement guide</a></li>
+</ul>
+</div></article><article class="pin" data-category="Inspiration"><button class="pin-media" data-src="thumbs/asset/japanese-20-style-A/KM-SCN-A-01-bookshop.jpg" data-drive="https://drive.google.com/file/d/1dOY5FypfSgmSV08N0y3jA571dfkapBYo/view?usp=drive_link" data-title="Flat Adventure in context" aria-label="Preview Flat Adventure in context"><img src="thumbs/asset/japanese-20-style-A/KM-SCN-A-01-bookshop.jpg" alt="Flat Adventure in context" loading="lazy" decoding="async"></button><div class="pin-body"><span class="tag">Inspiration</span><h2>Flat Adventure in context</h2><p>The selected illustration style for the landing page.</p><a href="https://drive.google.com/file/d/1dOY5FypfSgmSV08N0y3jA571dfkapBYo/view?usp=drive_link" target="_blank" rel="noopener">Open in Google Drive ↗</a></div></article></div><p class="empty" hidden>No matching items. Try another search or filter.</p></main></div><dialog aria-label="Image preview"><div class="modal-head"><h2></h2><a download>Download original ↗</a><button aria-label="Close preview">×</button></div><img class="preview-image" alt=""></dialog></body></html>

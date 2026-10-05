@@ -1,0 +1,3200 @@
+[
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/360bear-all-frames.jpg",
+    "current": "archive/exploration/360bear-all-frames.jpg",
+    "original_sha256": "a2f071533a5dc8a707a9c6cc7ea78c4e9e4f38dcf6e15fd0d7b8bcb6cfdda4c6",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/360koko-all-frames.jpg",
+    "current": "archive/exploration/360koko-all-frames.jpg",
+    "original_sha256": "4e0d22d085dc867c2f8ef82452b164a5b6e626e69bbeb6e16b4e9bcf09fa28be",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/360rabbit-all-frames.jpg",
+    "current": "archive/exploration/360rabbit-all-frames.jpg",
+    "original_sha256": "7c56c69bc2f0beb23a2c0946e9d5db3a0ddbba0f740a7143f769e9859a61bdab",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/360rice-all-frames.jpg",
+    "current": "archive/exploration/360rice-all-frames.jpg",
+    "original_sha256": "02d9240b19b7c64dbabfca1d3bc0a7bb911afbc997363571c85d47dee95b4060",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/360tree-all-frames.jpg",
+    "current": "archive/exploration/360tree-all-frames.jpg",
+    "original_sha256": "bc3803b9f198f6ca6f37962a34054910a531ddfe2f264fa5ab9557dc571c09ca",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/360yauyau-all-frames.jpg",
+    "current": "archive/exploration/360yauyau-all-frames.jpg",
+    "original_sha256": "1c132fa0e3e53bf97f6eb1aead2ae1c06ceaf8cec069d6c8039d33b6414fdcfa",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/STYLE-SYSTEM-v0.1.md",
+    "current": "archive/exploration/STYLE-SYSTEM-v0.1.md",
+    "original_sha256": "1ae0e6f07dbe55e3e866c6ff8a6e59f5cac7052ae05e230cbbc44c78bd1b48d0",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/STYLE-SYSTEM-v0.2-archive.md",
+    "current": "archive/exploration/STYLE-SYSTEM-v0.2-archive.md",
+    "original_sha256": "f62032cf1204e28c4a396aaa05b9984783a283c3c8b18dbb5add2abd6cc99f3a",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/STYLE-SYSTEM.md",
+    "current": "character/STYLE-SYSTEM.md",
+    "original_sha256": "be3a014d9835a1ed58f0b7ec0ee1fba34c1c0c2c01a335e422413b07845a9b8d",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/audit-365-1.jpg",
+    "current": "archive/exploration/audit-365-1.jpg",
+    "original_sha256": "02b2e0185e7c107fdf29a678c9221379fa115951e19ed75f596b5cafb3355e43",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/audit-365-2.jpg",
+    "current": "archive/exploration/audit-365-2.jpg",
+    "original_sha256": "03bc50d0ef19c30394575552ab1a05534c960760d6cb6e2130f152096eff2596",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/audit-365-3.jpg",
+    "current": "archive/exploration/audit-365-3.jpg",
+    "original_sha256": "6bcc6caf794fc61ad5912a94b8876137b244d156126ea8a765cd33a0a8429091",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/audit-jp108-1.jpg",
+    "current": "archive/exploration/audit-jp108-1.jpg",
+    "original_sha256": "b7f74e842d82612befc289290da02e0dfcc93aea67aee58a00a7587a208dad9e",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/audit-jp108-2.jpg",
+    "current": "archive/exploration/audit-jp108-2.jpg",
+    "original_sha256": "f834aad6c8032513970552c993a0113509124d9f82891dcedcb85b7219e4f666",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/audit-jp108-3.jpg",
+    "current": "archive/exploration/audit-jp108-3.jpg",
+    "original_sha256": "8492ddd5d612a76246c8e75aa4cf50d4d4f0d79241e70cdd21f31adaef3f9efe",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/audit-jp108-4.jpg",
+    "current": "archive/exploration/audit-jp108-4.jpg",
+    "original_sha256": "6eb93edbbafb80773d585e6e196b005ea62be6cffd1c07db6b2911b35fbcf980",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/build-audit.py",
+    "current": "archive/exploration/build-audit.py",
+    "original_sha256": "d00cd3748a83199a34a46b7f29f98631fa450a9cd5e10601bbd4c1ec67091d59",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/build-board.py",
+    "current": "archive/exploration/build-board.py",
+    "original_sha256": "bb7d1f1b6a15115201936b17c324dc254d35be9acc0df68ae38751544c0272d3",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/direction-board.jpg",
+    "current": "archive/exploration/direction-board.jpg",
+    "original_sha256": "74af5e684d8c34da608eb682ae6f50defff59d178c8c4493fcc92a74052218f8",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/game-style-trials/A-flat-adventure.png",
+    "current": "archive/exploration/game-style-trials/A-flat-adventure.png",
+    "original_sha256": "6bf9ab2304a6d19f32aa3f2cbc726b92d1ca77663fe5fc15fd2f77bfa6ede574",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/game-style-trials/B-bold-sticker.png",
+    "current": "archive/exploration/game-style-trials/B-bold-sticker.png",
+    "original_sha256": "63d6d9435cd4dc390a24a03b61de0d3da7d4286d3816419fcdc0501d14208cff",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/game-style-trials/C-soft-story-game.png",
+    "current": "archive/exploration/game-style-trials/C-soft-story-game.png",
+    "original_sha256": "cca060ff4f980fd871300d200b4b4d170c7b8ea30f015883861be976f55b446d",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/game-style-trials/D-colour-doodle.png",
+    "current": "archive/exploration/game-style-trials/D-colour-doodle.png",
+    "original_sha256": "a76ac4dc1408a0ffdb1844e13ba650d929f0397aa072d8412187ade588346b07",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/game-style-trials/E-outlined-isometric.png",
+    "current": "archive/exploration/game-style-trials/E-outlined-isometric.png",
+    "original_sha256": "2f7a1aa2641d20973c84eb9fe8ce44ae73c82a4aca513ccf9069ff612e1cc629",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/game-style-trials/F-365-companion.png",
+    "current": "archive/exploration/game-style-trials/F-365-companion.png",
+    "original_sha256": "0d8831135daf7e01dce25d301879bd9468757c92a14666f36cddf98192bdf459",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/game-style-trials/IDENTITY-REVIEW.md",
+    "current": "archive/exploration/game-style-trials/IDENTITY-REVIEW.md",
+    "original_sha256": "1b9e70fe9b0fc4eb2a6207fc76c1399a3a685dbb282de744ff1ae74efb7e2228",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/game-style-trials/REVIEW.md",
+    "current": "archive/exploration/game-style-trials/REVIEW.md",
+    "original_sha256": "724af450568401519956748693ba72477395a9c452b5a8614b607ea03b5f25f2",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/game-style-trials/ROUND-2.md",
+    "current": "archive/exploration/game-style-trials/ROUND-2.md",
+    "original_sha256": "6b8c2af6c07dbb876723a34425b90736dd454493c418351a57cdb360986bc468",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/game-style-trials/prompt-E-refinement.txt",
+    "current": "archive/exploration/game-style-trials/prompt-E-refinement.txt",
+    "original_sha256": "1debd7dd21e52eed9fbb4b8ceeda3790f84dbf4afa60a804cbf7ab7ffeea4f5c",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/game-style-trials/prompt-F-365-final.txt",
+    "current": "archive/exploration/game-style-trials/prompt-F-365-final.txt",
+    "original_sha256": "153b6ac72256a4d79efcab81b5b871f530282a8526dbcff4d1e560ab06808c8c",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/game-style-trials/prompt-F-365.txt",
+    "current": "archive/exploration/game-style-trials/prompt-F-365.txt",
+    "original_sha256": "74915f643210a7c12ab90083a3e14e4f3415402d36e7f0a9674493709875a42e",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/game-style-trials/prompts-round-2.json",
+    "current": "archive/exploration/game-style-trials/prompts-round-2.json",
+    "original_sha256": "69cf5ac3a0a10f31f7c7db65560757c6bee7286c10743b700f8be3927a95d042",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/game-style-trials/prompts.json",
+    "current": "archive/exploration/game-style-trials/prompts.json",
+    "original_sha256": "b09ece15235bf20a24e5cf1515903054540c30a4b0d5e3eb623f7c535ac0a619",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/inspect-rotations.py",
+    "current": "archive/exploration/inspect-rotations.py",
+    "original_sha256": "8408772d6858c7c6bd5214756820b1406c6c2adb6d9ce0a16d0821df75ac6d4e",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/japanese-20-style-A/KM-SCN-A-01-bookshop.png",
+    "current": "asset/japanese-20-style-A/KM-SCN-A-01-bookshop.png",
+    "original_sha256": "632751940925616a76e63e44b2c5566f56fdb1ece13caa338299299da32d6ff4",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/japanese-20-style-A/KM-SCN-A-02-market.png",
+    "current": "asset/japanese-20-style-A/KM-SCN-A-02-market.png",
+    "original_sha256": "c6634bb5e93544b31c7c906db0b302764abd5a6922bdb04a9943c0d2e224b87c",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/japanese-20-style-A/KM-SCN-A-03-riverside.png",
+    "current": "asset/japanese-20-style-A/KM-SCN-A-03-riverside.png",
+    "original_sha256": "895cbecc59406f2f9b2d27d1aef097ecfb3b3979955ffa757fd0bfcdaae57978",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/japanese-20-style-A/KM-SCN-A-04-matsuri.png",
+    "current": "asset/japanese-20-style-A/KM-SCN-A-04-matsuri.png",
+    "original_sha256": "e1d90139c2b7d0938e774776c93e6101e100b9722cdf630f8197b36460f6b3ee",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/japanese-20-style-A/KM-SCN-A-05-engawa.png",
+    "current": "asset/japanese-20-style-A/KM-SCN-A-05-engawa.png",
+    "original_sha256": "afc54551ad9b84e21f512cf1d23bb1827d300df3faefec48ee890ce238485ff8",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/japanese-20-style-A/KM-SCN-A-06-onigiri.png",
+    "current": "asset/japanese-20-style-A/KM-SCN-A-06-onigiri.png",
+    "original_sha256": "042aafa63e0ac2121419563570d56ab0a441654099fc337f47eb027890c8c4e9",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/japanese-20-style-A/KM-SCN-A-07-soba.png",
+    "current": "asset/japanese-20-style-A/KM-SCN-A-07-soba.png",
+    "original_sha256": "35796051f7c53637bc58e12f698560e376fc5245cca709b699a851bf8bb5ba28",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/japanese-20-style-A/KM-SCN-A-08-wagashi.png",
+    "current": "asset/japanese-20-style-A/KM-SCN-A-08-wagashi.png",
+    "original_sha256": "6a5726ff08bbdd2ebf3e69f6204de93def21c5ab178c8b39ad1a02772639dfed",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/japanese-20-style-A/KM-SCN-A-09-shodo.png",
+    "current": "asset/japanese-20-style-A/KM-SCN-A-09-shodo.png",
+    "original_sha256": "eb79d0a84134ce661b7cd1678bab5bcde8c10a2e8d9d45b8d26de5e91d77e1f6",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/japanese-20-style-A/KM-SCN-A-10-furoshiki.png",
+    "current": "asset/japanese-20-style-A/KM-SCN-A-10-furoshiki.png",
+    "original_sha256": "c81d0eb9c7191d564985f8ebb55c2433a7979e9a453975a3fa5b7c99c2525099",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/japanese-20-style-A/KM-SCN-A-11-hanami.png",
+    "current": "asset/japanese-20-style-A/KM-SCN-A-11-hanami.png",
+    "original_sha256": "40661cd0f8c79748920fd4e859d2a8d82c5349af10969f5af82e0b84619970e7",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/japanese-20-style-A/KM-SCN-A-12-tanabata.png",
+    "current": "asset/japanese-20-style-A/KM-SCN-A-12-tanabata.png",
+    "original_sha256": "976ae0b5501bb9d57cdf79d34e41048e135ee4f897b84d23bcf207b3ea47236b",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/japanese-20-style-A/KM-SCN-A-13-autumn.png",
+    "current": "asset/japanese-20-style-A/KM-SCN-A-13-autumn.png",
+    "original_sha256": "1a2feeabd7f3aeac7c9a6999797de68091adf7ddadac9b7299c304e0ae5210aa",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/japanese-20-style-A/KM-SCN-A-14-kotatsu.png",
+    "current": "asset/japanese-20-style-A/KM-SCN-A-14-kotatsu.png",
+    "original_sha256": "f16c4986346f3488cd1ef601e68390026913801bedd353d34be277e398378251",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/japanese-20-style-A/KM-SCN-A-15-karuta.png",
+    "current": "asset/japanese-20-style-A/KM-SCN-A-15-karuta.png",
+    "original_sha256": "b984b5a3a667f8dbf15bd16b62257fba0ab96f6cb37c3b380c4407d3458717b0",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/japanese-20-style-A/KM-SCN-A-16-train.png",
+    "current": "asset/japanese-20-style-A/KM-SCN-A-16-train.png",
+    "original_sha256": "5b0ac2784c21305aae7fb9783a68758e41b54cd91bec41824ccdff139115666c",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/japanese-20-style-A/KM-SCN-A-17-kissaten.png",
+    "current": "asset/japanese-20-style-A/KM-SCN-A-17-kissaten.png",
+    "original_sha256": "06d8b63651d60238a9f57a7993d8737aa4683f1994d311d1a44e3015ee5f7101",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/japanese-20-style-A/KM-SCN-A-18-shotengai.png",
+    "current": "asset/japanese-20-style-A/KM-SCN-A-18-shotengai.png",
+    "original_sha256": "f3970e66d537cbdaf7e91946981cb36a1300d066c85f7b301c83ee9ec8ad48bd",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/japanese-20-style-A/KM-SCN-A-19-news.png",
+    "current": "asset/japanese-20-style-A/KM-SCN-A-19-news.png",
+    "original_sha256": "e714c91927b0042c2b749aa0346d9441637a6259ea3c18eaadfa3a5eb574c1ce",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/japanese-20-style-A/KM-SCN-A-20-study.png",
+    "current": "asset/japanese-20-style-A/KM-SCN-A-20-study.png",
+    "original_sha256": "68dc29ead057f8f3fecacce25f3f0e35750956f08f301fa26a1f7ea1d59895ff",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/japanese-20-style-A/QA.md",
+    "current": "asset/japanese-20-style-A/QA.md",
+    "original_sha256": "73eb99cf4643c7611b4de32f89c4234308941c3489116f80d6a2fcb8e8919633",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/japanese-20-style-A/README.md",
+    "current": "asset/japanese-20-style-A/README.md",
+    "original_sha256": "9913524690e4a20a3aca516692858d8ad4ffa054e7d19abc3d2bdd15f2f5a115",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/japanese-20-style-A/corrections.json",
+    "current": "asset/japanese-20-style-A/corrections.json",
+    "original_sha256": "da97beeb630b88c5a677fa2bd73003a1707db8dd10ee976008209ff9a222d93f",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/japanese-20-style-A/index.html",
+    "current": "asset/japanese-20-style-A/index.html",
+    "original_sha256": "f606c638ded4d8c2c6ff15ececcc2ae55a097a018f17af4c43c0931194ffc689",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/japanese-20-style-A/manifest.json",
+    "current": "asset/japanese-20-style-A/manifest.json",
+    "original_sha256": "e65f35649d515218de01f064554894d8ff677a0b865066e497a96747e882606b",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/japanese-20-style-A/sources.json",
+    "current": "asset/japanese-20-style-A/sources.json",
+    "original_sha256": "7c9ed8b427fb8cbe3b2f585e2bbc4114856c805ea0ac8a53bd00af3054d89b62",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/landing-page-style-A/A-04-morning-market.png",
+    "current": "asset/landing-page-style-A/A-04-morning-market.png",
+    "original_sha256": "c69e0ee01b197c1b64f3f84709996bddd34209364ea3f359e9fa820a81783094",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/landing-page-style-A/A-05-riverside-reading.png",
+    "current": "asset/landing-page-style-A/A-05-riverside-reading.png",
+    "original_sha256": "ead68b7c012e0630fbcacc2bc388b26ecbc620bee1b50dcae950c077dde571ca",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/landing-page-style-A/A-06-lantern-evening.png",
+    "current": "asset/landing-page-style-A/A-06-lantern-evening.png",
+    "original_sha256": "3e86e5eff768ede6a3c2ce67e01cf4e0e28dbc419137839e844bca49b9c380f5",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/landing-page-style-A/README.md",
+    "current": "asset/landing-page-style-A/README.md",
+    "original_sha256": "f5737dcb2a88f6a18bf9b17b1b21f78b8ac6c1aa8e98affddfbd0cfeed081272",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/landing-page-style-A/nose-correction-prompt.txt",
+    "current": "asset/landing-page-style-A/nose-correction-prompt.txt",
+    "original_sha256": "1e7050867cdaf91ecf5614889fafa8a9b17cb8fb4f2c2639d3a29172326fa6bd",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/landing-page-style-A/nose-match-prompt.txt",
+    "current": "asset/landing-page-style-A/nose-match-prompt.txt",
+    "original_sha256": "aba5284a71923cd3cabdc50cf63210a2a2d111a9992b0a5f23dba3011ee8b9c4",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/landing-page-style-A/prompts.json",
+    "current": "asset/landing-page-style-A/prompts.json",
+    "original_sha256": "5dd92d83435c149329ef358fbc4181618ff58999ccca08b29461d28374cc28e1",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/palette-evidence.json",
+    "current": "archive/exploration/palette-evidence.json",
+    "original_sha256": "f938ec7c5e226ad4aa33a4c939380842c99d8ebdbae46fd4667295ec935a8b55",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/reference-tests.json",
+    "current": "archive/exploration/reference-tests.json",
+    "original_sha256": "d2fc5f57f932aadacc2d32a5c08584926cf84d9008e4d6e26a93bde3d35c0226",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360bear/frame-00.png",
+    "current": "archive/exploration/rotation-frames/360bear/frame-00.png",
+    "original_sha256": "b9c85c0620ee1564df67d32f97d09cbf3fd3a9af81bcefab98e876add813cbf8",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360bear/frame-01.png",
+    "current": "archive/exploration/rotation-frames/360bear/frame-01.png",
+    "original_sha256": "d5656e27d473afd4d5337c986abc1095b22cfd5372cb4d7039c47313e951fb03",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360bear/frame-02.png",
+    "current": "archive/exploration/rotation-frames/360bear/frame-02.png",
+    "original_sha256": "7ce07cf5821a9702ea80e77688b0e84063d8f2e83562b0477ef9e3fc2f0f9bc6",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360bear/frame-03.png",
+    "current": "archive/exploration/rotation-frames/360bear/frame-03.png",
+    "original_sha256": "93ad0a708f824caf1ca39d0b5232a5729a40e1f8053e4770c73203af82bfff58",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360bear/frame-04.png",
+    "current": "archive/exploration/rotation-frames/360bear/frame-04.png",
+    "original_sha256": "2294d2d77a1095016b5001cdc96c7464c4dfe5b53030c694d5920550e4795c4d",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360bear/frame-05.png",
+    "current": "archive/exploration/rotation-frames/360bear/frame-05.png",
+    "original_sha256": "556734660f5b68f84e3013e24007dc76f23f8e2c26953fcf5de42cbaa3c181e3",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360bear/frame-06.png",
+    "current": "archive/exploration/rotation-frames/360bear/frame-06.png",
+    "original_sha256": "49456c085c8cc0ae566f122e0c2c7c7d78e46222de2524ded6ecb915f5511d1f",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360bear/frame-07.png",
+    "current": "archive/exploration/rotation-frames/360bear/frame-07.png",
+    "original_sha256": "1d190e49edb0c1286138b5dc625d3921c1c7e423b36168b6a3d4cf49640acccd",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360bear/frame-08.png",
+    "current": "archive/exploration/rotation-frames/360bear/frame-08.png",
+    "original_sha256": "6786dfae5eb167c90dfc0b374953cd26dc722dfaada535244e2632b721799923",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360bear/frame-09.png",
+    "current": "archive/exploration/rotation-frames/360bear/frame-09.png",
+    "original_sha256": "0d7da39ad3b7286f2960476660e99523622688acaa9e4d276b22c8c84b1489b8",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360bear/frame-10.png",
+    "current": "archive/exploration/rotation-frames/360bear/frame-10.png",
+    "original_sha256": "c3ce323d3b5d0d5dbdf40dbb6be916b41c443272dc6236512b5b4d8d541595b8",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360bear/frame-11.png",
+    "current": "archive/exploration/rotation-frames/360bear/frame-11.png",
+    "original_sha256": "fb527c40c61278093556698094f5fcd8da8d701dc753af87dda2b3b24c4275a6",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360bear/frame-12.png",
+    "current": "archive/exploration/rotation-frames/360bear/frame-12.png",
+    "original_sha256": "3c7ffd51376a85ae309ee88b51c8e537e9f659f7c000acd9ef2f09b972463796",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360bear/frame-13.png",
+    "current": "archive/exploration/rotation-frames/360bear/frame-13.png",
+    "original_sha256": "5ebee0fee6863a2e6895c2e982294e38879256e1e4d9667e8bc01a205662d205",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360bear/frame-14.png",
+    "current": "archive/exploration/rotation-frames/360bear/frame-14.png",
+    "original_sha256": "1ce76726de85a455bdf81a0bd20a7fa79c7a30570249c608157c8fe32f8d3891",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360bear/frame-15.png",
+    "current": "archive/exploration/rotation-frames/360bear/frame-15.png",
+    "original_sha256": "a0ac8ba6f5376137e0cfd7a382f91f916dcee32f49c69511b9eb79f40d5c5261",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360bear/frame-16.png",
+    "current": "archive/exploration/rotation-frames/360bear/frame-16.png",
+    "original_sha256": "e02faa00ba746c025034c351f5d81db24366a1021e5fabb2834d01d8cb2ad901",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360bear/frame-17.png",
+    "current": "archive/exploration/rotation-frames/360bear/frame-17.png",
+    "original_sha256": "a8cbf74ed4f5dc869040c75ed1bfff12c3e7b942d6d73647a50d8a036f694c95",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360bear/frame-18.png",
+    "current": "archive/exploration/rotation-frames/360bear/frame-18.png",
+    "original_sha256": "953b5ada81c8b47373018eda0557a8c1bb4deed1afc5d5ede12fb69c2594e4a7",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360bear/frame-19.png",
+    "current": "archive/exploration/rotation-frames/360bear/frame-19.png",
+    "original_sha256": "514cd763fa6c4991fd1157e0bde7d0cb6deda0ea33e9ee52123624fdf727ff83",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360bear/frame-20.png",
+    "current": "archive/exploration/rotation-frames/360bear/frame-20.png",
+    "original_sha256": "3c171de0eb97b74078baff5ab99a27f22b17ac01be6c623d47d789b28a9ff9c4",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360bear/frame-21.png",
+    "current": "archive/exploration/rotation-frames/360bear/frame-21.png",
+    "original_sha256": "e48e1f7c1865c83178a4cb0c01ff40223e03dab1dc9d59594c90ab1370523a82",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360bear/frame-22.png",
+    "current": "archive/exploration/rotation-frames/360bear/frame-22.png",
+    "original_sha256": "befb3b449e2f98eb07a5e443e18cfb2e2e605a93c3f74881e42850a80ad62ae9",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360bear/frame-23.png",
+    "current": "archive/exploration/rotation-frames/360bear/frame-23.png",
+    "original_sha256": "c2d90b90f377da0eff315a83d7c77608731b8bd786e499749bae7a9c0e7d107c",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360bear/frame-24.png",
+    "current": "archive/exploration/rotation-frames/360bear/frame-24.png",
+    "original_sha256": "4f4bec2ad9bf06e29f953aec53abbeb983dcf67bd74117ae93049ef6ce16e50b",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360bear/frame-25.png",
+    "current": "archive/exploration/rotation-frames/360bear/frame-25.png",
+    "original_sha256": "31c66aeafd57b7ae8c9d0351c7603ec8c5a2ef505bdc0d2ff1d22f75444944ba",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360bear/frame-26.png",
+    "current": "archive/exploration/rotation-frames/360bear/frame-26.png",
+    "original_sha256": "be1e2854ccb90be4a5ae2ef20fbace316c09a788fb693442813f4fd6f2b995ef",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360bear/frame-27.png",
+    "current": "archive/exploration/rotation-frames/360bear/frame-27.png",
+    "original_sha256": "c92ee8dc494d80c15f623cfe293e173f108c9137e74fde91a5d787654b765fc5",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360bear/frame-28.png",
+    "current": "archive/exploration/rotation-frames/360bear/frame-28.png",
+    "original_sha256": "9a3f4d18c30f2f614ed27c5877e18152be311c84b786cfad8e508ed33b9eef7c",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360bear/frame-29.png",
+    "current": "archive/exploration/rotation-frames/360bear/frame-29.png",
+    "original_sha256": "922307672f1a00274d96f1af575ca0c35033be293d20739dec2087e1e16f3477",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360koko/frame-00.png",
+    "current": "archive/exploration/rotation-frames/360koko/frame-00.png",
+    "original_sha256": "1e546346dca02d7de57778b01fd746691b8ee006921c869882d96632d6eb975d",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360koko/frame-01.png",
+    "current": "archive/exploration/rotation-frames/360koko/frame-01.png",
+    "original_sha256": "59f32474ce773ee3bc32b290eb1ed48fc390b88a0638788e09cb3e2f45619b62",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360koko/frame-02.png",
+    "current": "archive/exploration/rotation-frames/360koko/frame-02.png",
+    "original_sha256": "5227af579e9c5c24e77d5ff23ac8925780fff571e3ab7761d647b19e9b69d9f0",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360koko/frame-03.png",
+    "current": "archive/exploration/rotation-frames/360koko/frame-03.png",
+    "original_sha256": "5f7dac858fc55b7a831d8fd96f908b342043de39f7628a4190d153ab208988df",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360koko/frame-04.png",
+    "current": "archive/exploration/rotation-frames/360koko/frame-04.png",
+    "original_sha256": "5947fc906aabd9f932f9d2600914b40209278c0227b71553c40508e3f5bea59b",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360koko/frame-05.png",
+    "current": "archive/exploration/rotation-frames/360koko/frame-05.png",
+    "original_sha256": "3662d1e5099b74e4cbd57166ad25c8ca8904fffa2f7331d4582c744e304a4141",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360koko/frame-06.png",
+    "current": "archive/exploration/rotation-frames/360koko/frame-06.png",
+    "original_sha256": "906b17f3a81ec451916540ff63856fa47f06d71d6d80c39d2e225ac0512ba692",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360koko/frame-07.png",
+    "current": "archive/exploration/rotation-frames/360koko/frame-07.png",
+    "original_sha256": "3c0274d1b5438cc157de03142197aede9588633ac6d384b76d752ee99a2ccc3e",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360koko/frame-08.png",
+    "current": "archive/exploration/rotation-frames/360koko/frame-08.png",
+    "original_sha256": "4b4ea70721edb3ccf3940af1e4eda6168d0111b0579ab3c6af930f074d6b2ba0",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360koko/frame-09.png",
+    "current": "archive/exploration/rotation-frames/360koko/frame-09.png",
+    "original_sha256": "374bbb30e83d3b576b1e555b6ef1c61a8a777c9ea9a72cf409677165a1eebcbe",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360koko/frame-10.png",
+    "current": "archive/exploration/rotation-frames/360koko/frame-10.png",
+    "original_sha256": "410ae72a2e28831e6d5bdf31ccb308d3d9154f35c156ec32f82901211cf05d65",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360koko/frame-11.png",
+    "current": "archive/exploration/rotation-frames/360koko/frame-11.png",
+    "original_sha256": "9e71f751582a1e481428f893b5aeb2797866bbaf217d20598f631d4769386e1d",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360koko/frame-12.png",
+    "current": "archive/exploration/rotation-frames/360koko/frame-12.png",
+    "original_sha256": "09d01b1814596aec893fcb0b78246cdb491199b520a43d72e117bfb60db2a00d",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360koko/frame-13.png",
+    "current": "archive/exploration/rotation-frames/360koko/frame-13.png",
+    "original_sha256": "8441f9618d93ea71a3432ae77d4ac893ea420e6dfaa20669a6482fddfa77800d",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360koko/frame-14.png",
+    "current": "archive/exploration/rotation-frames/360koko/frame-14.png",
+    "original_sha256": "b76f1cc8c5525aa4b994bf520bd9f029448c70328634475fe64bab6f75347ff6",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360koko/frame-15.png",
+    "current": "archive/exploration/rotation-frames/360koko/frame-15.png",
+    "original_sha256": "c65585c3d59c7a7ecaa657f87ab402427b5a2c687996daea256d3fa8bca27826",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360koko/frame-16.png",
+    "current": "archive/exploration/rotation-frames/360koko/frame-16.png",
+    "original_sha256": "fc36bd3cf1baee5490316612765563d950b3a3e29408fe961fad3dab87ba15ae",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360koko/frame-17.png",
+    "current": "archive/exploration/rotation-frames/360koko/frame-17.png",
+    "original_sha256": "cf0bc05d68379fd37c5c162f86667486305f2e0902d89a0a2241cef48b71a21a",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360koko/frame-18.png",
+    "current": "archive/exploration/rotation-frames/360koko/frame-18.png",
+    "original_sha256": "497ed5ecf4e19336cb86582de60877f9ff6a32a8bbdb400722d7fbe051a59135",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360koko/frame-19.png",
+    "current": "archive/exploration/rotation-frames/360koko/frame-19.png",
+    "original_sha256": "d6e8e2375b10bc96e235c1fb5be2c00d478c29af45fdd62c9dc1bed014193480",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360koko/frame-20.png",
+    "current": "archive/exploration/rotation-frames/360koko/frame-20.png",
+    "original_sha256": "5dcb172baf2caaeeb05dff81592c0b812d85887632e6d1da9921c6570fe7768a",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360koko/frame-21.png",
+    "current": "archive/exploration/rotation-frames/360koko/frame-21.png",
+    "original_sha256": "bc5a49abb4506ee6bd5d01bc026db00d61bfdbcc9045cb7d9201b3a01208e041",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360koko/frame-22.png",
+    "current": "archive/exploration/rotation-frames/360koko/frame-22.png",
+    "original_sha256": "f83b6d5f6df359e64b70e4ab9b8de1abe446db44e1e0c75117b7bdee5d1f8b96",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360koko/frame-23.png",
+    "current": "archive/exploration/rotation-frames/360koko/frame-23.png",
+    "original_sha256": "60efd1dea94a8900adef9b604ee6bf45a8343482c023056daf2331447c645518",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360koko/frame-24.png",
+    "current": "archive/exploration/rotation-frames/360koko/frame-24.png",
+    "original_sha256": "a5bad15088c289fd2a7f3ceb7ca73e5ca351f91d2d8c2bdf526ccbb7b906f0af",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360koko/frame-25.png",
+    "current": "archive/exploration/rotation-frames/360koko/frame-25.png",
+    "original_sha256": "0c8714a216e8c666f31c64e7c04da9ccbaa3882951b5f5d050d3c4486f3c55ae",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360koko/frame-26.png",
+    "current": "archive/exploration/rotation-frames/360koko/frame-26.png",
+    "original_sha256": "0b97edc79a1c8f0d54f22df059558e3bdbd828c996344f101ff637f692c8f334",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360koko/frame-27.png",
+    "current": "archive/exploration/rotation-frames/360koko/frame-27.png",
+    "original_sha256": "fa26dd33cdee6b00dcd15af58d2452f2271b1be9d5627ed3c378a47158c58374",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360koko/frame-28.png",
+    "current": "archive/exploration/rotation-frames/360koko/frame-28.png",
+    "original_sha256": "72eef7313e363ab1bea505913822a40af115a0fde7bd5ebcd97fb10189184427",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360koko/frame-29.png",
+    "current": "archive/exploration/rotation-frames/360koko/frame-29.png",
+    "original_sha256": "74d909c73494ebf1a4a522032805009dd44a2bb3afe71425d70759073a1ca7a6",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360rabbit/frame-00.png",
+    "current": "archive/exploration/rotation-frames/360rabbit/frame-00.png",
+    "original_sha256": "1224b7b60b6da2dd1a862cb2d7d9b5f604656f4ad1e414899a9de08f744cea57",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360rabbit/frame-01.png",
+    "current": "archive/exploration/rotation-frames/360rabbit/frame-01.png",
+    "original_sha256": "095e62e847d48a819409171e2fe7d9137fd5de59b04ec01c624864a49ad05811",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360rabbit/frame-02.png",
+    "current": "archive/exploration/rotation-frames/360rabbit/frame-02.png",
+    "original_sha256": "c69b8196732b4e9e9bcc81ac0c1a492c9cd6dd75d65e873284435a6a3db86ffc",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360rabbit/frame-03.png",
+    "current": "archive/exploration/rotation-frames/360rabbit/frame-03.png",
+    "original_sha256": "714b18bc837053a7588b28499040c67ec44c5d5cb9e5dcf93854298465aa6127",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360rabbit/frame-04.png",
+    "current": "archive/exploration/rotation-frames/360rabbit/frame-04.png",
+    "original_sha256": "ad2b5aca7dd22b141877481811468d60a200d5bfec0d115616d5755a95283cdf",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360rabbit/frame-05.png",
+    "current": "archive/exploration/rotation-frames/360rabbit/frame-05.png",
+    "original_sha256": "6ab8f7df5ad8b64e98f77da8480b15f58ff7926bbcb4e38e3b69526d22808fb3",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360rabbit/frame-06.png",
+    "current": "archive/exploration/rotation-frames/360rabbit/frame-06.png",
+    "original_sha256": "2439247ceffc4e296f21924c61643fb92a213f39ca14e529b947aa77d4e2ab43",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360rabbit/frame-07.png",
+    "current": "archive/exploration/rotation-frames/360rabbit/frame-07.png",
+    "original_sha256": "c28dcceae06c69bee967d2d400b614fb8795a339c869f584b7c8603c5466f23f",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360rabbit/frame-08.png",
+    "current": "archive/exploration/rotation-frames/360rabbit/frame-08.png",
+    "original_sha256": "251b84df9ddc7a28f0459b8f88a02069ac802b778854b844224d048f1138e4d7",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360rabbit/frame-09.png",
+    "current": "archive/exploration/rotation-frames/360rabbit/frame-09.png",
+    "original_sha256": "dd7b824a6d35aa165e56782c830cb94c9cc263b57c3f11a17166910efa25cfb7",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360rabbit/frame-10.png",
+    "current": "archive/exploration/rotation-frames/360rabbit/frame-10.png",
+    "original_sha256": "64913ffe338e6c93c858880e9042cd1b459ab8786855ed2a5ee6eaefb6e258e3",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360rabbit/frame-11.png",
+    "current": "archive/exploration/rotation-frames/360rabbit/frame-11.png",
+    "original_sha256": "61d3ac623705517d5e24eceb2795b23e547a93eed29b1a2dd36c0abd2e4f1171",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360rabbit/frame-12.png",
+    "current": "archive/exploration/rotation-frames/360rabbit/frame-12.png",
+    "original_sha256": "3e92e8bbd0561594b320e4a4b03daa25cd91b3e4b9a73e7528a85c84df4bba85",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360rabbit/frame-13.png",
+    "current": "archive/exploration/rotation-frames/360rabbit/frame-13.png",
+    "original_sha256": "b3983323c1d14005d49fd0c76acd39972bfb6f7c812a97eb9dc510690c77e9a4",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360rabbit/frame-14.png",
+    "current": "archive/exploration/rotation-frames/360rabbit/frame-14.png",
+    "original_sha256": "7c5fb8d97e3854818e757bcf0c3a5302d9ca5592a9d072769fc642751624b63a",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360rabbit/frame-15.png",
+    "current": "archive/exploration/rotation-frames/360rabbit/frame-15.png",
+    "original_sha256": "cbedf614b29533001f90deef5931e0791c8f4e0d0c4b9671825af4a9280d9efc",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360rabbit/frame-16.png",
+    "current": "archive/exploration/rotation-frames/360rabbit/frame-16.png",
+    "original_sha256": "2db10da1b04c8fbf9df35e835c740323e1492f8d4d4fcdf64269ee58613b4bcd",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360rabbit/frame-17.png",
+    "current": "archive/exploration/rotation-frames/360rabbit/frame-17.png",
+    "original_sha256": "1811369c17487b65a196b7a74ebdbafde2fca40541e14a14a9986bdaaabf2676",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360rabbit/frame-18.png",
+    "current": "archive/exploration/rotation-frames/360rabbit/frame-18.png",
+    "original_sha256": "14c445843f2a1dbdfe46536e85264af1dcac6f7768b8acdd775549e414c2516d",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360rabbit/frame-19.png",
+    "current": "archive/exploration/rotation-frames/360rabbit/frame-19.png",
+    "original_sha256": "a065e2e18ffb8f963d73a0394357f0966b8511dc863e1c02781baf028fefbec1",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360rabbit/frame-20.png",
+    "current": "archive/exploration/rotation-frames/360rabbit/frame-20.png",
+    "original_sha256": "ae6940591eb93698a0eaeeb871ba924e9ebf4660f22cb274bcc2d7e288a8935b",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360rabbit/frame-21.png",
+    "current": "archive/exploration/rotation-frames/360rabbit/frame-21.png",
+    "original_sha256": "96deb91bc7df449c815c5e0f324014fefdd29dfa85c533228f7e950be77bd701",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360rabbit/frame-22.png",
+    "current": "archive/exploration/rotation-frames/360rabbit/frame-22.png",
+    "original_sha256": "a856eddbe2a8dde18bb781d635ea3339b96887a03bccb53aee3aaedce97ed0f9",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360rabbit/frame-23.png",
+    "current": "archive/exploration/rotation-frames/360rabbit/frame-23.png",
+    "original_sha256": "8cdc3e02858d95238074989bb038be87cbfa483643f43fc112447ec65812a374",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360rabbit/frame-24.png",
+    "current": "archive/exploration/rotation-frames/360rabbit/frame-24.png",
+    "original_sha256": "04a00a69ef021229c336bc11e794e74e07f49adf2e84eab60f6fa709d897ef63",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360rabbit/frame-25.png",
+    "current": "archive/exploration/rotation-frames/360rabbit/frame-25.png",
+    "original_sha256": "3cfad36192cb542baa1eb48447f336f43e8bb93900ca20ca592fca4d7aadbf0e",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360rabbit/frame-26.png",
+    "current": "archive/exploration/rotation-frames/360rabbit/frame-26.png",
+    "original_sha256": "b230ae08783eb9cb4ccae295302b88f879fdc42f52f549b88e9a77aa43afa964",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360rabbit/frame-27.png",
+    "current": "archive/exploration/rotation-frames/360rabbit/frame-27.png",
+    "original_sha256": "7d8ba6982fe52956f787c44f677be5a8817c9440d9c609293836e073eb86e17c",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360rabbit/frame-28.png",
+    "current": "archive/exploration/rotation-frames/360rabbit/frame-28.png",
+    "original_sha256": "feec582b2e00a5e2102f2fd96c321011eb39929efa5ec312c4a23b9f4e4a89f5",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360rabbit/frame-29.png",
+    "current": "archive/exploration/rotation-frames/360rabbit/frame-29.png",
+    "original_sha256": "6a3e4978b4c4eb236745810c4102624dde0bfc9a29b16a94a9639c26312e6ab9",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360rice/frame-00.png",
+    "current": "archive/exploration/rotation-frames/360rice/frame-00.png",
+    "original_sha256": "4f8273c68b4f98f3ae58d22e69679223c16ffe41b0c9cf7d9c30a80b2b85b5f0",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360rice/frame-01.png",
+    "current": "archive/exploration/rotation-frames/360rice/frame-01.png",
+    "original_sha256": "bdb3fc77649be5586f40636b9dfb365cd5dca7b332cd8c3345cae38c73b468e9",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360rice/frame-02.png",
+    "current": "archive/exploration/rotation-frames/360rice/frame-02.png",
+    "original_sha256": "5ad863d4c49fad230c48ec88bbd5b14df4e586154261f871f0df1f813a042731",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360rice/frame-03.png",
+    "current": "archive/exploration/rotation-frames/360rice/frame-03.png",
+    "original_sha256": "6574e3f34c291d1d81911a700db56b34d4a00cd17716cb8c3b9dc8d62c6e002c",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360rice/frame-04.png",
+    "current": "archive/exploration/rotation-frames/360rice/frame-04.png",
+    "original_sha256": "6928718196fc765c9c23f013627545b0a998970263b78d6a52420d8772c22e90",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360rice/frame-05.png",
+    "current": "archive/exploration/rotation-frames/360rice/frame-05.png",
+    "original_sha256": "22a18b8451ee01a20d8effc7375f5169ac51aeb6792ab0d978d384d1f5aa060b",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360rice/frame-06.png",
+    "current": "archive/exploration/rotation-frames/360rice/frame-06.png",
+    "original_sha256": "771cd2a4ed18c8f9780fe5a0651fb124b98c778430b5b732fee9c6b184245bea",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360rice/frame-07.png",
+    "current": "archive/exploration/rotation-frames/360rice/frame-07.png",
+    "original_sha256": "f1973996d5d231de17f2c4889f740a22097056b00a7ea72d126dfb4b0182f51d",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360rice/frame-08.png",
+    "current": "archive/exploration/rotation-frames/360rice/frame-08.png",
+    "original_sha256": "2f4322017f93d473910d70b9c29d35f08a1101545cd1862daade3adaa600b85c",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360rice/frame-09.png",
+    "current": "archive/exploration/rotation-frames/360rice/frame-09.png",
+    "original_sha256": "93fbd7e48dc49c6492abdd18b9c6a6dacc807ee508b9f745e7a3d1f877a53376",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360rice/frame-10.png",
+    "current": "archive/exploration/rotation-frames/360rice/frame-10.png",
+    "original_sha256": "4186222a63dbe089ab9fddd6177abad2aaad6342e1c6c1d968e545a096da0f7a",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360rice/frame-11.png",
+    "current": "archive/exploration/rotation-frames/360rice/frame-11.png",
+    "original_sha256": "5b4c8cedaa9463af422cc9778b6d8c3c7eb7bec7aa4dd34532798fdb3de26d07",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360rice/frame-12.png",
+    "current": "archive/exploration/rotation-frames/360rice/frame-12.png",
+    "original_sha256": "6bb00c5e3520c25c106b7b284a1383d8ce49d75b77bb1cd9052de5dedb5499e3",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360rice/frame-13.png",
+    "current": "archive/exploration/rotation-frames/360rice/frame-13.png",
+    "original_sha256": "b2334704311096bdb148f9b03a5126cdcad3bb22ca5dfc4089bcffb9cc76d396",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360rice/frame-14.png",
+    "current": "archive/exploration/rotation-frames/360rice/frame-14.png",
+    "original_sha256": "752139c4a1a8560410f445451b54bb5b78d892ef82644fd94c574507f2381782",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360rice/frame-15.png",
+    "current": "archive/exploration/rotation-frames/360rice/frame-15.png",
+    "original_sha256": "3dc31f7bd3df412ca06912fdfdefa574b2b736f3f54521bd1cf079ef879fff6a",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360rice/frame-16.png",
+    "current": "archive/exploration/rotation-frames/360rice/frame-16.png",
+    "original_sha256": "26f5abbf6a3478e1656c03b791d772ce49e6383325dc428d2b86505b35de8a85",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360rice/frame-17.png",
+    "current": "archive/exploration/rotation-frames/360rice/frame-17.png",
+    "original_sha256": "d6a158f602306286194674b183a2904843bd49905ad50dcb2470f0a7ac822de2",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360rice/frame-18.png",
+    "current": "archive/exploration/rotation-frames/360rice/frame-18.png",
+    "original_sha256": "712d857389dedf12814bedb5f295275407c7133ad4b70449921957ffc4dddcf1",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360rice/frame-19.png",
+    "current": "archive/exploration/rotation-frames/360rice/frame-19.png",
+    "original_sha256": "e08988e926bcd174000cc7718e150e3098705ce9c140810045999f09431b8c0c",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360rice/frame-20.png",
+    "current": "archive/exploration/rotation-frames/360rice/frame-20.png",
+    "original_sha256": "10ea485536f62cbe13aa71d33435e560293fb7e1894dfae3c47527db4e79a29c",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360rice/frame-21.png",
+    "current": "archive/exploration/rotation-frames/360rice/frame-21.png",
+    "original_sha256": "3a247b09c85da2ed3bac67c9cd972310ed2dfaa96787db8621a1fa9c6afa2ed4",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360rice/frame-22.png",
+    "current": "archive/exploration/rotation-frames/360rice/frame-22.png",
+    "original_sha256": "c2fc7d86e29256a19dbe12c589096503ce158f8690034a059c1d37f47dff902c",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360rice/frame-23.png",
+    "current": "archive/exploration/rotation-frames/360rice/frame-23.png",
+    "original_sha256": "c293d797cee7f4a5a8e625d0f8ee51bd9aeca8df4089025fd4ee4160f22e1988",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360rice/frame-24.png",
+    "current": "archive/exploration/rotation-frames/360rice/frame-24.png",
+    "original_sha256": "9d6913752030ffc13f2dd143ea4324625fb4486e083ed4a6f3abab2cf4cf1dc8",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360rice/frame-25.png",
+    "current": "archive/exploration/rotation-frames/360rice/frame-25.png",
+    "original_sha256": "aecbde8e5708e15fccbe2ddb83672db3d795b06f39a116e6ac26f7c2ddbfe45d",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360rice/frame-26.png",
+    "current": "archive/exploration/rotation-frames/360rice/frame-26.png",
+    "original_sha256": "e2fede99db979b79c9db9d81582900f13dd92a688c386897d8ffd8b053289e1c",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360rice/frame-27.png",
+    "current": "archive/exploration/rotation-frames/360rice/frame-27.png",
+    "original_sha256": "291691cb4370835965f06efc84efda131756ba5ac41fd612b550477543a68795",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360rice/frame-28.png",
+    "current": "archive/exploration/rotation-frames/360rice/frame-28.png",
+    "original_sha256": "dff9f25a6390ea0147e180efecc7122467fc39113ffa7ed0b5081e7ebe1b100a",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360rice/frame-29.png",
+    "current": "archive/exploration/rotation-frames/360rice/frame-29.png",
+    "original_sha256": "b06bbfb59012ef0c8e0144e3ddcc13ca33d2cb51bc424cd098ceec3569ae93db",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360tree/frame-00.png",
+    "current": "archive/exploration/rotation-frames/360tree/frame-00.png",
+    "original_sha256": "5b2e723d8b0b940154c068f6daf647561f7ff128ee5695eaf9dfe74efa7d0887",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360tree/frame-01.png",
+    "current": "archive/exploration/rotation-frames/360tree/frame-01.png",
+    "original_sha256": "7371aba1d3c369a979ed9253b3addca4a0b70beb694c7e5247c294f9ded5b751",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360tree/frame-02.png",
+    "current": "archive/exploration/rotation-frames/360tree/frame-02.png",
+    "original_sha256": "54751f2f4692cf8ed46820ba6078b8a7940fd775468f2234364abf28cca03e55",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360tree/frame-03.png",
+    "current": "archive/exploration/rotation-frames/360tree/frame-03.png",
+    "original_sha256": "f355b8334cda49f4fbd828ddf02a1bc03a579f751c0d18fefa48ffa96a096239",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360tree/frame-04.png",
+    "current": "archive/exploration/rotation-frames/360tree/frame-04.png",
+    "original_sha256": "200497ffba2c3d906040b92f3c6918e3bb7af3b2fdc190adce8c6a2dfbcf3e0f",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360tree/frame-05.png",
+    "current": "archive/exploration/rotation-frames/360tree/frame-05.png",
+    "original_sha256": "a619ffd7edd047247f6a52c674f39b7d3fa77ba7169ef1e0ac9530797f48698a",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360tree/frame-06.png",
+    "current": "archive/exploration/rotation-frames/360tree/frame-06.png",
+    "original_sha256": "fb37c3091ad8139877762621c781de8aa79d41ccfb7bf551f9d7bcc90c66b3af",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360tree/frame-07.png",
+    "current": "archive/exploration/rotation-frames/360tree/frame-07.png",
+    "original_sha256": "ca84075a8746a44931244e4f9f4f9047e076de268f5e59abc83e09a40e92a738",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360tree/frame-08.png",
+    "current": "archive/exploration/rotation-frames/360tree/frame-08.png",
+    "original_sha256": "e1651d5d8054b09e0421db1b560f371332d4b690147c3067e8958415ddb33057",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360tree/frame-09.png",
+    "current": "archive/exploration/rotation-frames/360tree/frame-09.png",
+    "original_sha256": "dd70d888a03bec8ac5339e1e6c1d3234687cd9c6520fb146d91e49ea0c86eea5",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360tree/frame-10.png",
+    "current": "archive/exploration/rotation-frames/360tree/frame-10.png",
+    "original_sha256": "28c242e4cb16eae1cdad2e461ad101943dad784c7276268d0988efa27f3968d3",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360tree/frame-11.png",
+    "current": "archive/exploration/rotation-frames/360tree/frame-11.png",
+    "original_sha256": "87ed65df7aa488eee3f0d94ccb0097d441c1a3cd78aa99622b0d85eb4ee068b9",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360tree/frame-12.png",
+    "current": "archive/exploration/rotation-frames/360tree/frame-12.png",
+    "original_sha256": "6a389de87e146b03cedba0a8b05acd6b562139dabc510d276aef5accd7431623",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360tree/frame-13.png",
+    "current": "archive/exploration/rotation-frames/360tree/frame-13.png",
+    "original_sha256": "35ef1a5eb6e9c724a0fbc632fb2697fe6b8fb728c13e5373a8c3a91fefad9347",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360tree/frame-14.png",
+    "current": "archive/exploration/rotation-frames/360tree/frame-14.png",
+    "original_sha256": "f2cc75dfa83588e31d37a79410c8d6ca958b2ffdbe10e320c319067ed5fe0ff6",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360tree/frame-15.png",
+    "current": "archive/exploration/rotation-frames/360tree/frame-15.png",
+    "original_sha256": "5fecaddcb19d563a296356fb18bcaab42f5f65ba5364a942367af984dd8d873a",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360tree/frame-16.png",
+    "current": "archive/exploration/rotation-frames/360tree/frame-16.png",
+    "original_sha256": "9186b6090ca7c34207548d459e4efd764ae040db9aae1ab6a88599961ee692a8",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360tree/frame-17.png",
+    "current": "archive/exploration/rotation-frames/360tree/frame-17.png",
+    "original_sha256": "48dd8e906fb2cfb801a9f05b8db8c36d9013cbdd040b8387319dfe8483e7d773",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360tree/frame-18.png",
+    "current": "archive/exploration/rotation-frames/360tree/frame-18.png",
+    "original_sha256": "706b1c01e8d50d1118a61c027500d4dee8b93acdfc2aa3c6187e3915736d598a",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360tree/frame-19.png",
+    "current": "archive/exploration/rotation-frames/360tree/frame-19.png",
+    "original_sha256": "2ddc3833d699b83074180a54d8fa91c4d50cc3abcf08873700b0bb07a6d27500",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360tree/frame-20.png",
+    "current": "archive/exploration/rotation-frames/360tree/frame-20.png",
+    "original_sha256": "9c7816d5c48c2ddba77bffc84fe5945325a9cf9ae9ffcb8acbe954a2eb753197",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360tree/frame-21.png",
+    "current": "archive/exploration/rotation-frames/360tree/frame-21.png",
+    "original_sha256": "442e98058e1b5981ecc5e4b6327cfd5f94696f6b2c8ea7b7175dae8cc8aff4c8",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360tree/frame-22.png",
+    "current": "archive/exploration/rotation-frames/360tree/frame-22.png",
+    "original_sha256": "eb360d8075f4a47fc18673c3ef4f6766df96f41bc975bb3417d8baec29c8d017",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360tree/frame-23.png",
+    "current": "archive/exploration/rotation-frames/360tree/frame-23.png",
+    "original_sha256": "3cb8222718d39f475d56e70a108b552a2becf24be854a3029e763525af51247d",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360tree/frame-24.png",
+    "current": "archive/exploration/rotation-frames/360tree/frame-24.png",
+    "original_sha256": "edc4c8a562e3a496068170750796f5b331cfad224b321b4c9abda0db7eeb7a61",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360tree/frame-25.png",
+    "current": "archive/exploration/rotation-frames/360tree/frame-25.png",
+    "original_sha256": "aa2702ebced410cd75842f5c01f96fb851642c97cc02bfb98824f0df34b8ea8f",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360tree/frame-26.png",
+    "current": "archive/exploration/rotation-frames/360tree/frame-26.png",
+    "original_sha256": "08547a3971febf0ab6f14aece3dd44d1bee34315ca79bb42182807395952b81a",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360tree/frame-27.png",
+    "current": "archive/exploration/rotation-frames/360tree/frame-27.png",
+    "original_sha256": "0c8a2e2c73d802ae05a454dddc4c32fa88c75c0765ba7a4919d3c13937fa8518",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360tree/frame-28.png",
+    "current": "archive/exploration/rotation-frames/360tree/frame-28.png",
+    "original_sha256": "e102e3e59649f725f7f7b82e78fe40b1e44c661506242489de73c03e15c209fe",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360tree/frame-29.png",
+    "current": "archive/exploration/rotation-frames/360tree/frame-29.png",
+    "original_sha256": "3b13f4d37d98cadc6be2370a1d19284818bd6f299b00baac4096ebdd9afa1696",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360yauyau/frame-00.png",
+    "current": "archive/exploration/rotation-frames/360yauyau/frame-00.png",
+    "original_sha256": "0229c811c626bac483a5525668cf388ebc71f80d178747c3c95ecb0b7073463f",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360yauyau/frame-01.png",
+    "current": "archive/exploration/rotation-frames/360yauyau/frame-01.png",
+    "original_sha256": "0324f0f4af53092d5611616048b25a19c3de30df79221ff833f06c8d431f61fd",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360yauyau/frame-02.png",
+    "current": "archive/exploration/rotation-frames/360yauyau/frame-02.png",
+    "original_sha256": "0744f7caadc1d4fec967bc42f7dabd74b0edb61879b7589721c037a95e980ad2",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360yauyau/frame-03.png",
+    "current": "archive/exploration/rotation-frames/360yauyau/frame-03.png",
+    "original_sha256": "206c2bac738df0d5238d0ae49ac5a8a3d8a130beed2986bd52d31d90ab4c0349",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360yauyau/frame-04.png",
+    "current": "archive/exploration/rotation-frames/360yauyau/frame-04.png",
+    "original_sha256": "0e401e0bc6143fd4d9f8b61f8f1995819837ddfc43ef868cf34be2c3dfeef928",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360yauyau/frame-05.png",
+    "current": "archive/exploration/rotation-frames/360yauyau/frame-05.png",
+    "original_sha256": "c9e920f5b930d72e329c9e27eb2ec8e4ca13c331a04adc844b2c841442059e62",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360yauyau/frame-06.png",
+    "current": "archive/exploration/rotation-frames/360yauyau/frame-06.png",
+    "original_sha256": "799849f2c41e328533417106396b6ddcc18a558e9f18666aa62a4c108f7b3059",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360yauyau/frame-07.png",
+    "current": "archive/exploration/rotation-frames/360yauyau/frame-07.png",
+    "original_sha256": "d96ac008dc5ccdfdb1e4ba349fdecfa0d534f9e4a8fb200ab25c29cd6caa9063",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360yauyau/frame-08.png",
+    "current": "archive/exploration/rotation-frames/360yauyau/frame-08.png",
+    "original_sha256": "ebb21d7f52c3861a36fe7ea1a76fbb6012c0bea32c572e9d56046efeba4af8e8",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360yauyau/frame-09.png",
+    "current": "archive/exploration/rotation-frames/360yauyau/frame-09.png",
+    "original_sha256": "f56c4400e8b7559b1f7488a14bcb3d5d7e61ef62ec1eda9d9ccdb2cb1688f6c5",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360yauyau/frame-10.png",
+    "current": "archive/exploration/rotation-frames/360yauyau/frame-10.png",
+    "original_sha256": "8f56bc34ca2ab3ed16fc87f1045d91b544a39ca16af167e48def98153a9c85f2",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360yauyau/frame-11.png",
+    "current": "archive/exploration/rotation-frames/360yauyau/frame-11.png",
+    "original_sha256": "ab0d879fe7e966f0cff6313f0132c7411822b7e06503a8f2b7453f52fbeaa520",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360yauyau/frame-12.png",
+    "current": "archive/exploration/rotation-frames/360yauyau/frame-12.png",
+    "original_sha256": "42ab82201ef6ddbe5ab526fc8e36939d245d0ede0dddaae79eedb02f1bc3d6be",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360yauyau/frame-13.png",
+    "current": "archive/exploration/rotation-frames/360yauyau/frame-13.png",
+    "original_sha256": "e61f0510627930e74e9117a2c1899fd45649a3f6388c7e24dd3f3d9dd9d4d8e9",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360yauyau/frame-14.png",
+    "current": "archive/exploration/rotation-frames/360yauyau/frame-14.png",
+    "original_sha256": "56d37259efb5b256a76a100b386e715517a483e8a46852afd5a4dc7cb34c831e",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360yauyau/frame-15.png",
+    "current": "archive/exploration/rotation-frames/360yauyau/frame-15.png",
+    "original_sha256": "0fd3fb4a643f6d8141dfd24c8467788205e88c4f44812d8ba8f1fc234f85eb8f",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360yauyau/frame-16.png",
+    "current": "archive/exploration/rotation-frames/360yauyau/frame-16.png",
+    "original_sha256": "b53f904cb82138f8919ae99190bcee21ed0df971dfff715367545c5b30761fa3",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360yauyau/frame-17.png",
+    "current": "archive/exploration/rotation-frames/360yauyau/frame-17.png",
+    "original_sha256": "e3ffc5eefb1fe62a935b8c94dbbce606524a891c69254d86e2cfb3e98b579d59",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360yauyau/frame-18.png",
+    "current": "archive/exploration/rotation-frames/360yauyau/frame-18.png",
+    "original_sha256": "f53900995b889280c798c99393a139400dc845d6b71fc92082023a2bf576ebe5",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360yauyau/frame-19.png",
+    "current": "archive/exploration/rotation-frames/360yauyau/frame-19.png",
+    "original_sha256": "0bac3f522ac191f9a37d2e15f714be6b443b387c2f3f630488455a0a98f9f1cf",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360yauyau/frame-20.png",
+    "current": "archive/exploration/rotation-frames/360yauyau/frame-20.png",
+    "original_sha256": "443f9ce4cf85f333e41a492b3bf156675dccdaac6c6ddd59fb7fbed8200aa2c1",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360yauyau/frame-21.png",
+    "current": "archive/exploration/rotation-frames/360yauyau/frame-21.png",
+    "original_sha256": "78496d7164397c989a37a395023e11329db3d1e8d9a28f625417b16cfdd7833d",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-frames/360yauyau/frame-22.png",
+    "current": "archive/exploration/rotation-frames/360yauyau/frame-22.png",
+    "original_sha256": "de4dab8f8cc0f75bb467f9bf4b31b8fef32cd4edfbbd10add2dd494a14fe9e9f",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-manifest.json",
+    "current": "archive/exploration/rotation-manifest.json",
+    "original_sha256": "ff180072c8f125ccdca39571a5e6807ca729e0b90f16bf54a0a72b1dee24a050",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-model-board.jpg",
+    "current": "archive/exploration/rotation-model-board.jpg",
+    "original_sha256": "e5e5d43ff17ea549497bf87a1df9e03e1c03e2dc041d96e76b77ac15b7015869",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-sources/360bear.json",
+    "current": "character/rotation-sources/360bear.json",
+    "original_sha256": "5b7bd75f95df47b9d94410dd2938fa0b69af26e700e59cf626d4d36a01f995ca",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-sources/360koko.json",
+    "current": "character/rotation-sources/360koko.json",
+    "original_sha256": "04d441e5bc8bced8db8be358d688a408fb2f2ea3fd7c21e930bf53fbcfea8420",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-sources/360rabbit.json",
+    "current": "character/rotation-sources/360rabbit.json",
+    "original_sha256": "83d315609043b4067dfd9029b0ea2f7b7862d154f69d4607fe956ffec7540dc3",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-sources/360rice.json",
+    "current": "character/rotation-sources/360rice.json",
+    "original_sha256": "3421d7045d4df3352be3f31f3530dba7ae1f9ae7febef28d701e447b373f36a2",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-sources/360tree.json",
+    "current": "character/rotation-sources/360tree.json",
+    "original_sha256": "5a82b02cd9076f0221590e00be03f194cb34a35e08ea143c7bf049ca39413090",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/rotation-sources/360yauyau.json",
+    "current": "character/rotation-sources/360yauyau.json",
+    "original_sha256": "51e5677f03390c5a1d11cdcab564ca851f1afa2a67f59daf6f08fe3c6a71afe4",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/scene-recipes.json",
+    "current": "archive/exploration/scene-recipes.json",
+    "original_sha256": "57fcdb52811e9cf9363cac6f7b61adbde8b6c8bafee48e6e0624cd671bb14058",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/source-audit.json",
+    "current": "archive/exploration/source-audit.json",
+    "original_sha256": "f4655a881ca200ef5dd8d101d95a9b7b14d623cb04f8d473a537c93d17eb108a",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/style-system-v1/A-characters-v1.png",
+    "current": "character/style-system-v1/A-characters-v1.png",
+    "original_sha256": "02c755f5dde86cbce5b61495e1113453a4efe110f8ca33410a12a2508d4c6681",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/style-system-v1/A-japanese-scenes-v1.png",
+    "current": "asset/style-comparisons/A-japanese-scenes-v1.png",
+    "original_sha256": "d4364a06fe6d37450a862095caa12594ac73a0b0a9ea7e881ffe25b2bccafc2e",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/style-system-v1/B-characters-v1.png",
+    "current": "character/style-system-v1/B-characters-v1.png",
+    "original_sha256": "d9cad760845e99df0a3a437c083f53ab82a75683c8968542da1c3a0f304d00ab",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/style-system-v1/B-japanese-scenes-v1.png",
+    "current": "asset/style-comparisons/B-japanese-scenes-v1.png",
+    "original_sha256": "25e786e32c6ce3a69ecfeca82c79d2e7fff4497186803357f07973757fa6cfe2",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/style-system-v1/C-characters-v1.png",
+    "current": "character/style-system-v1/C-characters-v1.png",
+    "original_sha256": "5aa725f141a1b6af39db5deebc0f834b345b687f82d44d14523e3e823ff34250",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/style-system-v1/C-japanese-scenes-v1.png",
+    "current": "asset/style-comparisons/C-japanese-scenes-v1.png",
+    "original_sha256": "7b71a61673c88242fb0d7152f2cad43f7c7df44c296996a9bdba90d0766e5bd9",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/style-system-v1/COMPARISON.md",
+    "current": "character/style-system-v1/COMPARISON.md",
+    "original_sha256": "cd1868cf9b19ee096eac14c093f85c8497333f33917b463c9903bdf0dba9499b",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/style-system-v1/D-characters-v1.png",
+    "current": "character/style-system-v1/D-characters-v1.png",
+    "original_sha256": "311b60fc097da5b140148dbf42d3bcc4f0e2529a8c7b85de90d1b54048dfc676",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/style-system-v1/D-japanese-scenes-v1.png",
+    "current": "asset/style-comparisons/D-japanese-scenes-v1.png",
+    "original_sha256": "c52527683290ee166d3c852fb4fdcb18f2309ec30c88a8b1ee122291a8da0300",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/style-system-v1/GUIDE.md",
+    "current": "character/style-system-v1/GUIDE.md",
+    "original_sha256": "59c7812c412613c4a84450cbfce92592a779845614e87180d53d8f9015b7bfc1",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/style-system-v1/QA.md",
+    "current": "character/style-system-v1/QA.md",
+    "original_sha256": "c8321da67dbf375d25ab357a38acc1b3d25a479a8d039a394292fc79e5f7612f",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/style-system-v1/deliverables.json",
+    "current": "character/style-system-v1/deliverables.json",
+    "original_sha256": "dcb160fedd18755727f5df2823cebc038c69f9a9afcac8e89c78c03acc41a950",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/style-system-v1/prompt-D-scene-refinement.txt",
+    "current": "asset/style-comparisons/prompt-D-scene-refinement.txt",
+    "original_sha256": "eb604d4c84f82b40819b87d050483c087fdf8a28274b69ebb7b9fe3c4bbc61f3",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/style-system-v1/prompts-corrections.json",
+    "current": "character/style-system-v1/prompts-corrections.json",
+    "original_sha256": "093a62e94c0ade1bf63ee54497b288eeccc4f2afa806ba05c7b2a8d08e8c83d0",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/style-system-v1/prompts-final-check-attempts.json",
+    "current": "character/style-system-v1/prompts-final-check-attempts.json",
+    "original_sha256": "be9fb22fb536950ed72e240e26741e7398e9b0b04e658712d2afb323fd48396c",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/style-system-v1/prompts-scene-refinements.json",
+    "current": "asset/style-comparisons/prompts-scene-refinements.json",
+    "original_sha256": "7abb54ab93e0e48eea734c7440ee35baff5d5d025d881c15d7ccd6455dd921a1",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/style-system-v1/prompts-scenes.json",
+    "current": "asset/style-comparisons/prompts-scenes.json",
+    "original_sha256": "bb97a224c312f9907e576f42244aa204ea859ee3eb41d220ee4937f2ee75574b",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-character-style-exploration/style-system-v1/prompts-sheets.json",
+    "current": "character/style-system-v1/prompts-sheets.json",
+    "original_sha256": "3bd1d51b0adb7b8482c3c9d72bb7bb4bbb2962e38d65de7f23b42cb5bd4ba6af",
+    "operation": "move"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/layered-source-inventory.json",
+    "current": "archive/extracted-library/layered-source-inventory.json",
+    "original_sha256": "215ae005e8e4014929c5f741d09f34af1d64adfff8e28db8c8ea97a862f20907",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/365-extraction-manifest.json",
+    "current": "archive/extracted-library/365-extraction-manifest.json",
+    "original_sha256": "cd3679259ed384f1a8742657eb53a06f765fc5b7b173697d22668dbc10ce845c",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/jp108-extraction-manifest.json",
+    "current": "archive/extracted-library/jp108-extraction-manifest.json",
+    "original_sha256": "a68a7d8e077346ea6c55a8205b2d5858a9d8eccffcbbef3f31a14ff5afd75e46",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/scenes/km-scn-jpe-01.jpg",
+    "current": "archive/extracted-library/scenes/km-scn-jpe-01.jpg",
+    "original_sha256": "136d4bc9a7d5d148d23ec1f8d27dceee487206e858d73916bc16c9ad3fc78929",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/scenes/km-scn-jpe-03.jpg",
+    "current": "archive/extracted-library/scenes/km-scn-jpe-03.jpg",
+    "original_sha256": "6724a995a81982ed047d3e599c2c5063bd9284c3e9d813e538e26e46a95a8557",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/scenes/km-scn-jpe-02.jpg",
+    "current": "archive/extracted-library/scenes/km-scn-jpe-02.jpg",
+    "original_sha256": "f671121160485099b96171f5701f944dd2977fbdc8bd551c55c533d982a9b206",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/scenes/km-scn-jpe-04.jpg",
+    "current": "archive/extracted-library/scenes/km-scn-jpe-04.jpg",
+    "original_sha256": "77d3545404e6291fe53465445ace2214c321a482dc93769758b0c1d3a01a0d35",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/scenes/km-scn-365-story-04.jpg",
+    "current": "archive/extracted-library/scenes/km-scn-365-story-04.jpg",
+    "original_sha256": "88f45ddb69af432927099bda53b502e5126f76325e88d649fe0e7bf040edbe11",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/scenes/km-scn-365-story-02.jpg",
+    "current": "archive/extracted-library/scenes/km-scn-365-story-02.jpg",
+    "original_sha256": "d22cb4ad7ba3698ba31bad402439fce3cfea74d9a22a678563a250a79b292f28",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/scenes/km-scn-365-story-03.jpg",
+    "current": "archive/extracted-library/scenes/km-scn-365-story-03.jpg",
+    "original_sha256": "cd092e4f34a6830af1178395a6ed38faa299d689d65b02be8df7645750a12ce6",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/scenes/km-scn-365-story-01.jpg",
+    "current": "archive/extracted-library/scenes/km-scn-365-story-01.jpg",
+    "original_sha256": "017699d58fab21280c4f421a4fd1348178f309d9dd313cf383cd02050c50470f",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/drive-thumbnails/374.png",
+    "current": "archive/extracted-library/drive-thumbnails/374.png",
+    "original_sha256": "41005980b4721df5575446bbc98e706980ca8b01d7b03e8fe213c31fcc0a508e",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/drive-thumbnails/375.png",
+    "current": "archive/extracted-library/drive-thumbnails/375.png",
+    "original_sha256": "36b7f8a50b4779773e039c7517143cc5d34fde8f2b9cbae97e2a29cf50e3b52b",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/drive-thumbnails/377.png",
+    "current": "archive/extracted-library/drive-thumbnails/377.png",
+    "original_sha256": "81853e6fbf2bfd6b31b8f88e8d5b74536b6162eaef596b119a29197e9dff47f1",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/drive-thumbnails/388.png",
+    "current": "archive/extracted-library/drive-thumbnails/388.png",
+    "original_sha256": "eb06d5a9cb1e77a319c0be653942a6a2a6ddb33b0400a78f6379b21f3c247f26",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/drive-thumbnails/389.png",
+    "current": "archive/extracted-library/drive-thumbnails/389.png",
+    "original_sha256": "b2f100c24c9aa7abc3c6776bb758cab0200d9a2d96cead423643d92b4de28c73",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/drive-thumbnails/376.png",
+    "current": "archive/extracted-library/drive-thumbnails/376.png",
+    "original_sha256": "f5bd2439566fec0d9763a8ea557519afdbc6f3d6a2b1d2e1b05279c9956358f3",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/drive-thumbnails/404.png",
+    "current": "archive/extracted-library/drive-thumbnails/404.png",
+    "original_sha256": "4417494563e58d8f730beee070348cac18aa498ac1518d9aad7e8ad026f5ec7d",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/drive-thumbnails/400.png",
+    "current": "archive/extracted-library/drive-thumbnails/400.png",
+    "original_sha256": "7691b54f5897f2743e2dee01b8b3aed1cee4520296897c733ac979fc554ab67c",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/drive-thumbnails/372.png",
+    "current": "archive/extracted-library/drive-thumbnails/372.png",
+    "original_sha256": "f0f8126fb4daf18fb1026caea46e35c50324187ecd413616bdcfbab40532fe54",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/drive-thumbnails/399.png",
+    "current": "archive/extracted-library/drive-thumbnails/399.png",
+    "original_sha256": "d0351f2338c7b9b62d16c5c69e97a6ad8b1cce3f31c88f489bc0d0d7b2d11fac",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/drive-thumbnails/398.png",
+    "current": "archive/extracted-library/drive-thumbnails/398.png",
+    "original_sha256": "8b3c575af18b7c2e5bae31375d49b27634009a91ff8c014eb56b096f0b11a26b",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/drive-thumbnails/373.png",
+    "current": "archive/extracted-library/drive-thumbnails/373.png",
+    "original_sha256": "56e322b71a7f86facb211ffb38a9c0526fe791b491ac839a2bfef8924713f964",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/drive-thumbnails/401.png",
+    "current": "archive/extracted-library/drive-thumbnails/401.png",
+    "original_sha256": "db34c4a7ce2f7e6025a71ec61f9d9991c4e1ade7abddde5276f43026f59af4d7",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/drive-thumbnails/371.png",
+    "current": "archive/extracted-library/drive-thumbnails/371.png",
+    "original_sha256": "1ea6ffd3d7d6ad20e7c5097c7a4637d60748b474517a5a7e1aab0729c8ab179b",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/drive-thumbnails/403.png",
+    "current": "archive/extracted-library/drive-thumbnails/403.png",
+    "original_sha256": "fe17cdc12e2fb6adfb198631a1e0f828ede4020bc177fbdf360e84d7207e5993",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/drive-thumbnails/402.png",
+    "current": "archive/extracted-library/drive-thumbnails/402.png",
+    "original_sha256": "f80bf82277750ed1ed412497739c3619dae92473fc52ff86c25141b939447924",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/drive-thumbnails/370.png",
+    "current": "archive/extracted-library/drive-thumbnails/370.png",
+    "original_sha256": "85bb7a897a7fd3846ff5d6adfb93322b2e4998cbfb0ad6d35a9383a29d1a84a1",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/drive-thumbnails/303.png",
+    "current": "archive/extracted-library/drive-thumbnails/303.png",
+    "original_sha256": "2bff9f2494979bf2432be50202556d3961fd1e08739f0b86433c344d78361eb4",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/drive-thumbnails/302.png",
+    "current": "archive/extracted-library/drive-thumbnails/302.png",
+    "original_sha256": "c64d8ad675a01ea3be0a92309882815fd2d59154ca77393b904ac0feb57336b5",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/drive-thumbnails/300.png",
+    "current": "archive/extracted-library/drive-thumbnails/300.png",
+    "original_sha256": "09f344d6513bd06b1738e5bac52a01a8c4975def1a2679222f309005fbe9f7bf",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/drive-thumbnails/314.png",
+    "current": "archive/extracted-library/drive-thumbnails/314.png",
+    "original_sha256": "2176fcbcbf3e0cb95e0e1fd0eec08ea8b6c7031fd5183be566610416b12c127d",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/drive-thumbnails/248.png",
+    "current": "archive/extracted-library/drive-thumbnails/248.png",
+    "original_sha256": "6141265a87bf120b7e74e62e6ab0afe78fef598785f60fbd31058a98d1b4fbc0",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/drive-thumbnails/249.png",
+    "current": "archive/extracted-library/drive-thumbnails/249.png",
+    "original_sha256": "24fbc92b67ea40b51a907fb032fcdaa5ee34226fa4c539df2fac29e572140241",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/drive-thumbnails/301.png",
+    "current": "archive/extracted-library/drive-thumbnails/301.png",
+    "original_sha256": "2c41e3e630337139c39edb5189fed0a20d76a8657183d34d34b0d863723e1dcd",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/drive-thumbnails/305.png",
+    "current": "archive/extracted-library/drive-thumbnails/305.png",
+    "original_sha256": "a9926031b9f19c3918a576b1af5f1d527b9c2de50bb910c9a7b41ee56e335ab7",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/drive-thumbnails/311.png",
+    "current": "archive/extracted-library/drive-thumbnails/311.png",
+    "original_sha256": "3b4a9d48ba6e74fbaf35a8bbb64e38e159de7ceeedfed4acbb58896a2ed5437e",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/drive-thumbnails/259.png",
+    "current": "archive/extracted-library/drive-thumbnails/259.png",
+    "original_sha256": "a38be4d8c02c731ff1904f84ffac1a946467230613273aca6b01011898a1acfc",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/drive-thumbnails/258.png",
+    "current": "archive/extracted-library/drive-thumbnails/258.png",
+    "original_sha256": "64c5061e16e952a8bdb4ee5d34951f20d2c9a6e73818fc915e9bfba3f9431360",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/drive-thumbnails/310.png",
+    "current": "archive/extracted-library/drive-thumbnails/310.png",
+    "original_sha256": "771a19ad162374341c68e1cbd2d3e1c20ee01c1f44c89db0e9b1c4a8defb7b7c",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/drive-thumbnails/304.png",
+    "current": "archive/extracted-library/drive-thumbnails/304.png",
+    "original_sha256": "0f6b06974202efb1be39164fefe87c6084911675ea072a86ba52f53135f051ae",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/drive-thumbnails/312.png",
+    "current": "archive/extracted-library/drive-thumbnails/312.png",
+    "original_sha256": "e75b95e770814f05b224dbb6e069a3bdaefb9b785b27edab048bd994cc060202",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/drive-thumbnails/306.png",
+    "current": "archive/extracted-library/drive-thumbnails/306.png",
+    "original_sha256": "6f0c3135d559320686fa82c74a4d2e9a9c08d2f7dea6e03d63aa19d1d0c9df1e",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/drive-thumbnails/299.png",
+    "current": "archive/extracted-library/drive-thumbnails/299.png",
+    "original_sha256": "07ea8f8fa27bd90aaf28e137bfac782ec1fb43be25346f4b65288f8857b3bcd3",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/drive-thumbnails/298.png",
+    "current": "archive/extracted-library/drive-thumbnails/298.png",
+    "original_sha256": "df3e9aeea8216ef33993b55423dbf3082045e22a2c563ea3be75abf1c9e35d4c",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/drive-thumbnails/307.png",
+    "current": "archive/extracted-library/drive-thumbnails/307.png",
+    "original_sha256": "274fb60ad8019859b2c3e464c9594138fc1871ce905ef1310a3d13ddc8fa3aca",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/drive-thumbnails/313.png",
+    "current": "archive/extracted-library/drive-thumbnails/313.png",
+    "original_sha256": "8edc524578a9901ededd485d31d7d345da6c9559fe193c2bd9a0ace1042eaf9a",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/drive-thumbnails/256.png",
+    "current": "archive/extracted-library/drive-thumbnails/256.png",
+    "original_sha256": "fc5c191c52316873ea624caa9cb889cfd397aee27485af4aff2c328b067f6609",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/drive-thumbnails/295.png",
+    "current": "archive/extracted-library/drive-thumbnails/295.png",
+    "original_sha256": "e1d4ea066e8183a634cdacafe79501654ead3c48f8dc0552d45e9d199072ebc5",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/drive-thumbnails/257.png",
+    "current": "archive/extracted-library/drive-thumbnails/257.png",
+    "original_sha256": "3f7deedaf290e701c264472455157afee6d5f2a9d60c38466249995040d65837",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/drive-thumbnails/309.png",
+    "current": "archive/extracted-library/drive-thumbnails/309.png",
+    "original_sha256": "052782a482174345f3a7f8eb56b422ee81ec2d884376695d0a38b08a33f56e40",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/drive-thumbnails/255.png",
+    "current": "archive/extracted-library/drive-thumbnails/255.png",
+    "original_sha256": "f8be0b27269b8e8f9753d50696cfae393b32fe73c78664059db12116f08c3c96",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/drive-thumbnails/296.png",
+    "current": "archive/extracted-library/drive-thumbnails/296.png",
+    "original_sha256": "bc22b63544d280053ee2d7b2d5513669ecee4da4c8fca8ff558d2bd15726f528",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/drive-thumbnails/297.png",
+    "current": "archive/extracted-library/drive-thumbnails/297.png",
+    "original_sha256": "5434c14d8431c8d6afa7799d085cc7a333c832febd98b8e78ea581eedddaad97",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/drive-thumbnails/254.png",
+    "current": "archive/extracted-library/drive-thumbnails/254.png",
+    "original_sha256": "e27ec176762ddffb5f440cc2d95a98637c55688f1f3e9f9efa742e8a738ae7b7",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/drive-thumbnails/308.png",
+    "current": "archive/extracted-library/drive-thumbnails/308.png",
+    "original_sha256": "26e3c8b5b2eba6c7a3c26f26b57ec4222dfcc16faa0c035c8df4eb394134c98e",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/drive-thumbnails/250.png",
+    "current": "archive/extracted-library/drive-thumbnails/250.png",
+    "original_sha256": "15bf69c762f43af9a226bd03390f4c65825a9cebc90ad7c04b869ae966aed00e",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/drive-thumbnails/245.png",
+    "current": "archive/extracted-library/drive-thumbnails/245.png",
+    "original_sha256": "df291d6604369758b569724963aa5585966e8e287ecec7e126b7eda38fbcb783",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/drive-thumbnails/251.png",
+    "current": "archive/extracted-library/drive-thumbnails/251.png",
+    "original_sha256": "6afa6e24d59e19e21f53c52e55cdf5a1add32eddb449adf0ca8e5f61ddb50f69",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/drive-thumbnails/247.png",
+    "current": "archive/extracted-library/drive-thumbnails/247.png",
+    "original_sha256": "79627300dea852bfed45136b36ae1332749adb10c136f7899a60877e436e346c",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/drive-thumbnails/253.png",
+    "current": "archive/extracted-library/drive-thumbnails/253.png",
+    "original_sha256": "b63942a8003b358661056ce2eb49cfedf3cfb099dec3bb4fd4836f4eb611d6d7",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/drive-thumbnails/252.png",
+    "current": "archive/extracted-library/drive-thumbnails/252.png",
+    "original_sha256": "de18b0b764b3dbf5dc551787edafbe4cc1c9f03d26922a81d7c2b67e7bd66ff4",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/drive-thumbnails/246.png",
+    "current": "archive/extracted-library/drive-thumbnails/246.png",
+    "original_sha256": "cc7ba542093cac0e0e1b938fdde5b83d86f77a244f5331c92a4e06884b2e1c8a",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/drive-thumbnails/396.png",
+    "current": "archive/extracted-library/drive-thumbnails/396.png",
+    "original_sha256": "632d087f6ae435d093b5d560b7cf6832f0996d3d0993f751628844ff6a85aa9a",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/drive-thumbnails/382.png",
+    "current": "archive/extracted-library/drive-thumbnails/382.png",
+    "original_sha256": "f2336ded1abbb717ddd8ccdb5dfd9ee3c7604c37b74c0277e7b57d9dbc5e145c",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/drive-thumbnails/383.png",
+    "current": "archive/extracted-library/drive-thumbnails/383.png",
+    "original_sha256": "952c2b32cefec6e34478de97b2e97cb9bf6def52c7293b941f27eef38078b2e1",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/drive-thumbnails/397.png",
+    "current": "archive/extracted-library/drive-thumbnails/397.png",
+    "original_sha256": "4edf3221a7df372d29fd510cfaadac8dcae07b6334a43d367fe8dd923aaeb9b6",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/drive-thumbnails/381.png",
+    "current": "archive/extracted-library/drive-thumbnails/381.png",
+    "original_sha256": "164f07f5723e0321df7d181b7c05c2357a7e1781c56f02fa3a2f339bef7d44bd",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/drive-thumbnails/395.png",
+    "current": "archive/extracted-library/drive-thumbnails/395.png",
+    "original_sha256": "f78e6096b26c01c995c38d06deb35ce58b7f95ddc44869ff8c16479897805354",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/drive-thumbnails/394.png",
+    "current": "archive/extracted-library/drive-thumbnails/394.png",
+    "original_sha256": "82c89d9a0188b3f950d1f157e731dbf2820a97fbea28f61c722786ac69677924",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/drive-thumbnails/380.png",
+    "current": "archive/extracted-library/drive-thumbnails/380.png",
+    "original_sha256": "5145a5dab62861f5b26eba6aefd8d6ea827606d83aaf7f69664deb4028c875c2",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/drive-thumbnails/384.png",
+    "current": "archive/extracted-library/drive-thumbnails/384.png",
+    "original_sha256": "89c95f94b941e4ed79b0b12176d88f37bd561d87b9e198e4be108abea40f5946",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/drive-thumbnails/390.png",
+    "current": "archive/extracted-library/drive-thumbnails/390.png",
+    "original_sha256": "f31bec36c1776f5163e0feb759009e256bc794de3040dbcf503bac15411cece5",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/drive-thumbnails/391.png",
+    "current": "archive/extracted-library/drive-thumbnails/391.png",
+    "original_sha256": "198663ea0ab1ea2a223d4a8e71e9b32d2f233a8f504b5f1f74739045e640e626",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/drive-thumbnails/385.png",
+    "current": "archive/extracted-library/drive-thumbnails/385.png",
+    "original_sha256": "312dfbf1ab65dddaddd3cd2866429b2ead0d38a073524210f571950b914b65a2",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/drive-thumbnails/378.png",
+    "current": "archive/extracted-library/drive-thumbnails/378.png",
+    "original_sha256": "fda73fc60d62225ee49e59456e5c5def0f16a1b829acfce62481203635a73adb",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/drive-thumbnails/393.png",
+    "current": "archive/extracted-library/drive-thumbnails/393.png",
+    "original_sha256": "272971294cd96fc5c220c42c158a168c844305dd3f4bce332097e7d029774492",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/drive-thumbnails/387.png",
+    "current": "archive/extracted-library/drive-thumbnails/387.png",
+    "original_sha256": "bb56c5bdc59ab7362fcc5feaf1d92bca14670fe1341f3fa2578549fb47960d05",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/drive-thumbnails/386.png",
+    "current": "archive/extracted-library/drive-thumbnails/386.png",
+    "original_sha256": "142bd4d126b25d459e2d88ed8f6b155f71be19e99f9cab915f4575c99edcb570",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/drive-thumbnails/392.png",
+    "current": "archive/extracted-library/drive-thumbnails/392.png",
+    "original_sha256": "aaa69b1cc1c2bbf12d58b0585db08977979a26d905c507fb45456db136b80e94",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/drive-thumbnails/379.png",
+    "current": "archive/extracted-library/drive-thumbnails/379.png",
+    "original_sha256": "afce73feaa3ca5107d4ba66776a25d02aec939429f631a117760b189b9eb9a53",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/sources/km-scn-365-402-dining-hall-source.jpg",
+    "current": "archive/extracted-library/sources/km-scn-365-402-dining-hall-source.jpg",
+    "original_sha256": "c9a68c8e08afb790d882fcc3eafb2b88068037135d11072c7828d2ef1aea02d5",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/sources/km-scn-365-401-laboratory-source.jpg",
+    "current": "archive/extracted-library/sources/km-scn-365-401-laboratory-source.jpg",
+    "original_sha256": "9829c349826736b3d55b747c2048744985cbfede63e67c3328394b5a5bc8ba28",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-309-umbrella.png",
+    "current": "archive/extracted-library/characters/km-cut-365-309-umbrella.png",
+    "original_sha256": "e5aa5deede3f2fa87ef0c9ba3d86baed747874e430a332756c5c732926bc19c4",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-403-theatre.png",
+    "current": "archive/extracted-library/characters/km-cut-365-403-theatre.png",
+    "original_sha256": "f81d47dc7abd97617e34dc71298b9ad7d22e1b0273e786b1de16f1440f794dcf",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-251-saxophone.png",
+    "current": "archive/extracted-library/characters/km-cut-365-251-saxophone.png",
+    "original_sha256": "0a08f93d8a8c23f847b3047ab2c5c57b63a8639415df7781eb9ad3e12bc61f84",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-435-eel.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-435-eel.png",
+    "original_sha256": "c7bae24e87c189f938acafabc8f044b62d2de02dd2649a430442cf9618f689f0",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-500-.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-500-.png",
+    "original_sha256": "10ba26dceb48aee05ae029576e9853a37fdd68740e7b4654f59aef8a33f01673",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-445-.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-445-.png",
+    "original_sha256": "f8ac6dc4bf200a3739128b8384a2aa43eab7ddf95a51f3f09fdbc9596e7c38d8",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-453-.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-453-.png",
+    "original_sha256": "a4ce0e1231e84e225cad721c252a05d8983bc814f4f5f291e0f6a29c02554fe6",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-525-hinamatsuri.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-525-hinamatsuri.png",
+    "original_sha256": "04ef156f22c677978388747c8a1bc46e0b85d7e90e5af34e6eb9a4e54361f3c2",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-378-fitness.png",
+    "current": "archive/extracted-library/characters/km-cut-365-378-fitness.png",
+    "original_sha256": "2cbdc01e613e3ea03012ec3328bce11b5b890327aa7adfed8ad440d89b2343a9",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-490-.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-490-.png",
+    "original_sha256": "0cfe9805dbf72ca1122fde47e638f66aa1087dab97890038801b65991c72e578",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-514-naruko.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-514-naruko.png",
+    "original_sha256": "c2ad0118150668cfa5a7d8dd936980a937ae14adac5db30487ae64139cec5462",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-307-crab.png",
+    "current": "archive/extracted-library/characters/km-cut-365-307-crab.png",
+    "original_sha256": "44bad1ec43b0522ce9c676eb664aafeb070262814ebe06a15e39845aae7b6354",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-526-f-rin.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-526-f-rin.png",
+    "original_sha256": "08bdc4a687b0b9f3786b795b3fb9a06400679f5ec0ee8f502f486bd8d3625197",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-253-cello.png",
+    "current": "archive/extracted-library/characters/km-cut-365-253-cello.png",
+    "original_sha256": "72bd4e9735d1b01efda837c74134e99c51d65e2853623dc53c369a93253107aa",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-469-.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-469-.png",
+    "original_sha256": "62a0caf45cf097bb30a73a009de2436d48e709ee23e3319fa93623b7bce15b2a",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-508-shamisen.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-508-shamisen.png",
+    "original_sha256": "d209bbcec6d8583ae2613a4744ee44e2ce0c33a176b65614d21cd37dfe632a81",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-486-.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-486-.png",
+    "original_sha256": "590142fb17071a1eb4b4c3f5dda4419c28c34950c352031936e4cfc01ca95495",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-257-rain.png",
+    "current": "archive/extracted-library/characters/km-cut-365-257-rain.png",
+    "original_sha256": "95943612178bb72abb8aa32825c5121a72878df5fd7c8eca845d84af742028f0",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-395-medicine.png",
+    "current": "archive/extracted-library/characters/km-cut-365-395-medicine.png",
+    "original_sha256": "054d0af134c5884e1a44d11cc00f8b8cb3d5f3df98019a7c5ed8eb297eb03cc4",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-301-pier.png",
+    "current": "archive/extracted-library/characters/km-cut-365-301-pier.png",
+    "original_sha256": "f0409c7571c32a921ae56888a60146f20506a0f348e890d7ac058a7275fd1ff9",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-516-koto.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-516-koto.png",
+    "original_sha256": "759455b3baab0dce9515f96edf37b36b3a4258e4369e14da2ceec89c3ab8fc7b",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-449-.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-449-.png",
+    "original_sha256": "6af4765e2e1619254363224b0a9018759faa40a76c278e1f5f245e57cdda52ee",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-388-earth-science.png",
+    "current": "archive/extracted-library/characters/km-cut-365-388-earth-science.png",
+    "original_sha256": "8f6ea4dba7e2ed59b113b854d910d46c6c5f6a58532de39d7a80318775252997",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-473-.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-473-.png",
+    "original_sha256": "96573c40a539bd306fcfa1e8f08e297ecfa06031acf4c05de98f4344cfe152eb",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-512-kane.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-512-kane.png",
+    "original_sha256": "f447dbdfadad51d06f87d2609eb7b71662bd17df293c4c3c76a699aa37021745",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-465-.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-465-.png",
+    "original_sha256": "574f6670f638cd93508c8393203d9e3dcfa2c9e0f34151edfb0c9cb254495237",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-464-.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-464-.png",
+    "original_sha256": "1b9397a27f39026191f834e2ca7408b3fac08459d3fe18d9f35fa658e458f1f9",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-250-flute.png",
+    "current": "archive/extracted-library/characters/km-cut-365-250-flute.png",
+    "original_sha256": "2098288f763223750cd69a5e2979c79440402c6bc2dfcf1260bc14a104bc40f2",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-472-.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-472-.png",
+    "original_sha256": "4161c7a479fd9525a578cbce854bda9d249534586bea5806ee9fa348556f2c9e",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-426-tempura.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-426-tempura.png",
+    "original_sha256": "5bcb82b3dd440c4c66c6da7ff5ec68ee4b8da82c090c52d5c636086804179f31",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-313-yacht.png",
+    "current": "archive/extracted-library/characters/km-cut-365-313-yacht.png",
+    "original_sha256": "425d9c6fdb8fcec7f46a8662490986f1b680c1eef03df65cf57ce90dc4be5683",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-448-.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-448-.png",
+    "original_sha256": "c159e2bc541ec1cb796893e2225a5ce5f1708704d450364c1541b0d14277369b",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-400-lecture-hall.png",
+    "current": "archive/extracted-library/characters/km-cut-365-400-lecture-hall.png",
+    "original_sha256": "53057bb545db51c2b114389d3385d376625f5a2e4f1d5eb1d7d4fea69f12babe",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-530-t-r-obon-festival.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-530-t-r-obon-festival.png",
+    "original_sha256": "c70537b98746af5c6acf4fcd25feea201b4a87fcb5b8dfa1ca24dd2bd1c0b78b",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-468-.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-468-.png",
+    "original_sha256": "a2d50b8087ebc1681fb05a90869c97ffdd51ee52d6fc92a2730f6df93299c8e6",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-487-.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-487-.png",
+    "original_sha256": "1a8c9bcfa875d7061d192c1d118a7fa5006e5faecb9337a29f391ed30dfa9dfd",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-491-.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-491-.png",
+    "original_sha256": "d88759490cd71b2a1b3aa407df00b9de78acac064929785b96aae16f06a1deaf",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-258-rainbow.png",
+    "current": "archive/extracted-library/characters/km-cut-365-258-rainbow.png",
+    "original_sha256": "bf248b0fde6626de62aa216fbf92086968c7e1f63b7fa4acbd50e68844cb56f9",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-300-cable-car.png",
+    "current": "archive/extracted-library/characters/km-cut-365-300-cable-car.png",
+    "original_sha256": "bb2c32b927a1dc5a1a569adb62e9e167a618e391b2f7ee0c8ed397b36fe2a596",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-452-.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-452-.png",
+    "original_sha256": "49de787036d01cd8c05641b8a76cfdffb30510d925f5dbcab704aaf58d353715",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-314-buoy.png",
+    "current": "archive/extracted-library/characters/km-cut-365-314-buoy.png",
+    "original_sha256": "6fd4c98b9d74ae0e1049ce47dd7bf445fcd59916eb76d7c8436c394736a12fa4",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-424-sushi.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-424-sushi.png",
+    "original_sha256": "30ebb96d34b2b300a1f5a3d204c9637c4fa946bd3adefddb567db532dc54842a",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-523-shimenawa.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-523-shimenawa.png",
+    "original_sha256": "0c5150d92f6e8752f71d9e0a9687903d950e1d34c78ecee7ba6c77bc578c6679",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-501-.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-501-.png",
+    "original_sha256": "ad54c185baf4af10717a0cc6d3cb5254aa43214ed09bc767b9f98cd319911a34",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-374-bookstore.png",
+    "current": "archive/extracted-library/characters/km-cut-365-374-bookstore.png",
+    "original_sha256": "958c981edcbb131800928cb5a17b6e91ba38af3923b2b6e0356375d22cf9c383",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-444-.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-444-.png",
+    "original_sha256": "93979b6a8b379df17370c84afbd0a33389de770966dc17e5f887a5f0e83688a3",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-372-furniture.png",
+    "current": "archive/extracted-library/characters/km-cut-365-372-furniture.png",
+    "original_sha256": "cb6bc2408159af32de550f1802d5feda62c9012545e00ab14b3326153e851be5",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-432-shabu.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-432-shabu.png",
+    "original_sha256": "26b5a2c1e85770ac58177a7285abdf293f2f4a0816a64b30611e3b9406515f52",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-459-.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-459-.png",
+    "original_sha256": "b017e1e5fb5ea88c3d4bbaeb81e4ea573845eebfad01bc6b0e52ee1c374f505c",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-255-xylophone.png",
+    "current": "archive/extracted-library/characters/km-cut-365-255-xylophone.png",
+    "original_sha256": "3f424c2e022e1998d570cc8e1b649bb6198c98039c0b98d21486fa37a465affa",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-299-seals.png",
+    "current": "archive/extracted-library/characters/km-cut-365-299-seals.png",
+    "original_sha256": "12166b62332db63c0c4d3b506e3a428714be85942492d9cf13aab0d0435eac7b",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-475-.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-475-.png",
+    "original_sha256": "714d53885a0505986d9f70acfe11993bc30f20e7168b9ed7db66184737636106",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-245-piano.png",
+    "current": "archive/extracted-library/characters/km-cut-365-245-piano.png",
+    "original_sha256": "866af0be9acbbc11c3e170a5ca868abbaa2e6ff5418e344d8c7870088bc6bb32",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-371-cosmetic.png",
+    "current": "archive/extracted-library/characters/km-cut-365-371-cosmetic.png",
+    "original_sha256": "ecd706cf8bf605ec0eb5995ab147127700dfd48a558d9e27c3b14c2979fe8548",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-463-.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-463-.png",
+    "original_sha256": "f75e12491afcfdafb8150189e8f4dfcc7c0bc6df471980442964e10a50a60903",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-404-swimming-pool.png",
+    "current": "archive/extracted-library/characters/km-cut-365-404-swimming-pool.png",
+    "original_sha256": "80148f206827e8c2779532851908f55d958aa6bc9c65d62bae0ccccea13b282c",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-295-souvenir-shop.png",
+    "current": "archive/extracted-library/characters/km-cut-365-295-souvenir-shop.png",
+    "original_sha256": "81fe03010c07cd4303af43d71420f11d02b3c4461ecf80cd85318e3738c9cb59",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-382-architecture.png",
+    "current": "archive/extracted-library/characters/km-cut-365-382-architecture.png",
+    "original_sha256": "8190019a22b7bb04bd0523b6b145c1642e5e9cf47166a09834a2ea16019ac30c",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-506-.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-506-.png",
+    "original_sha256": "fd6a1d759d34065729bd6db7bbe134d78516f12c2e53fdcabb9e99a1c2d50f0e",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-443-.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-443-.png",
+    "original_sha256": "8f19fe8aca5fd19778e057b18f90fad8bd5e06d7520a18a926c25df31d605c92",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-401-laboratory.png",
+    "current": "archive/extracted-library/characters/km-cut-365-401-laboratory.png",
+    "original_sha256": "5bb5ab0d520c869cf65230a28f0e40de5c8dcae3bf52239c1f679e6c4053b3ed",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-392-fine-art.png",
+    "current": "archive/extracted-library/characters/km-cut-365-392-fine-art.png",
+    "original_sha256": "2a5e8e0f3b1554e89067d0422dd232ae4511b6b6e72b1579b05552da584e8a70",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-375-pet-shop.png",
+    "current": "archive/extracted-library/characters/km-cut-365-375-pet-shop.png",
+    "original_sha256": "77b943a1efe8c44527fdb746172b0f8baf6b9a10ec5df98c4c6c4abd0a4c6593",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-455-.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-455-.png",
+    "original_sha256": "51ddeebe182bf48b1bee291a2c6720e7bb375e6f9a6b6707ea00f1aebf5f9733",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-304-military-fleet.png",
+    "current": "archive/extracted-library/characters/km-cut-365-304-military-fleet.png",
+    "original_sha256": "e3f3495f8dee4279e47e0760ea8c3edb62328963e2f50ac69ee5a0e0fce44a19",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-479-.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-479-.png",
+    "original_sha256": "47084517a16d9b8925b53ca76c1c7ecd55b891f980458e2f876ad2b63e9773a5",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-496-.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-496-.png",
+    "original_sha256": "35d9e934b0965f3b50c713915b0234f71b075aecf27c6afcb13de61d7e4cd558",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-377-eyewear.png",
+    "current": "archive/extracted-library/characters/km-cut-365-377-eyewear.png",
+    "original_sha256": "600e1f920ae8bc122eaaa3bebe41e569f5aca1544e41c9a035e60eaecce05fcf",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-438-.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-438-.png",
+    "original_sha256": "9f7758c899b7ad3bb4bec8358b3cc01820aaab272e0aa3272a3c43233d8e78c2",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-515-sh.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-515-sh.png",
+    "original_sha256": "3b7d30d4b9d6fc90c896d5f8eaeeb7b585cadc9cdc165c6e856c2bd549efdf67",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-480-.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-480-.png",
+    "original_sha256": "3403ee0daacfe06c5178805ad8c9e52f518c3b4df9a0dd553dbda44004a801f2",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-312-palm-tree.png",
+    "current": "archive/extracted-library/characters/km-cut-365-312-palm-tree.png",
+    "original_sha256": "91dfe214524ff16de8883f0ee2aacbe0194577a785898738688d4c53e3c3841a",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-481-.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-481-.png",
+    "original_sha256": "03a455200c7164d8a229502e9058a4bea46c1f0de2f6a01d982f6aecd715ac69",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-439-.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-439-.png",
+    "original_sha256": "f74d31b432f793d53e0e59c1a57e59675232e26b7165c08a28bdea66d89e789d",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-478-.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-478-.png",
+    "original_sha256": "14986d59f2838665021b3906fe31e205a6ba25820dcba977e557eef592cdbb37",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-497-.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-497-.png",
+    "original_sha256": "6037c4c4fe5ce53eb8a359ce58e6cf85ff9afa7172164b0f2008635b049eabe5",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-303-ferry.png",
+    "current": "archive/extracted-library/characters/km-cut-365-303-ferry.png",
+    "original_sha256": "2987155a3649f91d17bcf7b161e3281e04acc0250f0cf1060ba5ea0396b9f1aa",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-302-boat.png",
+    "current": "archive/extracted-library/characters/km-cut-365-302-boat.png",
+    "original_sha256": "26f24367e48d22133806a37a5c4bc1d7e03ea9f392bf5df8ecfd7b85ba79f964",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-454-.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-454-.png",
+    "original_sha256": "e058e30c6e76fc210d05c8ce77da590c56aff13fbfc1007087517999f652cd79",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-528-omiki.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-528-omiki.png",
+    "original_sha256": "01496ea79b2b64a70cd9405c3b579820bb95b7198af06b81a08c890341a55076",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-531-hamaya.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-531-hamaya.png",
+    "original_sha256": "331ec82c985c30b6cbe83d174627e23dd62a16e45a8df439d6f2cf81498e527b",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-507-.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-507-.png",
+    "original_sha256": "ced10814f0667d14e7e6b9b4d157445587e1890f1b94d67d85825f467908c924",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-442-.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-442-.png",
+    "original_sha256": "760d3eaf4548b721a2341d470fab82a67bc43e59c16fedc0cbc453cf626d5903",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-402-dining-hall-source-size.png",
+    "current": "archive/extracted-library/characters/km-cut-365-402-dining-hall-source-size.png",
+    "original_sha256": "1a9e41e583b0489728095cc9bb704869c4e823a983aaa4fc98ace701d16461d3",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-425-sashimi.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-425-sashimi.png",
+    "original_sha256": "d842dc9405ea5a7bada9af40e6d0f9fbdfba8e34c6593132b713a71d8dc67d3f",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-462-.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-462-.png",
+    "original_sha256": "aae79bddd725ba7b79d6fe64a63f933be28b187aa936b3cf92fc95de78bf2bce",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-474-.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-474-.png",
+    "original_sha256": "056331b1c2003ca77459a53c5264f9ef79d99e24a70aea284489fb0f97ccbca9",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-458-.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-458-.png",
+    "original_sha256": "980ecf334dfdc7486152e065b74fce1dedf6cb7e41d8d652b31ee7dcdd6e78e6",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-429-takoyaki.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-429-takoyaki.png",
+    "original_sha256": "908d264a0284229f94f398132211d11c24bce38fcf3652588cca77102bf4f0e5",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-398-political-science.png",
+    "current": "archive/extracted-library/characters/km-cut-365-398-political-science.png",
+    "original_sha256": "10480f801a064e4750e2d960a2ec17c6d962f514389bd8aa290cba993a18af5a",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-428-okonmiyaki.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-428-okonmiyaki.png",
+    "original_sha256": "3dc115ce793f5c6f59d0f1ef5f959dc7f0cc5f721317e4aad79422236ef40a0b",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-461-.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-461-.png",
+    "original_sha256": "0b12bdd09e56e7d7d0716061372a105e7205a1889a5a093dd17a418d76e9ac7c",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-436-.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-436-.png",
+    "original_sha256": "7baa818243bf5fd81c9da7262c64d9f0baa86be8df89d7753d75e85313ae8157",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-522-hagoita.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-522-hagoita.png",
+    "original_sha256": "88c63ee190207bb550aa5b765a0e2c629a6a6da9514f79d718b4d06bdf3c32a3",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-513-koky.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-513-koky.png",
+    "original_sha256": "f8a5778481e5298e73ac76114b0187c52004ab4254af7045f712c850d09a8eb9",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-498-.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-498-.png",
+    "original_sha256": "2a023400fc7f4341347e630b26409a81dce5c0eefebfb0052e98bc13318e872d",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-477-.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-477-.png",
+    "original_sha256": "d5782217c2b42a156dcde486190fe3765b96612a5cb20a1b7bf5530d357312df",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-520-kagami-mochi.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-520-kagami-mochi.png",
+    "original_sha256": "91fbf32b26531750434aae3da3339138e20e9f436c86fee0be6bc49df2279808",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-402-dining-hall.png",
+    "current": "archive/extracted-library/characters/km-cut-365-402-dining-hall.png",
+    "original_sha256": "365197423875b004c4b3f42cfa2a5b386e38a0a8f1d1df6b442e6f2f9382f6ec",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-391-engineering.png",
+    "current": "archive/extracted-library/characters/km-cut-365-391-engineering.png",
+    "original_sha256": "0e8839e7c67e3127f2c430a0187d228072645150af79d3f5fe37a4fcb73a298e",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-399-library.png",
+    "current": "archive/extracted-library/characters/km-cut-365-399-library.png",
+    "original_sha256": "156c1778e4bfbc5985bde742f81a3d52b4b30888215b5ae5e8a7ad3b69dba2c3",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-482-.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-482-.png",
+    "original_sha256": "9c3929427650b215f8cfd701fa050ad64fb63b21876860ae3a28ec1061dd6512",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-431-sukiyaki.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-431-sukiyaki.png",
+    "original_sha256": "9933c7a2cb7623133d3de63ef6a712db9c3144649210784d05c6961c921c2164",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-256-accordion.png",
+    "current": "archive/extracted-library/characters/km-cut-365-256-accordion.png",
+    "original_sha256": "0c67ae92be17a0641b0d5c71d7d194f4ef3e739e2bd145d2c2d20775e87acbda",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-259-fog.png",
+    "current": "archive/extracted-library/characters/km-cut-365-259-fog.png",
+    "original_sha256": "97d264a9503169ffbacf5afce60923de6b4ba698e288a72e3d263ba6b2ea7434",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-386-computer-science.png",
+    "current": "archive/extracted-library/characters/km-cut-365-386-computer-science.png",
+    "original_sha256": "cb58e6840a63159f2338e920f82451634ea215ab157e56f7474e82c5c6fbf70b",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-298-seagulls.png",
+    "current": "archive/extracted-library/characters/km-cut-365-298-seagulls.png",
+    "original_sha256": "36d05b830f4f5f5edf0c39ecb114fbb9eece24fb56614bd7a1e9159624a13efc",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-494-.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-494-.png",
+    "original_sha256": "2d0f691a46ec7d42628ada4b6222bec20de76cd2e25f4b6d8438a1b096646eea",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-310-beach-volleyball.png",
+    "current": "archive/extracted-library/characters/km-cut-365-310-beach-volleyball.png",
+    "original_sha256": "dc7d25f40b238e0cd4768e490c16d50f74700d89daa00d353b5d22e9b932935d",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-457-.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-457-.png",
+    "original_sha256": "5f5663ab706048ca98d971ec7e44ee64c2da10211ab9277102e7631f4a8ffbb3",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-511-shakuhachi.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-511-shakuhachi.png",
+    "original_sha256": "0088924a9289d893ed66a9b44ac1590dfff2fcb21010e6f8be938452fc1758a1",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-254-tambourine.png",
+    "current": "archive/extracted-library/characters/km-cut-365-254-tambourine.png",
+    "original_sha256": "e9cead62b78d2e7a4352fec17a6aff79092c56a222a0f79cf800b5ffd91f5275",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-384-biology.png",
+    "current": "archive/extracted-library/characters/km-cut-365-384-biology.png",
+    "original_sha256": "4c4a7efaceba4008831c0fdd2de0f584a75a3eb09d7c1b03bd497336add63280",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-441-.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-441-.png",
+    "original_sha256": "6bf719e62a47a4932b0e925c1df45621e6c66bef75be65c52d5ea08e8b94748d",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-504-.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-504-.png",
+    "original_sha256": "45072c32b71598d02d91136b8e1c1dde480a93227357d865b6a5b8c62674df7b",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-401-laboratory-source-size.png",
+    "current": "archive/extracted-library/characters/km-cut-365-401-laboratory-source-size.png",
+    "original_sha256": "c82bdf2b1a57f87be426976bef79c2988d2189e73ce68f1e51133e555138e5be",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-427-ramen.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-427-ramen.png",
+    "original_sha256": "7d4e17eb596da0d80011003dcb69153adc432328b0dab6abc0c9fb958c99ac8f",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-376-accessory.png",
+    "current": "archive/extracted-library/characters/km-cut-365-376-accessory.png",
+    "original_sha256": "312ded9eb9e5cf6c8a9ea89e8ec4203f4d593f7361fa91abcf739f3222f7c8f3",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-440-.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-440-.png",
+    "original_sha256": "df3afeaf506d1641da00e065b6ef809c8a743c83947d25cf3b53065996d2fd70",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-505-.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-505-.png",
+    "original_sha256": "09b8cc480f3191482d3b4b1e7bb61393aa9a6d6f32931758eac8181d017d51ee",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-456-.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-456-.png",
+    "original_sha256": "fb2b62a5bfbd905859b7d32fcede857ddaf01fec007a8212143462be5b24d195",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-370-sportswear.png",
+    "current": "archive/extracted-library/characters/km-cut-365-370-sportswear.png",
+    "original_sha256": "466749d472f727b3b04afcf86886f69a47a663146719ab157d38a56b417a9e4d",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-495-.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-495-.png",
+    "original_sha256": "f9bdb80eb9deea1881edd0a13047f5fcc5e67bcef8a18496f210690371c0c036",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-380-arcade-centre.png",
+    "current": "archive/extracted-library/characters/km-cut-365-380-arcade-centre.png",
+    "original_sha256": "c6bd4f7236f6023a95bff309dc324965de550e7cce4830c2c713d6bed08a1a4c",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-296-seafood-restaurant.png",
+    "current": "archive/extracted-library/characters/km-cut-365-296-seafood-restaurant.png",
+    "original_sha256": "4b686e2337644681f681e555550e6e9b7956ab2440b6e0bd3ab4a400fe7ee94e",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-529-.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-529-.png",
+    "original_sha256": "7a36a2d989b3ab456eecc7a897312006a7c6b6f458fe7b2dc7dac0d7e49a9b5d",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-483-.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-483-.png",
+    "original_sha256": "3f17aec670b19a12abbcb6464a0732a61f77b0dfde6edeff0c43f53f77b4fbda",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-519-shakuby-shi.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-519-shakuby-shi.png",
+    "original_sha256": "a68887bda50ad596e008b6b21f501ae83dd902d9fb437c1369bea6401e7f324c",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-387-design.png",
+    "current": "archive/extracted-library/characters/km-cut-365-387-design.png",
+    "original_sha256": "32db823e0b355833a4b9d5d2e590e792f66e92047e7462d2051a548b2b55023c",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-385-chemistry.png",
+    "current": "archive/extracted-library/characters/km-cut-365-385-chemistry.png",
+    "original_sha256": "01f98f62454afca6e80b9151004e03c6afc8675f547888849d7405ac42473dd0",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-499-.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-499-.png",
+    "original_sha256": "829b7596a741583cca5d38190432801906d4dd80bbd29f3ce8cddf60183d2af2",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-476-.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-476-.png",
+    "original_sha256": "b873d665d49b4894d8d226be52ee0c16c8b9c25f9c093bcec5ee3573f325b92b",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-297-ice-cream-parlor.png",
+    "current": "archive/extracted-library/characters/km-cut-365-297-ice-cream-parlor.png",
+    "original_sha256": "1cf95a244389b81a09e3b31b1958e75e82c05b95090e175d86a2bf46e69188af",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-437-.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-437-.png",
+    "original_sha256": "9b6fd4131c1ee8eea0a046116d0cc84756a30d96f3ff31f38c6aba8caddfcda2",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-249-trumpet.png",
+    "current": "archive/extracted-library/characters/km-cut-365-249-trumpet.png",
+    "original_sha256": "e1e3e963ccf7c5028432af450dfe52d58a4ea34faa0abfc254b0cb49ea3c4041",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-460-.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-460-.png",
+    "original_sha256": "60e0d1a3de3fd79eb27e99d7aea1c625585abc88882c6912b995a6f45605a5a9",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-306-seashell.png",
+    "current": "archive/extracted-library/characters/km-cut-365-306-seashell.png",
+    "original_sha256": "064935ded9eccebf9c5175f2b77e00269baa9d85944e679ce755942d7e88dc29",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-484-.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-484-.png",
+    "original_sha256": "4e2d1e81398a6daa23556730e80de26a24331de1c1b4be73d95c5054eceeb833",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-246-guitar.png",
+    "current": "archive/extracted-library/characters/km-cut-365-246-guitar.png",
+    "original_sha256": "d9c8fdd76f8dccd337947941c640beb43add96d06c732f54875111363e2bdc8a",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-492-.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-492-.png",
+    "original_sha256": "4e9bef36b31c7f01fcfcb0368662a080a0f6c51c75a2e72de3c60f5dd1940cff",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-509-taiko.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-509-taiko.png",
+    "original_sha256": "27a6cdb431f5170d3d408a815c4c67c7c1159b3a6203268c0131dfacbf5fdf87",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-451-.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-451-.png",
+    "original_sha256": "9dff00d36c38d6d3df39cda4e01bdc4b5f17576bfb80174932e712195af50506",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-247-violin.png",
+    "current": "archive/extracted-library/characters/km-cut-365-247-violin.png",
+    "original_sha256": "54669f230dbae8d3f5abbe056a8e65a76dc3110a4aab05703e8a5018a987110b",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-393-law.png",
+    "current": "archive/extracted-library/characters/km-cut-365-393-law.png",
+    "original_sha256": "3f7bf7f5783a18c644ee55e36123384d7dce2b3ef3c8177659355c4beae577a4",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-447-.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-447-.png",
+    "original_sha256": "2fdb0b49c681d4a3c73c4473528c1453549e9e67bcf2c5b66e281af77998e1f5",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-502-.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-502-.png",
+    "original_sha256": "64850eec2543606d0b14495f0961cfa04e9996bfb866f54f808e2ac59c7deff6",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-389-economics.png",
+    "current": "archive/extracted-library/characters/km-cut-365-389-economics.png",
+    "original_sha256": "a5431e07ca8e60cf2f4ce41691453e80edc24e33e52ca1cfc6c2309994b0b606",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-488-.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-488-.png",
+    "original_sha256": "2aa204b08b0a2fab4a06b2077b39827acb4d1dd7095de3022156ccabcbfa9272",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-467-.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-467-.png",
+    "original_sha256": "dcf45412f04562fcdee05c15581f008d74e1f14b934ab64f406ebcee99127b4e",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-397-plantology.png",
+    "current": "archive/extracted-library/characters/km-cut-365-397-plantology.png",
+    "original_sha256": "8e3cd092a8d9030301c784e24ad6d563a5e55a82df616c51b4450ecfa2431fcf",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-471-.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-471-.png",
+    "original_sha256": "6563eb2495583746218d25fb9af82e9ebce243e85e1517be62ad67a018320b84",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-383-astrophysics.png",
+    "current": "archive/extracted-library/characters/km-cut-365-383-astrophysics.png",
+    "original_sha256": "fe486a26355e466f0e20541802cc719e7c246aa61dd33053169c84c95d346313",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-248-drum.png",
+    "current": "archive/extracted-library/characters/km-cut-365-248-drum.png",
+    "original_sha256": "a358ee5e86eada9cd1bdff2fa3aa4bccd5077788b4cdd47322a02f55834c4979",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-517-biwa.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-517-biwa.png",
+    "original_sha256": "ba9c166d90ae76a8bfec4473c99834f6c316d7aafaaff5fb557fc6e13facd8fe",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-430-kaiseki.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-430-kaiseki.png",
+    "original_sha256": "87d1cd1c540f16f1cde5befe29f1e7e0f549615152832f98f95eb819617d61f4",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-433-osechi.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-433-osechi.png",
+    "original_sha256": "e961f3247200673cd3db2f7bcf08c51c161a933bdf52732e2ecf186a0bb60c94",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-521-kadomatsu.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-521-kadomatsu.png",
+    "original_sha256": "45078f2f2ca18b302a4021de14d73ff81e9ebd86868e4f8eec4e6bd7d25135ca",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-373-pharmacy.png",
+    "current": "archive/extracted-library/characters/km-cut-365-373-pharmacy.png",
+    "original_sha256": "9be92bc7a26c2fd2964604fe37a8209f6d9004ba1e3369750e568bc10c1ecedf",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-396-physics.png",
+    "current": "archive/extracted-library/characters/km-cut-365-396-physics.png",
+    "original_sha256": "f461001a98aea80c5df657306be91acdc9ba4196a76e11975d481316f32e2555",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-510-kakk.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-510-kakk.png",
+    "original_sha256": "314cf2ce1e8c170bff9729f290521fdb071ee031b26b1a8e1e868de6e56dd08c",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-379-toy-store.png",
+    "current": "archive/extracted-library/characters/km-cut-365-379-toy-store.png",
+    "original_sha256": "88b338aab29aa044075b84b462148106280dbc22d08b6ab20053cb83a5e8ef11",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-305-sandcastle.png",
+    "current": "archive/extracted-library/characters/km-cut-365-305-sandcastle.png",
+    "original_sha256": "9e24291673051de86d2dceef3dda8ea91fbba20f981965e35d0cc0f863fac992",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-470-.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-470-.png",
+    "original_sha256": "150e04aa89a5dc115a037bbd6e741d42c9b311d964cefdd95642a6a0a3bda9cd",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-489-.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-489-.png",
+    "original_sha256": "ef77d3a8d4110fbe769094fb06f1c2f5ada499f69e46e9240a1be63353d2118e",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-466-.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-466-.png",
+    "original_sha256": "43e654100207f4c3a69f893be9d96e909b48c6381ded7ad50106e189c7552e1b",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-446-.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-446-.png",
+    "original_sha256": "6bd687b015117db9120ea9948e8a059d4ac52fd9e22c368ed9c2da8a6e3f291b",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-503-.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-503-.png",
+    "original_sha256": "f31c7038079ed64a0810b541c70179cff6b8aadd5b9949a865313b823da40fcc",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-434-oden.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-434-oden.png",
+    "original_sha256": "96590d83c47261f6b27de557b762cb597fe7ba253ea91ff5556d41636305cd62",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-450-.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-450-.png",
+    "original_sha256": "53c7f323087bcb84fb3461899fcd15c47c7529c8489ab27402a1cb192215e0f0",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-518-mokugyo.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-518-mokugyo.png",
+    "original_sha256": "36d9f7b31433d97d55167ed54ceff63c169e2b81d06ce5621e42548feafaddfb",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-252-harp.png",
+    "current": "archive/extracted-library/characters/km-cut-365-252-harp.png",
+    "original_sha256": "3b728533a50fc2b9dfcf93aeac8f115e6a5297ad563492f78dd251f76451cb3a",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-493-.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-493-.png",
+    "original_sha256": "ce61fe79fbdd86cb81ba2d30edf25ba07600d95554db40556dcbc0b8fc737979",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-527-setsubun-no-mame.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-527-setsubun-no-mame.png",
+    "original_sha256": "04b5bc93a75ff706b9bcb8f0d3edff072d955e0e9cb42216b33d84b3298b0ce8",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-390-education.png",
+    "current": "archive/extracted-library/characters/km-cut-365-390-education.png",
+    "original_sha256": "c55fc222fb8f34c886c5a0d4639cfb77955bc500ae08ccdc15228fb7e1694c99",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-524-koinobori.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-524-koinobori.png",
+    "original_sha256": "3b9df68564a97075f80012efab18d6b2fe27518742cb9f3a41ced5ea7ac09654",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-308-surfboard.png",
+    "current": "archive/extracted-library/characters/km-cut-365-308-surfboard.png",
+    "original_sha256": "2e5250e32bc87730491e8652f451b453b9f4b7e6dabbfeb324565fb16a7f0c09",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-jp108-485-.png",
+    "current": "archive/extracted-library/characters/km-cut-jp108-485-.png",
+    "original_sha256": "24ce8736da8248dd5199bb66a2398c7cfd06d41b8101b50908f9d62bb198fd47",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-381-anthropology.png",
+    "current": "archive/extracted-library/characters/km-cut-365-381-anthropology.png",
+    "original_sha256": "23b75a3ac3d5b8d31b7db0a644d77a0ee6c032d894a57cdb897ebef27a59f5a5",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-311-lifeguard.png",
+    "current": "archive/extracted-library/characters/km-cut-365-311-lifeguard.png",
+    "original_sha256": "5b8ab33bdfae0f4e8100a7aa349ec43016a5e85da78bfaecd675c92be87ef2ef",
+    "operation": "copy-runtime-source"
+  },
+  {
+    "original": "/Users/snapask/Documents/ChatGPT/Work/kokomonster-shopify-theme/assets/design-library/characters/km-cut-365-394-mathematics.png",
+    "current": "archive/extracted-library/characters/km-cut-365-394-mathematics.png",
+    "original_sha256": "38ca8741ecca75785884b6d11fd9368d13fb1cc21fd46b9e9de3002a91a0cb0f",
+    "operation": "copy-runtime-source"
+  }
+]
