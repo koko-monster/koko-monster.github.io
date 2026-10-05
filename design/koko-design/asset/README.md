@@ -6,6 +6,7 @@
 - [20 Japanese Style A scenes — visual catalogue](japanese-20-style-A/index.html)
 - [20-scene list and page placements](japanese-20-style-A/README.md)
 - [Identity and delivery review](japanese-20-style-A/QA.md)
+- [Easy News editorial scenes](news-scenes/README.md)
 - [Earlier three landing scene mockups](landing-page-style-A/README.md)
 - [A/B/C/D scene comparison boards](style-comparisons/)
 
