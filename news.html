@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <title>Easy News — Kokomonster</title>
+  <meta name="description" content="Read current stories in approachable Japanese with furigana, translation and guided reading support.">
+  <link rel="icon" type="image/png" sizes="64x64" href="assets/favicon-koko.png" data-character="koko">
+  <link rel="stylesheet" href="news-v2-mockup.css?v=7">
+</head>
+<body class="news-v2" data-news-page="index">
+  <header class="news-header">
+    <a class="news-brand" href="index.html" aria-label="Kokomonster home"><img class="news-brand__animated" src="assets/kokomonster-logo-reveal.gif" width="1000" height="320" alt="Kokomonster"></a>
+    <nav class="news-nav" id="news-navigation" aria-label="Main navigation"><a class="active" href="news.html">Easy News</a><a href="story.html">Books</a><a href="chat.html">Guided Chat</a><a href="https://store.kokomonster.com/">Shop</a><a href="https://apps.apple.com/us/app/kokomonster/id6462056577">App</a></nav>
+    <div class="news-header__actions"><button class="news-language" type="button" aria-label="Language: English">EN</button><button class="news-login" type="button" data-login-open>Login</button><button class="news-menu" type="button" aria-label="Open menu" aria-controls="news-navigation" aria-expanded="false">☰</button></div>
+  </header>
+  <button class="news-menu-scrim" type="button" data-menu-close aria-label="Close menu" hidden></button>
+
+  <main>
+    <section class="news-intro">
+      <div class="news-shell news-intro__grid">
+        <div class="news-intro__copy">
+          <p class="news-kicker">EASY NEWS · JAPAN TODAY</p>
+          <h1>Today’s world.<br><em>Readable Japanese.</em></h1>
+          <p class="news-supporting" lang="ja">今日のニュースを、<mark>自分の日本語</mark>で読もう。</p>
+          <p class="news-lede">Real current stories with furigana, narration and translation when you need them. Read one useful article, keep one useful word.</p>
+        </div>
+        <aside class="news-daily-card" aria-label="Today’s reading suggestion">
+          <img src="assets/design-library/campaigns/festival-png/gohanko-card-lean.png" alt="">
+          <span>TODAY’S 5-MINUTE READ</span>
+          <strong>N4 · Supported</strong>
+          <p>One story is enough.<br>Read · listen · save a word</p>
+          <a href="news-reader.html">Start today’s story <b>→</b></a>
+        </aside>
+      </div>
+    </section>
+
+    <section class="news-feed" id="stories">
+      <div class="news-shell">
+        <div class="news-feed__bar">
+          <div><p class="news-kicker">LATEST STORIES</p><h2>Choose what you want to understand.</h2></div>
+          <label for="news-level">Reading level<select id="news-level" data-news-level><option value="all">All levels</option><option value="n5">N5 · Gentle</option><option value="n4" selected>N4 · Supported</option><option value="n3">N3 · Natural</option></select></label>
+        </div>
+        <div class="news-topics" role="group" aria-label="Filter news by topic">
+          <button class="active" type="button" data-topic="all">Latest</button><button type="button" data-topic="sports">Sports</button><button type="button" data-topic="business">Business</button><button type="button" data-topic="history">History</button><button type="button" data-topic="music">Music</button><button type="button" data-topic="global">Global</button><button type="button" data-topic="health">Health</button><button type="button" data-topic="environment">Environment</button><button type="button" data-topic="technology">Technology</button><button type="button" data-topic="science">Science</button>
+        </div>
+
+        <article class="news-lead" data-news-card data-topic="global" data-level="n4">
+          <a class="news-lead__image" href="news-reader.html"><img src="https://api.kokomonster.com/file/resources/crawled-raw-news/2026-09-08/9888/1788841910743.jpg" alt="The British royal residence at dusk"><span>TOP STORY · GLOBAL</span></a>
+          <div class="news-lead__copy"><div class="news-meta"><span>N4</span><span>5 MIN</span><span>08 SEP 2026</span></div><h2 lang="ja">チャールズ国王、ヘンリー王子とメーガン妃の王室での立場を明確化</h2><p>King Charles clarifies the royal status of Prince Harry and Meghan.</p><div class="news-preview" data-news-preview><div class="news-preview__tools"><button class="active" type="button" data-preview-furigana aria-pressed="true" aria-label="Hide furigana">あ</button><button class="active" type="button" data-preview-translation aria-pressed="true" aria-label="Hide translation">訳</button><button type="button" data-preview-play aria-pressed="false" aria-label="Play preview">▶</button></div><p lang="ja"><span data-preview-token><ruby>王室<rt>おうしつ</rt></ruby>での</span><mark data-preview-token><ruby>立場<rt>たちば</rt></ruby></mark><span data-preview-token>が、</span><span data-preview-token><ruby>書簡<rt>しょかん</rt></ruby>で</span><span data-preview-token><ruby>明確<rt>めいかく</rt></ruby>にされました。</span></p><small data-preview-translation-copy data-translation-en>Their position within the royal family was clarified in a letter.</small><small data-preview-translation-copy data-translation-zh lang="zh-Hant" hidden>書函正式釐清了他們在英國王室中的身分。</small></div><a class="news-cta" href="news-reader.html">Read · listen · understand <b>▶</b></a></div>
+        </article>
+
+        <div class="news-grid">
+          <article class="news-card" data-news-card data-topic="global" data-level="n4"><a href="news-reader.html"><div class="news-card__image"><img src="https://api.kokomonster.com/file/resources/crawled-raw-news/2026-09-06/9878/1788708675102.jpg" alt="A new world map adopted by the United Nations"><span>N4 · GLOBAL</span></div><div class="news-card__body"><time>06 SEP 2026</time><h3 lang="ja">国連が新しい世界地図を採用</h3><p>The UN adopts a new world map.</p><small>6 min · narration</small></div></a></article>
+          <article class="news-card" data-news-card data-topic="global" data-level="n4"><a href="news-reader.html"><div class="news-card__image"><img src="https://api.kokomonster.com/file/resources/crawled-raw-news/2026-08-31/9821/1788172142108.jpg" alt="Flood and landslide damage near the Nepal-China border"><span>N4 · GLOBAL</span></div><div class="news-card__body"><time>31 AUG 2026</time><h3 lang="ja">ネパールと中国国境での土石流、死者900人超</h3><p>Deadly landslides strike the Nepal–China border.</p><small>7 min · 12 key words</small></div></a></article>
+          <article class="news-card" data-news-card data-topic="global" data-level="n4"><a href="news-reader.html"><div class="news-card__image"><img src="https://api.kokomonster.com/file/resources/crawled-raw-news/2026-08-30/9813/1788064211878.jpg" alt="Emergency response after a drone attack in Ukraine"><span>N4 · GLOBAL</span></div><div class="news-card__body"><time>29 AUG 2026</time><h3 lang="ja">ウクライナでのロシアのドローン攻撃、37人死亡</h3><p>Thirty-seven people die in a Russian drone attack.</p><small>5 min · narration</small></div></a></article>
+          <article class="news-card" data-news-card data-topic="environment" data-level="n4"><a href="news-reader.html"><div class="news-card__image"><img src="https://api.kokomonster.com/file/resources/crawled-raw-news/2026-08-30/9812/1788064074968.jpg" alt="Large landslide damage in Nepal and Tibet"><span>N4 · ENVIRONMENT</span></div><div class="news-card__body"><time>28 AUG 2026</time><h3 lang="ja">ネパールとチベットの大規模土石流</h3><p>Major landslides affect communities in Nepal and Tibet.</p><small>8 min · 15 key words</small></div></a></article>
+          <article class="news-card" data-news-card data-topic="environment" data-level="n5"><a href="news-reader.html"><div class="news-card__image"><img src="https://api.kokomonster.com/file/resources/crawled-raw-news/2026-08-28/9798/1787891494322.jpg" alt="Flooding near the Nepal-China border"><span>N5 · ENVIRONMENT</span></div><div class="news-card__body"><time>27 AUG 2026</time><h3 lang="ja">ネパールと中国国境で発生した鉄砲水</h3><p>Flash flooding causes damage near the border.</p><small>4 min · gentle Japanese</small></div></a></article>
+          <article class="news-card" data-news-card data-topic="global" data-level="n4"><a href="news-reader.html"><div class="news-card__image"><img src="https://api.kokomonster.com/file/resources/crawled-raw-news/2026-08-27/9791/1787826606664.jpg" alt="Prince Harry and his family return to Britain"><span>N4 · GLOBAL</span></div><div class="news-card__body"><time>27 AUG 2026</time><h3 lang="ja">サセックス公ハリー王子一家がイギリスに帰国</h3><p>Prince Harry and his family return to Britain.</p><small>6 min · narration</small></div></a></article>
+        </div>
+        <button class="news-more" type="button" data-news-more>Load more stories <b>↓</b></button>
+      </div>
+    </section>
+
+    <section class="news-word">
+      <div class="news-shell news-word__grid"><div><p class="news-kicker">TODAY’S WORD</p><h2 lang="ja"><ruby>立場<rt>たちば</rt></ruby></h2><p>position · standpoint · role</p></div><div class="news-word__example"><span>N4 · FROM TODAY’S TOP STORY</span><p lang="ja"><mark>立場</mark>を<ruby>明確<rt>めいかく</rt></ruby>にする。</p><small>to make a position clear</small></div><button type="button" data-word-play data-word-speech="立場" aria-pressed="false" aria-label="Play 立場 pronunciation">▶</button></div>
+    </section>
+  </main>
+
+  <footer class="news-footer"><div class="news-shell news-footer__grid"><div><a class="news-brand news-brand--strip" href="index.html"><img src="assets/kokomonster-logo-six-heads.png" width="2148" height="412" alt="Kokomonster characters"></a><p>Japanese learning that begins with a story and stays with you in real life.</p></div><nav aria-label="Explore"><b>EXPLORE</b><a href="news.html">Easy News</a><a href="story.html">Books</a><a href="chat.html">Guided Chat</a><a href="test.html">Find your level</a></nav><nav aria-label="Get started"><b>GET STARTED</b><a href="https://store.kokomonster.com/">Shop books</a><a href="https://apps.apple.com/us/app/kokomonster/id6462056577">Download the app</a></nav><small>© 2026 Kokomonster Limited.</small></div></footer>
+  <div class="login-modal" data-login-modal hidden><div class="login-modal__dialog" role="dialog" aria-modal="true" aria-labelledby="login-title"><button class="login-modal__close" type="button" data-login-close aria-label="Close login prompt">×</button><p class="news-kicker">YOUR KOKOMONSTER ACCOUNT</p><h2 id="login-title">Log in to keep learning.</h2><p>Save useful words, keep your reading history and bring expressions into Guided Chat.</p><a href="/login">Continue to login <b>→</b></a><button class="login-modal__later" type="button" data-login-close>Not now</button></div></div>
+  <script src="news-v2-mockup.js?v=7"></script>
+</body>
+</html>
