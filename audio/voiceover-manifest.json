@@ -79,6 +79,13 @@
         "注目が",
         "集まります。"
       ]
+    },
+    {
+      "id": "easy-news-preview",
+      "file": "nanami-news-preview.mp3",
+      "usedBy": ["easy-news-landing-preview"],
+      "text": "王室での立場が、書簡で明確にされました。",
+      "highlightTokens": ["王室での", "立場が、", "書簡で", "明確にされました。"]
     }
   ],
   "vocabulary": [
@@ -130,6 +137,27 @@
       "text": "横綱",
       "reading": "よこづな",
       "usedBy": ["easy-news-reader", "easy-news-saved-word"]
+    },
+    {
+      "id": "tachiba",
+      "file": "nanami-word-tachiba.mp3",
+      "text": "立場",
+      "reading": "たちば",
+      "usedBy": ["easy-news-landing-word"]
+    },
+    {
+      "id": "dosekiryu",
+      "file": "nanami-word-dosekiryu.mp3",
+      "text": "土石流",
+      "reading": "どせきりゅう",
+      "usedBy": ["easy-news-landing-word"]
+    },
+    {
+      "id": "kosho",
+      "file": "nanami-word-kosho.mp3",
+      "text": "交渉",
+      "reading": "こうしょう",
+      "usedBy": ["easy-news-landing-word"]
     }
   ]
 }

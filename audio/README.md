@@ -6,7 +6,7 @@ speed in the browser (0.8x, 1x, or 1.2x) with pitch preservation.
 Voice: `ja-JP-NanamiNeural`
 Output: 24 kHz, 160 kbps, mono MP3
 
-To create all three passage tracks and seven vocabulary clips with an Azure
+To create all four passage tracks and ten vocabulary clips with an Azure
 Speech resource:
 
 ```sh

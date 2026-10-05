@@ -5,12 +5,15 @@
   <meta name="viewport" content="width=device-width,initial-scale=1">
   <title>Easy News — Kokomonster</title>
   <meta name="description" content="Read current stories in approachable Japanese with furigana, translation and guided reading support.">
-  <link rel="icon" type="image/png" sizes="64x64" href="assets/favicon-koko.png" data-character="koko">
-  <link rel="stylesheet" href="news-v2-mockup.css?v=7">
+  <link rel="icon" type="image/png" sizes="64x64" href="design/koko-design/logo-collection/favicons/favicon-koko.png?v=20261005-1" data-random-favicon data-favicon-root="design/koko-design/logo-collection/favicons/">
+  <script src="favicon.js?v=20261005-1"></script>
+  <link rel="stylesheet" href="news-v2-mockup.css?v=12">
+  <link rel="stylesheet" href="brand-logo.css?v=20261005-1">
+  <script defer src="brand-logo.js?v=20261005-1"></script>
 </head>
 <body class="news-v2" data-news-page="index">
   <header class="news-header">
-    <a class="news-brand" href="index.html" aria-label="Kokomonster home"><img class="news-brand__animated" src="assets/kokomonster-logo-reveal.gif" width="1000" height="320" alt="Kokomonster"></a>
+    <a class="news-brand" href="index.html" aria-label="Kokomonster home"><span data-kkm-logo data-logo-root="design/koko-design/logo-collection/"></span><noscript><img class="kkm-logo__fallback" src="design/koko-design/logo-collection/LOGO-004-six-heads-kokomonster.gif?v=20261005-1" alt="Kokomonster"></noscript></a>
     <nav class="news-nav" id="news-navigation" aria-label="Main navigation"><a class="active" href="news.html">Easy News</a><a href="story.html">Books</a><a href="chat.html">Guided Chat</a><a href="https://store.kokomonster.com/">Shop</a><a href="https://apps.apple.com/us/app/kokomonster/id6462056577">App</a></nav>
     <div class="news-header__actions"><button class="news-language" type="button" aria-label="Language: English">EN</button><button class="news-login" type="button" data-login-open>Login</button><button class="news-menu" type="button" aria-label="Open menu" aria-controls="news-navigation" aria-expanded="false">☰</button></div>
   </header>
@@ -28,8 +31,8 @@
         <aside class="news-daily-card" aria-label="Today’s reading suggestion">
           <img src="assets/design-library/campaigns/festival-png/gohanko-card-lean.png" alt="">
           <span>TODAY’S 5-MINUTE READ</span>
-          <strong>N4 · Supported</strong>
-          <p>One story is enough.<br>Read · listen · save a word</p>
+          <strong><small>Level</small> N4</strong>
+          <p class="news-daily-title" lang="ja">チャールズ国王、ヘンリー王子とメーガン妃の王室での立場を明確化</p>
           <a href="news-reader.html">Start today’s story <b>→</b></a>
         </aside>
       </div>
@@ -39,7 +42,33 @@
       <div class="news-shell">
         <div class="news-feed__bar">
           <div><p class="news-kicker">LATEST STORIES</p><h2>Choose what you want to understand.</h2></div>
-          <label for="news-level">Reading level<select id="news-level" data-news-level><option value="all">All levels</option><option value="n5">N5 · Gentle</option><option value="n4" selected>N4 · Supported</option><option value="n3">N3 · Natural</option></select></label>
+          <div class="news-level-picker" data-level-picker>
+            <span>Reading level</span>
+            <button type="button" data-level-trigger aria-haspopup="listbox" aria-expanded="false"><b data-level-label>N4 · Guided reading</b><i aria-hidden="true"></i></button>
+            <div class="news-level-menu" role="listbox" aria-label="Reading level" data-level-menu hidden>
+              <button type="button" role="option" data-level-option="all" aria-selected="false">All levels</button>
+              <button type="button" role="option" data-level-option="n5" aria-selected="false">N5 · Gentle</button>
+              <button type="button" role="option" data-level-option="n4" aria-selected="true">N4 · Guided reading</button>
+              <button type="button" role="option" data-level-option="n3" aria-selected="false">N3 · Natural</button>
+            </div>
+            <select id="news-level" data-news-level tabindex="-1" aria-hidden="true"><option value="all">All levels</option><option value="n5">N5 · Gentle</option><option value="n4" selected>N4 · Guided reading</option><option value="n3">N3 · Natural</option></select>
+          </div>
+        </div>
+        <div class="news-topic-picker" data-topic-picker>
+          <span>Section</span>
+          <button type="button" data-topic-trigger aria-haspopup="listbox" aria-expanded="false"><b data-topic-label>Latest</b><i aria-hidden="true"></i></button>
+          <div class="news-topic-menu" role="listbox" aria-label="News section" data-topic-menu hidden>
+            <button type="button" role="option" data-topic-option="all" aria-selected="true">Latest</button>
+            <button type="button" role="option" data-topic-option="sports" aria-selected="false">Sports</button>
+            <button type="button" role="option" data-topic-option="business" aria-selected="false">Business</button>
+            <button type="button" role="option" data-topic-option="history" aria-selected="false">History</button>
+            <button type="button" role="option" data-topic-option="music" aria-selected="false">Music</button>
+            <button type="button" role="option" data-topic-option="global" aria-selected="false">Global</button>
+            <button type="button" role="option" data-topic-option="health" aria-selected="false">Health</button>
+            <button type="button" role="option" data-topic-option="environment" aria-selected="false">Environment</button>
+            <button type="button" role="option" data-topic-option="technology" aria-selected="false">Technology</button>
+            <button type="button" role="option" data-topic-option="science" aria-selected="false">Science</button>
+          </div>
         </div>
         <div class="news-topics" role="group" aria-label="Filter news by topic">
           <button class="active" type="button" data-topic="all">Latest</button><button type="button" data-topic="sports">Sports</button><button type="button" data-topic="business">Business</button><button type="button" data-topic="history">History</button><button type="button" data-topic="music">Music</button><button type="button" data-topic="global">Global</button><button type="button" data-topic="health">Health</button><button type="button" data-topic="environment">Environment</button><button type="button" data-topic="technology">Technology</button><button type="button" data-topic="science">Science</button>
@@ -57,18 +86,22 @@
           <article class="news-card" data-news-card data-topic="environment" data-level="n4"><a href="news-reader.html"><div class="news-card__image"><img src="https://api.kokomonster.com/file/resources/crawled-raw-news/2026-08-30/9812/1788064074968.jpg" alt="Large landslide damage in Nepal and Tibet"><span>N4 · ENVIRONMENT</span></div><div class="news-card__body"><time>28 AUG 2026</time><h3 lang="ja">ネパールとチベットの大規模土石流</h3><p>Major landslides affect communities in Nepal and Tibet.</p><small>8 min · 15 key words</small></div></a></article>
           <article class="news-card" data-news-card data-topic="environment" data-level="n5"><a href="news-reader.html"><div class="news-card__image"><img src="https://api.kokomonster.com/file/resources/crawled-raw-news/2026-08-28/9798/1787891494322.jpg" alt="Flooding near the Nepal-China border"><span>N5 · ENVIRONMENT</span></div><div class="news-card__body"><time>27 AUG 2026</time><h3 lang="ja">ネパールと中国国境で発生した鉄砲水</h3><p>Flash flooding causes damage near the border.</p><small>4 min · gentle Japanese</small></div></a></article>
           <article class="news-card" data-news-card data-topic="global" data-level="n4"><a href="news-reader.html"><div class="news-card__image"><img src="https://api.kokomonster.com/file/resources/crawled-raw-news/2026-08-27/9791/1787826606664.jpg" alt="Prince Harry and his family return to Britain"><span>N4 · GLOBAL</span></div><div class="news-card__body"><time>27 AUG 2026</time><h3 lang="ja">サセックス公ハリー王子一家がイギリスに帰国</h3><p>Prince Harry and his family return to Britain.</p><small>6 min · narration</small></div></a></article>
+          <article class="news-card" data-news-card data-topic="global" data-level="n4"><a href="news-reader.html"><div class="news-card__image"><img src="https://api.kokomonster.com/file/resources/crawled-raw-news/2026-08-24/9759/1787585528463.jpg" alt="Women in Iran resisting compulsory hijab rules"><span>N4 · GLOBAL</span></div><div class="news-card__body"><time>24 AUG 2026</time><h3 lang="ja">イランでのヒジャブ問題と女性の抵抗</h3><p>Women in Iran continue to resist compulsory hijab rules.</p><small>6 min · 11 key words</small></div></a></article>
+          <article class="news-card" data-news-card data-topic="business" data-level="n4"><a href="news-reader.html"><div class="news-card__image"><img src="https://api.kokomonster.com/file/resources/crawled-raw-news/2026-08-23/9743/1787444984901.jpg" alt="Canada pauses trade negotiations with the United States"><span>N4 · BUSINESS</span></div><div class="news-card__body"><time>22 AUG 2026</time><h3 lang="ja">カナダ、米国との貿易交渉を停止</h3><p>Canada pauses trade negotiations with the United States.</p><small>5 min · narration</small></div></a></article>
+          <article class="news-card" data-news-card data-topic="global" data-level="n4"><a href="news-reader.html"><div class="news-card__image"><img src="https://api.kokomonster.com/file/resources/crawled-raw-news/2026-08-21/9734/1787286540239.jpg" alt="Housing construction announced in the West Bank"><span>N4 · GLOBAL</span></div><div class="news-card__body"><time>21 AUG 2026</time><h3 lang="ja">イスラエル、ヨルダン川西岸地区での入植者向け住宅建設を発表</h3><p>Israel announces new housing construction for settlers in the West Bank.</p><small>7 min · 14 key words</small></div></a></article>
+          <article class="news-card" data-news-card data-topic="global" data-level="n4"><a href="news-reader.html"><div class="news-card__image"><img src="https://api.kokomonster.com/file/resources/crawled-raw-news/2026-08-19/9710/1787135518339.jpg" alt="USS George Washington sailing through the Strait of Malacca"><span>N4 · GLOBAL</span></div><div class="news-card__body"><time>19 AUG 2026</time><h3 lang="ja">米空母ジョージ・ワシントン、マラッカ海峡を航行</h3><p>The USS George Washington sails through the Strait of Malacca.</p><small>6 min · narration</small></div></a></article>
         </div>
         <button class="news-more" type="button" data-news-more>Load more stories <b>↓</b></button>
       </div>
     </section>
 
-    <section class="news-word">
-      <div class="news-shell news-word__grid"><div><p class="news-kicker">TODAY’S WORD</p><h2 lang="ja"><ruby>立場<rt>たちば</rt></ruby></h2><p>position · standpoint · role</p></div><div class="news-word__example"><span>N4 · FROM TODAY’S TOP STORY</span><p lang="ja"><mark>立場</mark>を<ruby>明確<rt>めいかく</rt></ruby>にする。</p><small>to make a position clear</small></div><button type="button" data-word-play data-word-speech="立場" aria-pressed="false" aria-label="Play 立場 pronunciation">▶</button></div>
+    <section class="news-word" data-news-word>
+      <div class="news-shell news-word__grid"><div><p class="news-kicker">WORD FROM THIS SECTION</p><h2 lang="ja" data-word-term><ruby>立場<rt>たちば</rt></ruby></h2><p data-word-meaning>position · standpoint · role</p></div><div class="news-word__example"><span data-word-source>N4 · FROM THE LATEST GLOBAL STORY</span><p lang="ja" data-word-example><mark>立場</mark>を<ruby>明確<rt>めいかく</rt></ruby>にする。</p><small data-word-example-translation>to make a position clear</small></div><button type="button" data-word-play data-word-speech="立場" aria-pressed="false" aria-label="Play 立場 pronunciation">▶</button></div>
     </section>
   </main>
 
-  <footer class="news-footer"><div class="news-shell news-footer__grid"><div><a class="news-brand news-brand--strip" href="index.html"><img src="assets/kokomonster-logo-six-heads.png" width="2148" height="412" alt="Kokomonster characters"></a><p>Japanese learning that begins with a story and stays with you in real life.</p></div><nav aria-label="Explore"><b>EXPLORE</b><a href="news.html">Easy News</a><a href="story.html">Books</a><a href="chat.html">Guided Chat</a><a href="test.html">Find your level</a></nav><nav aria-label="Get started"><b>GET STARTED</b><a href="https://store.kokomonster.com/">Shop books</a><a href="https://apps.apple.com/us/app/kokomonster/id6462056577">Download the app</a></nav><small>© 2026 Kokomonster Limited.</small></div></footer>
+  <footer class="news-footer"><div class="news-shell news-footer__grid"><div><a class="news-brand news-brand--strip" href="index.html"><span data-kkm-logo data-logo-root="design/koko-design/logo-collection/"></span><noscript><img class="kkm-logo__fallback" src="design/koko-design/logo-collection/LOGO-004-six-heads-kokomonster.gif?v=20261005-1" alt="Kokomonster"></noscript></a><p>Japanese learning that begins with a story and stays with you in real life.</p></div><nav aria-label="Explore"><b>EXPLORE</b><a href="news.html">Easy News</a><a href="story.html">Books</a><a href="chat.html">Guided Chat</a><a href="test.html">Find your level</a></nav><nav aria-label="Get started"><b>GET STARTED</b><a href="https://store.kokomonster.com/">Shop books</a><a href="https://apps.apple.com/us/app/kokomonster/id6462056577">Download the app</a></nav><small>© 2026 Kokomonster Limited.</small></div></footer>
   <div class="login-modal" data-login-modal hidden><div class="login-modal__dialog" role="dialog" aria-modal="true" aria-labelledby="login-title"><button class="login-modal__close" type="button" data-login-close aria-label="Close login prompt">×</button><p class="news-kicker">YOUR KOKOMONSTER ACCOUNT</p><h2 id="login-title">Log in to keep learning.</h2><p>Save useful words, keep your reading history and bring expressions into Guided Chat.</p><a href="/login">Continue to login <b>→</b></a><button class="login-modal__later" type="button" data-login-close>Not now</button></div></div>
-  <script src="news-v2-mockup.js?v=7"></script>
+  <script src="news-v2-mockup.js?v=12"></script>
 </body>
 </html>

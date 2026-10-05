@@ -1,0 +1,17 @@
+.kkm-logo{position:relative;display:block;width:100%;aspect-ratio:1492/450;overflow:hidden;line-height:1}
+.kkm-logo__row{position:relative;display:flex;width:100%;height:100%;align-items:center;gap:clamp(1px,.65vw,10px)}
+.kkm-logo__slot{position:relative;display:grid;height:74%;min-width:0;flex:1 1 0;place-items:center}
+.kkm-logo__head{width:100%;height:100%;object-fit:contain;opacity:0;transform:translateY(5px) scale(.96)}
+.kkm-logo__head.is-visible{opacity:1;transform:translateY(0) scale(1)}
+.kkm-logo__slot:nth-child(1) .kkm-logo__head.is-visible{transform:translateY(3%) scale(1.16)}
+.kkm-logo__slot:nth-child(2) .kkm-logo__head.is-visible{transform:translateX(2.5%) translateY(2%) scale(1.07)}
+.kkm-logo__slot:nth-child(3) .kkm-logo__head.is-visible{transform:translateX(2%) translateY(3%) scale(1)}
+.kkm-logo__slot:nth-child(4) .kkm-logo__head.is-visible{transform:translateX(3%) translateY(-8%) scale(1.14)}
+.kkm-logo__slot:nth-child(5) .kkm-logo__head.is-visible{transform:translateY(-5%) scale(1.02)}
+.kkm-logo__slot:nth-child(6) .kkm-logo__head.is-visible{transform:translateY(-4%) scale(1)}
+.kkm-logo__wordmark{position:absolute;top:calc(50% + 2px);left:calc(16.666% + clamp(1px,.65vw,10px));width:calc(83.333% - clamp(1px,.65vw,10px));max-height:30%;object-fit:contain;object-position:left center;opacity:0;transform:translateY(-50%) translateX(-8px)}
+.kkm-logo.is-wordmark .kkm-logo__slot:not(:first-child) .kkm-logo__head{opacity:0;transform:translateY(0) scale(.98)}
+.kkm-logo.is-wordmark .kkm-logo__wordmark{opacity:1;transform:translateY(-50%)}
+.kkm-logo__fallback{display:block;width:100%;height:auto}
+.story-footer__brand .brand{width:184px}
+@media(prefers-reduced-motion:reduce){.kkm-logo__slot:not(:first-child) .kkm-logo__head{opacity:0}.kkm-logo__slot:first-child .kkm-logo__head,.kkm-logo__wordmark{opacity:1}.kkm-logo__wordmark{transform:translateY(-50%)}}

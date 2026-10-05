@@ -1,16 +1,5 @@
 (() => {
-  // Pick one approved Style A character favicon once per document load.
-  const faviconHeads = ['koko', 'gohanko', 'bear', 'rabbit', 'yauyau', 'tree'];
-  const selectedFavicon = faviconHeads[Math.floor(Math.random() * faviconHeads.length)];
-  const scriptBase = document.currentScript?.src || new URL('library.js', document.baseURI).href;
-  const faviconLink = document.querySelector('link[rel~="icon"]') || document.head.appendChild(document.createElement('link'));
-  faviconLink.rel = 'icon';
-  faviconLink.type = 'image/png';
-  faviconLink.setAttribute('sizes', '64x64');
-  faviconLink.dataset.character = selectedFavicon;
-  faviconLink.href = new URL(`logo-collection/favicons/favicon-${selectedFavicon}.png`, scriptBase).href;
-
-  // Standalone review and helper pages use only the shared favicon behavior.
+  // Shared brand-logo.js and favicon.js own the approved global identity behavior.
   const search = document.querySelector('#search');
   const grid = document.querySelector('.masonry');
   if (!search || !grid) return;
