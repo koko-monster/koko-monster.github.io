@@ -1,0 +1,1049 @@
+{
+  "schemaVersion": 1,
+  "id": 7567,
+  "slug": "canada-pauses-us-trade-talks",
+  "sourceType": "kokomonster-existing",
+  "demoOnly": false,
+  "date": "2026-08-22",
+  "level": "N3",
+  "category": {
+    "key": "Business",
+    "ja": "ビジネス",
+    "en": "Business",
+    "zhHant": "商業"
+  },
+  "reservedPath": "/ja/news/Business/canada-pauses-us-trade-talks-7567",
+  "reservedUrl": "https://kokomonster.com/ja/news/Business/canada-pauses-us-trade-talks-7567",
+  "sourceUrl": "https://kokomonster.com/ja/news/Business/%E3%82%AB%E3%83%8A%E3%83%80%E3%80%81%E7%B1%B3%E5%9B%BD%E3%81%A8%E3%81%AE%E8%B2%BF%E6%98%93%E4%BA%A4%E6%B8%89%E3%82%92%E5%81%9C%E6%AD%A2-7567",
+  "title": {
+    "ja": "カナダ、米国との貿易交渉を停止",
+    "en": "Canada pauses trade talks with the United States",
+    "zhHant": "加拿大暫停與美國的貿易談判"
+  },
+  "summary": {
+    "ja": "カナダのカーニー首相は、米国との貿易交渉を停止し、同時に米国の関税に対抗するため同額の関税を課す方針を発表した。双方は合意に向けた進展があったものの、カナダ国民の目標を満たす合意には至らなかった。",
+    "en": "Canada’s prime minister suspends trade talks and prepares matching tariffs after negotiations fail to produce an agreement.",
+    "zhHant": "加國總理宣布暫停貿易談判；由於雙方未能達成協議，加拿大準備採取對等關稅措施。"
+  },
+  "cover": {
+    "file": "../../../assets/news-covers/trade-talks.png",
+    "sourceUrl": "https://api.kokomonster.com/file/resources/crawled-raw-news/2026-08-23/9743/1787445001578.jpg"
+  },
+  "sentences": [
+    {
+      "id": "s01",
+      "sourcePieceId": 120026,
+      "sourceOrder": 6,
+      "ja": "カナダのカーニー首相は21日遅く、米国との貿易交渉を停止した。",
+      "speechJa": "カナダのカーニー首相はにじゅういちにち遅く、べいこくとのぼうえきこうしょうを停止した。",
+      "en": "Late on the 21st, Canadian Prime Minister Carney suspended trade talks with the United States.",
+      "zhHant": "加拿大總理卡尼於21日深夜宣布，暫停與美國的貿易談判。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7567-canada-pauses-us-trade-talks/KM-NEWS-7567-canada-pauses-us-trade-talks-sentence-01-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7567-canada-pauses-us-trade-talks/KM-NEWS-7567-canada-pauses-us-trade-talks-sentence-01-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7567-canada-pauses-us-trade-talks/KM-NEWS-7567-canada-pauses-us-trade-talks-sentence-01-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/a8b4d22e-87ff-43c6-97a9-21b82d7544f3.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "カナダ",
+            "offsetMs": 50
+          },
+          {
+            "text": "の",
+            "offsetMs": 462.5
+          },
+          {
+            "text": "カーニー",
+            "offsetMs": 625
+          },
+          {
+            "text": "首相",
+            "offsetMs": 1112.5
+          },
+          {
+            "text": "は",
+            "offsetMs": 1512.5
+          },
+          {
+            "text": "21日",
+            "offsetMs": 1737.5
+          },
+          {
+            "text": "遅く",
+            "offsetMs": 2625
+          },
+          {
+            "text": "米国",
+            "offsetMs": 3400
+          },
+          {
+            "text": "と",
+            "offsetMs": 3837.5
+          },
+          {
+            "text": "の",
+            "offsetMs": 3950
+          },
+          {
+            "text": "貿易",
+            "offsetMs": 4112.5
+          },
+          {
+            "text": "交渉",
+            "offsetMs": 4612.5
+          },
+          {
+            "text": "を",
+            "offsetMs": 5062.5
+          },
+          {
+            "text": "停止",
+            "offsetMs": 5200
+          },
+          {
+            "text": "し",
+            "offsetMs": 5550
+          },
+          {
+            "text": "た",
+            "offsetMs": 5675
+          }
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "sourcePieceId": 120027,
+      "sourceOrder": 7,
+      "ja": "米国が午前0時に発動する関税に対抗して、同額の対抗措置を講じる方針も示した。",
+      "speechJa": "べいこくがごぜんれいじにはつどうするかんぜいに対抗して、同額のたいこうそちを講じる方針も示した。",
+      "en": "He also said Canada would take matching countermeasures against US tariffs due to take effect at midnight.",
+      "zhHant": "他亦表示，將針對美國午夜生效的關稅，採取同等規模的反制措施。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7567-canada-pauses-us-trade-talks/KM-NEWS-7567-canada-pauses-us-trade-talks-sentence-02-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7567-canada-pauses-us-trade-talks/KM-NEWS-7567-canada-pauses-us-trade-talks-sentence-02-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7567-canada-pauses-us-trade-talks/KM-NEWS-7567-canada-pauses-us-trade-talks-sentence-02-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/4c8f261f-aff3-4284-acdb-e83d08df3897.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "米国",
+            "offsetMs": 50
+          },
+          {
+            "text": "が",
+            "offsetMs": 612.5
+          },
+          {
+            "text": "午前0時",
+            "offsetMs": 812.5
+          },
+          {
+            "text": "に",
+            "offsetMs": 1550
+          },
+          {
+            "text": "発動",
+            "offsetMs": 1662.5
+          },
+          {
+            "text": "する",
+            "offsetMs": 2137.5
+          },
+          {
+            "text": "関税",
+            "offsetMs": 2387.5
+          },
+          {
+            "text": "に",
+            "offsetMs": 2837.5
+          },
+          {
+            "text": "対抗",
+            "offsetMs": 2987.5
+          },
+          {
+            "text": "し",
+            "offsetMs": 3412.5
+          },
+          {
+            "text": "て",
+            "offsetMs": 3525
+          },
+          {
+            "text": "同額",
+            "offsetMs": 4112.5
+          },
+          {
+            "text": "の",
+            "offsetMs": 4587.5
+          },
+          {
+            "text": "対抗",
+            "offsetMs": 4737.5
+          },
+          {
+            "text": "措置",
+            "offsetMs": 5187.5
+          },
+          {
+            "text": "を",
+            "offsetMs": 5475
+          },
+          {
+            "text": "講じる",
+            "offsetMs": 5625
+          },
+          {
+            "text": "方針",
+            "offsetMs": 6125
+          },
+          {
+            "text": "も",
+            "offsetMs": 6612.5
+          },
+          {
+            "text": "示し",
+            "offsetMs": 6737.5
+          },
+          {
+            "text": "た",
+            "offsetMs": 7137.5
+          }
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "sourcePieceId": 120028,
+      "sourceOrder": 8,
+      "ja": "カーニー氏の声明によれば、両国は米東部時間午前0時に予定される各種カナダ産品への50％の関税発動を回避するため、合意に向けて「重要な進展」を遂げていた。",
+      "speechJa": "カーニー氏の声明によれば、両国はべいとうぶじかんごぜんれいじに予定される各種カナダ産品へのごじゅっぱーせんとのかんぜいはつどうをかいひするため、ごういに向けて「重要な進展」を遂げていた。",
+      "en": "According to Carney, the two countries had made “important progress” toward an agreement to avoid a 50% tariff on various Canadian goods.",
+      "zhHant": "卡尼表示，兩國曾為避免美方對多項加拿大貨品徵收50%關稅，在協議上取得「重要進展」。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7567-canada-pauses-us-trade-talks/KM-NEWS-7567-canada-pauses-us-trade-talks-sentence-03-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7567-canada-pauses-us-trade-talks/KM-NEWS-7567-canada-pauses-us-trade-talks-sentence-03-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7567-canada-pauses-us-trade-talks/KM-NEWS-7567-canada-pauses-us-trade-talks-sentence-03-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/69e4da31-f86d-4ca0-abd6-aaf464e189e8.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "カーニー",
+            "offsetMs": 50
+          },
+          {
+            "text": "氏",
+            "offsetMs": 550
+          },
+          {
+            "text": "の",
+            "offsetMs": 687.5
+          },
+          {
+            "text": "声明",
+            "offsetMs": 825
+          },
+          {
+            "text": "に",
+            "offsetMs": 1300
+          },
+          {
+            "text": "よれ",
+            "offsetMs": 1400
+          },
+          {
+            "text": "ば",
+            "offsetMs": 1625
+          },
+          {
+            "text": "両国",
+            "offsetMs": 2250
+          },
+          {
+            "text": "は",
+            "offsetMs": 2750
+          },
+          {
+            "text": "米",
+            "offsetMs": 2987.5
+          },
+          {
+            "text": "東部",
+            "offsetMs": 3275
+          },
+          {
+            "text": "時間",
+            "offsetMs": 3637.5
+          },
+          {
+            "text": "午前0時",
+            "offsetMs": 4012.5
+          },
+          {
+            "text": "に",
+            "offsetMs": 4762.5
+          },
+          {
+            "text": "予定",
+            "offsetMs": 4875
+          },
+          {
+            "text": "さ",
+            "offsetMs": 5212.5
+          },
+          {
+            "text": "れる",
+            "offsetMs": 5337.5
+          },
+          {
+            "text": "各種",
+            "offsetMs": 5712.5
+          },
+          {
+            "text": "カナダ",
+            "offsetMs": 6150
+          },
+          {
+            "text": "産品",
+            "offsetMs": 6500
+          },
+          {
+            "text": "へ",
+            "offsetMs": 6962.5
+          },
+          {
+            "text": "の",
+            "offsetMs": 7087.5
+          },
+          {
+            "text": "50％",
+            "offsetMs": 7312.5
+          },
+          {
+            "text": "の",
+            "offsetMs": 8275
+          },
+          {
+            "text": "関税",
+            "offsetMs": 8437.5
+          },
+          {
+            "text": "発動",
+            "offsetMs": 8912.5
+          },
+          {
+            "text": "を",
+            "offsetMs": 9362.5
+          },
+          {
+            "text": "回避",
+            "offsetMs": 9487.5
+          },
+          {
+            "text": "する",
+            "offsetMs": 9850
+          },
+          {
+            "text": "ため",
+            "offsetMs": 10112.5
+          },
+          {
+            "text": "合意",
+            "offsetMs": 10662.5
+          },
+          {
+            "text": "に",
+            "offsetMs": 11025
+          },
+          {
+            "text": "向け",
+            "offsetMs": 11137.5
+          },
+          {
+            "text": "て",
+            "offsetMs": 11387.5
+          },
+          {
+            "text": "「",
+            "offsetMs": 11750
+          },
+          {
+            "text": "重要",
+            "offsetMs": 11862.5
+          },
+          {
+            "text": "な",
+            "offsetMs": 12325
+          },
+          {
+            "text": "進展",
+            "offsetMs": 12437.5
+          },
+          {
+            "text": "」",
+            "offsetMs": 12950
+          },
+          {
+            "text": "を",
+            "offsetMs": 12962.5
+          },
+          {
+            "text": "遂げ",
+            "offsetMs": 13087.5
+          },
+          {
+            "text": "て",
+            "offsetMs": 13337.5
+          },
+          {
+            "text": "い",
+            "offsetMs": 13437.5
+          },
+          {
+            "text": "た",
+            "offsetMs": 13575
+          }
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "sourcePieceId": 120029,
+      "sourceOrder": 9,
+      "ja": "だが、「カナダ国民の目標を満たす」合意には至らなかったという。",
+      "speechJa": "だが、「カナダ国民の目標を満たす」ごういには至らなかったという。",
+      "en": "However, they did not reach an agreement that would “meet the goals of Canadians.”",
+      "zhHant": "然而，雙方最終未能達成一份「符合加拿大國民目標」的協議。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7567-canada-pauses-us-trade-talks/KM-NEWS-7567-canada-pauses-us-trade-talks-sentence-04-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7567-canada-pauses-us-trade-talks/KM-NEWS-7567-canada-pauses-us-trade-talks-sentence-04-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7567-canada-pauses-us-trade-talks/KM-NEWS-7567-canada-pauses-us-trade-talks-sentence-04-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/46bad12a-c8b2-4fed-bfa1-31a8a880a246.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "だが",
+            "offsetMs": 50
+          },
+          {
+            "text": "「",
+            "offsetMs": 862.5
+          },
+          {
+            "text": "カナダ",
+            "offsetMs": 862.5
+          },
+          {
+            "text": "国民",
+            "offsetMs": 1262.5
+          },
+          {
+            "text": "の",
+            "offsetMs": 1725
+          },
+          {
+            "text": "目標",
+            "offsetMs": 1850
+          },
+          {
+            "text": "を",
+            "offsetMs": 2300
+          },
+          {
+            "text": "満たす",
+            "offsetMs": 2412.5
+          },
+          {
+            "text": "」",
+            "offsetMs": 2900
+          },
+          {
+            "text": "合意",
+            "offsetMs": 2912.5
+          },
+          {
+            "text": "に",
+            "offsetMs": 3262.5
+          },
+          {
+            "text": "は",
+            "offsetMs": 3375
+          },
+          {
+            "text": "至ら",
+            "offsetMs": 3575
+          },
+          {
+            "text": "なかっ",
+            "offsetMs": 3912.5
+          },
+          {
+            "text": "た",
+            "offsetMs": 4225
+          },
+          {
+            "text": "と",
+            "offsetMs": 4350
+          },
+          {
+            "text": "いう",
+            "offsetMs": 4462.5
+          }
+        ]
+      }
+    },
+    {
+      "id": "s05",
+      "sourcePieceId": 120030,
+      "sourceOrder": 10,
+      "ja": "カーニー氏は「この結果、私は今夜、米国との貿易交渉の停止を決定し、カナダの交渉団に対しオタワへ戻るよう指示した」と発表した。",
+      "speechJa": "カーニー氏は「この結果、私は今夜、べいこくとのぼうえきこうしょうの停止を決定し、カナダのこうしょうだんに対しオタワへ戻るよう指示した」と発表した。",
+      "en": "Carney said he had therefore decided that night to suspend talks and instructed Canada’s negotiating team to return to Ottawa.",
+      "zhHant": "卡尼表示，因此決定當晚暫停談判，並指示加拿大談判代表團返回渥太華。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7567-canada-pauses-us-trade-talks/KM-NEWS-7567-canada-pauses-us-trade-talks-sentence-05-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7567-canada-pauses-us-trade-talks/KM-NEWS-7567-canada-pauses-us-trade-talks-sentence-05-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7567-canada-pauses-us-trade-talks/KM-NEWS-7567-canada-pauses-us-trade-talks-sentence-05-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/87ccf0f6-5aee-4a1c-bc3e-87a41662af9d.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "カーニー",
+            "offsetMs": 50
+          },
+          {
+            "text": "氏",
+            "offsetMs": 575
+          },
+          {
+            "text": "は",
+            "offsetMs": 750
+          },
+          {
+            "text": "「",
+            "offsetMs": 1125
+          },
+          {
+            "text": "この",
+            "offsetMs": 1262.5
+          },
+          {
+            "text": "結果",
+            "offsetMs": 1562.5
+          },
+          {
+            "text": "私",
+            "offsetMs": 2375
+          },
+          {
+            "text": "は",
+            "offsetMs": 2750
+          },
+          {
+            "text": "今夜",
+            "offsetMs": 2925
+          },
+          {
+            "text": "米国",
+            "offsetMs": 3637.5
+          },
+          {
+            "text": "と",
+            "offsetMs": 4075
+          },
+          {
+            "text": "の",
+            "offsetMs": 4187.5
+          },
+          {
+            "text": "貿易",
+            "offsetMs": 4350
+          },
+          {
+            "text": "交渉",
+            "offsetMs": 4850
+          },
+          {
+            "text": "の",
+            "offsetMs": 5300
+          },
+          {
+            "text": "停止",
+            "offsetMs": 5450
+          },
+          {
+            "text": "を",
+            "offsetMs": 5825
+          },
+          {
+            "text": "決定",
+            "offsetMs": 5950
+          },
+          {
+            "text": "し",
+            "offsetMs": 6425
+          },
+          {
+            "text": "カナダ",
+            "offsetMs": 7025
+          },
+          {
+            "text": "の",
+            "offsetMs": 7400
+          },
+          {
+            "text": "交渉団",
+            "offsetMs": 7562.5
+          },
+          {
+            "text": "に",
+            "offsetMs": 8212.5
+          },
+          {
+            "text": "対し",
+            "offsetMs": 8400
+          },
+          {
+            "text": "オタワ",
+            "offsetMs": 8800
+          },
+          {
+            "text": "へ",
+            "offsetMs": 9175
+          },
+          {
+            "text": "戻る",
+            "offsetMs": 9300
+          },
+          {
+            "text": "よう",
+            "offsetMs": 9662.5
+          },
+          {
+            "text": "指示",
+            "offsetMs": 9887.5
+          },
+          {
+            "text": "し",
+            "offsetMs": 10150
+          },
+          {
+            "text": "た",
+            "offsetMs": 10262.5
+          },
+          {
+            "text": "」",
+            "offsetMs": 10562.5
+          },
+          {
+            "text": "と",
+            "offsetMs": 10775
+          },
+          {
+            "text": "発表",
+            "offsetMs": 10912.5
+          },
+          {
+            "text": "し",
+            "offsetMs": 11400
+          },
+          {
+            "text": "た",
+            "offsetMs": 11525
+          }
+        ]
+      }
+    },
+    {
+      "id": "s06",
+      "sourcePieceId": 120031,
+      "sourceOrder": 11,
+      "ja": "「米国は今晩の真夜中、およそ280億ドル相当のカナダ製品に50％の関税を課す意向を示している。",
+      "speechJa": "「べいこくは今晩の真夜中、およそ280億ドルそうとうのカナダ製品にごじゅっぱーせんとのかんぜいをかす意向を示している。",
+      "en": "He said the United States intended to impose a 50% tariff at midnight on about 28 billion dollars’ worth of Canadian products.",
+      "zhHant": "他說，美國擬於當晚午夜起，對約280億美元的加拿大產品徵收50%關稅。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7567-canada-pauses-us-trade-talks/KM-NEWS-7567-canada-pauses-us-trade-talks-sentence-06-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7567-canada-pauses-us-trade-talks/KM-NEWS-7567-canada-pauses-us-trade-talks-sentence-06-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7567-canada-pauses-us-trade-talks/KM-NEWS-7567-canada-pauses-us-trade-talks-sentence-06-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/83999626-99ae-4703-aaf6-31f908807352.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "「",
+            "offsetMs": 50
+          },
+          {
+            "text": "米国",
+            "offsetMs": 100
+          },
+          {
+            "text": "は",
+            "offsetMs": 612.5
+          },
+          {
+            "text": "今晩",
+            "offsetMs": 837.5
+          },
+          {
+            "text": "の",
+            "offsetMs": 1325
+          },
+          {
+            "text": "真夜中",
+            "offsetMs": 1462.5
+          },
+          {
+            "text": "およそ",
+            "offsetMs": 2437.5
+          },
+          {
+            "text": "280億",
+            "offsetMs": 2950
+          },
+          {
+            "text": "ドル",
+            "offsetMs": 4112.5
+          },
+          {
+            "text": "相当",
+            "offsetMs": 4375
+          },
+          {
+            "text": "の",
+            "offsetMs": 4850
+          },
+          {
+            "text": "カナダ",
+            "offsetMs": 5000
+          },
+          {
+            "text": "製品",
+            "offsetMs": 5362.5
+          },
+          {
+            "text": "に",
+            "offsetMs": 5812.5
+          },
+          {
+            "text": "50％",
+            "offsetMs": 6100
+          },
+          {
+            "text": "の",
+            "offsetMs": 7037.5
+          },
+          {
+            "text": "関税",
+            "offsetMs": 7187.5
+          },
+          {
+            "text": "を",
+            "offsetMs": 7650
+          },
+          {
+            "text": "課す",
+            "offsetMs": 7800
+          },
+          {
+            "text": "意向",
+            "offsetMs": 8087.5
+          },
+          {
+            "text": "を",
+            "offsetMs": 8425
+          },
+          {
+            "text": "示し",
+            "offsetMs": 8550
+          },
+          {
+            "text": "て",
+            "offsetMs": 8950
+          },
+          {
+            "text": "いる",
+            "offsetMs": 9037.5
+          }
+        ]
+      }
+    },
+    {
+      "id": "s07",
+      "sourcePieceId": 120032,
+      "sourceOrder": 12,
+      "ja": "カナダは我が国の労働者と企業を守るため、同額の関税を課す方針だ」と明らかにした。",
+      "speechJa": "カナダは我が国のろうどうしゃと企業を守るため、同額のかんぜいをかす方針だ」と明らかにした。",
+      "en": "Canada will impose matching tariffs to protect its workers and businesses, he said.",
+      "zhHant": "他表示，加拿大將徵收同等關稅，以保障本國勞工與企業。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7567-canada-pauses-us-trade-talks/KM-NEWS-7567-canada-pauses-us-trade-talks-sentence-07-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7567-canada-pauses-us-trade-talks/KM-NEWS-7567-canada-pauses-us-trade-talks-sentence-07-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7567-canada-pauses-us-trade-talks/KM-NEWS-7567-canada-pauses-us-trade-talks-sentence-07-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/fa5014f1-b15f-44b6-b983-4337e6ea457d.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "カナダ",
+            "offsetMs": 50
+          },
+          {
+            "text": "は",
+            "offsetMs": 475
+          },
+          {
+            "text": "我が国",
+            "offsetMs": 687.5
+          },
+          {
+            "text": "の",
+            "offsetMs": 1187.5
+          },
+          {
+            "text": "労働者",
+            "offsetMs": 1325
+          },
+          {
+            "text": "と",
+            "offsetMs": 1887.5
+          },
+          {
+            "text": "企業",
+            "offsetMs": 2037.5
+          },
+          {
+            "text": "を",
+            "offsetMs": 2437.5
+          },
+          {
+            "text": "守る",
+            "offsetMs": 2550
+          },
+          {
+            "text": "ため",
+            "offsetMs": 2950
+          },
+          {
+            "text": "同額",
+            "offsetMs": 3612.5
+          },
+          {
+            "text": "の",
+            "offsetMs": 4075
+          },
+          {
+            "text": "関税",
+            "offsetMs": 4212.5
+          },
+          {
+            "text": "を",
+            "offsetMs": 4662.5
+          },
+          {
+            "text": "課す",
+            "offsetMs": 4812.5
+          },
+          {
+            "text": "方針",
+            "offsetMs": 5100
+          },
+          {
+            "text": "だ",
+            "offsetMs": 5575
+          },
+          {
+            "text": "」",
+            "offsetMs": 5887.5
+          },
+          {
+            "text": "と",
+            "offsetMs": 6062.5
+          },
+          {
+            "text": "明らか",
+            "offsetMs": 6212.5
+          },
+          {
+            "text": "に",
+            "offsetMs": 6750
+          },
+          {
+            "text": "し",
+            "offsetMs": 6875
+          },
+          {
+            "text": "た",
+            "offsetMs": 7000
+          }
+        ]
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "v01",
+      "surface": "貿易交渉",
+      "reading": "ぼうえきこうしょう",
+      "en": "trade negotiations",
+      "zhHant": "貿易談判",
+      "speechJa": "ぼうえきこうしょう",
+      "audio": {
+        "file": "../audio/7567-canada-pauses-us-trade-talks/KM-NEWS-7567-canada-pauses-us-trade-talks-vocab-01-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    },
+    {
+      "id": "v02",
+      "surface": "関税",
+      "reading": "かんぜい",
+      "en": "tariff",
+      "zhHant": "關稅",
+      "speechJa": "かんぜい",
+      "audio": {
+        "file": "../audio/7567-canada-pauses-us-trade-talks/KM-NEWS-7567-canada-pauses-us-trade-talks-vocab-02-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    },
+    {
+      "id": "v03",
+      "surface": "対抗措置",
+      "reading": "たいこうそち",
+      "en": "countermeasure",
+      "zhHant": "反制措施",
+      "speechJa": "たいこうそち",
+      "audio": {
+        "file": "../audio/7567-canada-pauses-us-trade-talks/KM-NEWS-7567-canada-pauses-us-trade-talks-vocab-03-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    },
+    {
+      "id": "v04",
+      "surface": "発動",
+      "reading": "はつどう",
+      "en": "implementation; taking effect",
+      "zhHant": "啟動；生效",
+      "speechJa": "はつどう",
+      "audio": {
+        "file": "../audio/7567-canada-pauses-us-trade-talks/KM-NEWS-7567-canada-pauses-us-trade-talks-vocab-04-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    },
+    {
+      "id": "v05",
+      "surface": "回避",
+      "reading": "かいひ",
+      "en": "avoidance; to avoid",
+      "zhHant": "避免",
+      "speechJa": "かいひ",
+      "audio": {
+        "file": "../audio/7567-canada-pauses-us-trade-talks/KM-NEWS-7567-canada-pauses-us-trade-talks-vocab-05-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    },
+    {
+      "id": "v06",
+      "surface": "合意",
+      "reading": "ごうい",
+      "en": "agreement",
+      "zhHant": "協議；共識",
+      "speechJa": "ごうい",
+      "audio": {
+        "file": "../audio/7567-canada-pauses-us-trade-talks/KM-NEWS-7567-canada-pauses-us-trade-talks-vocab-06-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    },
+    {
+      "id": "v07",
+      "surface": "交渉団",
+      "reading": "こうしょうだん",
+      "en": "negotiating team",
+      "zhHant": "談判代表團",
+      "speechJa": "こうしょうだん",
+      "audio": {
+        "file": "../audio/7567-canada-pauses-us-trade-talks/KM-NEWS-7567-canada-pauses-us-trade-talks-vocab-07-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    },
+    {
+      "id": "v08",
+      "surface": "相当",
+      "reading": "そうとう",
+      "en": "equivalent to; worth",
+      "zhHant": "相當於",
+      "speechJa": "そうとう",
+      "audio": {
+        "file": "../audio/7567-canada-pauses-us-trade-talks/KM-NEWS-7567-canada-pauses-us-trade-talks-vocab-08-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    },
+    {
+      "id": "v09",
+      "surface": "課す",
+      "reading": "かす",
+      "en": "to impose",
+      "zhHant": "徵收；施加",
+      "speechJa": "かす",
+      "audio": {
+        "file": "../audio/7567-canada-pauses-us-trade-talks/KM-NEWS-7567-canada-pauses-us-trade-talks-vocab-09-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    },
+    {
+      "id": "v10",
+      "surface": "労働者",
+      "reading": "ろうどうしゃ",
+      "en": "worker",
+      "zhHant": "勞工",
+      "speechJa": "ろうどうしゃ",
+      "audio": {
+        "file": "../audio/7567-canada-pauses-us-trade-talks/KM-NEWS-7567-canada-pauses-us-trade-talks-vocab-10-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    }
+  ],
+  "readingMinutes": 2,
+  "keywordCount": 10,
+  "playbackRates": [
+    0.8,
+    1.0,
+    1.2
+  ],
+  "audioPolicy": "Play Nanami sentence files sequentially; do not pitch-shift. Use each timing JSON at the selected playback rate. Source narration is retained only as an editorial backup.",
+  "cardPreview": {
+    "ja": "関税をめぐる合意に至らず、カナダは対抗措置を準備しています。",
+    "speechJa": "かんぜいをめぐるごういに至らず、カナダはたいこうそちを準備しています。",
+    "audio": "../audio/7567-canada-pauses-us-trade-talks/KM-NEWS-7567-canada-pauses-us-trade-talks-card-preview-ja-Nanami.mp3",
+    "timings": "../audio/7567-canada-pauses-us-trade-talks/KM-NEWS-7567-canada-pauses-us-trade-talks-card-preview-ja-Nanami-timings.json",
+    "voice": "ja-JP-NanamiNeural"
+  }
+}

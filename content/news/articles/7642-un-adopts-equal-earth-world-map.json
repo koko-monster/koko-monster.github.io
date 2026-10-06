@@ -1,0 +1,1171 @@
+{
+  "schemaVersion": 1,
+  "id": 7642,
+  "slug": "un-adopts-equal-earth-world-map",
+  "sourceType": "kokomonster-existing",
+  "demoOnly": false,
+  "date": "2026-09-06",
+  "level": "N4",
+  "category": {
+    "key": "Global",
+    "ja": "国際",
+    "en": "Global",
+    "zhHant": "國際"
+  },
+  "reservedPath": "/ja/news/Global/un-adopts-equal-earth-world-map-7642",
+  "reservedUrl": "https://kokomonster.com/ja/news/Global/un-adopts-equal-earth-world-map-7642",
+  "sourceUrl": "https://kokomonster.com/ja/news/Global/%E5%9B%BD%E9%80%A3%E3%81%8C%E6%96%B0%E3%81%97%E3%81%84%E4%B8%96%E7%95%8C%E5%9C%B0%E5%9B%B3%E3%82%92%E6%8E%A1%E7%94%A8-7642",
+  "title": {
+    "ja": "国連が新しい世界地図を採用",
+    "en": "UN adopts a new world map",
+    "zhHant": "聯合國採用新版世界地圖"
+  },
+  "summary": {
+    "ja": "国連総会は、アフリカを含む世界各国の正確な大きさを示す新しい世界地図を可決した。この決議は、従来のメルカトル図法のゆがみを改善することを目指すものである。",
+    "en": "The UN General Assembly backs a map projection designed to represent the relative size of regions more fairly.",
+    "zhHant": "聯合國大會通過採用一種更公平呈現各地區相對面積的世界地圖投影。"
+  },
+  "cover": {
+    "file": "../../../assets/news-covers/un-world-map.png",
+    "sourceUrl": "https://api.kokomonster.com/file/resources/crawled-raw-news/2026-09-06/9878/1788708675102.jpg"
+  },
+  "sentences": [
+    {
+      "id": "s01",
+      "sourcePieceId": 121929,
+      "sourceOrder": 6,
+      "ja": "国連総会は4日、各国の実際の相対的な大きさを反映した新たな世界地図を採用する決議案を可決した。",
+      "speechJa": "こくれんそうかいはよっか、各国の実際の相対的な大きさを反映した新たな世界地図をさいようするけつぎあんを可決した。",
+      "en": "On the 4th, the UN General Assembly approved a resolution to adopt a new world map that reflects countries’ actual relative sizes.",
+      "zhHant": "聯合國大會於4日通過決議，採用能反映各國實際相對面積的新版世界地圖。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7642-un-adopts-equal-earth-world-map/KM-NEWS-7642-un-adopts-equal-earth-world-map-sentence-01-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7642-un-adopts-equal-earth-world-map/KM-NEWS-7642-un-adopts-equal-earth-world-map-sentence-01-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7642-un-adopts-equal-earth-world-map/KM-NEWS-7642-un-adopts-equal-earth-world-map-sentence-01-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/79a89c63-3db9-4a68-bac2-983eef02d92b.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "国連",
+            "offsetMs": 50
+          },
+          {
+            "text": "総会",
+            "offsetMs": 537.5
+          },
+          {
+            "text": "は",
+            "offsetMs": 1000
+          },
+          {
+            "text": "4日",
+            "offsetMs": 1150
+          },
+          {
+            "text": "各国",
+            "offsetMs": 2000
+          },
+          {
+            "text": "の",
+            "offsetMs": 2487.5
+          },
+          {
+            "text": "実際",
+            "offsetMs": 2637.5
+          },
+          {
+            "text": "の",
+            "offsetMs": 3112.5
+          },
+          {
+            "text": "相対的",
+            "offsetMs": 3262.5
+          },
+          {
+            "text": "な",
+            "offsetMs": 3950
+          },
+          {
+            "text": "大きさ",
+            "offsetMs": 4050
+          },
+          {
+            "text": "を",
+            "offsetMs": 4512.5
+          },
+          {
+            "text": "反映",
+            "offsetMs": 4650
+          },
+          {
+            "text": "し",
+            "offsetMs": 5112.5
+          },
+          {
+            "text": "た",
+            "offsetMs": 5212.5
+          },
+          {
+            "text": "新た",
+            "offsetMs": 5387.5
+          },
+          {
+            "text": "な",
+            "offsetMs": 5837.5
+          },
+          {
+            "text": "世界",
+            "offsetMs": 5987.5
+          },
+          {
+            "text": "地図",
+            "offsetMs": 6400
+          },
+          {
+            "text": "を",
+            "offsetMs": 6675
+          },
+          {
+            "text": "採用",
+            "offsetMs": 6812.5
+          },
+          {
+            "text": "する",
+            "offsetMs": 7300
+          },
+          {
+            "text": "決議",
+            "offsetMs": 7587.5
+          },
+          {
+            "text": "案",
+            "offsetMs": 8000
+          },
+          {
+            "text": "を",
+            "offsetMs": 8212.5
+          },
+          {
+            "text": "可決",
+            "offsetMs": 8362.5
+          },
+          {
+            "text": "し",
+            "offsetMs": 8775
+          },
+          {
+            "text": "た",
+            "offsetMs": 8900
+          }
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "sourcePieceId": 121930,
+      "sourceOrder": 7,
+      "ja": "これはアフリカ連合とバハマが提出したもので、164カ国が賛成し、米国のみが反対した。",
+      "speechJa": "これはアフリカ連合とバハマが提出したもので、164カ国が賛成し、べいこくのみが反対した。",
+      "en": "The proposal was submitted by the African Union and the Bahamas; 164 countries supported it, while only the United States opposed it.",
+      "zhHant": "決議由非洲聯盟與巴哈馬提出，共有164國贊成，只有美國反對。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7642-un-adopts-equal-earth-world-map/KM-NEWS-7642-un-adopts-equal-earth-world-map-sentence-02-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7642-un-adopts-equal-earth-world-map/KM-NEWS-7642-un-adopts-equal-earth-world-map-sentence-02-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7642-un-adopts-equal-earth-world-map/KM-NEWS-7642-un-adopts-equal-earth-world-map-sentence-02-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/2d44630a-4178-47cb-baf1-70d7ac0c3ac8.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "これ",
+            "offsetMs": 50
+          },
+          {
+            "text": "は",
+            "offsetMs": 337.5
+          },
+          {
+            "text": "アフリカ",
+            "offsetMs": 600
+          },
+          {
+            "text": "連合",
+            "offsetMs": 1112.5
+          },
+          {
+            "text": "と",
+            "offsetMs": 1537.5
+          },
+          {
+            "text": "バハマ",
+            "offsetMs": 1750
+          },
+          {
+            "text": "が",
+            "offsetMs": 2150
+          },
+          {
+            "text": "提出",
+            "offsetMs": 2312.5
+          },
+          {
+            "text": "し",
+            "offsetMs": 2750
+          },
+          {
+            "text": "た",
+            "offsetMs": 2850
+          },
+          {
+            "text": "もの",
+            "offsetMs": 2950
+          },
+          {
+            "text": "で",
+            "offsetMs": 3175
+          },
+          {
+            "text": "164",
+            "offsetMs": 3712.5
+          },
+          {
+            "text": "カ国",
+            "offsetMs": 4700
+          },
+          {
+            "text": "が",
+            "offsetMs": 5087.5
+          },
+          {
+            "text": "賛成",
+            "offsetMs": 5237.5
+          },
+          {
+            "text": "し",
+            "offsetMs": 5725
+          },
+          {
+            "text": "米国",
+            "offsetMs": 6237.5
+          },
+          {
+            "text": "のみ",
+            "offsetMs": 6687.5
+          },
+          {
+            "text": "が",
+            "offsetMs": 6925
+          },
+          {
+            "text": "反対",
+            "offsetMs": 7062.5
+          },
+          {
+            "text": "し",
+            "offsetMs": 7525
+          },
+          {
+            "text": "た",
+            "offsetMs": 7650
+          }
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "sourcePieceId": 121931,
+      "sourceOrder": 8,
+      "ja": "この決議は、世界各地域、とりわけアフリカを「公平」に表現することを目指している。",
+      "speechJa": "この決議は、世界各地域、とりわけアフリカを「こうへい」に表現することを目指している。",
+      "en": "The resolution aims to represent every region of the world—especially Africa—more fairly.",
+      "zhHant": "決議旨在更「公平」地呈現世界各地，尤其是非洲。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7642-un-adopts-equal-earth-world-map/KM-NEWS-7642-un-adopts-equal-earth-world-map-sentence-03-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7642-un-adopts-equal-earth-world-map/KM-NEWS-7642-un-adopts-equal-earth-world-map-sentence-03-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7642-un-adopts-equal-earth-world-map/KM-NEWS-7642-un-adopts-equal-earth-world-map-sentence-03-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/da6b121b-ecb2-4571-bdef-aca2dabaf83d.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "この",
+            "offsetMs": 50
+          },
+          {
+            "text": "決議",
+            "offsetMs": 375
+          },
+          {
+            "text": "は",
+            "offsetMs": 775
+          },
+          {
+            "text": "世界",
+            "offsetMs": 1300
+          },
+          {
+            "text": "各地域",
+            "offsetMs": 1725
+          },
+          {
+            "text": "とりわけ",
+            "offsetMs": 2687.5
+          },
+          {
+            "text": "アフリカ",
+            "offsetMs": 3200
+          },
+          {
+            "text": "を",
+            "offsetMs": 3700
+          },
+          {
+            "text": "「",
+            "offsetMs": 4062.5
+          },
+          {
+            "text": "公平",
+            "offsetMs": 4125
+          },
+          {
+            "text": "」",
+            "offsetMs": 4625
+          },
+          {
+            "text": "に",
+            "offsetMs": 4637.5
+          },
+          {
+            "text": "表現",
+            "offsetMs": 4750
+          },
+          {
+            "text": "する",
+            "offsetMs": 5212.5
+          },
+          {
+            "text": "こと",
+            "offsetMs": 5475
+          },
+          {
+            "text": "を",
+            "offsetMs": 5700
+          },
+          {
+            "text": "目指し",
+            "offsetMs": 5825
+          },
+          {
+            "text": "て",
+            "offsetMs": 6212.5
+          },
+          {
+            "text": "いる",
+            "offsetMs": 6300
+          }
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "sourcePieceId": 121932,
+      "sourceOrder": 9,
+      "ja": "現在の世界地図は、メルカトル図法に基づいており、航海には使いやすいが、縮尺にゆがみがある。",
+      "speechJa": "現在の世界地図は、メルカトルずほうに基づいており、航海には使いやすいが、しゅくしゃくにゆがみがある。",
+      "en": "Most current world maps are based on the Mercator projection, which is useful for navigation but distorts scale.",
+      "zhHant": "現行世界地圖多採用麥卡托投影；它便於航海，卻會扭曲面積比例。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7642-un-adopts-equal-earth-world-map/KM-NEWS-7642-un-adopts-equal-earth-world-map-sentence-04-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7642-un-adopts-equal-earth-world-map/KM-NEWS-7642-un-adopts-equal-earth-world-map-sentence-04-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7642-un-adopts-equal-earth-world-map/KM-NEWS-7642-un-adopts-equal-earth-world-map-sentence-04-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/d9c9a955-7e34-4376-a731-162af233b472.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "現在",
+            "offsetMs": 50
+          },
+          {
+            "text": "の",
+            "offsetMs": 600
+          },
+          {
+            "text": "世界",
+            "offsetMs": 737.5
+          },
+          {
+            "text": "地図",
+            "offsetMs": 1150
+          },
+          {
+            "text": "は",
+            "offsetMs": 1425
+          },
+          {
+            "text": "メルカトル",
+            "offsetMs": 1950
+          },
+          {
+            "text": "図法",
+            "offsetMs": 2550
+          },
+          {
+            "text": "に",
+            "offsetMs": 2925
+          },
+          {
+            "text": "基づい",
+            "offsetMs": 3025
+          },
+          {
+            "text": "て",
+            "offsetMs": 3500
+          },
+          {
+            "text": "おり",
+            "offsetMs": 3587.5
+          },
+          {
+            "text": "航海",
+            "offsetMs": 4175
+          },
+          {
+            "text": "に",
+            "offsetMs": 4650
+          },
+          {
+            "text": "は",
+            "offsetMs": 4762.5
+          },
+          {
+            "text": "使い",
+            "offsetMs": 4925
+          },
+          {
+            "text": "やすい",
+            "offsetMs": 5287.5
+          },
+          {
+            "text": "が",
+            "offsetMs": 5662.5
+          },
+          {
+            "text": "縮尺",
+            "offsetMs": 6175
+          },
+          {
+            "text": "に",
+            "offsetMs": 6662.5
+          },
+          {
+            "text": "ゆがみ",
+            "offsetMs": 6800
+          },
+          {
+            "text": "が",
+            "offsetMs": 7187.5
+          },
+          {
+            "text": "ある",
+            "offsetMs": 7300
+          }
+        ]
+      }
+    },
+    {
+      "id": "s05",
+      "sourcePieceId": 121933,
+      "sourceOrder": 10,
+      "ja": "例えば、グリーンランドは実際より大きく見えるが、面積はコンゴ民主共和国とほぼ同じである。",
+      "speechJa": "例えば、グリーンランドは実際より大きく見えるが、面積はコンゴ民主共和国とほぼ同じである。",
+      "en": "For example, Greenland looks larger than it really is, although its area is roughly the same as the Democratic Republic of the Congo.",
+      "zhHant": "例如，格陵蘭在地圖上看來比實際更大，但其面積其實與剛果民主共和國相若。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7642-un-adopts-equal-earth-world-map/KM-NEWS-7642-un-adopts-equal-earth-world-map-sentence-05-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7642-un-adopts-equal-earth-world-map/KM-NEWS-7642-un-adopts-equal-earth-world-map-sentence-05-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7642-un-adopts-equal-earth-world-map/KM-NEWS-7642-un-adopts-equal-earth-world-map-sentence-05-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/9cb30871-aaa3-4711-85cb-653d41d690b6.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "例えば",
+            "offsetMs": 50
+          },
+          {
+            "text": "グリーン",
+            "offsetMs": 850
+          },
+          {
+            "text": "ランド",
+            "offsetMs": 1300
+          },
+          {
+            "text": "は",
+            "offsetMs": 1625
+          },
+          {
+            "text": "実際",
+            "offsetMs": 1862.5
+          },
+          {
+            "text": "より",
+            "offsetMs": 2362.5
+          },
+          {
+            "text": "大きく",
+            "offsetMs": 2612.5
+          },
+          {
+            "text": "見える",
+            "offsetMs": 3100
+          },
+          {
+            "text": "が",
+            "offsetMs": 3450
+          },
+          {
+            "text": "面積",
+            "offsetMs": 3925
+          },
+          {
+            "text": "は",
+            "offsetMs": 4412.5
+          },
+          {
+            "text": "コンゴ",
+            "offsetMs": 4712.5
+          },
+          {
+            "text": "民主",
+            "offsetMs": 5137.5
+          },
+          {
+            "text": "共和国",
+            "offsetMs": 5500
+          },
+          {
+            "text": "と",
+            "offsetMs": 6075
+          },
+          {
+            "text": "ほぼ",
+            "offsetMs": 6312.5
+          },
+          {
+            "text": "同じ",
+            "offsetMs": 6612.5
+          },
+          {
+            "text": "で",
+            "offsetMs": 7012.5
+          },
+          {
+            "text": "ある",
+            "offsetMs": 7112.5
+          }
+        ]
+      }
+    },
+    {
+      "id": "s06",
+      "sourcePieceId": 121934,
+      "sourceOrder": 11,
+      "ja": "国連の決議は、こうしたゆがみがアフリカや他の地域の実際の大きさを小さく見せていると懸念している。",
+      "speechJa": "国連の決議は、こうしたゆがみがアフリカや他の地域の実際の大きさを小さく見せていると懸念している。",
+      "en": "The UN resolution is concerned that such distortion makes Africa and other regions appear smaller than they really are.",
+      "zhHant": "聯合國決議關注這類失真，會令非洲及其他地區看起來比實際更小。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7642-un-adopts-equal-earth-world-map/KM-NEWS-7642-un-adopts-equal-earth-world-map-sentence-06-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7642-un-adopts-equal-earth-world-map/KM-NEWS-7642-un-adopts-equal-earth-world-map-sentence-06-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7642-un-adopts-equal-earth-world-map/KM-NEWS-7642-un-adopts-equal-earth-world-map-sentence-06-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/748b5f8f-6013-450e-bbc9-9a073a89a18e.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "国連",
+            "offsetMs": 50
+          },
+          {
+            "text": "の",
+            "offsetMs": 575
+          },
+          {
+            "text": "決議",
+            "offsetMs": 725
+          },
+          {
+            "text": "は",
+            "offsetMs": 1137.5
+          },
+          {
+            "text": "こうし",
+            "offsetMs": 1675
+          },
+          {
+            "text": "た",
+            "offsetMs": 2037.5
+          },
+          {
+            "text": "ゆがみ",
+            "offsetMs": 2150
+          },
+          {
+            "text": "が",
+            "offsetMs": 2587.5
+          },
+          {
+            "text": "アフリカ",
+            "offsetMs": 2750
+          },
+          {
+            "text": "や",
+            "offsetMs": 3262.5
+          },
+          {
+            "text": "他",
+            "offsetMs": 3475
+          },
+          {
+            "text": "の",
+            "offsetMs": 3775
+          },
+          {
+            "text": "地域",
+            "offsetMs": 3900
+          },
+          {
+            "text": "の",
+            "offsetMs": 4300
+          },
+          {
+            "text": "実際",
+            "offsetMs": 4462.5
+          },
+          {
+            "text": "の",
+            "offsetMs": 4937.5
+          },
+          {
+            "text": "大きさ",
+            "offsetMs": 5037.5
+          },
+          {
+            "text": "を",
+            "offsetMs": 5475
+          },
+          {
+            "text": "小さく",
+            "offsetMs": 5725
+          },
+          {
+            "text": "見せ",
+            "offsetMs": 6275
+          },
+          {
+            "text": "て",
+            "offsetMs": 6512.5
+          },
+          {
+            "text": "いる",
+            "offsetMs": 6612.5
+          },
+          {
+            "text": "と",
+            "offsetMs": 6850
+          },
+          {
+            "text": "懸念",
+            "offsetMs": 7000
+          },
+          {
+            "text": "し",
+            "offsetMs": 7350
+          },
+          {
+            "text": "て",
+            "offsetMs": 7475
+          },
+          {
+            "text": "いる",
+            "offsetMs": 7562.5
+          }
+        ]
+      }
+    },
+    {
+      "id": "s07",
+      "sourcePieceId": 121935,
+      "sourceOrder": 12,
+      "ja": "このため、メルカトル図法をイコールアース図法に置き換えることを提案している。",
+      "speechJa": "このため、メルカトルずほうをイコールアースずほうに置き換えることを提案している。",
+      "en": "It therefore proposes replacing the Mercator projection with the Equal Earth projection.",
+      "zhHant": "因此，決議建議以「等地球投影」取代麥卡托投影。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7642-un-adopts-equal-earth-world-map/KM-NEWS-7642-un-adopts-equal-earth-world-map-sentence-07-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7642-un-adopts-equal-earth-world-map/KM-NEWS-7642-un-adopts-equal-earth-world-map-sentence-07-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7642-un-adopts-equal-earth-world-map/KM-NEWS-7642-un-adopts-equal-earth-world-map-sentence-07-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/fc023ac5-0f33-4a33-ac46-bc878bc73b5f.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "この",
+            "offsetMs": 50
+          },
+          {
+            "text": "ため",
+            "offsetMs": 362.5
+          },
+          {
+            "text": "メルカトル",
+            "offsetMs": 975
+          },
+          {
+            "text": "図法",
+            "offsetMs": 1562.5
+          },
+          {
+            "text": "を",
+            "offsetMs": 1925
+          },
+          {
+            "text": "イコール",
+            "offsetMs": 2062.5
+          },
+          {
+            "text": "アース",
+            "offsetMs": 2537.5
+          },
+          {
+            "text": "図法",
+            "offsetMs": 2887.5
+          },
+          {
+            "text": "に",
+            "offsetMs": 3262.5
+          },
+          {
+            "text": "置き換える",
+            "offsetMs": 3387.5
+          },
+          {
+            "text": "こと",
+            "offsetMs": 4000
+          },
+          {
+            "text": "を",
+            "offsetMs": 4225
+          },
+          {
+            "text": "提案",
+            "offsetMs": 4362.5
+          },
+          {
+            "text": "し",
+            "offsetMs": 4775
+          },
+          {
+            "text": "て",
+            "offsetMs": 4900
+          },
+          {
+            "text": "いる",
+            "offsetMs": 4987.5
+          }
+        ]
+      }
+    },
+    {
+      "id": "s08",
+      "sourcePieceId": 121936,
+      "sourceOrder": 13,
+      "ja": "この新しい図法では、欧州が小さく、ブラジルが大きく、アフリカがはるかに大きく見える。",
+      "speechJa": "この新しいずほうでは、欧州が小さく、ブラジルが大きく、アフリカがはるかに大きく見える。",
+      "en": "With the new projection, Europe appears smaller, Brazil larger and Africa much larger.",
+      "zhHant": "在新投影下，歐洲看起來較小、巴西較大，而非洲則大得多。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7642-un-adopts-equal-earth-world-map/KM-NEWS-7642-un-adopts-equal-earth-world-map-sentence-08-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7642-un-adopts-equal-earth-world-map/KM-NEWS-7642-un-adopts-equal-earth-world-map-sentence-08-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7642-un-adopts-equal-earth-world-map/KM-NEWS-7642-un-adopts-equal-earth-world-map-sentence-08-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/bfa9002d-98a0-42bf-bfb6-b8a156050e53.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "この",
+            "offsetMs": 50
+          },
+          {
+            "text": "新しい",
+            "offsetMs": 350
+          },
+          {
+            "text": "図法",
+            "offsetMs": 962.5
+          },
+          {
+            "text": "で",
+            "offsetMs": 1337.5
+          },
+          {
+            "text": "は",
+            "offsetMs": 1450
+          },
+          {
+            "text": "欧州",
+            "offsetMs": 1900
+          },
+          {
+            "text": "が",
+            "offsetMs": 2387.5
+          },
+          {
+            "text": "小さく",
+            "offsetMs": 2512.5
+          },
+          {
+            "text": "ブラジル",
+            "offsetMs": 3312.5
+          },
+          {
+            "text": "が",
+            "offsetMs": 3800
+          },
+          {
+            "text": "大きく",
+            "offsetMs": 3912.5
+          },
+          {
+            "text": "アフリカ",
+            "offsetMs": 4712.5
+          },
+          {
+            "text": "が",
+            "offsetMs": 5225
+          },
+          {
+            "text": "はるか",
+            "offsetMs": 5362.5
+          },
+          {
+            "text": "に",
+            "offsetMs": 5750
+          },
+          {
+            "text": "大きく",
+            "offsetMs": 5887.5
+          },
+          {
+            "text": "見える",
+            "offsetMs": 6375
+          }
+        ]
+      }
+    },
+    {
+      "id": "s09",
+      "sourcePieceId": 121937,
+      "sourceOrder": 14,
+      "ja": "フランスの外相は4日、メルカトル図法を廃止し、正確な地図表現を採用すると発表した。",
+      "speechJa": "フランスの外相はよっか、メルカトルずほうをはいしし、正確な地図表現をさいようすると発表した。",
+      "en": "France’s foreign minister announced on the 4th that the country would move away from the Mercator projection and adopt a more accurate representation.",
+      "zhHant": "法國外長於4日宣布，將棄用麥卡托投影，改採更準確的地圖呈現方式。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7642-un-adopts-equal-earth-world-map/KM-NEWS-7642-un-adopts-equal-earth-world-map-sentence-09-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7642-un-adopts-equal-earth-world-map/KM-NEWS-7642-un-adopts-equal-earth-world-map-sentence-09-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7642-un-adopts-equal-earth-world-map/KM-NEWS-7642-un-adopts-equal-earth-world-map-sentence-09-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/1e3a7541-8e62-455c-b131-c62b462472f0.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "フランス",
+            "offsetMs": 50
+          },
+          {
+            "text": "の",
+            "offsetMs": 587.5
+          },
+          {
+            "text": "外相",
+            "offsetMs": 712.5
+          },
+          {
+            "text": "は",
+            "offsetMs": 1200
+          },
+          {
+            "text": "4日",
+            "offsetMs": 1337.5
+          },
+          {
+            "text": "メルカトル",
+            "offsetMs": 2137.5
+          },
+          {
+            "text": "図法",
+            "offsetMs": 2725
+          },
+          {
+            "text": "を",
+            "offsetMs": 3075
+          },
+          {
+            "text": "廃止",
+            "offsetMs": 3175
+          },
+          {
+            "text": "し",
+            "offsetMs": 3575
+          },
+          {
+            "text": "正確",
+            "offsetMs": 4162.5
+          },
+          {
+            "text": "な",
+            "offsetMs": 4650
+          },
+          {
+            "text": "地図",
+            "offsetMs": 4762.5
+          },
+          {
+            "text": "表現",
+            "offsetMs": 5062.5
+          },
+          {
+            "text": "を",
+            "offsetMs": 5512.5
+          },
+          {
+            "text": "採用",
+            "offsetMs": 5662.5
+          },
+          {
+            "text": "する",
+            "offsetMs": 6137.5
+          },
+          {
+            "text": "と",
+            "offsetMs": 6387.5
+          },
+          {
+            "text": "発表",
+            "offsetMs": 6512.5
+          },
+          {
+            "text": "し",
+            "offsetMs": 7012.5
+          },
+          {
+            "text": "た",
+            "offsetMs": 7125
+          }
+        ]
+      }
+    },
+    {
+      "id": "s10",
+      "sourcePieceId": 121938,
+      "sourceOrder": 15,
+      "ja": "アフリカ連合は3月にイコールアース図法を採用した。",
+      "speechJa": "アフリカ連合はさんがつにイコールアースずほうをさいようした。",
+      "en": "The African Union adopted the Equal Earth projection in March.",
+      "zhHant": "非洲聯盟已於3月採用等地球投影。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7642-un-adopts-equal-earth-world-map/KM-NEWS-7642-un-adopts-equal-earth-world-map-sentence-10-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7642-un-adopts-equal-earth-world-map/KM-NEWS-7642-un-adopts-equal-earth-world-map-sentence-10-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7642-un-adopts-equal-earth-world-map/KM-NEWS-7642-un-adopts-equal-earth-world-map-sentence-10-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/1879f3c8-3715-4482-89fc-bc97e73992ec.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "アフリカ",
+            "offsetMs": 50
+          },
+          {
+            "text": "連合",
+            "offsetMs": 600
+          },
+          {
+            "text": "は",
+            "offsetMs": 1025
+          },
+          {
+            "text": "3月",
+            "offsetMs": 1250
+          },
+          {
+            "text": "に",
+            "offsetMs": 1787.5
+          },
+          {
+            "text": "イコール",
+            "offsetMs": 1937.5
+          },
+          {
+            "text": "アース",
+            "offsetMs": 2387.5
+          },
+          {
+            "text": "図法",
+            "offsetMs": 2712.5
+          },
+          {
+            "text": "を",
+            "offsetMs": 3075
+          },
+          {
+            "text": "採用",
+            "offsetMs": 3200
+          },
+          {
+            "text": "し",
+            "offsetMs": 3687.5
+          },
+          {
+            "text": "た",
+            "offsetMs": 3812.5
+          }
+        ]
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "v01",
+      "surface": "採用",
+      "reading": "さいよう",
+      "en": "adoption; to adopt",
+      "zhHant": "採用",
+      "speechJa": "さいよう",
+      "audio": {
+        "file": "../audio/7642-un-adopts-equal-earth-world-map/KM-NEWS-7642-un-adopts-equal-earth-world-map-vocab-01-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    },
+    {
+      "id": "v02",
+      "surface": "縮尺",
+      "reading": "しゅくしゃく",
+      "en": "map scale",
+      "zhHant": "比例尺",
+      "speechJa": "しゅくしゃく",
+      "audio": {
+        "file": "../audio/7642-un-adopts-equal-earth-world-map/KM-NEWS-7642-un-adopts-equal-earth-world-map-vocab-02-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    },
+    {
+      "id": "v03",
+      "surface": "公平",
+      "reading": "こうへい",
+      "en": "fair; equitable",
+      "zhHant": "公平",
+      "speechJa": "こうへい",
+      "audio": {
+        "file": "../audio/7642-un-adopts-equal-earth-world-map/KM-NEWS-7642-un-adopts-equal-earth-world-map-vocab-03-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    },
+    {
+      "id": "v04",
+      "surface": "決議案",
+      "reading": "けつぎあん",
+      "en": "draft resolution",
+      "zhHant": "決議案",
+      "speechJa": "けつぎあん",
+      "audio": {
+        "file": "../audio/7642-un-adopts-equal-earth-world-map/KM-NEWS-7642-un-adopts-equal-earth-world-map-vocab-04-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    },
+    {
+      "id": "v05",
+      "surface": "図法",
+      "reading": "ずほう",
+      "en": "map projection",
+      "zhHant": "地圖投影法",
+      "speechJa": "ずほう",
+      "audio": {
+        "file": "../audio/7642-un-adopts-equal-earth-world-map/KM-NEWS-7642-un-adopts-equal-earth-world-map-vocab-05-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    },
+    {
+      "id": "v06",
+      "surface": "ゆがみ",
+      "reading": "ゆがみ",
+      "en": "distortion",
+      "zhHant": "失真；扭曲",
+      "speechJa": "ゆがみ",
+      "audio": {
+        "file": "../audio/7642-un-adopts-equal-earth-world-map/KM-NEWS-7642-un-adopts-equal-earth-world-map-vocab-06-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    },
+    {
+      "id": "v07",
+      "surface": "廃止",
+      "reading": "はいし",
+      "en": "abolition; discontinuation",
+      "zhHant": "廢止",
+      "speechJa": "はいし",
+      "audio": {
+        "file": "../audio/7642-un-adopts-equal-earth-world-map/KM-NEWS-7642-un-adopts-equal-earth-world-map-vocab-07-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    }
+  ],
+  "readingMinutes": 2,
+  "keywordCount": 7,
+  "playbackRates": [
+    0.8,
+    1.0,
+    1.2
+  ],
+  "audioPolicy": "Play Nanami sentence files sequentially; do not pitch-shift. Use each timing JSON at the selected playback rate. Source narration is retained only as an editorial backup.",
+  "cardPreview": {
+    "ja": "地域の実際の大きさを、より公平に表すことが目的です。",
+    "speechJa": "地域の実際の大きさを、よりこうへいに表すことが目的です。",
+    "audio": "../audio/7642-un-adopts-equal-earth-world-map/KM-NEWS-7642-un-adopts-equal-earth-world-map-card-preview-ja-Nanami.mp3",
+    "timings": "../audio/7642-un-adopts-equal-earth-world-map/KM-NEWS-7642-un-adopts-equal-earth-world-map-card-preview-ja-Nanami-timings.json",
+    "voice": "ja-JP-NanamiNeural"
+  }
+}

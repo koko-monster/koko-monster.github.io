@@ -1,0 +1,74 @@
+[
+  {
+    "id": 9991,
+    "slug": "onosato-promoted-to-yokozuna",
+    "category": {"key":"Sports","ja":"スポーツ","en":"Sports","zhHant":"體育"},
+    "level": "N4",
+    "date": "2026-09-07",
+    "demoOnly": true,
+    "title": {"ja":"大の里、横綱になる","en":"Ōnosato is promoted to yokozuna","zhHant":"大之里晉升橫綱"},
+    "summary": {"ja":"大の里が相撲で最も高い地位の横綱になりました。","en":"Ōnosato has reached yokozuna, sumo’s highest rank.","zhHant":"大之里晉升為相撲最高級別「橫綱」。"},
+    "cover": "../../../assets/news-covers/sumo-yokozuna.png",
+    "sentences": [
+      {"ja":"大の里は、相撲でいちばん高い地位、横綱になりました。","en":"Ōnosato has reached yokozuna, the highest rank in sumo.","zhHant":"大之里晉升為相撲最高級別「橫綱」。"},
+      {"ja":"横綱になることが決まると、使者が部屋を訪れました。","en":"After the promotion was decided, messengers visited his sumo stable.","zhHant":"晉升決定後，使者到訪其相撲部屋。"},
+      {"ja":"大の里は、謹んでお受けしますと答えました。","en":"Ōnosato replied, “I humbly accept.”","zhHant":"大之里回應道：「我謹此接受。」"},
+      {"ja":"そして、横綱として責任ある行動をすると誓いました。","en":"He then pledged to act responsibly as a yokozuna.","zhHant":"他並承諾，將以橫綱身分負責任地行事。"},
+      {"ja":"地元の人たちは、昇進を喜び、大きな拍手を送りました。","en":"People in his home region celebrated the promotion with loud applause.","zhHant":"家鄉民眾為他的晉升喝采，送上熱烈掌聲。"},
+      {"ja":"これからの土俵での活躍に、注目が集まります。","en":"Attention now turns to how he will perform in the ring.","zhHant":"外界正期待他今後在土俵上的表現。"}
+    ],
+    "vocabulary": [
+      {"surface":"大の里","reading":"おおのさと","en":"Ōnosato","zhHant":"大之里"},
+      {"surface":"横綱","reading":"よこづな","en":"yokozuna; grand champion","zhHant":"橫綱"},
+      {"surface":"昇進","reading":"しょうしん","en":"promotion","zhHant":"晉升"}
+    ]
+  },
+  {
+    "id": 9992,
+    "slug": "suica-mascot-public-vote",
+    "category": {"key":"Business","ja":"ビジネス","en":"Business","zhHant":"商業"},
+    "level": "N5",
+    "date": "2026-09-05",
+    "demoOnly": true,
+    "title": {"ja":"Suicaの新しいキャラクター、投票で選ぶ","en":"A public vote will choose Suica’s new mascot","zhHant":"Suica新吉祥物將由公眾投票選出"},
+    "summary": {"ja":"Suicaの新しいキャラクターを選ぶ投票が始まりました。","en":"Voting has begun to choose a new character for Suica.","zhHant":"Suica新角色的公眾投票已經展開。"},
+    "cover": "../../../assets/news-covers/suica-mascot-vote.png",
+    "sentences": [
+      {"ja":"交通系ICカードのSuicaが、新しいキャラクターの候補を発表しました。","en":"Transit IC card Suica has announced candidates for a new mascot.","zhHant":"交通IC卡Suica公布了新吉祥物的候選角色。"},
+      {"ja":"利用者は、公式サイトから好きな候補に投票できます。","en":"Users can vote for their favourite candidate on the official website.","zhHant":"使用者可在官方網站投選喜愛的候選角色。"},
+      {"ja":"候補はそれぞれ、電車や旅をテーマにしています。","en":"Each candidate is themed around trains and travel.","zhHant":"各個候選角色均以列車與旅遊為主題。"},
+      {"ja":"投票は一人一日一回までです。","en":"Each person may vote once per day.","zhHant":"每人每日可投票一次。"},
+      {"ja":"選ばれたキャラクターは、駅のポスターやアプリに登場する予定です。","en":"The winning character is expected to appear on station posters and in the app.","zhHant":"勝出的角色預計會出現在車站海報與應用程式之中。"},
+      {"ja":"結果は来月、発表されます。","en":"The result will be announced next month.","zhHant":"投票結果將於下月公布。"}
+    ],
+    "vocabulary": [
+      {"surface":"候補","reading":"こうほ","en":"candidate","zhHant":"候選者"},
+      {"surface":"投票","reading":"とうひょう","en":"vote; voting","zhHant":"投票"},
+      {"surface":"利用者","reading":"りようしゃ","en":"user","zhHant":"使用者"}
+    ]
+  },
+  {
+    "id": 9993,
+    "slug": "aomori-earthquake-magnitude-7-5",
+    "category": {"key":"Environment","ja":"環境","en":"Environment","zhHant":"環境"},
+    "level": "N4",
+    "date": "2026-09-03",
+    "demoOnly": true,
+    "title": {"ja":"青森県沖でマグニチュード7.5の地震","en":"Magnitude 7.5 earthquake strikes off Aomori","zhHant":"青森縣外海發生7.5級地震"},
+    "summary": {"ja":"青森県の沖で強い地震があり、住民に安全確認が呼びかけられました。","en":"A strong earthquake off Aomori prompts calls for residents to check their safety.","zhHant":"青森縣外海發生強烈地震，當局呼籲居民確認安全。"},
+    "cover": "../../../assets/news-covers/earthquake-preparedness.png",
+    "sentences": [
+      {"ja":"青森県の沖で、マグニチュード7.5の強い地震がありました。","en":"A strong magnitude 7.5 earthquake struck off Aomori Prefecture.","zhHant":"青森縣外海發生7.5級強烈地震。"},
+      {"ja":"海岸に近い地域では、住民が高い場所へ避難しました。","en":"In coastal areas, residents evacuated to higher ground.","zhHant":"沿岸地區居民疏散到較高地勢。"},
+      {"ja":"自治体は、けが人や建物の被害を確認しています。","en":"Local authorities are checking for injuries and damage to buildings.","zhHant":"地方政府正確認傷者人數與建築物受損情況。"},
+      {"ja":"鉄道の一部は、安全を調べるため運転を見合わせました。","en":"Some railway services were suspended while safety checks were carried out.","zhHant":"部分鐵路服務暫停，以進行安全檢查。"},
+      {"ja":"専門家は、しばらくの間、強い揺れに注意するよう呼びかけています。","en":"Experts are urging people to remain alert for strong shaking for some time.","zhHant":"專家呼籲民眾在未來一段時間繼續提防強烈震動。"},
+      {"ja":"家族で避難場所と連絡方法を確認することが大切です。","en":"Families are advised to confirm evacuation sites and ways to contact one another.","zhHant":"家庭應預先確認避難地點與彼此聯絡的方法。"}
+    ],
+    "vocabulary": [
+      {"surface":"地震","reading":"じしん","en":"earthquake","zhHant":"地震"},
+      {"surface":"避難","reading":"ひなん","en":"evacuation","zhHant":"疏散"},
+      {"surface":"揺れ","reading":"ゆれ","en":"shaking","zhHant":"震動"}
+    ]
+  }
+]

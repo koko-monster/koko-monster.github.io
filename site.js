@@ -118,7 +118,7 @@ $('[data-story-hero-translation]')?.addEventListener('click',event=>{
 });
 $('[data-story-hero-language]')?.addEventListener('click',event=>{
   const button=event.currentTarget,next=button.dataset.lang==='en'?'zh':'en';
-  button.dataset.lang=next;button.textContent=next.toUpperCase();button.setAttribute('aria-label',next==='en'?'Switch translation to Chinese':'Switch translation to English');
+  button.dataset.lang=next;button.textContent=next==='zh'?'繁':'EN';button.setAttribute('aria-label',next==='en'?'Switch translation to Chinese':'Switch translation to English');
   const visible=$('[data-story-hero-translation]')?.getAttribute('aria-pressed')==='true';
   $$('[data-story-hero-translation-copy]').forEach(item=>item.hidden=!visible||item.dataset.storyHeroTranslationCopy!==next);
 });
@@ -218,7 +218,7 @@ bookAppTranslation?.addEventListener('click',event=>{
 });
 bookAppLanguage?.addEventListener('click',event=>{
   const button=event.currentTarget,next=button.dataset.lang==='en'?'zh':'en',visible=bookAppTranslation?.getAttribute('aria-pressed')==='true';
-  button.dataset.lang=next;button.textContent=next.toUpperCase();button.setAttribute('aria-label',next==='en'?'Switch translation to Chinese':'Switch translation to English');bookAppTranslations.forEach(copy=>copy.hidden=!visible||copy.dataset.lang!==next);$$('[data-book-app-word-gloss]').forEach(gloss=>gloss.hidden=gloss.dataset.lang!==next);
+  button.dataset.lang=next;button.textContent=next==='zh'?'繁':'EN';button.setAttribute('aria-label',next==='en'?'Switch translation to Chinese':'Switch translation to English');bookAppTranslations.forEach(copy=>copy.hidden=!visible||copy.dataset.lang!==next);$$('[data-book-app-word-gloss]').forEach(gloss=>gloss.hidden=gloss.dataset.lang!==next);
 });
 // Upgrade the compact-reader labels into real controls and keep their display
 // options independent from playback.
@@ -249,7 +249,7 @@ const installCompactReaderControls=({reader,toolSelector,furiganaAttr,translatio
   });
   languageButton?.addEventListener('click',event=>{
     const button=event.currentTarget,next=button.dataset.lang==='en'?'zh':'en',visible=translation?.getAttribute('aria-pressed')==='true';
-    button.dataset.lang=next;button.textContent=next.toUpperCase();button.setAttribute('aria-label',next==='en'?'Switch translation to Chinese':'Switch translation to English');translationCopies.forEach(copy=>copy.hidden=!visible||copy.dataset.lang!==next);glosses.forEach(gloss=>gloss.hidden=gloss.dataset.lang!==next);
+    button.dataset.lang=next;button.textContent=next==='zh'?'繁':'EN';button.setAttribute('aria-label',next==='en'?'Switch translation to Chinese':'Switch translation to English');translationCopies.forEach(copy=>copy.hidden=!visible||copy.dataset.lang!==next);glosses.forEach(gloss=>gloss.hidden=gloss.dataset.lang!==next);
   });
 };
 const compactSnowReader=$('.story-book-moment__reader');
@@ -368,4 +368,73 @@ if(guidedChatSection){
     },{threshold:.38});
     guidedChatObserver.observe(guidedChatSection);
   }else revealGuidedChat();
+}
+
+// Page-wide EN / Traditional Chinese interface switch. Reader language controls
+// remain independently usable, but follow the page language when this switch runs.
+const interfaceLanguageButton=$('[data-interface-language]');
+if(interfaceLanguageButton){
+  const landingZh=new Map(Object.entries({
+    'Easy News':'簡易新聞','Books':'書籍','Guided Chat':'AI 對話','Shop':'商店','App':'應用程式','Find your level':'測出你的程度',
+    'JAPANESE FOR REAL LIFE':'實用生活日語','Japanese you can':'你真正能用上的','actually use.':'日語。',
+    'Read a story. Hear every sentence. Meet useful words in context. Then try them in a real conversation.':'讀一個故事，聽懂每一句，在情境中掌握實用詞彙，再把它們帶進真實對話。','Find your starting level':'找到適合你的起點',
+    'TAP · LISTEN · UNDERSTAND':'點選 · 聆聽 · 理解','TRY THE READER':'試用閱讀器','A real page.':'真實頁面。','Help':'支援','when you need it.':'需要時即時出現。',
+    'Furigana':'振假名','Translation':'翻譯','Text size':'文字大小','READ IT IN THE BOOK':'在書中閱讀',
+    'START WHERE YOU ARE':'從適合你的地方開始','One goal.':'一個目標。','Three ways in.':'三條起點。','Not sure where to begin?':'不知道從哪裡開始？','Find your level in 3 minutes →':'3 分鐘測出你的程度 →',
+    'LEVEL 1 · 初心者':'程度 1 · 初學者','LEVEL 2 · もっと読みたい':'程度 2 · 想讀更多','LEVEL 3 · 話してみたい':'程度 3 · 想開口說','I know some kana.':'我認得一些假名。','I want useful words.':'我想學實用詞彙。','EASY NEWS · STARTS WITH あ':'簡易新聞 · 從「あ」開始','breakfast':'早餐','TODAY · N5':'今日 · N5','Tap for meaning':'點擊查看意思',
+    'Start with the kana you know. Meet useful words in short, real news.':'從你認得的假名開始，在簡短的真實新聞中學習實用詞彙。','Explore Easy News':'瀏覽簡易新聞',
+    'I can read a little.':'我已經能讀一點。','I want to go deeper.':'我想讀得更深入。','BOOK + READER':'書籍 + 閱讀器','OPEN A REAL PAGE':'打開真實書頁','Hear and understand Japanese from a real page.':'從真實書頁聆聽並理解日語。','Find your book':'找到適合你的書',
+    'I understand Japanese.':'我看得懂日語。','I want to speak':'我想說得','more naturally.':'更自然。','That sounds natural.':'這樣說很自然。','Finding a natural reply…':'正在尋找自然的回覆⋯',
+    'Boombear is ready to help.':'Boombear 已準備好幫助你。','Try one reply. Get one useful improvement, then keep the conversation going.':'試著回覆一句，獲得一個實用改進，再繼續聊下去。','Start a guided chat':'開始 AI 對話',
+    'EASY NEWS · JAPAN TODAY':'簡易新聞 · 今日日本','Today’s Japan,':'今日日本，','in readable Japanese.':'用讀得懂的日語呈現。','FEATURED · N4':'精選 · N4','READ · LISTEN · UNDERSTAND':'閱讀 · 聆聽 · 理解',
+    'Meet the newest wrestler to reach sumo’s highest rank.':'認識最新晉升相撲最高級別的力士。','Explore this story in Easy News':'前往簡易新聞閱讀這篇故事','Click to hear this word. Meet it again in News and Guided Chat.':'點擊聆聽這個詞，並在新聞與 AI 對話中再次遇見它。',
+    'BOOK + APP READER':'書籍 + 應用程式閱讀器','Read the page.':'閱讀書頁。','Make the Japanese yours.':'把日語化為自己的語言。','Read in print, then use the app to hear, understand and practise the Japanese.':'先閱讀紙本，再用應用程式聆聽、理解並練習日語。',
+    'READ IN THE BOOK':'在書中閱讀','MAKE IT YOURS':'學以致用','READING WITH KOKO':'和 Koko 一起閱讀','Click to hear this word':'點擊聆聽這個詞','Read naturally':'自然閱讀','Understand more':'深入理解','Make it yours':'學以致用',
+    'Take in the story, photography and cultural details on a real page.':'從真實書頁感受故事、攝影與文化細節。','Tap a phrase for furigana, meaning and audio.':'點選詞句，查看振假名、意思並聆聽發音。','Practise a phrase, then bring it into guided chat when you are ready.':'練習一句表達，準備好後把它帶進 AI 對話。','Explore the book and reader':'瀏覽書籍與閱讀器',
+    'Say it your way.':'用你的方式說。','Make it sound':'讓表達更','natural.':'自然。','Start with what you know.':'從你會的開始。','Use a phrase from your reading—or simply say what you mean.':'使用閱讀中學到的句子，或直接說出你想表達的意思。',
+    'Keep the conversation going.':'讓對話繼續。','Boombear gives one clear, useful improvement without stopping your flow.':'Boombear 會給你一個清楚實用的改進，不打斷對話節奏。','Take a more natural phrase with you.':'帶走一句更自然的表達。','Practise the version you want to use again in real life.':'練習你想在現實生活中再次使用的說法。',
+    'GUIDED CHAT':'AI 對話','● LIVE PRACTICE':'● 即時練習','FROM YOUR READING':'來自你的閱讀','YOU':'你','For plans, try 〜に行きたいです.':'談論計畫時，可以試試「〜に行きたいです」。','よ adds a friendly, sharing tone.':'「よ」帶有親切、分享資訊的語氣。','Boombear is your guide':'Boombear 是你的引導夥伴','Try a reply. I’ll help you make it sound like you.':'試著回覆，我會幫你說得更自然、更像你。',
+    'YOUR BOOK IS THE KEY':'你的書就是鑰匙','Buy a book.':'購買一本書。','Unlock its full Japanese experience.':'解鎖完整的日語學習體驗。','Redeem the code included with your book to access every article from that title in the app—with narration, translation and the interactive reader.':'兌換書中附帶的代碼，即可在應用程式中閱讀該書全部文章，並使用朗讀、翻譯與互動閱讀器。','Scan a QR code in the book to jump straight to its matching interactive article.':'掃描書中的 QR Code，即可直接開啟對應的互動文章。',
+    'FULL DIGITAL READER ACCESS':'完整數位閱讀權限','Read every article':'閱讀書中每一篇','from your book.':'文章。','Furigana, narration and translation help when you need them.':'需要時可使用振假名、朗讀與翻譯。','Choose your book':'選擇你的書','WHAT YOUR BOOK UNLOCKS':'你的書可解鎖',
+    'Full digital reader access':'完整數位閱讀權限','Read every article from your book with furigana, narration and translation.':'使用振假名、朗讀與翻譯，閱讀書中每一篇文章。','Chapter-linked guided chat':'章節連動 AI 對話','Practise conversation topics connected to the chapters included in your book.':'練習與書中章節相關的對話主題。','Free Easy News':'免費簡易新聞','Keep reading current, level-friendly Japanese—free for everyone.':'持續閱讀符合程度的最新日語新聞，所有人都能免費使用。','Redeem once per book for one Kokomonster account. Book-content access continues while the product remains available.':'每本書可供一個 Kokomonster 帳號兌換一次；產品供應期間可持續存取書籍內容。',
+    'Japanese learning that begins with a story and stays with you in real life.':'從一則故事開始，讓日語走進真實生活。','Download the app':'下載應用程式','EXPLORE':'探索','GET STARTED':'開始學習','HELP':'幫助','Shop books':'選購書籍','Contact us':'聯絡我們','How it works':'使用方式','Terms of Use':'使用條款','Privacy Policy':'隱私權政策'
+  }));
+  const textOriginals=new WeakMap();
+  const attributeOriginals=new WeakMap();
+  const translateTextNodes=language=>{
+    const walker=document.createTreeWalker(document.body,NodeFilter.SHOW_TEXT);
+    let node;
+    while((node=walker.nextNode())){
+      if(['SCRIPT','STYLE','NOSCRIPT'].includes(node.parentElement?.tagName))continue;
+      if(!textOriginals.has(node))textOriginals.set(node,node.nodeValue);
+      const original=textOriginals.get(node),key=original.trim(),replacement=language==='zh'?landingZh.get(key):key;
+      if(replacement===undefined)continue;
+      node.nodeValue=original.replace(key,replacement);
+    }
+  };
+  const ariaZh=new Map(Object.entries({'Main navigation':'主導覽','Open menu':'開啟選單','Close menu':'關閉選單','Kokomonster home':'Kokomonster 首頁','Kokomonster companions and reading preview':'Kokomonster 角色與閱讀預覽','Reading controls':'閱讀控制','Reading preview controls':'閱讀預覽控制','More Easy News stories':'更多簡易新聞','App reader preview':'應用程式閱讀預覽','How book reading flows into the app':'書籍閱讀如何延伸至應用程式','What Guided Chat helps with':'AI 對話如何幫助你','Guided Chat conversation preview':'AI 對話預覽','What your book unlocks':'你的書可解鎖內容','Legal':'法律資訊','Explore':'探索','Get started':'開始學習','Help':'幫助'}));
+  const translateAttributes=language=>$$('[aria-label]').forEach(element=>{
+    if(!attributeOriginals.has(element))attributeOriginals.set(element,element.getAttribute('aria-label'));
+    const original=attributeOriginals.get(element),translated=ariaZh.get(original);
+    if(translated)element.setAttribute('aria-label',language==='zh'?translated:original);
+  });
+  const syncReaderLanguages=language=>{
+    const compactReaders=[['.story-reader-card','[data-story-hero-language]','[data-story-hero-translation-copy]','[data-story-hero-translation]'],['.story-book-moment__reader','[data-story-book-language]','[data-reader-translation]','[data-story-book-translation]'],['.story-news-reader','[data-news-reader-language]','[data-reader-translation]','[data-news-reader-translation]'],['.story-book-app__reader','[data-book-app-language]','[data-book-app-translation-copy]','[data-book-app-translation]']];
+    compactReaders.forEach(([readerSelector,buttonSelector,copySelector,toggleSelector])=>{const reader=$(readerSelector),button=$(buttonSelector,reader);if(!reader||!button)return;button.dataset.lang=language;button.textContent=language==='zh'?'繁':'EN';button.setAttribute('aria-label',language==='en'?'Switch translation to Chinese':'Switch translation to English');const visible=$(toggleSelector,reader)?.getAttribute('aria-pressed')!=='false';$$(copySelector,reader).forEach(copy=>{const copyLanguage=copy.dataset.lang||copy.dataset.storyHeroTranslationCopy;copy.hidden=!visible||copyLanguage!==language;});});
+    if(heroLanguageToggle){heroLanguage=language;heroLanguageToggle.dataset.heroLang=language;heroLanguageToggle.setAttribute('aria-label',language==='en'?'Switch translation to Chinese':'Switch translation to English');heroTranslations.forEach(copy=>copy.hidden=!heroTranslationVisible||copy.dataset.heroTranslation!==language);updateHeroWordDetail(activeHeroToken);}
+    $$('[data-book-app-word-gloss],[data-news-word-gloss]').forEach(gloss=>gloss.hidden=gloss.dataset.lang!==language);
+  };
+  let interfaceLanguage='en';
+  try{const saved=window.localStorage.getItem('kkm-language');if(saved==='en'||saved==='zh')interfaceLanguage=saved;}catch(error){}
+  const applyInterfaceLanguage=()=>{
+    document.documentElement.lang=interfaceLanguage==='zh'?'zh-Hant':'en';
+    document.title=interfaceLanguage==='zh'?'Kokomonster｜從真實書籍開始學日語':'Kokomonster | Japanese Learning That Starts With a Real Book';
+    $('meta[name="description"]')?.setAttribute('content',interfaceLanguage==='zh'?'從真實故事、書籍與新聞開始，透過朗讀、翻譯和引導對話，把日語帶進生活。':'Learn practical Japanese through real books, readable news, narration, translation and guided conversation.');
+    translateTextNodes(interfaceLanguage);translateAttributes(interfaceLanguage);syncReaderLanguages(interfaceLanguage);
+    interfaceLanguageButton.textContent=interfaceLanguage==='zh'?'EN':'繁';
+    interfaceLanguageButton.setAttribute('aria-label',interfaceLanguage==='zh'?'語言：繁體中文。切換至英文':'Language: English. Switch to Traditional Chinese');
+    try{window.localStorage.setItem('kkm-language',interfaceLanguage);}catch(error){}
+  };
+  interfaceLanguageButton.addEventListener('click',()=>{interfaceLanguage=interfaceLanguage==='en'?'zh':'en';applyInterfaceLanguage();});
+  applyInterfaceLanguage();
 }

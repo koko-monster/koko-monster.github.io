@@ -1,0 +1,889 @@
+{
+  "schemaVersion": 1,
+  "id": 7596,
+  "slug": "nepal-china-border-flash-flood",
+  "sourceType": "kokomonster-existing",
+  "demoOnly": false,
+  "date": "2026-08-27",
+  "level": "N5",
+  "category": {
+    "key": "Global",
+    "ja": "国際",
+    "en": "Global",
+    "zhHant": "國際"
+  },
+  "reservedPath": "/ja/news/Global/nepal-china-border-flash-flood-7596",
+  "reservedUrl": "https://kokomonster.com/ja/news/Global/nepal-china-border-flash-flood-7596",
+  "sourceUrl": "https://kokomonster.com/ja/news/Global/%E3%83%8D%E3%83%91%E3%83%BC%E3%83%AB%E3%81%A8%E4%B8%AD%E5%9B%BD%E5%9B%BD%E5%A2%83%E3%81%A7%E7%99%BA%E7%94%9F%E3%81%97%E3%81%9F%E9%89%84%E7%A0%B2%E6%B0%B4%E3%81%AB%E3%82%88%E3%82%8B%E7%81%BD%E5%AE%B3-7596",
+  "title": {
+    "ja": "ネパールと中国国境で発生した鉄砲水による災害",
+    "en": "Flash floods hit the Nepal–China border",
+    "zhHant": "尼泊爾與中國邊境發生山洪"
+  },
+  "summary": {
+    "ja": "ネパールと中国の国境で発生した鉄砲水により、177人が死亡し、1300人以上が行方不明となっています。救助活動が進む中、洪水によってインフラが被害を受け、復旧が難航しています。",
+    "en": "Flash floods along the Nepal–China border kill 177 people and leave more than 1,300 missing.",
+    "zhHant": "尼泊爾與中國邊境發生山洪，造成177人死亡，超過1,300人失蹤。"
+  },
+  "cover": {
+    "file": "../../../assets/news-covers/border-flash-flood.png",
+    "sourceUrl": "https://api.kokomonster.com/file/resources/crawled-raw-news/2026-08-28/9798/1787891494322.jpg"
+  },
+  "sentences": [
+    {
+      "id": "s01",
+      "sourcePieceId": 120760,
+      "sourceOrder": 6,
+      "ja": "ネパールと中国の国境で、26日に鉄砲水が発生しました。",
+      "speechJa": "ネパールと中国の国境で、にじゅうろくにちにてっぽうみずが発生しました。",
+      "en": "Flash floods occurred on the 26th along the border between Nepal and China.",
+      "zhHant": "尼泊爾與中國邊境於26日發生山洪。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7596-nepal-china-border-flash-flood/KM-NEWS-7596-nepal-china-border-flash-flood-sentence-01-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7596-nepal-china-border-flash-flood/KM-NEWS-7596-nepal-china-border-flash-flood-sentence-01-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7596-nepal-china-border-flash-flood/KM-NEWS-7596-nepal-china-border-flash-flood-sentence-01-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/4666cfe9-78e6-41d5-b366-0c38a79b292b.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "ネパール",
+            "offsetMs": 50
+          },
+          {
+            "text": "と",
+            "offsetMs": 612.5
+          },
+          {
+            "text": "中国",
+            "offsetMs": 762.5
+          },
+          {
+            "text": "の",
+            "offsetMs": 1300
+          },
+          {
+            "text": "国境",
+            "offsetMs": 1425
+          },
+          {
+            "text": "で",
+            "offsetMs": 1887.5
+          },
+          {
+            "text": "26日",
+            "offsetMs": 2400
+          },
+          {
+            "text": "に",
+            "offsetMs": 3237.5
+          },
+          {
+            "text": "鉄砲水",
+            "offsetMs": 3462.5
+          },
+          {
+            "text": "が",
+            "offsetMs": 4125
+          },
+          {
+            "text": "発生",
+            "offsetMs": 4250
+          },
+          {
+            "text": "し",
+            "offsetMs": 4687.5
+          },
+          {
+            "text": "まし",
+            "offsetMs": 4825
+          },
+          {
+            "text": "た",
+            "offsetMs": 5050
+          }
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "sourcePieceId": 120761,
+      "sourceOrder": 7,
+      "ja": "この災害により、177人が亡くなり、1300人以上が行方不明です。",
+      "speechJa": "この災害により、177人が亡くなり、1300人以上が行方不明です。",
+      "en": "The disaster killed 177 people, while more than 1,300 are missing.",
+      "zhHant": "災害造成177人死亡，超過1,300人失蹤。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7596-nepal-china-border-flash-flood/KM-NEWS-7596-nepal-china-border-flash-flood-sentence-02-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7596-nepal-china-border-flash-flood/KM-NEWS-7596-nepal-china-border-flash-flood-sentence-02-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7596-nepal-china-border-flash-flood/KM-NEWS-7596-nepal-china-border-flash-flood-sentence-02-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/e75110ed-b1b0-4796-9a1f-d5ebe7bf1792.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "この",
+            "offsetMs": 50
+          },
+          {
+            "text": "災害",
+            "offsetMs": 362.5
+          },
+          {
+            "text": "に",
+            "offsetMs": 837.5
+          },
+          {
+            "text": "より",
+            "offsetMs": 950
+          },
+          {
+            "text": "177人",
+            "offsetMs": 1512.5
+          },
+          {
+            "text": "が",
+            "offsetMs": 2712.5
+          },
+          {
+            "text": "亡くなり",
+            "offsetMs": 2850
+          },
+          {
+            "text": "1300人",
+            "offsetMs": 3750
+          },
+          {
+            "text": "0人以上",
+            "offsetMs": 4687.5
+          },
+          {
+            "text": "が",
+            "offsetMs": 5012.5
+          },
+          {
+            "text": "行方",
+            "offsetMs": 5150
+          },
+          {
+            "text": "不明",
+            "offsetMs": 5550
+          },
+          {
+            "text": "です",
+            "offsetMs": 5925
+          }
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "sourcePieceId": 120762,
+      "sourceOrder": 8,
+      "ja": "当局によると、行方不明者には700人を超える外国人も含まれています。",
+      "speechJa": "当局によると、行方不明者には700人を超える外国人も含まれています。",
+      "en": "Authorities say the missing include more than 700 foreign nationals.",
+      "zhHant": "當局表示，失蹤者中包括超過700名外國人。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7596-nepal-china-border-flash-flood/KM-NEWS-7596-nepal-china-border-flash-flood-sentence-03-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7596-nepal-china-border-flash-flood/KM-NEWS-7596-nepal-china-border-flash-flood-sentence-03-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7596-nepal-china-border-flash-flood/KM-NEWS-7596-nepal-china-border-flash-flood-sentence-03-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/de89b75e-fcc4-414a-8336-14dd65b72c8c.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "当局",
+            "offsetMs": 50
+          },
+          {
+            "text": "に",
+            "offsetMs": 562.5
+          },
+          {
+            "text": "よる",
+            "offsetMs": 662.5
+          },
+          {
+            "text": "と",
+            "offsetMs": 912.5
+          },
+          {
+            "text": "行方",
+            "offsetMs": 1387.5
+          },
+          {
+            "text": "不明者",
+            "offsetMs": 1775
+          },
+          {
+            "text": "に",
+            "offsetMs": 2262.5
+          },
+          {
+            "text": "は",
+            "offsetMs": 2387.5
+          },
+          {
+            "text": "700人",
+            "offsetMs": 2587.5
+          },
+          {
+            "text": "を",
+            "offsetMs": 3312.5
+          },
+          {
+            "text": "超える",
+            "offsetMs": 3462.5
+          },
+          {
+            "text": "外国人",
+            "offsetMs": 3862.5
+          },
+          {
+            "text": "も",
+            "offsetMs": 4537.5
+          },
+          {
+            "text": "含ま",
+            "offsetMs": 4687.5
+          },
+          {
+            "text": "れ",
+            "offsetMs": 5050
+          },
+          {
+            "text": "て",
+            "offsetMs": 5150
+          },
+          {
+            "text": "い",
+            "offsetMs": 5250
+          },
+          {
+            "text": "ます",
+            "offsetMs": 5362.5
+          }
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "sourcePieceId": 120763,
+      "sourceOrder": 9,
+      "ja": "救助活動が行われていますが、洪水によって重要なインフラが押し流されました。",
+      "speechJa": "救助活動が行われていますが、こうずいによって重要なインフラが押し流されました。",
+      "en": "Rescue work is under way, but the floods have swept away important infrastructure.",
+      "zhHant": "救援工作正在進行，但洪水已沖毀重要基礎設施。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7596-nepal-china-border-flash-flood/KM-NEWS-7596-nepal-china-border-flash-flood-sentence-04-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7596-nepal-china-border-flash-flood/KM-NEWS-7596-nepal-china-border-flash-flood-sentence-04-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7596-nepal-china-border-flash-flood/KM-NEWS-7596-nepal-china-border-flash-flood-sentence-04-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/e3b8f19a-44f4-4f87-89c9-3923410f7157.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "救助",
+            "offsetMs": 50
+          },
+          {
+            "text": "活動",
+            "offsetMs": 537.5
+          },
+          {
+            "text": "が",
+            "offsetMs": 975
+          },
+          {
+            "text": "行わ",
+            "offsetMs": 1075
+          },
+          {
+            "text": "れ",
+            "offsetMs": 1575
+          },
+          {
+            "text": "て",
+            "offsetMs": 1687.5
+          },
+          {
+            "text": "い",
+            "offsetMs": 1787.5
+          },
+          {
+            "text": "ます",
+            "offsetMs": 1900
+          },
+          {
+            "text": "が",
+            "offsetMs": 2150
+          },
+          {
+            "text": "洪水",
+            "offsetMs": 2675
+          },
+          {
+            "text": "に",
+            "offsetMs": 3150
+          },
+          {
+            "text": "よっ",
+            "offsetMs": 3250
+          },
+          {
+            "text": "て",
+            "offsetMs": 3475
+          },
+          {
+            "text": "重要",
+            "offsetMs": 3750
+          },
+          {
+            "text": "な",
+            "offsetMs": 4225
+          },
+          {
+            "text": "インフラ",
+            "offsetMs": 4337.5
+          },
+          {
+            "text": "が",
+            "offsetMs": 4787.5
+          },
+          {
+            "text": "押し流さ",
+            "offsetMs": 4900
+          },
+          {
+            "text": "れ",
+            "offsetMs": 5537.5
+          },
+          {
+            "text": "まし",
+            "offsetMs": 5637.5
+          },
+          {
+            "text": "た",
+            "offsetMs": 5875
+          }
+        ]
+      }
+    },
+    {
+      "id": "s05",
+      "sourcePieceId": 120764,
+      "sourceOrder": 10,
+      "ja": "そのため、被災地へのアクセスや被災者の救助が難しくなっています。",
+      "speechJa": "そのため、ひさいちへのアクセスや被災者の救助が難しくなっています。",
+      "en": "This has made it difficult to reach the affected areas and rescue survivors.",
+      "zhHant": "因此，救援人員難以進入災區並營救受災者。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7596-nepal-china-border-flash-flood/KM-NEWS-7596-nepal-china-border-flash-flood-sentence-05-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7596-nepal-china-border-flash-flood/KM-NEWS-7596-nepal-china-border-flash-flood-sentence-05-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7596-nepal-china-border-flash-flood/KM-NEWS-7596-nepal-china-border-flash-flood-sentence-05-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/497a04b1-9b10-4b83-a743-6d609f06d553.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "その",
+            "offsetMs": 50
+          },
+          {
+            "text": "ため",
+            "offsetMs": 400
+          },
+          {
+            "text": "被災地",
+            "offsetMs": 937.5
+          },
+          {
+            "text": "へ",
+            "offsetMs": 1437.5
+          },
+          {
+            "text": "の",
+            "offsetMs": 1537.5
+          },
+          {
+            "text": "アクセス",
+            "offsetMs": 1650
+          },
+          {
+            "text": "や",
+            "offsetMs": 2137.5
+          },
+          {
+            "text": "被災者",
+            "offsetMs": 2362.5
+          },
+          {
+            "text": "の",
+            "offsetMs": 2912.5
+          },
+          {
+            "text": "救助",
+            "offsetMs": 3050
+          },
+          {
+            "text": "が",
+            "offsetMs": 3450
+          },
+          {
+            "text": "難しく",
+            "offsetMs": 3612.5
+          },
+          {
+            "text": "なっ",
+            "offsetMs": 4212.5
+          },
+          {
+            "text": "て",
+            "offsetMs": 4400
+          },
+          {
+            "text": "います",
+            "offsetMs": 4500
+          }
+        ]
+      }
+    },
+    {
+      "id": "s06",
+      "sourcePieceId": 120765,
+      "sourceOrder": 11,
+      "ja": "中国は二次災害の可能性を警告しています。",
+      "speechJa": "中国はにじさいがいの可能性をけいこくしています。",
+      "en": "China has warned of the possibility of further disasters.",
+      "zhHant": "中國已警告，當地可能出現次生災害。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7596-nepal-china-border-flash-flood/KM-NEWS-7596-nepal-china-border-flash-flood-sentence-06-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7596-nepal-china-border-flash-flood/KM-NEWS-7596-nepal-china-border-flash-flood-sentence-06-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7596-nepal-china-border-flash-flood/KM-NEWS-7596-nepal-china-border-flash-flood-sentence-06-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/b1c1e179-a690-4f81-bc41-86f3418b3d9c.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "中国",
+            "offsetMs": 50
+          },
+          {
+            "text": "は",
+            "offsetMs": 612.5
+          },
+          {
+            "text": "二次",
+            "offsetMs": 825
+          },
+          {
+            "text": "災害",
+            "offsetMs": 1150
+          },
+          {
+            "text": "の",
+            "offsetMs": 1587.5
+          },
+          {
+            "text": "可能性",
+            "offsetMs": 1725
+          },
+          {
+            "text": "を",
+            "offsetMs": 2250
+          },
+          {
+            "text": "警告",
+            "offsetMs": 2400
+          },
+          {
+            "text": "し",
+            "offsetMs": 2887.5
+          },
+          {
+            "text": "て",
+            "offsetMs": 2987.5
+          },
+          {
+            "text": "い",
+            "offsetMs": 3075
+          },
+          {
+            "text": "ます",
+            "offsetMs": 3187.5
+          }
+        ]
+      }
+    },
+    {
+      "id": "s07",
+      "sourcePieceId": 120766,
+      "sourceOrder": 12,
+      "ja": "今週、ネパールと国境を接するチベット自治区のシガツェ市では、さらに雨が降る予想です。",
+      "speechJa": "今週、ネパールと国境を接するチベット自治区のシガツェしでは、さらに雨が降る予想です。",
+      "en": "More rain is forecast this week for Shigatse in the Tibet Autonomous Region, which borders Nepal.",
+      "zhHant": "與尼泊爾接壤的西藏自治區日喀則市，本周預料仍會有更多降雨。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7596-nepal-china-border-flash-flood/KM-NEWS-7596-nepal-china-border-flash-flood-sentence-07-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7596-nepal-china-border-flash-flood/KM-NEWS-7596-nepal-china-border-flash-flood-sentence-07-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7596-nepal-china-border-flash-flood/KM-NEWS-7596-nepal-china-border-flash-flood-sentence-07-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/dff247f5-f344-4799-963e-bde3287cdc89.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "今週",
+            "offsetMs": 50
+          },
+          {
+            "text": "ネパール",
+            "offsetMs": 787.5
+          },
+          {
+            "text": "と",
+            "offsetMs": 1250
+          },
+          {
+            "text": "国境",
+            "offsetMs": 1425
+          },
+          {
+            "text": "を",
+            "offsetMs": 1887.5
+          },
+          {
+            "text": "接する",
+            "offsetMs": 2000
+          },
+          {
+            "text": "チベット",
+            "offsetMs": 2525
+          },
+          {
+            "text": "自治区",
+            "offsetMs": 3012.5
+          },
+          {
+            "text": "の",
+            "offsetMs": 3375
+          },
+          {
+            "text": "シガツェ",
+            "offsetMs": 3500
+          },
+          {
+            "text": "市",
+            "offsetMs": 3950
+          },
+          {
+            "text": "で",
+            "offsetMs": 4087.5
+          },
+          {
+            "text": "は",
+            "offsetMs": 4187.5
+          },
+          {
+            "text": "さら",
+            "offsetMs": 4800
+          },
+          {
+            "text": "に",
+            "offsetMs": 5062.5
+          },
+          {
+            "text": "雨",
+            "offsetMs": 5225
+          },
+          {
+            "text": "が",
+            "offsetMs": 5475
+          },
+          {
+            "text": "降る",
+            "offsetMs": 5612.5
+          },
+          {
+            "text": "予想",
+            "offsetMs": 5875
+          },
+          {
+            "text": "です",
+            "offsetMs": 6250
+          }
+        ]
+      }
+    },
+    {
+      "id": "s08",
+      "sourcePieceId": 120767,
+      "sourceOrder": 13,
+      "ja": "この地域は、地滑りや土石流、鉄砲水が発生しやすい場所です。",
+      "speechJa": "この地域は、地滑りや土石流、てっぽうみずが発生しやすい場所です。",
+      "en": "The area is prone to landslides, debris flows and flash floods.",
+      "zhHant": "該地區容易發生山泥傾瀉、土石流及山洪。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7596-nepal-china-border-flash-flood/KM-NEWS-7596-nepal-china-border-flash-flood-sentence-08-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7596-nepal-china-border-flash-flood/KM-NEWS-7596-nepal-china-border-flash-flood-sentence-08-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7596-nepal-china-border-flash-flood/KM-NEWS-7596-nepal-china-border-flash-flood-sentence-08-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/60429348-2b28-4fbd-b2e1-c850d39ad105.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "この",
+            "offsetMs": 50
+          },
+          {
+            "text": "地域",
+            "offsetMs": 350
+          },
+          {
+            "text": "は",
+            "offsetMs": 787.5
+          },
+          {
+            "text": "地滑り",
+            "offsetMs": 1250
+          },
+          {
+            "text": "や",
+            "offsetMs": 1787.5
+          },
+          {
+            "text": "土石",
+            "offsetMs": 1962.5
+          },
+          {
+            "text": "流",
+            "offsetMs": 2375
+          },
+          {
+            "text": "鉄砲水",
+            "offsetMs": 2775
+          },
+          {
+            "text": "が",
+            "offsetMs": 3437.5
+          },
+          {
+            "text": "発生",
+            "offsetMs": 3562.5
+          },
+          {
+            "text": "し",
+            "offsetMs": 4050
+          },
+          {
+            "text": "やすい",
+            "offsetMs": 4187.5
+          },
+          {
+            "text": "場所",
+            "offsetMs": 4537.5
+          },
+          {
+            "text": "です",
+            "offsetMs": 4800
+          }
+        ]
+      }
+    },
+    {
+      "id": "s09",
+      "sourcePieceId": 120768,
+      "sourceOrder": 14,
+      "ja": "通信各社は、壊滅的な洪水の影響を受けた現地の状況を伝えています。",
+      "speechJa": "通信各社は、壊滅的なこうずいの影響を受けた現地の状況を伝えています。",
+      "en": "News organisations are reporting on conditions in areas affected by the devastating floods.",
+      "zhHant": "多家新聞機構正報道遭受嚴重洪災地區的最新情況。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7596-nepal-china-border-flash-flood/KM-NEWS-7596-nepal-china-border-flash-flood-sentence-09-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7596-nepal-china-border-flash-flood/KM-NEWS-7596-nepal-china-border-flash-flood-sentence-09-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7596-nepal-china-border-flash-flood/KM-NEWS-7596-nepal-china-border-flash-flood-sentence-09-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/bcbf2a66-8964-4555-beda-fe6ffb0c1e4a.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "通信",
+            "offsetMs": 50
+          },
+          {
+            "text": "各社",
+            "offsetMs": 600
+          },
+          {
+            "text": "は",
+            "offsetMs": 987.5
+          },
+          {
+            "text": "壊滅的",
+            "offsetMs": 1537.5
+          },
+          {
+            "text": "な",
+            "offsetMs": 2237.5
+          },
+          {
+            "text": "洪水",
+            "offsetMs": 2387.5
+          },
+          {
+            "text": "の",
+            "offsetMs": 2850
+          },
+          {
+            "text": "影響",
+            "offsetMs": 2962.5
+          },
+          {
+            "text": "を",
+            "offsetMs": 3400
+          },
+          {
+            "text": "受け",
+            "offsetMs": 3500
+          },
+          {
+            "text": "た",
+            "offsetMs": 3750
+          },
+          {
+            "text": "現地",
+            "offsetMs": 3937.5
+          },
+          {
+            "text": "の",
+            "offsetMs": 4337.5
+          },
+          {
+            "text": "状況",
+            "offsetMs": 4462.5
+          },
+          {
+            "text": "を",
+            "offsetMs": 4937.5
+          },
+          {
+            "text": "伝え",
+            "offsetMs": 5062.5
+          },
+          {
+            "text": "て",
+            "offsetMs": 5412.5
+          },
+          {
+            "text": "います",
+            "offsetMs": 5525
+          }
+        ]
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "v01",
+      "surface": "鉄砲水",
+      "reading": "てっぽうみず",
+      "en": "flash flood",
+      "zhHant": "山洪",
+      "speechJa": "てっぽうみず",
+      "audio": {
+        "file": "../audio/7596-nepal-china-border-flash-flood/KM-NEWS-7596-nepal-china-border-flash-flood-vocab-01-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    },
+    {
+      "id": "v02",
+      "surface": "被災地",
+      "reading": "ひさいち",
+      "en": "disaster-affected area",
+      "zhHant": "災區",
+      "speechJa": "ひさいち",
+      "audio": {
+        "file": "../audio/7596-nepal-china-border-flash-flood/KM-NEWS-7596-nepal-china-border-flash-flood-vocab-02-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    },
+    {
+      "id": "v03",
+      "surface": "二次災害",
+      "reading": "にじさいがい",
+      "en": "secondary disaster",
+      "zhHant": "次生災害",
+      "speechJa": "にじさいがい",
+      "audio": {
+        "file": "../audio/7596-nepal-china-border-flash-flood/KM-NEWS-7596-nepal-china-border-flash-flood-vocab-03-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    },
+    {
+      "id": "v04",
+      "surface": "洪水",
+      "reading": "こうずい",
+      "en": "flood",
+      "zhHant": "洪水",
+      "speechJa": "こうずい",
+      "audio": {
+        "file": "../audio/7596-nepal-china-border-flash-flood/KM-NEWS-7596-nepal-china-border-flash-flood-vocab-04-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    },
+    {
+      "id": "v05",
+      "surface": "警告",
+      "reading": "けいこく",
+      "en": "warning; to warn",
+      "zhHant": "警告",
+      "speechJa": "けいこく",
+      "audio": {
+        "file": "../audio/7596-nepal-china-border-flash-flood/KM-NEWS-7596-nepal-china-border-flash-flood-vocab-05-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    }
+  ],
+  "readingMinutes": 1,
+  "keywordCount": 5,
+  "playbackRates": [
+    0.8,
+    1.0,
+    1.2
+  ],
+  "audioPolicy": "Play Nanami sentence files sequentially; do not pitch-shift. Use each timing JSON at the selected playback rate. Source narration is retained only as an editorial backup.",
+  "cardPreview": {
+    "ja": "洪水で重要なインフラが流され、被災地への救助が難しくなっています。",
+    "speechJa": "こうずいで重要なインフラが流され、ひさいちへの救助が難しくなっています。",
+    "audio": "../audio/7596-nepal-china-border-flash-flood/KM-NEWS-7596-nepal-china-border-flash-flood-card-preview-ja-Nanami.mp3",
+    "timings": "../audio/7596-nepal-china-border-flash-flood/KM-NEWS-7596-nepal-china-border-flash-flood-card-preview-ja-Nanami-timings.json",
+    "voice": "ja-JP-NanamiNeural"
+  }
+}

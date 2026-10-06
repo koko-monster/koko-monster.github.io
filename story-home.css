@@ -901,14 +901,19 @@ body:not(.legacy-preview) main > .book-selector { display: none !important; }
   .story-book-moment__reader { min-height: 180px; }
 }
 
-/* Corrective pass: stable section rhythm, ruby-safe word art and accessible reader controls. */
-@media (min-width: 769px) and (prefers-reduced-motion: no-preference) {
-  html, body { scroll-padding-top: 92px; scroll-snap-type: y proximity; }
-  .story-home[data-story-home] { scroll-snap-align: start; scroll-snap-stop: normal; }
+/* Native document scrolling: snapping fought trackpad and touch momentum. */
+html, body { scroll-snap-type: none; }
+.story-home[data-story-home], .story-footer { scroll-snap-align: none; scroll-snap-stop: normal; }
+@media (max-width: 980px), (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  .landing-v2 .landing-header { background: #f4f0e7; backdrop-filter: none; -webkit-backdrop-filter: none; }
 }
-@media (prefers-reduced-motion: reduce), (max-width: 768px) {
-  html { scroll-snap-type: none; }
-}
+
+html[lang="zh-Hant"] .story-home h1,
+html[lang="zh-Hant"] .story-home h2,
+html[lang="zh-Hant"] .story-home h3 { letter-spacing: -.04em; }
+html[lang="zh-Hant"] .story-all-access__heading h2 { font-size: clamp(44px,5.4vw,68px); line-height: 1.03; }
+html[lang="zh-Hant"] .story-all-access__plan-copy h3 { line-height: 1.05; }
 
 .story-home ruby { display: inline-ruby; ruby-position: over; ruby-align: center; line-height: 1.45; }
 .story-home rt { display: ruby-text; font-size: .46em; font-weight: 800; line-height: 1; min-height: 1.15em; }

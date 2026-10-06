@@ -1,0 +1,829 @@
+{
+  "schemaVersion": 1,
+  "id": 7611,
+  "slug": "nepal-china-border-landslides",
+  "sourceType": "kokomonster-existing",
+  "demoOnly": false,
+  "date": "2026-08-31",
+  "level": "N5",
+  "category": {
+    "key": "Global",
+    "ja": "国際",
+    "en": "Global",
+    "zhHant": "國際"
+  },
+  "reservedPath": "/ja/news/Global/nepal-china-border-landslides-7611",
+  "reservedUrl": "https://kokomonster.com/ja/news/Global/nepal-china-border-landslides-7611",
+  "sourceUrl": "https://kokomonster.com/ja/news/Global/%E3%83%8D%E3%83%91%E3%83%BC%E3%83%AB%E3%81%A8%E4%B8%AD%E5%9B%BD%E5%9B%BD%E5%A2%83%E3%81%A7%E3%81%AE%E5%9C%9F%E7%9F%B3%E6%B5%81%E3%80%81%E6%AD%BB%E8%80%85900%E4%BA%BA%E8%B6%85-7611",
+  "title": {
+    "ja": "ネパールと中国国境での土石流、死者900人超",
+    "en": "More than 900 die in landslides near the Nepal–China border",
+    "zhHant": "尼泊爾與中國邊境山泥傾瀉逾900人死亡"
+  },
+  "summary": {
+    "ja": "ネパールと中国・チベットの国境沿いで発生した大規模な土石流により、死者が900人を超え、行方不明者は約4800人に達しています。現地では救助活動が続き、特にネパールの学校では迅速な避難が生徒900人の命を救いました。",
+    "en": "Large landslides near the Nepal–China border leave hundreds dead as rescue work continues.",
+    "zhHant": "尼泊爾與中國邊境附近發生大型山泥傾瀉，造成數百人死亡，救援工作仍在進行。"
+  },
+  "cover": {
+    "file": "../../../assets/news-covers/mountain-landslide.png",
+    "sourceUrl": "https://api.kokomonster.com/file/resources/crawled-raw-news/2026-08-31/9821/1788172142108.jpg"
+  },
+  "sentences": [
+    {
+      "id": "s01",
+      "sourcePieceId": 121088,
+      "sourceOrder": 6,
+      "ja": "ネパールと中国・チベットの国境沿いで大きな土石流が発生しました。",
+      "speechJa": "ネパールと中国・チベットのこっきょう沿いで大きなどせきりゅうが発生しました。",
+      "en": "A major landslide occurred along the border between Nepal and China’s Tibet region.",
+      "zhHant": "尼泊爾與中國西藏地區的邊境一帶發生大型山泥傾瀉。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7611-nepal-china-border-landslides/KM-NEWS-7611-nepal-china-border-landslides-sentence-01-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7611-nepal-china-border-landslides/KM-NEWS-7611-nepal-china-border-landslides-sentence-01-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7611-nepal-china-border-landslides/KM-NEWS-7611-nepal-china-border-landslides-sentence-01-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/fdadef27-9d0e-4687-a5d5-ec2ceee9d15c.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "ネパール",
+            "offsetMs": 50
+          },
+          {
+            "text": "と",
+            "offsetMs": 600
+          },
+          {
+            "text": "中国",
+            "offsetMs": 712.5
+          },
+          {
+            "text": "・",
+            "offsetMs": 1512.5
+          },
+          {
+            "text": "チベット",
+            "offsetMs": 1625
+          },
+          {
+            "text": "の",
+            "offsetMs": 2125
+          },
+          {
+            "text": "国境",
+            "offsetMs": 2275
+          },
+          {
+            "text": "沿い",
+            "offsetMs": 2737.5
+          },
+          {
+            "text": "で",
+            "offsetMs": 2962.5
+          },
+          {
+            "text": "大きな",
+            "offsetMs": 3112.5
+          },
+          {
+            "text": "土石",
+            "offsetMs": 3650
+          },
+          {
+            "text": "流",
+            "offsetMs": 4062.5
+          },
+          {
+            "text": "が",
+            "offsetMs": 4262.5
+          },
+          {
+            "text": "発生",
+            "offsetMs": 4375
+          },
+          {
+            "text": "しまし",
+            "offsetMs": 4825
+          },
+          {
+            "text": "た",
+            "offsetMs": 5187.5
+          }
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "sourcePieceId": 121089,
+      "sourceOrder": 7,
+      "ja": "この事故は26日に起こり、31日までに多くの人が亡くなったことがわかりました。",
+      "speechJa": "この事故はにじゅうろくにちに起こり、さんじゅういちにちまでに多くの人が亡くなったことがわかりました。",
+      "en": "The disaster occurred on the 26th, and by the 31st it was known that many people had died.",
+      "zhHant": "災害於26日發生，截至31日，已證實多人死亡。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7611-nepal-china-border-landslides/KM-NEWS-7611-nepal-china-border-landslides-sentence-02-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7611-nepal-china-border-landslides/KM-NEWS-7611-nepal-china-border-landslides-sentence-02-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7611-nepal-china-border-landslides/KM-NEWS-7611-nepal-china-border-landslides-sentence-02-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/edc4d5ac-a9a3-4e78-86d2-f6f7f3f14f39.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "この",
+            "offsetMs": 50
+          },
+          {
+            "text": "事故",
+            "offsetMs": 375
+          },
+          {
+            "text": "は",
+            "offsetMs": 650
+          },
+          {
+            "text": "26日",
+            "offsetMs": 875
+          },
+          {
+            "text": "に",
+            "offsetMs": 1750
+          },
+          {
+            "text": "起こり",
+            "offsetMs": 1850
+          },
+          {
+            "text": "31日",
+            "offsetMs": 2637.5
+          },
+          {
+            "text": "まで",
+            "offsetMs": 3575
+          },
+          {
+            "text": "に",
+            "offsetMs": 3775
+          },
+          {
+            "text": "多く",
+            "offsetMs": 4050
+          },
+          {
+            "text": "の",
+            "offsetMs": 4375
+          },
+          {
+            "text": "人",
+            "offsetMs": 4487.5
+          },
+          {
+            "text": "が",
+            "offsetMs": 4750
+          },
+          {
+            "text": "亡くなっ",
+            "offsetMs": 4900
+          },
+          {
+            "text": "た",
+            "offsetMs": 5325
+          },
+          {
+            "text": "こと",
+            "offsetMs": 5450
+          },
+          {
+            "text": "が",
+            "offsetMs": 5687.5
+          },
+          {
+            "text": "わかり",
+            "offsetMs": 5825
+          },
+          {
+            "text": "まし",
+            "offsetMs": 6187.5
+          },
+          {
+            "text": "た",
+            "offsetMs": 6412.5
+          }
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "sourcePieceId": 121090,
+      "sourceOrder": 8,
+      "ja": "死者数は900人を超え、行方不明者は約4800人です。",
+      "speechJa": "死者数は900人を超え、ゆくえふめい者は約4800人です。",
+      "en": "More than 900 people have died, and around 4,800 are missing.",
+      "zhHant": "死亡人數已超過900人，另有約4,800人失蹤。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7611-nepal-china-border-landslides/KM-NEWS-7611-nepal-china-border-landslides-sentence-03-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7611-nepal-china-border-landslides/KM-NEWS-7611-nepal-china-border-landslides-sentence-03-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7611-nepal-china-border-landslides/KM-NEWS-7611-nepal-china-border-landslides-sentence-03-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/5bb30c88-54e7-4ad6-a50b-193d924a8e0a.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "死者数",
+            "offsetMs": 50
+          },
+          {
+            "text": "は",
+            "offsetMs": 625
+          },
+          {
+            "text": "900人",
+            "offsetMs": 825
+          },
+          {
+            "text": "を",
+            "offsetMs": 1600
+          },
+          {
+            "text": "超え",
+            "offsetMs": 1762.5
+          },
+          {
+            "text": "行方",
+            "offsetMs": 2350
+          },
+          {
+            "text": "不明者",
+            "offsetMs": 2712.5
+          },
+          {
+            "text": "は",
+            "offsetMs": 3212.5
+          },
+          {
+            "text": "約",
+            "offsetMs": 3375
+          },
+          {
+            "text": "4800人",
+            "offsetMs": 3712.5
+          },
+          {
+            "text": "です",
+            "offsetMs": 4887.5
+          }
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "sourcePieceId": 121091,
+      "sourceOrder": 9,
+      "ja": "救助活動は続いており、特にネパールの水力発電所では数百人が救出されるための活動が行われています。",
+      "speechJa": "きゅうじょかつどうは続いており、特にネパールの水力発電所では数百人が救出されるための活動が行われています。",
+      "en": "Rescue work is continuing, including an operation to save hundreds of people at a hydroelectric power plant in Nepal.",
+      "zhHant": "救援工作持續進行，其中包括在尼泊爾一座水力發電站營救數百人。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7611-nepal-china-border-landslides/KM-NEWS-7611-nepal-china-border-landslides-sentence-04-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7611-nepal-china-border-landslides/KM-NEWS-7611-nepal-china-border-landslides-sentence-04-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7611-nepal-china-border-landslides/KM-NEWS-7611-nepal-china-border-landslides-sentence-04-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/0b964dac-bdf0-4bda-b79d-8eb000037624.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "救助",
+            "offsetMs": 50
+          },
+          {
+            "text": "活動",
+            "offsetMs": 537.5
+          },
+          {
+            "text": "は",
+            "offsetMs": 987.5
+          },
+          {
+            "text": "続い",
+            "offsetMs": 1125
+          },
+          {
+            "text": "て",
+            "offsetMs": 1550
+          },
+          {
+            "text": "おり",
+            "offsetMs": 1637.5
+          },
+          {
+            "text": "特",
+            "offsetMs": 2300
+          },
+          {
+            "text": "に",
+            "offsetMs": 2562.5
+          },
+          {
+            "text": "ネパール",
+            "offsetMs": 2725
+          },
+          {
+            "text": "の",
+            "offsetMs": 3175
+          },
+          {
+            "text": "水力",
+            "offsetMs": 3325
+          },
+          {
+            "text": "発電",
+            "offsetMs": 3825
+          },
+          {
+            "text": "所",
+            "offsetMs": 4275
+          },
+          {
+            "text": "で",
+            "offsetMs": 4437.5
+          },
+          {
+            "text": "は",
+            "offsetMs": 4562.5
+          },
+          {
+            "text": "数",
+            "offsetMs": 4887.5
+          },
+          {
+            "text": "百人",
+            "offsetMs": 5162.5
+          },
+          {
+            "text": "が",
+            "offsetMs": 5625
+          },
+          {
+            "text": "救出",
+            "offsetMs": 5775
+          },
+          {
+            "text": "さ",
+            "offsetMs": 6275
+          },
+          {
+            "text": "れる",
+            "offsetMs": 6400
+          },
+          {
+            "text": "ため",
+            "offsetMs": 6625
+          },
+          {
+            "text": "の",
+            "offsetMs": 6837.5
+          },
+          {
+            "text": "活動",
+            "offsetMs": 7000
+          },
+          {
+            "text": "が",
+            "offsetMs": 7462.5
+          },
+          {
+            "text": "行わ",
+            "offsetMs": 7562.5
+          },
+          {
+            "text": "れ",
+            "offsetMs": 8075
+          },
+          {
+            "text": "て",
+            "offsetMs": 8175
+          },
+          {
+            "text": "い",
+            "offsetMs": 8287.5
+          },
+          {
+            "text": "ます",
+            "offsetMs": 8400
+          }
+        ]
+      }
+    },
+    {
+      "id": "s05",
+      "sourcePieceId": 121092,
+      "sourceOrder": 10,
+      "ja": "また、学校では生徒たちが素早く避難し、900人の命が救われました。",
+      "speechJa": "また、学校では生徒たちが素早く避難し、900人の命が救われました。",
+      "en": "At a school, students evacuated quickly and 900 lives were saved.",
+      "zhHant": "一所學校的學生迅速疏散，約900人因而獲救。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7611-nepal-china-border-landslides/KM-NEWS-7611-nepal-china-border-landslides-sentence-05-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7611-nepal-china-border-landslides/KM-NEWS-7611-nepal-china-border-landslides-sentence-05-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7611-nepal-china-border-landslides/KM-NEWS-7611-nepal-china-border-landslides-sentence-05-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/b189afb4-5c37-4754-a00f-6298c4c50e27.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "また",
+            "offsetMs": 50
+          },
+          {
+            "text": "学校",
+            "offsetMs": 737.5
+          },
+          {
+            "text": "で",
+            "offsetMs": 1212.5
+          },
+          {
+            "text": "は",
+            "offsetMs": 1312.5
+          },
+          {
+            "text": "生徒",
+            "offsetMs": 1512.5
+          },
+          {
+            "text": "たち",
+            "offsetMs": 1900
+          },
+          {
+            "text": "が",
+            "offsetMs": 2162.5
+          },
+          {
+            "text": "素早く",
+            "offsetMs": 2300
+          },
+          {
+            "text": "避難",
+            "offsetMs": 2837.5
+          },
+          {
+            "text": "し",
+            "offsetMs": 3187.5
+          },
+          {
+            "text": "900人",
+            "offsetMs": 3700
+          },
+          {
+            "text": "の",
+            "offsetMs": 4425
+          },
+          {
+            "text": "命",
+            "offsetMs": 4562.5
+          },
+          {
+            "text": "が",
+            "offsetMs": 4937.5
+          },
+          {
+            "text": "救わ",
+            "offsetMs": 5075
+          },
+          {
+            "text": "れ",
+            "offsetMs": 5400
+          },
+          {
+            "text": "まし",
+            "offsetMs": 5500
+          },
+          {
+            "text": "た",
+            "offsetMs": 5750
+          }
+        ]
+      }
+    },
+    {
+      "id": "s06",
+      "sourcePieceId": 121093,
+      "sourceOrder": 11,
+      "ja": "国の災害管理庁は、確認された死者が903人、行方不明者は4247人と発表しました。",
+      "speechJa": "国のさいがい管理庁は、確認された死者が903人、ゆくえふめい者は4247人と発表しました。",
+      "en": "The national disaster management agency said 903 deaths had been confirmed and 4,247 people were missing.",
+      "zhHant": "國家災害管理部門表示，已確認903人死亡，另有4,247人失蹤。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7611-nepal-china-border-landslides/KM-NEWS-7611-nepal-china-border-landslides-sentence-06-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7611-nepal-china-border-landslides/KM-NEWS-7611-nepal-china-border-landslides-sentence-06-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7611-nepal-china-border-landslides/KM-NEWS-7611-nepal-china-border-landslides-sentence-06-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/367ccd58-e586-4661-8458-0a5a1a13960f.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "国",
+            "offsetMs": 50
+          },
+          {
+            "text": "の",
+            "offsetMs": 375
+          },
+          {
+            "text": "災害",
+            "offsetMs": 500
+          },
+          {
+            "text": "管理庁",
+            "offsetMs": 987.5
+          },
+          {
+            "text": "は",
+            "offsetMs": 1550
+          },
+          {
+            "text": "確認",
+            "offsetMs": 2062.5
+          },
+          {
+            "text": "さ",
+            "offsetMs": 2537.5
+          },
+          {
+            "text": "れ",
+            "offsetMs": 2675
+          },
+          {
+            "text": "た",
+            "offsetMs": 2775
+          },
+          {
+            "text": "死者",
+            "offsetMs": 2937.5
+          },
+          {
+            "text": "が",
+            "offsetMs": 3237.5
+          },
+          {
+            "text": "903人",
+            "offsetMs": 3412.5
+          },
+          {
+            "text": "行方",
+            "offsetMs": 4762.5
+          },
+          {
+            "text": "不明者",
+            "offsetMs": 5125
+          },
+          {
+            "text": "は",
+            "offsetMs": 5637.5
+          },
+          {
+            "text": "4247人",
+            "offsetMs": 5862.5
+          },
+          {
+            "text": "と",
+            "offsetMs": 7712.5
+          },
+          {
+            "text": "発表",
+            "offsetMs": 7850
+          },
+          {
+            "text": "し",
+            "offsetMs": 8287.5
+          },
+          {
+            "text": "まし",
+            "offsetMs": 8425
+          },
+          {
+            "text": "た",
+            "offsetMs": 8650
+          }
+        ]
+      }
+    },
+    {
+      "id": "s07",
+      "sourcePieceId": 121094,
+      "sourceOrder": 12,
+      "ja": "一方、中国・チベットのシガツェ市でも16人の死亡が確認され、546人が行方不明になっています。",
+      "speechJa": "一方、中国・チベットのシガツェしでも16人の死亡が確認され、546人がゆくえふめいになっています。",
+      "en": "In Shigatse in China’s Tibet region, 16 deaths have also been confirmed and 546 people are missing.",
+      "zhHant": "中國西藏地區日喀則市亦確認16人死亡，另有546人失蹤。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7611-nepal-china-border-landslides/KM-NEWS-7611-nepal-china-border-landslides-sentence-07-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7611-nepal-china-border-landslides/KM-NEWS-7611-nepal-china-border-landslides-sentence-07-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7611-nepal-china-border-landslides/KM-NEWS-7611-nepal-china-border-landslides-sentence-07-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/44899abb-e71a-4621-ad4c-44d757337d3d.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "一方",
+            "offsetMs": 50
+          },
+          {
+            "text": "中国",
+            "offsetMs": 737.5
+          },
+          {
+            "text": "・",
+            "offsetMs": 1512.5
+          },
+          {
+            "text": "チベット",
+            "offsetMs": 1587.5
+          },
+          {
+            "text": "の",
+            "offsetMs": 2087.5
+          },
+          {
+            "text": "シガツェ",
+            "offsetMs": 2225
+          },
+          {
+            "text": "市",
+            "offsetMs": 2675
+          },
+          {
+            "text": "で",
+            "offsetMs": 2812.5
+          },
+          {
+            "text": "も",
+            "offsetMs": 2900
+          },
+          {
+            "text": "16人",
+            "offsetMs": 3150
+          },
+          {
+            "text": "の",
+            "offsetMs": 3825
+          },
+          {
+            "text": "死亡",
+            "offsetMs": 3962.5
+          },
+          {
+            "text": "が",
+            "offsetMs": 4350
+          },
+          {
+            "text": "確認",
+            "offsetMs": 4487.5
+          },
+          {
+            "text": "さ",
+            "offsetMs": 4925
+          },
+          {
+            "text": "れ",
+            "offsetMs": 5075
+          },
+          {
+            "text": "546人",
+            "offsetMs": 5537.5
+          },
+          {
+            "text": "が",
+            "offsetMs": 6837.5
+          },
+          {
+            "text": "行方",
+            "offsetMs": 6987.5
+          },
+          {
+            "text": "不明",
+            "offsetMs": 7375
+          },
+          {
+            "text": "に",
+            "offsetMs": 7712.5
+          },
+          {
+            "text": "なっ",
+            "offsetMs": 7837.5
+          },
+          {
+            "text": "て",
+            "offsetMs": 8025
+          },
+          {
+            "text": "い",
+            "offsetMs": 8137.5
+          },
+          {
+            "text": "ます",
+            "offsetMs": 8250
+          }
+        ]
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "v01",
+      "surface": "土石流",
+      "reading": "どせきりゅう",
+      "en": "debris flow; landslide",
+      "zhHant": "山泥傾瀉；土石流",
+      "speechJa": "どせきりゅう",
+      "audio": {
+        "file": "../audio/7611-nepal-china-border-landslides/KM-NEWS-7611-nepal-china-border-landslides-vocab-01-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    },
+    {
+      "id": "v02",
+      "surface": "行方不明",
+      "reading": "ゆくえふめい",
+      "en": "missing",
+      "zhHant": "失蹤",
+      "speechJa": "ゆくえふめい",
+      "audio": {
+        "file": "../audio/7611-nepal-china-border-landslides/KM-NEWS-7611-nepal-china-border-landslides-vocab-02-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    },
+    {
+      "id": "v03",
+      "surface": "救助活動",
+      "reading": "きゅうじょかつどう",
+      "en": "rescue operations",
+      "zhHant": "救援工作",
+      "speechJa": "きゅうじょかつどう",
+      "audio": {
+        "file": "../audio/7611-nepal-china-border-landslides/KM-NEWS-7611-nepal-china-border-landslides-vocab-03-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    },
+    {
+      "id": "v04",
+      "surface": "国境",
+      "reading": "こっきょう",
+      "en": "border",
+      "zhHant": "邊境",
+      "speechJa": "こっきょう",
+      "audio": {
+        "file": "../audio/7611-nepal-china-border-landslides/KM-NEWS-7611-nepal-china-border-landslides-vocab-04-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    },
+    {
+      "id": "v05",
+      "surface": "災害",
+      "reading": "さいがい",
+      "en": "disaster",
+      "zhHant": "災害",
+      "speechJa": "さいがい",
+      "audio": {
+        "file": "../audio/7611-nepal-china-border-landslides/KM-NEWS-7611-nepal-china-border-landslides-vocab-05-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    }
+  ],
+  "readingMinutes": 1,
+  "keywordCount": 5,
+  "playbackRates": [
+    0.8,
+    1.0,
+    1.2
+  ],
+  "audioPolicy": "Play Nanami sentence files sequentially; do not pitch-shift. Use each timing JSON at the selected playback rate. Source narration is retained only as an editorial backup.",
+  "cardPreview": {
+    "ja": "国境周辺で多くの死者と行方不明者が出て、救助活動が続いています。",
+    "speechJa": "こっきょう周辺で多くの死者とゆくえふめい者が出て、きゅうじょかつどうが続いています。",
+    "audio": "../audio/7611-nepal-china-border-landslides/KM-NEWS-7611-nepal-china-border-landslides-card-preview-ja-Nanami.mp3",
+    "timings": "../audio/7611-nepal-china-border-landslides/KM-NEWS-7611-nepal-china-border-landslides-card-preview-ja-Nanami-timings.json",
+    "voice": "ja-JP-NanamiNeural"
+  }
+}

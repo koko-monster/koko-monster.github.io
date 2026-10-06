@@ -1,0 +1,241 @@
+{
+  "schemaVersion": 1,
+  "baseUrl": "https://kokomonster.com",
+  "routePattern": "/ja/news/{category}/{english-slug}-{id}",
+  "voice": {
+    "demoNarration": "ja-JP-NanamiNeural",
+    "rate": "0%",
+    "format": "audio-24khz-160kbitrate-mono-mp3",
+    "uiPlaybackRates": [
+      0.8,
+      1.0,
+      1.2
+    ]
+  },
+  "articles": [
+    {
+      "id": 7648,
+      "sourceType": "kokomonster-existing",
+      "category": "Global",
+      "slug": "king-charles-clarifies-harry-meghan-royal-status",
+      "title": {
+        "ja": "チャールズ国王、ヘンリー王子とメーガン妃の王室での立場を明確化",
+        "en": "King Charles clarifies Harry and Meghan’s royal status",
+        "zhHant": "查理斯國王澄清哈里王子與梅根的王室身分"
+      },
+      "readingMinutes": 2,
+      "keywordCount": 7,
+      "reservedPath": "/ja/news/Global/king-charles-clarifies-harry-meghan-royal-status-7648",
+      "reservedUrl": "https://kokomonster.com/ja/news/Global/king-charles-clarifies-harry-meghan-royal-status-7648",
+      "dataFile": "articles/7648-king-charles-clarifies-harry-meghan-royal-status.json"
+    },
+    {
+      "id": 9991,
+      "sourceType": "kokomonster-demo",
+      "category": "Sports",
+      "slug": "onosato-promoted-to-yokozuna",
+      "title": {
+        "ja": "大の里、横綱になる",
+        "en": "Ōnosato is promoted to yokozuna",
+        "zhHant": "大之里晉升橫綱"
+      },
+      "readingMinutes": 1,
+      "keywordCount": 7,
+      "reservedPath": "/ja/news/Sports/onosato-promoted-to-yokozuna-9991",
+      "reservedUrl": "https://kokomonster.com/ja/news/Sports/onosato-promoted-to-yokozuna-9991",
+      "dataFile": "articles/9991-onosato-promoted-to-yokozuna.json"
+    },
+    {
+      "id": 9992,
+      "sourceType": "kokomonster-demo",
+      "category": "Business",
+      "slug": "suica-mascot-public-vote",
+      "title": {
+        "ja": "Suicaの新しいキャラクター、投票で選ぶ",
+        "en": "A public vote will choose Suica’s new mascot",
+        "zhHant": "Suica新吉祥物將由公眾投票選出"
+      },
+      "readingMinutes": 1,
+      "keywordCount": 5,
+      "reservedPath": "/ja/news/Business/suica-mascot-public-vote-9992",
+      "reservedUrl": "https://kokomonster.com/ja/news/Business/suica-mascot-public-vote-9992",
+      "dataFile": "articles/9992-suica-mascot-public-vote.json"
+    },
+    {
+      "id": 9993,
+      "sourceType": "kokomonster-demo",
+      "category": "Environment",
+      "slug": "aomori-earthquake-magnitude-7-5",
+      "title": {
+        "ja": "青森県沖でマグニチュード7.5の地震",
+        "en": "Magnitude 7.5 earthquake strikes off Aomori",
+        "zhHant": "青森縣外海發生7.5級地震"
+      },
+      "readingMinutes": 1,
+      "keywordCount": 7,
+      "reservedPath": "/ja/news/Environment/aomori-earthquake-magnitude-7-5-9993",
+      "reservedUrl": "https://kokomonster.com/ja/news/Environment/aomori-earthquake-magnitude-7-5-9993",
+      "dataFile": "articles/9993-aomori-earthquake-magnitude-7-5.json"
+    },
+    {
+      "id": 7642,
+      "sourceType": "kokomonster-existing",
+      "category": "Global",
+      "slug": "un-adopts-equal-earth-world-map",
+      "title": {
+        "ja": "国連が新しい世界地図を採用",
+        "en": "UN adopts a new world map",
+        "zhHant": "聯合國採用新版世界地圖"
+      },
+      "readingMinutes": 2,
+      "keywordCount": 7,
+      "reservedPath": "/ja/news/Global/un-adopts-equal-earth-world-map-7642",
+      "reservedUrl": "https://kokomonster.com/ja/news/Global/un-adopts-equal-earth-world-map-7642",
+      "dataFile": "articles/7642-un-adopts-equal-earth-world-map.json"
+    },
+    {
+      "id": 7611,
+      "sourceType": "kokomonster-existing",
+      "category": "Global",
+      "slug": "nepal-china-border-landslides",
+      "title": {
+        "ja": "ネパールと中国国境での土石流、死者900人超",
+        "en": "More than 900 die in landslides near the Nepal–China border",
+        "zhHant": "尼泊爾與中國邊境山泥傾瀉逾900人死亡"
+      },
+      "readingMinutes": 1,
+      "keywordCount": 5,
+      "reservedPath": "/ja/news/Global/nepal-china-border-landslides-7611",
+      "reservedUrl": "https://kokomonster.com/ja/news/Global/nepal-china-border-landslides-7611",
+      "dataFile": "articles/7611-nepal-china-border-landslides.json"
+    },
+    {
+      "id": 7606,
+      "sourceType": "kokomonster-existing",
+      "category": "Global",
+      "slug": "russian-drone-attack-near-kyiv",
+      "title": {
+        "ja": "ウクライナでのロシアのドローン攻撃、37人死亡",
+        "en": "Russian drone attack near Kyiv kills 37",
+        "zhHant": "俄羅斯無人機襲擊基輔附近　37人死亡"
+      },
+      "readingMinutes": 1,
+      "keywordCount": 7,
+      "reservedPath": "/ja/news/Global/russian-drone-attack-near-kyiv-7606",
+      "reservedUrl": "https://kokomonster.com/ja/news/Global/russian-drone-attack-near-kyiv-7606",
+      "dataFile": "articles/7606-russian-drone-attack-near-kyiv.json"
+    },
+    {
+      "id": 7605,
+      "sourceType": "kokomonster-existing",
+      "category": "Environment",
+      "slug": "nepal-tibet-landslides",
+      "title": {
+        "ja": "ネパールとチベットの大規模土石流、675人死亡・2498人行方不明",
+        "en": "Major Nepal–Tibet landslides leave 675 dead and 2,498 missing",
+        "zhHant": "尼泊爾與西藏大型山泥傾瀉　675人死亡、2,498人失蹤"
+      },
+      "readingMinutes": 2,
+      "keywordCount": 10,
+      "reservedPath": "/ja/news/Environment/nepal-tibet-landslides-7605",
+      "reservedUrl": "https://kokomonster.com/ja/news/Environment/nepal-tibet-landslides-7605",
+      "dataFile": "articles/7605-nepal-tibet-landslides.json"
+    },
+    {
+      "id": 7596,
+      "sourceType": "kokomonster-existing",
+      "category": "Global",
+      "slug": "nepal-china-border-flash-flood",
+      "title": {
+        "ja": "ネパールと中国国境で発生した鉄砲水による災害",
+        "en": "Flash floods hit the Nepal–China border",
+        "zhHant": "尼泊爾與中國邊境發生山洪"
+      },
+      "readingMinutes": 1,
+      "keywordCount": 5,
+      "reservedPath": "/ja/news/Global/nepal-china-border-flash-flood-7596",
+      "reservedUrl": "https://kokomonster.com/ja/news/Global/nepal-china-border-flash-flood-7596",
+      "dataFile": "articles/7596-nepal-china-border-flash-flood.json"
+    },
+    {
+      "id": 7594,
+      "sourceType": "kokomonster-existing",
+      "category": "Global",
+      "slug": "prince-harry-family-returns-to-britain",
+      "title": {
+        "ja": "サセックス公ハリー王子一家がイギリスに帰国",
+        "en": "Prince Harry and his family return to Britain",
+        "zhHant": "哈里王子一家返回英國"
+      },
+      "readingMinutes": 2,
+      "keywordCount": 7,
+      "reservedPath": "/ja/news/Global/prince-harry-family-returns-to-britain-7594",
+      "reservedUrl": "https://kokomonster.com/ja/news/Global/prince-harry-family-returns-to-britain-7594",
+      "dataFile": "articles/7594-prince-harry-family-returns-to-britain.json"
+    },
+    {
+      "id": 7581,
+      "sourceType": "kokomonster-existing",
+      "category": "Global",
+      "slug": "iran-hijab-rules-women-resist",
+      "title": {
+        "ja": "イランでのヒジャブ問題と女性の抵抗",
+        "en": "Women in Iran resist renewed pressure over hijab rules",
+        "zhHant": "伊朗再收緊頭巾規定　女性持續反抗"
+      },
+      "readingMinutes": 1,
+      "keywordCount": 10,
+      "reservedPath": "/ja/news/Global/iran-hijab-rules-women-resist-7581",
+      "reservedUrl": "https://kokomonster.com/ja/news/Global/iran-hijab-rules-women-resist-7581",
+      "dataFile": "articles/7581-iran-hijab-rules-women-resist.json"
+    },
+    {
+      "id": 7567,
+      "sourceType": "kokomonster-existing",
+      "category": "Business",
+      "slug": "canada-pauses-us-trade-talks",
+      "title": {
+        "ja": "カナダ、米国との貿易交渉を停止",
+        "en": "Canada pauses trade talks with the United States",
+        "zhHant": "加拿大暫停與美國的貿易談判"
+      },
+      "readingMinutes": 2,
+      "keywordCount": 10,
+      "reservedPath": "/ja/news/Business/canada-pauses-us-trade-talks-7567",
+      "reservedUrl": "https://kokomonster.com/ja/news/Business/canada-pauses-us-trade-talks-7567",
+      "dataFile": "articles/7567-canada-pauses-us-trade-talks.json"
+    },
+    {
+      "id": 7561,
+      "sourceType": "kokomonster-existing",
+      "category": "Global",
+      "slug": "israel-west-bank-settlement-homes",
+      "title": {
+        "ja": "イスラエル、ヨルダン川西岸地区での入植者向け住宅建設を発表",
+        "en": "Israel announces 1,200 settler homes in the West Bank",
+        "zhHant": "以色列宣布在約旦河西岸興建1,200個定居者住宅"
+      },
+      "readingMinutes": 2,
+      "keywordCount": 10,
+      "reservedPath": "/ja/news/Global/israel-west-bank-settlement-homes-7561",
+      "reservedUrl": "https://kokomonster.com/ja/news/Global/israel-west-bank-settlement-homes-7561",
+      "dataFile": "articles/7561-israel-west-bank-settlement-homes.json"
+    },
+    {
+      "id": 7542,
+      "sourceType": "kokomonster-existing",
+      "category": "Global",
+      "slug": "uss-george-washington-malacca-strait",
+      "title": {
+        "ja": "米空母ジョージ・ワシントン、マラッカ海峡を航行",
+        "en": "USS George Washington sails through the Strait of Malacca",
+        "zhHant": "美國航空母艦喬治・華盛頓號航經馬六甲海峽"
+      },
+      "readingMinutes": 2,
+      "keywordCount": 5,
+      "reservedPath": "/ja/news/Global/uss-george-washington-malacca-strait-7542",
+      "reservedUrl": "https://kokomonster.com/ja/news/Global/uss-george-washington-malacca-strait-7542",
+      "dataFile": "articles/7542-uss-george-washington-malacca-strait.json"
+    }
+  ]
+}

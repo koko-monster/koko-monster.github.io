@@ -1,0 +1,214 @@
+{
+  "schemaVersion": 1,
+  "id": 9991,
+  "slug": "onosato-promoted-to-yokozuna",
+  "sourceType": "kokomonster-demo",
+  "demoOnly": true,
+  "editorialNote": "Demo copy for interface development; verify the event and date before publication.",
+  "date": "2026-09-07",
+  "level": "N4",
+  "category": {
+    "key": "Sports",
+    "ja": "スポーツ",
+    "en": "Sports",
+    "zhHant": "體育"
+  },
+  "reservedPath": "/ja/news/Sports/onosato-promoted-to-yokozuna-9991",
+  "reservedUrl": "https://kokomonster.com/ja/news/Sports/onosato-promoted-to-yokozuna-9991",
+  "sourceUrl": null,
+  "title": {
+    "ja": "大の里、横綱になる",
+    "en": "Ōnosato is promoted to yokozuna",
+    "zhHant": "大之里晉升橫綱"
+  },
+  "summary": {
+    "ja": "大の里が相撲で最も高い地位の横綱になりました。",
+    "en": "Ōnosato has reached yokozuna, sumo’s highest rank.",
+    "zhHant": "大之里晉升為相撲最高級別「橫綱」。"
+  },
+  "cover": {
+    "file": "../../../assets/news-covers/sumo-yokozuna.png",
+    "sourceUrl": null
+  },
+  "sentences": [
+    {
+      "id": "s01",
+      "ja": "大の里は、相撲でいちばん高い地位、横綱になりました。",
+      "en": "Ōnosato has reached yokozuna, the highest rank in sumo.",
+      "zhHant": "大之里晉升為相撲最高級別「橫綱」。",
+      "speechJa": "おおのさとは、相撲でいちばん高い地位、よこづなになりました。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/9991-onosato-promoted-to-yokozuna/KM-NEWS-9991-onosato-promoted-to-yokozuna-sentence-01-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/9991-onosato-promoted-to-yokozuna/KM-NEWS-9991-onosato-promoted-to-yokozuna-sentence-01-ja-Nanami-timings.json"
+      }
+    },
+    {
+      "id": "s02",
+      "ja": "横綱になることが決まると、使者が部屋を訪れました。",
+      "en": "After the promotion was decided, messengers visited his sumo stable.",
+      "zhHant": "晉升決定後，使者到訪其相撲部屋。",
+      "speechJa": "よこづなになることが決まると、ししゃが部屋を訪れました。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/9991-onosato-promoted-to-yokozuna/KM-NEWS-9991-onosato-promoted-to-yokozuna-sentence-02-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/9991-onosato-promoted-to-yokozuna/KM-NEWS-9991-onosato-promoted-to-yokozuna-sentence-02-ja-Nanami-timings.json"
+      }
+    },
+    {
+      "id": "s03",
+      "ja": "大の里は、謹んでお受けしますと答えました。",
+      "en": "Ōnosato replied, “I humbly accept.”",
+      "zhHant": "大之里回應道：「我謹此接受。」",
+      "speechJa": "おおのさとは、つつしんでお受けしますと答えました。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/9991-onosato-promoted-to-yokozuna/KM-NEWS-9991-onosato-promoted-to-yokozuna-sentence-03-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/9991-onosato-promoted-to-yokozuna/KM-NEWS-9991-onosato-promoted-to-yokozuna-sentence-03-ja-Nanami-timings.json"
+      }
+    },
+    {
+      "id": "s04",
+      "ja": "そして、横綱として責任ある行動をすると誓いました。",
+      "en": "He then pledged to act responsibly as a yokozuna.",
+      "zhHant": "他並承諾，將以橫綱身分負責任地行事。",
+      "speechJa": "そして、よこづなとしてせきにんある行動をすると誓いました。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/9991-onosato-promoted-to-yokozuna/KM-NEWS-9991-onosato-promoted-to-yokozuna-sentence-04-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/9991-onosato-promoted-to-yokozuna/KM-NEWS-9991-onosato-promoted-to-yokozuna-sentence-04-ja-Nanami-timings.json"
+      }
+    },
+    {
+      "id": "s05",
+      "ja": "地元の人たちは、昇進を喜び、大きな拍手を送りました。",
+      "en": "People in his home region celebrated the promotion with loud applause.",
+      "zhHant": "家鄉民眾為他的晉升喝采，送上熱烈掌聲。",
+      "speechJa": "地元の人たちは、しょうしんを喜び、大きな拍手を送りました。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/9991-onosato-promoted-to-yokozuna/KM-NEWS-9991-onosato-promoted-to-yokozuna-sentence-05-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/9991-onosato-promoted-to-yokozuna/KM-NEWS-9991-onosato-promoted-to-yokozuna-sentence-05-ja-Nanami-timings.json"
+      }
+    },
+    {
+      "id": "s06",
+      "ja": "これからの土俵での活躍に、注目が集まります。",
+      "en": "Attention now turns to how he will perform in the ring.",
+      "zhHant": "外界正期待他今後在土俵上的表現。",
+      "speechJa": "これからのどひょうでの活躍に、注目が集まります。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/9991-onosato-promoted-to-yokozuna/KM-NEWS-9991-onosato-promoted-to-yokozuna-sentence-06-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/9991-onosato-promoted-to-yokozuna/KM-NEWS-9991-onosato-promoted-to-yokozuna-sentence-06-ja-Nanami-timings.json"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "v01",
+      "surface": "大の里",
+      "reading": "おおのさと",
+      "en": "Ōnosato",
+      "zhHant": "大之里",
+      "speechJa": "おおのさと",
+      "audio": {
+        "file": "../audio/9991-onosato-promoted-to-yokozuna/KM-NEWS-9991-onosato-promoted-to-yokozuna-vocab-01-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    },
+    {
+      "id": "v02",
+      "surface": "横綱",
+      "reading": "よこづな",
+      "en": "yokozuna; grand champion",
+      "zhHant": "橫綱",
+      "speechJa": "よこづな",
+      "audio": {
+        "file": "../audio/9991-onosato-promoted-to-yokozuna/KM-NEWS-9991-onosato-promoted-to-yokozuna-vocab-02-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    },
+    {
+      "id": "v03",
+      "surface": "昇進",
+      "reading": "しょうしん",
+      "en": "promotion",
+      "zhHant": "晉升",
+      "speechJa": "しょうしん",
+      "audio": {
+        "file": "../audio/9991-onosato-promoted-to-yokozuna/KM-NEWS-9991-onosato-promoted-to-yokozuna-vocab-03-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    },
+    {
+      "id": "v04",
+      "surface": "使者",
+      "reading": "ししゃ",
+      "en": "messenger",
+      "zhHant": "使者",
+      "speechJa": "ししゃ",
+      "audio": {
+        "file": "../audio/9991-onosato-promoted-to-yokozuna/KM-NEWS-9991-onosato-promoted-to-yokozuna-vocab-04-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    },
+    {
+      "id": "v05",
+      "surface": "謹んで",
+      "reading": "つつしんで",
+      "en": "humbly; respectfully",
+      "zhHant": "謹慎地；恭敬地",
+      "speechJa": "つつしんで",
+      "audio": {
+        "file": "../audio/9991-onosato-promoted-to-yokozuna/KM-NEWS-9991-onosato-promoted-to-yokozuna-vocab-05-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    },
+    {
+      "id": "v06",
+      "surface": "責任",
+      "reading": "せきにん",
+      "en": "responsibility",
+      "zhHant": "責任",
+      "speechJa": "せきにん",
+      "audio": {
+        "file": "../audio/9991-onosato-promoted-to-yokozuna/KM-NEWS-9991-onosato-promoted-to-yokozuna-vocab-06-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    },
+    {
+      "id": "v07",
+      "surface": "土俵",
+      "reading": "どひょう",
+      "en": "sumo ring",
+      "zhHant": "相撲土俵",
+      "speechJa": "どひょう",
+      "audio": {
+        "file": "../audio/9991-onosato-promoted-to-yokozuna/KM-NEWS-9991-onosato-promoted-to-yokozuna-vocab-07-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    }
+  ],
+  "readingMinutes": 1,
+  "keywordCount": 7,
+  "playbackRates": [
+    0.8,
+    1.0,
+    1.2
+  ],
+  "audioPolicy": "Use one Nanami track per sentence and scale playback speed in the UI. Use timing JSON for word highlighting.",
+  "cardPreview": {
+    "ja": "新横綱の誕生に、地元や相撲ファンから大きな期待が寄せられています。",
+    "speechJa": "新よこづなの誕生に、地元や相撲ファンから大きな期待が寄せられています。",
+    "audio": "../audio/9991-onosato-promoted-to-yokozuna/KM-NEWS-9991-onosato-promoted-to-yokozuna-card-preview-ja-Nanami.mp3",
+    "timings": "../audio/9991-onosato-promoted-to-yokozuna/KM-NEWS-9991-onosato-promoted-to-yokozuna-card-preview-ja-Nanami-timings.json",
+    "voice": "ja-JP-NanamiNeural"
+  }
+}

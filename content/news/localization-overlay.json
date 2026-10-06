@@ -1,0 +1,246 @@
+{
+  "7648": {
+    "slug": "king-charles-clarifies-harry-meghan-royal-status",
+    "level": "N4",
+    "title": {
+      "en": "King Charles clarifies Harry and Meghan’s royal status",
+      "zhHant": "查理斯國王澄清哈里王子與梅根的王室身分"
+    },
+    "summary": {
+      "en": "King Charles says Prince Harry and Meghan remain non-working members of the royal family and that their position will not change.",
+      "zhHant": "查理斯國王表示，哈里王子與梅根仍是不履行王室公務的王室成員，而二人的身分不會改變。"
+    },
+    "sentences": [
+      {"en":"King Charles said on the 7th that Prince Harry and Meghan are members of the royal family who do not undertake official duties.","zhHant":"查理斯國王於7日表示，哈里王子與梅根是不履行王室公務的王室成員。"},
+      {"en":"The Lord Chamberlain wrote that it is widely known that the Duke and Duchess are not working members of the royal family.","zhHant":"王室侍從長在信中指出，公爵夫婦並非履行公務的王室成員，這一點早已廣為人知。"},
+      {"en":"The letter stressed that this position “will continue to be respected.”","zhHant":"信中強調，這一身分「今後仍會受到尊重」。"},
+      {"en":"The letter was sent to senior government and military officials, as well as people connected with the couple.","zhHant":"該信函已送交政府及軍方高層，以及與夫婦二人有關的人士。"},
+      {"en":"As a new schedule of royal engagements begins, there had been calls to clarify the couple’s position.","zhHant":"隨着王室新一輪活動日程展開，外界要求進一步釐清夫婦二人的身分。"},
+      {"en":"Prince Harry and Meghan stepped back from royal duties and moved to North America.","zhHant":"哈里王子與梅根退出王室公務後，移居北美。"},
+      {"en":"They returned to Britain late last month with Prince Archie and Princess Lilibet.","zhHant":"上月底，二人與阿奇王子及莉莉貝特公主一同返回英國。"},
+      {"en":"According to the letter, the couple’s charitable work will be carried out in a private capacity.","zhHant":"信中亦指出，夫婦二人的慈善工作將以私人身分進行。"},
+      {"en":"It states that the couple’s position is equivalent to that of private citizens.","zhHant":"信函明確說明，夫婦二人的地位等同一般市民。"}
+    ],
+    "vocabulary": [
+      {"surface":"王室","reading":"おうしつ","en":"royal family","zhHant":"王室"},
+      {"surface":"公務","reading":"こうむ","en":"official duties","zhHant":"公務"},
+      {"surface":"立場","reading":"たちば","en":"position; status","zhHant":"身分；立場"}
+    ]
+  },
+  "7642": {
+    "slug": "un-adopts-equal-earth-world-map",
+    "level": "N4",
+    "title": {"en":"UN adopts a new world map","zhHant":"聯合國採用新版世界地圖"},
+    "summary": {"en":"The UN General Assembly backs a map projection designed to represent the relative size of regions more fairly.","zhHant":"聯合國大會通過採用一種更公平呈現各地區相對面積的世界地圖投影。"},
+    "sentences": [
+      {"en":"On the 4th, the UN General Assembly approved a resolution to adopt a new world map that reflects countries’ actual relative sizes.","zhHant":"聯合國大會於4日通過決議，採用能反映各國實際相對面積的新版世界地圖。"},
+      {"en":"The proposal was submitted by the African Union and the Bahamas; 164 countries supported it, while only the United States opposed it.","zhHant":"決議由非洲聯盟與巴哈馬提出，共有164國贊成，只有美國反對。"},
+      {"en":"The resolution aims to represent every region of the world—especially Africa—more fairly.","zhHant":"決議旨在更「公平」地呈現世界各地，尤其是非洲。"},
+      {"en":"Most current world maps are based on the Mercator projection, which is useful for navigation but distorts scale.","zhHant":"現行世界地圖多採用麥卡托投影；它便於航海，卻會扭曲面積比例。"},
+      {"en":"For example, Greenland looks larger than it really is, although its area is roughly the same as the Democratic Republic of the Congo.","zhHant":"例如，格陵蘭在地圖上看來比實際更大，但其面積其實與剛果民主共和國相若。"},
+      {"en":"The UN resolution is concerned that such distortion makes Africa and other regions appear smaller than they really are.","zhHant":"聯合國決議關注這類失真，會令非洲及其他地區看起來比實際更小。"},
+      {"en":"It therefore proposes replacing the Mercator projection with the Equal Earth projection.","zhHant":"因此，決議建議以「等地球投影」取代麥卡托投影。"},
+      {"en":"With the new projection, Europe appears smaller, Brazil larger and Africa much larger.","zhHant":"在新投影下，歐洲看起來較小、巴西較大，而非洲則大得多。"},
+      {"en":"France’s foreign minister announced on the 4th that the country would move away from the Mercator projection and adopt a more accurate representation.","zhHant":"法國外長於4日宣布，將棄用麥卡托投影，改採更準確的地圖呈現方式。"},
+      {"en":"The African Union adopted the Equal Earth projection in March.","zhHant":"非洲聯盟已於3月採用等地球投影。"}
+    ],
+    "vocabulary": [
+      {"surface":"採用","reading":"さいよう","en":"adoption; to adopt","zhHant":"採用"},
+      {"surface":"縮尺","reading":"しゅくしゃく","en":"map scale","zhHant":"比例尺"},
+      {"surface":"公平","reading":"こうへい","en":"fair; equitable","zhHant":"公平"}
+    ]
+  },
+  "7611": {
+    "slug": "nepal-china-border-landslides",
+    "level": "N5",
+    "title": {"en":"More than 900 die in landslides near the Nepal–China border","zhHant":"尼泊爾與中國邊境山泥傾瀉逾900人死亡"},
+    "summary": {"en":"Large landslides near the Nepal–China border leave hundreds dead as rescue work continues.","zhHant":"尼泊爾與中國邊境附近發生大型山泥傾瀉，造成數百人死亡，救援工作仍在進行。"},
+    "sentences": [
+      {"en":"A major landslide occurred along the border between Nepal and China’s Tibet region.","zhHant":"尼泊爾與中國西藏地區的邊境一帶發生大型山泥傾瀉。"},
+      {"en":"The disaster occurred on the 26th, and by the 31st it was known that many people had died.","zhHant":"災害於26日發生，截至31日，已證實多人死亡。"},
+      {"en":"More than 900 people have died, and around 4,800 are missing.","zhHant":"死亡人數已超過900人，另有約4,800人失蹤。"},
+      {"en":"Rescue work is continuing, including an operation to save hundreds of people at a hydroelectric power plant in Nepal.","zhHant":"救援工作持續進行，其中包括在尼泊爾一座水力發電站營救數百人。"},
+      {"en":"At a school, students evacuated quickly and 900 lives were saved.","zhHant":"一所學校的學生迅速疏散，約900人因而獲救。"},
+      {"en":"The national disaster management agency said 903 deaths had been confirmed and 4,247 people were missing.","zhHant":"國家災害管理部門表示，已確認903人死亡，另有4,247人失蹤。"},
+      {"en":"In Shigatse in China’s Tibet region, 16 deaths have also been confirmed and 546 people are missing.","zhHant":"中國西藏地區日喀則市亦確認16人死亡，另有546人失蹤。"}
+    ],
+    "vocabulary": [
+      {"surface":"土石流","reading":"どせきりゅう","en":"debris flow; landslide","zhHant":"山泥傾瀉；土石流"},
+      {"surface":"行方不明","reading":"ゆくえふめい","en":"missing","zhHant":"失蹤"},
+      {"surface":"救助活動","reading":"きゅうじょかつどう","en":"rescue operations","zhHant":"救援工作"}
+    ]
+  },
+  "7606": {
+    "slug": "russian-drone-attack-near-kyiv",
+    "level": "N4",
+    "title": {"en":"Russian drone attack near Kyiv kills 37","zhHant":"俄羅斯無人機襲擊基輔附近　37人死亡"},
+    "summary": {"en":"An explosion near Kyiv caused by a Russian drone attack kills at least 37 people and prompts an investigation.","zhHant":"基輔附近因俄羅斯無人機襲擊發生爆炸，至少37人死亡，當局將展開調查。"},
+    "sentences": [
+      {"en":"An explosion occurred near Kyiv, the capital of Ukraine.","zhHant":"烏克蘭首都基輔附近發生爆炸。"},
+      {"en":"The explosion was caused by a Russian drone attack.","zhHant":"爆炸由俄羅斯無人機襲擊引起。"},
+      {"en":"At least 37 people were killed and many others were injured.","zhHant":"至少37人死亡，另有多人受傷。"},
+      {"en":"Timur Tkachenko, head of the Kyiv region, said the death toll could rise.","zhHant":"基輔州首長蒂穆爾・特卡琴科表示，死亡人數可能進一步上升。"},
+      {"en":"President Zelenskyy said a warehouse had been attacked.","zhHant":"澤連斯基總統表示，一座倉庫遭到襲擊。"},
+      {"en":"He said the attack caused a major explosion.","zhHant":"他指出，襲擊引發了猛烈爆炸。"},
+      {"en":"He also said ammunition should not be stored near residential areas.","zhHant":"他亦表示，不應把彈藥存放在住宅區附近。"},
+      {"en":"He announced that an investigation would begin.","zhHant":"他宣布將展開調查。"},
+      {"en":"Russia’s Defence Ministry said the target was an arms depot.","zhHant":"俄羅斯國防部則表示，受襲目標是一座軍火庫。"}
+    ],
+    "vocabulary": [
+      {"surface":"爆発","reading":"ばくはつ","en":"explosion","zhHant":"爆炸"},
+      {"surface":"倉庫","reading":"そうこ","en":"warehouse","zhHant":"倉庫"},
+      {"surface":"調査","reading":"ちょうさ","en":"investigation","zhHant":"調查"}
+    ]
+  },
+  "7605": {
+    "slug": "nepal-tibet-landslides",
+    "level": "N3",
+    "title": {"en":"Major Nepal–Tibet landslides leave 675 dead and 2,498 missing","zhHant":"尼泊爾與西藏大型山泥傾瀉　675人死亡、2,498人失蹤"},
+    "summary": {"en":"Major landslides along the Nepal–Tibet border cause heavy casualties and affect travellers from many countries.","zhHant":"尼泊爾與西藏邊境發生大型山泥傾瀉，造成嚴重傷亡，並波及多國旅客。"},
+    "sentences": [
+      {"en":"A major landslide occurred along the border between Nepal and China’s Tibet region.","zhHant":"尼泊爾與中國西藏地區邊境發生大型山泥傾瀉。"},
+      {"en":"In Nepal, 675 people were killed and 2,498 are missing.","zhHant":"尼泊爾一側有675人死亡，另有2,498人失蹤。"},
+      {"en":"Chinese media reported that 16 people had also died in the Tibet Autonomous Region and 546 were missing.","zhHant":"中國傳媒報道，西藏自治區亦有16人死亡、546人失蹤。"},
+      {"en":"The Nepal Tourism Board said 261 foreign nationals had been rescued.","zhHant":"尼泊爾旅遊局表示，已有261名外國人獲救。"},
+      {"en":"However, 320 people remain missing.","zhHant":"不過，仍有320人下落不明。"},
+      {"en":"According to reports from China, the missing include foreign nationals from 23 countries.","zhHant":"根據中方報道，失蹤者包括來自23個國家的外國人。"},
+      {"en":"They include people from Malaysia, India and the United States, among many other countries.","zhHant":"當中包括馬來西亞、印度、美國等多國人士。"},
+      {"en":"Nepalese authorities also announced that 33 British nationals were missing.","zhHant":"尼泊爾當局亦公布，有33名英國人失蹤。"},
+      {"en":"Some of the British travellers were reportedly trying to cross the border on their way to Tibet.","zhHant":"據報，部分英國旅客當時正準備越境前往西藏。"},
+      {"en":"The situation remains extremely serious, and rescue operations are continuing.","zhHant":"當地情況仍然十分嚴峻，救援工作持續進行。"}
+    ],
+    "vocabulary": [
+      {"surface":"大規模","reading":"だいきぼ","en":"large-scale","zhHant":"大規模"},
+      {"surface":"救出","reading":"きゅうしゅつ","en":"rescue; extraction","zhHant":"救出"},
+      {"surface":"深刻","reading":"しんこく","en":"serious; severe","zhHant":"嚴峻"}
+    ]
+  },
+  "7596": {
+    "slug": "nepal-china-border-flash-flood",
+    "level": "N5",
+    "title": {"en":"Flash floods hit the Nepal–China border","zhHant":"尼泊爾與中國邊境發生山洪"},
+    "summary": {"en":"Flash floods along the Nepal–China border kill 177 people and leave more than 1,300 missing.","zhHant":"尼泊爾與中國邊境發生山洪，造成177人死亡，超過1,300人失蹤。"},
+    "sentences": [
+      {"en":"Flash floods occurred on the 26th along the border between Nepal and China.","zhHant":"尼泊爾與中國邊境於26日發生山洪。"},
+      {"en":"The disaster killed 177 people, while more than 1,300 are missing.","zhHant":"災害造成177人死亡，超過1,300人失蹤。"},
+      {"en":"Authorities say the missing include more than 700 foreign nationals.","zhHant":"當局表示，失蹤者中包括超過700名外國人。"},
+      {"en":"Rescue work is under way, but the floods have swept away important infrastructure.","zhHant":"救援工作正在進行，但洪水已沖毀重要基礎設施。"},
+      {"en":"This has made it difficult to reach the affected areas and rescue survivors.","zhHant":"因此，救援人員難以進入災區並營救受災者。"},
+      {"en":"China has warned of the possibility of further disasters.","zhHant":"中國已警告，當地可能出現次生災害。"},
+      {"en":"More rain is forecast this week for Shigatse in the Tibet Autonomous Region, which borders Nepal.","zhHant":"與尼泊爾接壤的西藏自治區日喀則市，本周預料仍會有更多降雨。"},
+      {"en":"The area is prone to landslides, debris flows and flash floods.","zhHant":"該地區容易發生山泥傾瀉、土石流及山洪。"},
+      {"en":"News organisations are reporting on conditions in areas affected by the devastating floods.","zhHant":"多家新聞機構正報道遭受嚴重洪災地區的最新情況。"}
+    ],
+    "vocabulary": [
+      {"surface":"鉄砲水","reading":"てっぽうみず","en":"flash flood","zhHant":"山洪"},
+      {"surface":"被災地","reading":"ひさいち","en":"disaster-affected area","zhHant":"災區"},
+      {"surface":"二次災害","reading":"にじさいがい","en":"secondary disaster","zhHant":"次生災害"}
+    ]
+  },
+  "7594": {
+    "slug": "prince-harry-family-returns-to-britain",
+    "level": "N4",
+    "title": {"en":"Prince Harry and his family return to Britain","zhHant":"哈里王子一家返回英國"},
+    "summary": {"en":"Prince Harry, Meghan and their family return to Britain, where they are expected to live privately rather than resume royal duties.","zhHant":"哈里王子、梅根與家人返回英國，預料將以私人身分生活，不會恢復王室公務。"},
+    "sentences": [
+      {"en":"Britain’s Prince Harry, Duke of Sussex, and his wife Meghan have returned to Britain with their family.","zhHant":"英國王室薩塞克斯公爵哈里王子與妻子梅根，已與家人一同返回英國。"},
+      {"en":"They arrived in Birmingham by private jet, and the children are expected to enrol in British schools.","zhHant":"一家人乘私人飛機抵達伯明翰，孩子預計會入讀英國學校。"},
+      {"en":"They are reportedly not returning to official duties and will be based on a private estate.","zhHant":"據報，二人不會恢復英國王室公務，並將居於私人莊園。"},
+      {"en":"A royal spokesperson said there would be no comment on the couple’s return.","zhHant":"王室發言人表示，不會評論夫婦二人的回國安排。"},
+      {"en":"Prince William, Harry’s brother and the Prince of Wales, has also been told of their plans.","zhHant":"哈里的兄長、威爾斯親王威廉王子亦已獲告知二人的計劃。"},
+      {"en":"The family came from California, but the chickens they kept there will stay behind.","zhHant":"一家人從加州回來，但在當地飼養的雞隻將會留下。"},
+      {"en":"They will bring their dogs, Mia and Pula, with them.","zhHant":"他們會帶同愛犬米婭與普拉。"},
+      {"en":"This is Harry and Meghan’s first visit to Britain since Queen Elizabeth’s funeral in 2022.","zhHant":"這是哈里與梅根自2022年伊利沙伯女王葬禮後，首次到訪英國。"},
+      {"en":"However, there is debate about security arrangements for their return.","zhHant":"不過，二人回國期間的保安安排仍引起討論。"},
+      {"en":"Harry previously challenged a reduction in his security protection through legal action.","zhHant":"哈里早前因保安級別被調低而提出訴訟。"},
+      {"en":"The measures for keeping the family safe are unclear, but the Home Office says royal security is strict and appropriate.","zhHant":"目前未知保障一家人安全的具體措施；英國內政部則表示，王室保安安排嚴格而且恰當。"}
+    ],
+    "vocabulary": [
+      {"surface":"帰国","reading":"きこく","en":"return to one’s country","zhHant":"回國"},
+      {"surface":"私有地","reading":"しゆうち","en":"private property","zhHant":"私人土地"},
+      {"surface":"警備","reading":"けいび","en":"security; protection","zhHant":"保安"}
+    ]
+  },
+  "7581": {
+    "slug": "iran-hijab-rules-women-resist",
+    "level": "N3",
+    "title": {"en":"Women in Iran resist renewed pressure over hijab rules","zhHant":"伊朗再收緊頭巾規定　女性持續反抗"},
+    "summary": {"en":"As pressure from conservatives grows, many women openly resist compulsory hijab rules and speak out online.","zhHant":"隨着保守派施壓加劇，許多女性公開反抗強制頭巾規定，並透過網絡發聲。"},
+    "sentences": [
+      {"en":"Amid political turmoil in Iran, the issue of women wearing the hijab has returned to the forefront.","zhHant":"伊朗政局動盪之際，女性佩戴頭巾的問題再次成為焦點。"},
+      {"en":"Although pressure from conservatives is growing, many women are confronting the authorities and openly ignoring the rules.","zhHant":"儘管保守派施壓日增，許多女性仍與當局抗衡，並公開無視相關規定。"},
+      {"en":"Young women in particular are protesting through social media, showing that they have not yielded to the government’s campaign.","zhHant":"尤其是年輕女性，正透過社交媒體表達抗議，顯示她們並未向政府行動屈服。"}
+    ],
+    "vocabulary": [
+      {"surface":"着用","reading":"ちゃくよう","en":"wearing","zhHant":"佩戴"},
+      {"surface":"抵抗","reading":"ていこう","en":"resistance","zhHant":"反抗"},
+      {"surface":"抗議","reading":"こうぎ","en":"protest","zhHant":"抗議"}
+    ]
+  },
+  "7567": {
+    "slug": "canada-pauses-us-trade-talks",
+    "level": "N3",
+    "title": {"en":"Canada pauses trade talks with the United States","zhHant":"加拿大暫停與美國的貿易談判"},
+    "summary": {"en":"Canada’s prime minister suspends trade talks and prepares matching tariffs after negotiations fail to produce an agreement.","zhHant":"加國總理宣布暫停貿易談判；由於雙方未能達成協議，加拿大準備採取對等關稅措施。"},
+    "sentences": [
+      {"en":"Late on the 21st, Canadian Prime Minister Carney suspended trade talks with the United States.","zhHant":"加拿大總理卡尼於21日深夜宣布，暫停與美國的貿易談判。"},
+      {"en":"He also said Canada would take matching countermeasures against US tariffs due to take effect at midnight.","zhHant":"他亦表示，將針對美國午夜生效的關稅，採取同等規模的反制措施。"},
+      {"en":"According to Carney, the two countries had made “important progress” toward an agreement to avoid a 50% tariff on various Canadian goods.","zhHant":"卡尼表示，兩國曾為避免美方對多項加拿大貨品徵收50%關稅，在協議上取得「重要進展」。"},
+      {"en":"However, they did not reach an agreement that would “meet the goals of Canadians.”","zhHant":"然而，雙方最終未能達成一份「符合加拿大國民目標」的協議。"},
+      {"en":"Carney said he had therefore decided that night to suspend talks and instructed Canada’s negotiating team to return to Ottawa.","zhHant":"卡尼表示，因此決定當晚暫停談判，並指示加拿大談判代表團返回渥太華。"},
+      {"en":"He said the United States intended to impose a 50% tariff at midnight on about 28 billion dollars’ worth of Canadian products.","zhHant":"他說，美國擬於當晚午夜起，對約280億美元的加拿大產品徵收50%關稅。"},
+      {"en":"Canada will impose matching tariffs to protect its workers and businesses, he said.","zhHant":"他表示，加拿大將徵收同等關稅，以保障本國勞工與企業。"}
+    ],
+    "vocabulary": [
+      {"surface":"貿易交渉","reading":"ぼうえきこうしょう","en":"trade negotiations","zhHant":"貿易談判"},
+      {"surface":"関税","reading":"かんぜい","en":"tariff","zhHant":"關稅"},
+      {"surface":"対抗措置","reading":"たいこうそち","en":"countermeasure","zhHant":"反制措施"}
+    ]
+  },
+  "7561": {
+    "slug": "israel-west-bank-settlement-homes",
+    "level": "N3",
+    "title": {"en":"Israel announces 1,200 settler homes in the West Bank","zhHant":"以色列宣布在約旦河西岸興建1,200個定居者住宅"},
+    "summary": {"en":"Israel announces plans for 1,200 settler homes in the occupied West Bank, drawing international criticism.","zhHant":"以色列宣布計劃在被佔領的約旦河西岸興建1,200個定居者住宅，引發國際批評。"},
+    "sentences": [
+      {"en":"Israel announced plans to build 1,200 homes for settlers in the occupied Palestinian West Bank.","zhHant":"以色列宣布，計劃在被佔領的巴勒斯坦約旦河西岸興建1,200個定居者住宅。"},
+      {"en":"Major Western countries strongly condemned the announcement.","zhHant":"多個主要西方國家強烈譴責有關宣布。"},
+      {"en":"Settlements are considered illegal under international law.","zhHant":"根據國際法，這些定居點被視為非法。"},
+      {"en":"Israel’s plan is regarded as an obstacle to peace.","zhHant":"以色列的計劃被視為妨礙和平進程。"},
+      {"en":"Many countries warn that it could heighten tensions in the Middle East.","zhHant":"多國警告，計劃可能令中東局勢進一步緊張。"},
+      {"en":"Israel rejects the criticism and says it intends to proceed.","zhHant":"以色列反駁有關批評，並表明將繼續推進計劃。"},
+      {"en":"The new housing is expected to affect the economy and society of the area.","zhHant":"定居者住宅預料會對當地經濟與社會造成影響。"},
+      {"en":"The tender closes on 19 October, shortly before Israel’s general election.","zhHant":"項目投標將於10月19日截止，時間接近以色列大選。"},
+      {"en":"The United Nations has also expressed concern over the plan.","zhHant":"聯合國亦對計劃表示關注。"},
+      {"en":"Around 700,000 Israelis live in settlements built by Israel to date.","zhHant":"以色列歷來興建的定居點，現時約有70萬名以色列人居住。"}
+    ],
+    "vocabulary": [
+      {"surface":"入植者","reading":"にゅうしょくしゃ","en":"settler","zhHant":"定居者"},
+      {"surface":"占領","reading":"せんりょう","en":"occupation","zhHant":"佔領"},
+      {"surface":"懸念","reading":"けねん","en":"concern","zhHant":"關注；憂慮"}
+    ]
+  },
+  "7542": {
+    "slug": "uss-george-washington-malacca-strait",
+    "level": "N5",
+    "title": {"en":"USS George Washington sails through the Strait of Malacca","zhHant":"美國航空母艦喬治・華盛頓號航經馬六甲海峽"},
+    "summary": {"en":"The US Navy releases footage of the USS George Washington passing through the Strait of Malacca and conducting flight operations.","zhHant":"美國海軍發布片段，顯示航空母艦喬治・華盛頓號航經馬六甲海峽並進行飛行任務。"},
+    "sentences": [
+      {"en":"The US military said the aircraft carrier USS George Washington sailed through the Strait of Malacca between Malaysia and Indonesia.","zhHant":"美軍表示，航空母艦喬治・華盛頓號航經連接馬來西亞與印度尼西亞的馬六甲海峽。"},
+      {"en":"It also released footage of flight operations in the Indian Ocean.","zhHant":"美軍亦發布艦載機在印度洋執行飛行任務的片段。"},
+      {"en":"The footage, filmed on 13 August, shows the carrier’s deck as it moves through one of the world’s busiest waterways.","zhHant":"片段攝於8月13日，可見航母甲板，以及艦隻駛過全球最繁忙航道之一的情況。"},
+      {"en":"The George Washington is heading to the Middle East to replace the Abraham Lincoln.","zhHant":"喬治・華盛頓號正前往中東，接替林肯號航空母艦。"},
+      {"en":"The Abraham Lincoln has remained at sea for an extended period because of the effects of the war with Iran.","zhHant":"受與伊朗戰事影響，林肯號已長時間留在海上。"},
+      {"en":"This has caused concern among lawmakers and the families of military personnel.","zhHant":"情況引起國會議員及軍人家屬憂慮。"},
+      {"en":"Earlier this month, a crew member fell overboard from the Abraham Lincoln.","zhHant":"本月初，林肯號一名船員墮海。"},
+      {"en":"There have also been reports of worsening mental health among the crew.","zhHant":"另有報道指，船員的精神健康狀況正在惡化。"},
+      {"en":"Other released footage showed aircraft taking off from the George Washington on a night mission on the 18th.","zhHant":"另一段公開片段顯示，飛機於18日從喬治・華盛頓號起飛，執行夜間任務。"},
+      {"en":"With the George Washington deployed, there is currently no US aircraft carrier in the Pacific.","zhHant":"隨着喬治・華盛頓號調派離開，目前太平洋並無美國航空母艦駐守。"}
+    ],
+    "vocabulary": [
+      {"surface":"空母","reading":"くうぼ","en":"aircraft carrier","zhHant":"航空母艦"},
+      {"surface":"海峡","reading":"かいきょう","en":"strait","zhHant":"海峽"},
+      {"surface":"乗組員","reading":"のりくみいん","en":"crew member","zhHant":"船員"}
+    ]
+  }
+}

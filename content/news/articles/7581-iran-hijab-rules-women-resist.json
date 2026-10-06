@@ -1,0 +1,545 @@
+{
+  "schemaVersion": 1,
+  "id": 7581,
+  "slug": "iran-hijab-rules-women-resist",
+  "sourceType": "kokomonster-existing",
+  "demoOnly": false,
+  "date": "2026-08-24",
+  "level": "N3",
+  "category": {
+    "key": "Global",
+    "ja": "国際",
+    "en": "Global",
+    "zhHant": "國際"
+  },
+  "reservedPath": "/ja/news/Global/iran-hijab-rules-women-resist-7581",
+  "reservedUrl": "https://kokomonster.com/ja/news/Global/iran-hijab-rules-women-resist-7581",
+  "sourceUrl": "https://kokomonster.com/ja/news/Global/%E3%82%A4%E3%83%A9%E3%83%B3%E3%81%A7%E3%81%AE%E3%83%92%E3%82%B8%E3%83%A3%E3%83%96%E5%95%8F%E9%A1%8C%E3%81%A8%E5%A5%B3%E6%80%A7%E3%81%AE%E6%8A%B5%E6%8A%97-7581",
+  "title": {
+    "ja": "イランでのヒジャブ問題と女性の抵抗",
+    "en": "Women in Iran resist renewed pressure over hijab rules",
+    "zhHant": "伊朗再收緊頭巾規定　女性持續反抗"
+  },
+  "summary": {
+    "ja": "イランでは、政治的混乱の中、女性のヒジャブ着用に関する問題が再浮上しています。保守派からの圧力が強まる一方で、多くの女性が当局に対抗し、公然と規則を無視しています。特に若い世代の女性たちは、SNSを通じてこの問題に抗議しており、政府のキャンペーンに屈していないことが明らかです。",
+    "en": "As pressure from conservatives grows, many women openly resist compulsory hijab rules and speak out online.",
+    "zhHant": "隨着保守派施壓加劇，許多女性公開反抗強制頭巾規定，並透過網絡發聲。"
+  },
+  "cover": {
+    "file": "../../../assets/news-covers/iran-women.png",
+    "sourceUrl": "https://api.kokomonster.com/file/resources/crawled-raw-news/2026-08-24/9759/1787585564750.jpg"
+  },
+  "sentences": [
+    {
+      "id": "s01",
+      "sourcePieceId": 120373,
+      "sourceOrder": 6,
+      "ja": "イランでは、政治的混乱の中、女性のヒジャブ着用に関する問題が再浮上しています。",
+      "speechJa": "イランでは、せいじてきこんらんの中、女性のヒジャブちゃくように関する問題が再浮上しています。",
+      "en": "Amid political turmoil in Iran, the issue of women wearing the hijab has returned to the forefront.",
+      "zhHant": "伊朗政局動盪之際，女性佩戴頭巾的問題再次成為焦點。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7581-iran-hijab-rules-women-resist/KM-NEWS-7581-iran-hijab-rules-women-resist-sentence-01-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7581-iran-hijab-rules-women-resist/KM-NEWS-7581-iran-hijab-rules-women-resist-sentence-01-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7581-iran-hijab-rules-women-resist/KM-NEWS-7581-iran-hijab-rules-women-resist-sentence-01-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/02866d98-c8cc-4858-81f2-605c50a4ec34.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "イラン",
+            "offsetMs": 50
+          },
+          {
+            "text": "で",
+            "offsetMs": 437.5
+          },
+          {
+            "text": "は",
+            "offsetMs": 550
+          },
+          {
+            "text": "政治的",
+            "offsetMs": 1100
+          },
+          {
+            "text": "混乱",
+            "offsetMs": 1725
+          },
+          {
+            "text": "の",
+            "offsetMs": 2162.5
+          },
+          {
+            "text": "中",
+            "offsetMs": 2275
+          },
+          {
+            "text": "女性",
+            "offsetMs": 2862.5
+          },
+          {
+            "text": "の",
+            "offsetMs": 3275
+          },
+          {
+            "text": "ヒジャブ",
+            "offsetMs": 3375
+          },
+          {
+            "text": "着用",
+            "offsetMs": 3837.5
+          },
+          {
+            "text": "に",
+            "offsetMs": 4325
+          },
+          {
+            "text": "関する",
+            "offsetMs": 4462.5
+          },
+          {
+            "text": "問題",
+            "offsetMs": 4925
+          },
+          {
+            "text": "が",
+            "offsetMs": 5325
+          },
+          {
+            "text": "再",
+            "offsetMs": 5512.5
+          },
+          {
+            "text": "浮上",
+            "offsetMs": 5775
+          },
+          {
+            "text": "し",
+            "offsetMs": 6150
+          },
+          {
+            "text": "て",
+            "offsetMs": 6250
+          },
+          {
+            "text": "い",
+            "offsetMs": 6337.5
+          },
+          {
+            "text": "ます",
+            "offsetMs": 6450
+          }
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "sourcePieceId": 120374,
+      "sourceOrder": 7,
+      "ja": "保守派からの圧力が強まる一方で、多くの女性が当局に対抗し、公然と規則を無視しています。",
+      "speechJa": "ほしゅはからのあつりょくが強まる一方で、多くの女性がとうきょくに対抗し、こうぜんと規則を無視しています。",
+      "en": "Although pressure from conservatives is growing, many women are confronting the authorities and openly ignoring the rules.",
+      "zhHant": "儘管保守派施壓日增，許多女性仍與當局抗衡，並公開無視相關規定。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7581-iran-hijab-rules-women-resist/KM-NEWS-7581-iran-hijab-rules-women-resist-sentence-02-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7581-iran-hijab-rules-women-resist/KM-NEWS-7581-iran-hijab-rules-women-resist-sentence-02-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7581-iran-hijab-rules-women-resist/KM-NEWS-7581-iran-hijab-rules-women-resist-sentence-02-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/4c133862-a76e-4741-a3d2-a39413657986.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "保守派",
+            "offsetMs": 50
+          },
+          {
+            "text": "から",
+            "offsetMs": 500
+          },
+          {
+            "text": "の",
+            "offsetMs": 712.5
+          },
+          {
+            "text": "圧力",
+            "offsetMs": 825
+          },
+          {
+            "text": "が",
+            "offsetMs": 1337.5
+          },
+          {
+            "text": "強まる",
+            "offsetMs": 1475
+          },
+          {
+            "text": "一方",
+            "offsetMs": 2012.5
+          },
+          {
+            "text": "で",
+            "offsetMs": 2437.5
+          },
+          {
+            "text": "多く",
+            "offsetMs": 3037.5
+          },
+          {
+            "text": "の",
+            "offsetMs": 3362.5
+          },
+          {
+            "text": "女性",
+            "offsetMs": 3500
+          },
+          {
+            "text": "が",
+            "offsetMs": 3900
+          },
+          {
+            "text": "当局",
+            "offsetMs": 4100
+          },
+          {
+            "text": "に",
+            "offsetMs": 4587.5
+          },
+          {
+            "text": "対抗",
+            "offsetMs": 4737.5
+          },
+          {
+            "text": "し",
+            "offsetMs": 5162.5
+          },
+          {
+            "text": "公然",
+            "offsetMs": 5700
+          },
+          {
+            "text": "と",
+            "offsetMs": 6162.5
+          },
+          {
+            "text": "規則",
+            "offsetMs": 6312.5
+          },
+          {
+            "text": "を",
+            "offsetMs": 6700
+          },
+          {
+            "text": "無視",
+            "offsetMs": 6825
+          },
+          {
+            "text": "し",
+            "offsetMs": 7100
+          },
+          {
+            "text": "て",
+            "offsetMs": 7200
+          },
+          {
+            "text": "い",
+            "offsetMs": 7287.5
+          },
+          {
+            "text": "ます",
+            "offsetMs": 7400
+          }
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "sourcePieceId": 120375,
+      "sourceOrder": 8,
+      "ja": "特に若い世代の女性たちは、SNSを通じてこの問題に抗議しており、政府のキャンペーンに屈していないことが明らかです。",
+      "speechJa": "特にわかいせだいの女性たちは、エスエヌエスを通じてこの問題にこうぎしており、政府のキャンペーンに屈していないことが明らかです。",
+      "en": "Young women in particular are protesting through social media, showing that they have not yielded to the government’s campaign.",
+      "zhHant": "尤其是年輕女性，正透過社交媒體表達抗議，顯示她們並未向政府行動屈服。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7581-iran-hijab-rules-women-resist/KM-NEWS-7581-iran-hijab-rules-women-resist-sentence-03-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7581-iran-hijab-rules-women-resist/KM-NEWS-7581-iran-hijab-rules-women-resist-sentence-03-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7581-iran-hijab-rules-women-resist/KM-NEWS-7581-iran-hijab-rules-women-resist-sentence-03-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/23e1940f-49cc-47eb-a7ff-d4dbd8cee788.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "特",
+            "offsetMs": 50
+          },
+          {
+            "text": "に",
+            "offsetMs": 350
+          },
+          {
+            "text": "若い",
+            "offsetMs": 475
+          },
+          {
+            "text": "世代",
+            "offsetMs": 850
+          },
+          {
+            "text": "の",
+            "offsetMs": 1187.5
+          },
+          {
+            "text": "女性",
+            "offsetMs": 1312.5
+          },
+          {
+            "text": "たち",
+            "offsetMs": 1687.5
+          },
+          {
+            "text": "は",
+            "offsetMs": 1937.5
+          },
+          {
+            "text": "SNS",
+            "offsetMs": 2550
+          },
+          {
+            "text": "を",
+            "offsetMs": 3250
+          },
+          {
+            "text": "通じ",
+            "offsetMs": 3375
+          },
+          {
+            "text": "て",
+            "offsetMs": 3775
+          },
+          {
+            "text": "この",
+            "offsetMs": 3975
+          },
+          {
+            "text": "問題",
+            "offsetMs": 4237.5
+          },
+          {
+            "text": "に",
+            "offsetMs": 4625
+          },
+          {
+            "text": "抗議",
+            "offsetMs": 4775
+          },
+          {
+            "text": "し",
+            "offsetMs": 5137.5
+          },
+          {
+            "text": "て",
+            "offsetMs": 5237.5
+          },
+          {
+            "text": "おり",
+            "offsetMs": 5325
+          },
+          {
+            "text": "政府",
+            "offsetMs": 6025
+          },
+          {
+            "text": "の",
+            "offsetMs": 6412.5
+          },
+          {
+            "text": "キャンペーン",
+            "offsetMs": 6537.5
+          },
+          {
+            "text": "に",
+            "offsetMs": 7050
+          },
+          {
+            "text": "屈し",
+            "offsetMs": 7212.5
+          },
+          {
+            "text": "て",
+            "offsetMs": 7500
+          },
+          {
+            "text": "い",
+            "offsetMs": 7587.5
+          },
+          {
+            "text": "ない",
+            "offsetMs": 7712.5
+          },
+          {
+            "text": "こと",
+            "offsetMs": 7912.5
+          },
+          {
+            "text": "が",
+            "offsetMs": 8162.5
+          },
+          {
+            "text": "明らか",
+            "offsetMs": 8300
+          },
+          {
+            "text": "です",
+            "offsetMs": 8812.5
+          }
+        ]
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "v01",
+      "surface": "着用",
+      "reading": "ちゃくよう",
+      "en": "wearing",
+      "zhHant": "佩戴",
+      "speechJa": "ちゃくよう",
+      "audio": {
+        "file": "../audio/7581-iran-hijab-rules-women-resist/KM-NEWS-7581-iran-hijab-rules-women-resist-vocab-01-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    },
+    {
+      "id": "v02",
+      "surface": "抵抗",
+      "reading": "ていこう",
+      "en": "resistance",
+      "zhHant": "反抗",
+      "speechJa": "ていこう",
+      "audio": {
+        "file": "../audio/7581-iran-hijab-rules-women-resist/KM-NEWS-7581-iran-hijab-rules-women-resist-vocab-02-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    },
+    {
+      "id": "v03",
+      "surface": "抗議",
+      "reading": "こうぎ",
+      "en": "protest",
+      "zhHant": "抗議",
+      "speechJa": "こうぎ",
+      "audio": {
+        "file": "../audio/7581-iran-hijab-rules-women-resist/KM-NEWS-7581-iran-hijab-rules-women-resist-vocab-03-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    },
+    {
+      "id": "v04",
+      "surface": "政治的混乱",
+      "reading": "せいじてきこんらん",
+      "en": "political turmoil",
+      "zhHant": "政治動盪",
+      "speechJa": "せいじてきこんらん",
+      "audio": {
+        "file": "../audio/7581-iran-hijab-rules-women-resist/KM-NEWS-7581-iran-hijab-rules-women-resist-vocab-04-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    },
+    {
+      "id": "v05",
+      "surface": "保守派",
+      "reading": "ほしゅは",
+      "en": "conservatives",
+      "zhHant": "保守派",
+      "speechJa": "ほしゅは",
+      "audio": {
+        "file": "../audio/7581-iran-hijab-rules-women-resist/KM-NEWS-7581-iran-hijab-rules-women-resist-vocab-05-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    },
+    {
+      "id": "v06",
+      "surface": "圧力",
+      "reading": "あつりょく",
+      "en": "pressure",
+      "zhHant": "壓力",
+      "speechJa": "あつりょく",
+      "audio": {
+        "file": "../audio/7581-iran-hijab-rules-women-resist/KM-NEWS-7581-iran-hijab-rules-women-resist-vocab-06-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    },
+    {
+      "id": "v07",
+      "surface": "当局",
+      "reading": "とうきょく",
+      "en": "authorities",
+      "zhHant": "當局",
+      "speechJa": "とうきょく",
+      "audio": {
+        "file": "../audio/7581-iran-hijab-rules-women-resist/KM-NEWS-7581-iran-hijab-rules-women-resist-vocab-07-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    },
+    {
+      "id": "v08",
+      "surface": "公然と",
+      "reading": "こうぜんと",
+      "en": "openly; publicly",
+      "zhHant": "公然；公開地",
+      "speechJa": "こうぜんと",
+      "audio": {
+        "file": "../audio/7581-iran-hijab-rules-women-resist/KM-NEWS-7581-iran-hijab-rules-women-resist-vocab-08-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    },
+    {
+      "id": "v09",
+      "surface": "若い世代",
+      "reading": "わかいせだい",
+      "en": "younger generation",
+      "zhHant": "年輕一代",
+      "speechJa": "わかいせだい",
+      "audio": {
+        "file": "../audio/7581-iran-hijab-rules-women-resist/KM-NEWS-7581-iran-hijab-rules-women-resist-vocab-09-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    },
+    {
+      "id": "v10",
+      "surface": "屈する",
+      "reading": "くっする",
+      "en": "to yield; give in",
+      "zhHant": "屈服",
+      "speechJa": "くっする",
+      "audio": {
+        "file": "../audio/7581-iran-hijab-rules-women-resist/KM-NEWS-7581-iran-hijab-rules-women-resist-vocab-10-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    }
+  ],
+  "readingMinutes": 1,
+  "keywordCount": 10,
+  "playbackRates": [
+    0.8,
+    1.0,
+    1.2
+  ],
+  "audioPolicy": "Play Nanami sentence files sequentially; do not pitch-shift. Use each timing JSON at the selected playback rate. Source narration is retained only as an editorial backup.",
+  "cardPreview": {
+    "ja": "多くの女性が規則に抵抗し、SNSでも抗議の声を上げています。",
+    "speechJa": "多くの女性が規則にていこうし、エスエヌエスでもこうぎの声を上げています。",
+    "audio": "../audio/7581-iran-hijab-rules-women-resist/KM-NEWS-7581-iran-hijab-rules-women-resist-card-preview-ja-Nanami.mp3",
+    "timings": "../audio/7581-iran-hijab-rules-women-resist/KM-NEWS-7581-iran-hijab-rules-women-resist-card-preview-ja-Nanami-timings.json",
+    "voice": "ja-JP-NanamiNeural"
+  }
+}

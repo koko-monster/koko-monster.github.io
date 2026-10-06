@@ -1,0 +1,214 @@
+{
+  "schemaVersion": 1,
+  "id": 9993,
+  "slug": "aomori-earthquake-magnitude-7-5",
+  "sourceType": "kokomonster-demo",
+  "demoOnly": true,
+  "editorialNote": "Demo copy for interface development; verify the event and date before publication.",
+  "date": "2026-09-03",
+  "level": "N4",
+  "category": {
+    "key": "Environment",
+    "ja": "環境",
+    "en": "Environment",
+    "zhHant": "環境"
+  },
+  "reservedPath": "/ja/news/Environment/aomori-earthquake-magnitude-7-5-9993",
+  "reservedUrl": "https://kokomonster.com/ja/news/Environment/aomori-earthquake-magnitude-7-5-9993",
+  "sourceUrl": null,
+  "title": {
+    "ja": "青森県沖でマグニチュード7.5の地震",
+    "en": "Magnitude 7.5 earthquake strikes off Aomori",
+    "zhHant": "青森縣外海發生7.5級地震"
+  },
+  "summary": {
+    "ja": "青森県の沖で強い地震があり、住民に安全確認が呼びかけられました。",
+    "en": "A strong earthquake off Aomori prompts calls for residents to check their safety.",
+    "zhHant": "青森縣外海發生強烈地震，當局呼籲居民確認安全。"
+  },
+  "cover": {
+    "file": "../../../assets/news-covers/earthquake-preparedness.png",
+    "sourceUrl": null
+  },
+  "sentences": [
+    {
+      "id": "s01",
+      "ja": "青森県の沖で、マグニチュード7.5の強い地震がありました。",
+      "en": "A strong magnitude 7.5 earthquake struck off Aomori Prefecture.",
+      "zhHant": "青森縣外海發生7.5級強烈地震。",
+      "speechJa": "あおもりけんの沖で、マグニチュードななてんごの強いじしんがありました。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/9993-aomori-earthquake-magnitude-7-5/KM-NEWS-9993-aomori-earthquake-magnitude-7-5-sentence-01-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/9993-aomori-earthquake-magnitude-7-5/KM-NEWS-9993-aomori-earthquake-magnitude-7-5-sentence-01-ja-Nanami-timings.json"
+      }
+    },
+    {
+      "id": "s02",
+      "ja": "海岸に近い地域では、住民が高い場所へ避難しました。",
+      "en": "In coastal areas, residents evacuated to higher ground.",
+      "zhHant": "沿岸地區居民疏散到較高地勢。",
+      "speechJa": "海岸に近い地域では、住民が高い場所へひなんしました。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/9993-aomori-earthquake-magnitude-7-5/KM-NEWS-9993-aomori-earthquake-magnitude-7-5-sentence-02-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/9993-aomori-earthquake-magnitude-7-5/KM-NEWS-9993-aomori-earthquake-magnitude-7-5-sentence-02-ja-Nanami-timings.json"
+      }
+    },
+    {
+      "id": "s03",
+      "ja": "自治体は、けが人や建物の被害を確認しています。",
+      "en": "Local authorities are checking for injuries and damage to buildings.",
+      "zhHant": "地方政府正確認傷者人數與建築物受損情況。",
+      "speechJa": "じちたいは、けが人や建物のひがいを確認しています。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/9993-aomori-earthquake-magnitude-7-5/KM-NEWS-9993-aomori-earthquake-magnitude-7-5-sentence-03-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/9993-aomori-earthquake-magnitude-7-5/KM-NEWS-9993-aomori-earthquake-magnitude-7-5-sentence-03-ja-Nanami-timings.json"
+      }
+    },
+    {
+      "id": "s04",
+      "ja": "鉄道の一部は、安全を調べるため運転を見合わせました。",
+      "en": "Some railway services were suspended while safety checks were carried out.",
+      "zhHant": "部分鐵路服務暫停，以進行安全檢查。",
+      "speechJa": "てつどうの一部は、安全を調べるため運転を見合わせました。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/9993-aomori-earthquake-magnitude-7-5/KM-NEWS-9993-aomori-earthquake-magnitude-7-5-sentence-04-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/9993-aomori-earthquake-magnitude-7-5/KM-NEWS-9993-aomori-earthquake-magnitude-7-5-sentence-04-ja-Nanami-timings.json"
+      }
+    },
+    {
+      "id": "s05",
+      "ja": "専門家は、しばらくの間、強い揺れに注意するよう呼びかけています。",
+      "en": "Experts are urging people to remain alert for strong shaking for some time.",
+      "zhHant": "專家呼籲民眾在未來一段時間繼續提防強烈震動。",
+      "speechJa": "専門家は、しばらくの間、強いゆれに注意するよう呼びかけています。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/9993-aomori-earthquake-magnitude-7-5/KM-NEWS-9993-aomori-earthquake-magnitude-7-5-sentence-05-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/9993-aomori-earthquake-magnitude-7-5/KM-NEWS-9993-aomori-earthquake-magnitude-7-5-sentence-05-ja-Nanami-timings.json"
+      }
+    },
+    {
+      "id": "s06",
+      "ja": "家族で避難場所と連絡方法を確認することが大切です。",
+      "en": "Families are advised to confirm evacuation sites and ways to contact one another.",
+      "zhHant": "家庭應預先確認避難地點與彼此聯絡的方法。",
+      "speechJa": "家族でひなん場所とれんらくほうほうを確認することが大切です。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/9993-aomori-earthquake-magnitude-7-5/KM-NEWS-9993-aomori-earthquake-magnitude-7-5-sentence-06-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/9993-aomori-earthquake-magnitude-7-5/KM-NEWS-9993-aomori-earthquake-magnitude-7-5-sentence-06-ja-Nanami-timings.json"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "v01",
+      "surface": "地震",
+      "reading": "じしん",
+      "en": "earthquake",
+      "zhHant": "地震",
+      "speechJa": "じしん",
+      "audio": {
+        "file": "../audio/9993-aomori-earthquake-magnitude-7-5/KM-NEWS-9993-aomori-earthquake-magnitude-7-5-vocab-01-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    },
+    {
+      "id": "v02",
+      "surface": "避難",
+      "reading": "ひなん",
+      "en": "evacuation",
+      "zhHant": "疏散",
+      "speechJa": "ひなん",
+      "audio": {
+        "file": "../audio/9993-aomori-earthquake-magnitude-7-5/KM-NEWS-9993-aomori-earthquake-magnitude-7-5-vocab-02-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    },
+    {
+      "id": "v03",
+      "surface": "揺れ",
+      "reading": "ゆれ",
+      "en": "shaking",
+      "zhHant": "震動",
+      "speechJa": "ゆれ",
+      "audio": {
+        "file": "../audio/9993-aomori-earthquake-magnitude-7-5/KM-NEWS-9993-aomori-earthquake-magnitude-7-5-vocab-03-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    },
+    {
+      "id": "v04",
+      "surface": "被害",
+      "reading": "ひがい",
+      "en": "damage; harm",
+      "zhHant": "損害；災情",
+      "speechJa": "ひがい",
+      "audio": {
+        "file": "../audio/9993-aomori-earthquake-magnitude-7-5/KM-NEWS-9993-aomori-earthquake-magnitude-7-5-vocab-04-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    },
+    {
+      "id": "v05",
+      "surface": "自治体",
+      "reading": "じちたい",
+      "en": "local government",
+      "zhHant": "地方政府",
+      "speechJa": "じちたい",
+      "audio": {
+        "file": "../audio/9993-aomori-earthquake-magnitude-7-5/KM-NEWS-9993-aomori-earthquake-magnitude-7-5-vocab-05-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    },
+    {
+      "id": "v06",
+      "surface": "鉄道",
+      "reading": "てつどう",
+      "en": "railway",
+      "zhHant": "鐵路",
+      "speechJa": "てつどう",
+      "audio": {
+        "file": "../audio/9993-aomori-earthquake-magnitude-7-5/KM-NEWS-9993-aomori-earthquake-magnitude-7-5-vocab-06-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    },
+    {
+      "id": "v07",
+      "surface": "連絡方法",
+      "reading": "れんらくほうほう",
+      "en": "way to make contact",
+      "zhHant": "聯絡方式",
+      "speechJa": "れんらくほうほう",
+      "audio": {
+        "file": "../audio/9993-aomori-earthquake-magnitude-7-5/KM-NEWS-9993-aomori-earthquake-magnitude-7-5-vocab-07-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    }
+  ],
+  "readingMinutes": 1,
+  "keywordCount": 7,
+  "playbackRates": [
+    0.8,
+    1.0,
+    1.2
+  ],
+  "audioPolicy": "Use one Nanami track per sentence and scale playback speed in the UI. Use timing JSON for word highlighting.",
+  "cardPreview": {
+    "ja": "沿岸の住民が避難し、交通や建物への影響が確認されています。",
+    "speechJa": "沿岸の住民がひなんし、交通や建物への影響が確認されています。",
+    "audio": "../audio/9993-aomori-earthquake-magnitude-7-5/KM-NEWS-9993-aomori-earthquake-magnitude-7-5-card-preview-ja-Nanami.mp3",
+    "timings": "../audio/9993-aomori-earthquake-magnitude-7-5/KM-NEWS-9993-aomori-earthquake-magnitude-7-5-card-preview-ja-Nanami-timings.json",
+    "voice": "ja-JP-NanamiNeural"
+  }
+}

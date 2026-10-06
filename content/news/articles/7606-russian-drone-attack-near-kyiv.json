@@ -1,0 +1,881 @@
+{
+  "schemaVersion": 1,
+  "id": 7606,
+  "slug": "russian-drone-attack-near-kyiv",
+  "sourceType": "kokomonster-existing",
+  "demoOnly": false,
+  "date": "2026-08-29",
+  "level": "N4",
+  "category": {
+    "key": "Global",
+    "ja": "国際",
+    "en": "Global",
+    "zhHant": "國際"
+  },
+  "reservedPath": "/ja/news/Global/russian-drone-attack-near-kyiv-7606",
+  "reservedUrl": "https://kokomonster.com/ja/news/Global/russian-drone-attack-near-kyiv-7606",
+  "sourceUrl": "https://kokomonster.com/ja/news/Global/%E3%82%A6%E3%82%AF%E3%83%A9%E3%82%A4%E3%83%8A%E3%81%A7%E3%81%AE%E3%83%AD%E3%82%B7%E3%82%A2%E3%81%AE%E3%83%89%E3%83%AD%E3%83%BC%E3%83%B3%E6%94%BB%E6%92%83%E3%80%8137%E4%BA%BA%E6%AD%BB%E4%BA%A1-7606",
+  "title": {
+    "ja": "ウクライナでのロシアのドローン攻撃、37人死亡",
+    "en": "Russian drone attack near Kyiv kills 37",
+    "zhHant": "俄羅斯無人機襲擊基輔附近　37人死亡"
+  },
+  "summary": {
+    "ja": "ウクライナのキーウ近郊、ロシアのドローン攻撃による爆発で37人が死亡し、多数の負傷者が出た。ゼレンスキー大統領は、倉庫の爆発が居住地域に被害を及ぼすことを危惧し、調査を開始する意向を示した。",
+    "en": "An explosion near Kyiv caused by a Russian drone attack kills at least 37 people and prompts an investigation.",
+    "zhHant": "基輔附近因俄羅斯無人機襲擊發生爆炸，至少37人死亡，當局將展開調查。"
+  },
+  "cover": {
+    "file": "../../../assets/news-covers/ukraine-response.png",
+    "sourceUrl": "https://api.kokomonster.com/file/resources/crawled-raw-news/2026-08-30/9813/1788064211878.jpg"
+  },
+  "sentences": [
+    {
+      "id": "s01",
+      "sourcePieceId": 120983,
+      "sourceOrder": 6,
+      "ja": "ウクライナの首都キーウ近郊で爆発が発生しました。",
+      "speechJa": "ウクライナのしゅとキーウきんこうでばくはつが発生しました。",
+      "en": "An explosion occurred near Kyiv, the capital of Ukraine.",
+      "zhHant": "烏克蘭首都基輔附近發生爆炸。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7606-russian-drone-attack-near-kyiv/KM-NEWS-7606-russian-drone-attack-near-kyiv-sentence-01-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7606-russian-drone-attack-near-kyiv/KM-NEWS-7606-russian-drone-attack-near-kyiv-sentence-01-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7606-russian-drone-attack-near-kyiv/KM-NEWS-7606-russian-drone-attack-near-kyiv-sentence-01-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/a06bf0ef-e81a-46e4-bee8-d10cf9653d10.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "ウクライナ",
+            "offsetMs": 50
+          },
+          {
+            "text": "の",
+            "offsetMs": 662.5
+          },
+          {
+            "text": "首都",
+            "offsetMs": 800
+          },
+          {
+            "text": "キーウ",
+            "offsetMs": 1075
+          },
+          {
+            "text": "近郊",
+            "offsetMs": 1475
+          },
+          {
+            "text": "で",
+            "offsetMs": 1937.5
+          },
+          {
+            "text": "爆発",
+            "offsetMs": 2150
+          },
+          {
+            "text": "が",
+            "offsetMs": 2650
+          },
+          {
+            "text": "発生",
+            "offsetMs": 2762.5
+          },
+          {
+            "text": "し",
+            "offsetMs": 3187.5
+          },
+          {
+            "text": "まし",
+            "offsetMs": 3325
+          },
+          {
+            "text": "た",
+            "offsetMs": 3550
+          }
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "sourcePieceId": 120984,
+      "sourceOrder": 7,
+      "ja": "この爆発はロシアのドローン攻撃によるものです。",
+      "speechJa": "このばくはつはロシアのドローン攻撃によるものです。",
+      "en": "The explosion was caused by a Russian drone attack.",
+      "zhHant": "爆炸由俄羅斯無人機襲擊引起。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7606-russian-drone-attack-near-kyiv/KM-NEWS-7606-russian-drone-attack-near-kyiv-sentence-02-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7606-russian-drone-attack-near-kyiv/KM-NEWS-7606-russian-drone-attack-near-kyiv-sentence-02-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7606-russian-drone-attack-near-kyiv/KM-NEWS-7606-russian-drone-attack-near-kyiv-sentence-02-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/dc121d2f-8731-4cde-be0c-1b10b659835c.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "この",
+            "offsetMs": 50
+          },
+          {
+            "text": "爆発",
+            "offsetMs": 362.5
+          },
+          {
+            "text": "は",
+            "offsetMs": 887.5
+          },
+          {
+            "text": "ロシア",
+            "offsetMs": 1112.5
+          },
+          {
+            "text": "の",
+            "offsetMs": 1550
+          },
+          {
+            "text": "ドローン",
+            "offsetMs": 1700
+          },
+          {
+            "text": "攻撃",
+            "offsetMs": 2075
+          },
+          {
+            "text": "に",
+            "offsetMs": 2537.5
+          },
+          {
+            "text": "よる",
+            "offsetMs": 2637.5
+          },
+          {
+            "text": "もの",
+            "offsetMs": 2862.5
+          },
+          {
+            "text": "です",
+            "offsetMs": 3100
+          }
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "sourcePieceId": 120985,
+      "sourceOrder": 8,
+      "ja": "少なくとも37人が亡くなり、多くの人が怪我をしました。",
+      "speechJa": "少なくとも37人が亡くなり、多くの人が怪我をしました。",
+      "en": "At least 37 people were killed and many others were injured.",
+      "zhHant": "至少37人死亡，另有多人受傷。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7606-russian-drone-attack-near-kyiv/KM-NEWS-7606-russian-drone-attack-near-kyiv-sentence-03-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7606-russian-drone-attack-near-kyiv/KM-NEWS-7606-russian-drone-attack-near-kyiv-sentence-03-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7606-russian-drone-attack-near-kyiv/KM-NEWS-7606-russian-drone-attack-near-kyiv-sentence-03-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/60a3f2dd-758d-4c6f-b793-69185d6c471f.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "少なく",
+            "offsetMs": 50
+          },
+          {
+            "text": "と",
+            "offsetMs": 600
+          },
+          {
+            "text": "も",
+            "offsetMs": 700
+          },
+          {
+            "text": "37人",
+            "offsetMs": 962.5
+          },
+          {
+            "text": "が",
+            "offsetMs": 1912.5
+          },
+          {
+            "text": "亡くなり",
+            "offsetMs": 2050
+          },
+          {
+            "text": "多く",
+            "offsetMs": 2875
+          },
+          {
+            "text": "の",
+            "offsetMs": 3187.5
+          },
+          {
+            "text": "人",
+            "offsetMs": 3287.5
+          },
+          {
+            "text": "が",
+            "offsetMs": 3525
+          },
+          {
+            "text": "怪我",
+            "offsetMs": 3700
+          },
+          {
+            "text": "を",
+            "offsetMs": 3975
+          },
+          {
+            "text": "し",
+            "offsetMs": 4112.5
+          },
+          {
+            "text": "まし",
+            "offsetMs": 4275
+          },
+          {
+            "text": "た",
+            "offsetMs": 4500
+          }
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "sourcePieceId": 120986,
+      "sourceOrder": 9,
+      "ja": "キーウ州のトップであるティムール・トカチェンコ氏は、死者数が増える可能性があると述べました。",
+      "speechJa": "キーウしゅうのトップであるティムール・トカチェンコ氏は、死者数が増える可能性があると述べました。",
+      "en": "Timur Tkachenko, head of the Kyiv region, said the death toll could rise.",
+      "zhHant": "基輔州首長蒂穆爾・特卡琴科表示，死亡人數可能進一步上升。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7606-russian-drone-attack-near-kyiv/KM-NEWS-7606-russian-drone-attack-near-kyiv-sentence-04-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7606-russian-drone-attack-near-kyiv/KM-NEWS-7606-russian-drone-attack-near-kyiv-sentence-04-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7606-russian-drone-attack-near-kyiv/KM-NEWS-7606-russian-drone-attack-near-kyiv-sentence-04-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/82b44d31-a9ed-4da5-9a4d-be1c381af74e.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "キーウ",
+            "offsetMs": 50
+          },
+          {
+            "text": "州",
+            "offsetMs": 475
+          },
+          {
+            "text": "の",
+            "offsetMs": 762.5
+          },
+          {
+            "text": "トップ",
+            "offsetMs": 912.5
+          },
+          {
+            "text": "で",
+            "offsetMs": 1275
+          },
+          {
+            "text": "ある",
+            "offsetMs": 1375
+          },
+          {
+            "text": "ティ",
+            "offsetMs": 1637.5
+          },
+          {
+            "text": "ムール",
+            "offsetMs": 1775
+          },
+          {
+            "text": "・",
+            "offsetMs": 2300
+          },
+          {
+            "text": "トカチェンコ",
+            "offsetMs": 2362.5
+          },
+          {
+            "text": "氏",
+            "offsetMs": 3000
+          },
+          {
+            "text": "は",
+            "offsetMs": 3162.5
+          },
+          {
+            "text": "死者数",
+            "offsetMs": 3650
+          },
+          {
+            "text": "が",
+            "offsetMs": 4162.5
+          },
+          {
+            "text": "増える",
+            "offsetMs": 4287.5
+          },
+          {
+            "text": "可能性",
+            "offsetMs": 4700
+          },
+          {
+            "text": "が",
+            "offsetMs": 5262.5
+          },
+          {
+            "text": "ある",
+            "offsetMs": 5375
+          },
+          {
+            "text": "と",
+            "offsetMs": 5612.5
+          },
+          {
+            "text": "述べ",
+            "offsetMs": 5737.5
+          },
+          {
+            "text": "まし",
+            "offsetMs": 6000
+          },
+          {
+            "text": "た",
+            "offsetMs": 6250
+          }
+        ]
+      }
+    },
+    {
+      "id": "s05",
+      "sourcePieceId": 120987,
+      "sourceOrder": 10,
+      "ja": "大統領のゼレンスキー氏は、倉庫が攻撃されたと説明しました。",
+      "speechJa": "大統領のゼレンスキー氏は、そうこが攻撃されたと説明しました。",
+      "en": "President Zelenskyy said a warehouse had been attacked.",
+      "zhHant": "澤連斯基總統表示，一座倉庫遭到襲擊。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7606-russian-drone-attack-near-kyiv/KM-NEWS-7606-russian-drone-attack-near-kyiv-sentence-05-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7606-russian-drone-attack-near-kyiv/KM-NEWS-7606-russian-drone-attack-near-kyiv-sentence-05-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7606-russian-drone-attack-near-kyiv/KM-NEWS-7606-russian-drone-attack-near-kyiv-sentence-05-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/32a9d900-ec04-4dcc-8092-a68d88ce7374.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "大統領",
+            "offsetMs": 50
+          },
+          {
+            "text": "の",
+            "offsetMs": 812.5
+          },
+          {
+            "text": "ゼレンスキー",
+            "offsetMs": 950
+          },
+          {
+            "text": "氏",
+            "offsetMs": 1612.5
+          },
+          {
+            "text": "は",
+            "offsetMs": 1775
+          },
+          {
+            "text": "倉庫",
+            "offsetMs": 2325
+          },
+          {
+            "text": "が",
+            "offsetMs": 2712.5
+          },
+          {
+            "text": "攻撃",
+            "offsetMs": 2887.5
+          },
+          {
+            "text": "さ",
+            "offsetMs": 3337.5
+          },
+          {
+            "text": "れ",
+            "offsetMs": 3462.5
+          },
+          {
+            "text": "た",
+            "offsetMs": 3562.5
+          },
+          {
+            "text": "と",
+            "offsetMs": 3687.5
+          },
+          {
+            "text": "説明",
+            "offsetMs": 3825
+          },
+          {
+            "text": "し",
+            "offsetMs": 4300
+          },
+          {
+            "text": "まし",
+            "offsetMs": 4437.5
+          },
+          {
+            "text": "た",
+            "offsetMs": 4662.5
+          }
+        ]
+      }
+    },
+    {
+      "id": "s06",
+      "sourcePieceId": 120988,
+      "sourceOrder": 11,
+      "ja": "彼は、この攻撃が大きな爆発を引き起こしたと話しました。",
+      "speechJa": "彼は、この攻撃が大きなばくはつを引き起こしたと話しました。",
+      "en": "He said the attack caused a major explosion.",
+      "zhHant": "他指出，襲擊引發了猛烈爆炸。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7606-russian-drone-attack-near-kyiv/KM-NEWS-7606-russian-drone-attack-near-kyiv-sentence-06-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7606-russian-drone-attack-near-kyiv/KM-NEWS-7606-russian-drone-attack-near-kyiv-sentence-06-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7606-russian-drone-attack-near-kyiv/KM-NEWS-7606-russian-drone-attack-near-kyiv-sentence-06-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/a38636e2-f229-407c-8fca-c71e729cdcda.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "彼",
+            "offsetMs": 50
+          },
+          {
+            "text": "は",
+            "offsetMs": 350
+          },
+          {
+            "text": "この",
+            "offsetMs": 875
+          },
+          {
+            "text": "攻撃",
+            "offsetMs": 1162.5
+          },
+          {
+            "text": "が",
+            "offsetMs": 1650
+          },
+          {
+            "text": "大きな",
+            "offsetMs": 1787.5
+          },
+          {
+            "text": "爆発",
+            "offsetMs": 2300
+          },
+          {
+            "text": "を",
+            "offsetMs": 2812.5
+          },
+          {
+            "text": "引き起こし",
+            "offsetMs": 2912.5
+          },
+          {
+            "text": "た",
+            "offsetMs": 3525
+          },
+          {
+            "text": "と",
+            "offsetMs": 3637.5
+          },
+          {
+            "text": "話し",
+            "offsetMs": 3750
+          },
+          {
+            "text": "まし",
+            "offsetMs": 4125
+          },
+          {
+            "text": "た",
+            "offsetMs": 4350
+          }
+        ]
+      }
+    },
+    {
+      "id": "s07",
+      "sourcePieceId": 120989,
+      "sourceOrder": 12,
+      "ja": "また、「弾薬を住宅地域の近くに保管してはいけない」とも言いました。",
+      "speechJa": "また、「だんやくを住宅地域の近くに保管してはいけない」とも言いました。",
+      "en": "He also said ammunition should not be stored near residential areas.",
+      "zhHant": "他亦表示，不應把彈藥存放在住宅區附近。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7606-russian-drone-attack-near-kyiv/KM-NEWS-7606-russian-drone-attack-near-kyiv-sentence-07-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7606-russian-drone-attack-near-kyiv/KM-NEWS-7606-russian-drone-attack-near-kyiv-sentence-07-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7606-russian-drone-attack-near-kyiv/KM-NEWS-7606-russian-drone-attack-near-kyiv-sentence-07-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/3181cdf4-567a-492a-b0e2-a375f1edb6d3.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "また",
+            "offsetMs": 50
+          },
+          {
+            "text": "「",
+            "offsetMs": 862.5
+          },
+          {
+            "text": "弾薬",
+            "offsetMs": 862.5
+          },
+          {
+            "text": "を",
+            "offsetMs": 1337.5
+          },
+          {
+            "text": "住宅",
+            "offsetMs": 1512.5
+          },
+          {
+            "text": "地域",
+            "offsetMs": 1962.5
+          },
+          {
+            "text": "の",
+            "offsetMs": 2337.5
+          },
+          {
+            "text": "近く",
+            "offsetMs": 2462.5
+          },
+          {
+            "text": "に",
+            "offsetMs": 2850
+          },
+          {
+            "text": "保管",
+            "offsetMs": 2950
+          },
+          {
+            "text": "し",
+            "offsetMs": 3337.5
+          },
+          {
+            "text": "て",
+            "offsetMs": 3437.5
+          },
+          {
+            "text": "は",
+            "offsetMs": 3537.5
+          },
+          {
+            "text": "いけ",
+            "offsetMs": 3675
+          },
+          {
+            "text": "ない",
+            "offsetMs": 3925
+          },
+          {
+            "text": "」",
+            "offsetMs": 4275
+          },
+          {
+            "text": "と",
+            "offsetMs": 4412.5
+          },
+          {
+            "text": "も",
+            "offsetMs": 4525
+          },
+          {
+            "text": "言い",
+            "offsetMs": 4662.5
+          },
+          {
+            "text": "まし",
+            "offsetMs": 4862.5
+          },
+          {
+            "text": "た",
+            "offsetMs": 5100
+          }
+        ]
+      }
+    },
+    {
+      "id": "s08",
+      "sourcePieceId": 120990,
+      "sourceOrder": 13,
+      "ja": "調査を始める方針を示しました。",
+      "speechJa": "ちょうさを始める方針を示しました。",
+      "en": "He announced that an investigation would begin.",
+      "zhHant": "他宣布將展開調查。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7606-russian-drone-attack-near-kyiv/KM-NEWS-7606-russian-drone-attack-near-kyiv-sentence-08-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7606-russian-drone-attack-near-kyiv/KM-NEWS-7606-russian-drone-attack-near-kyiv-sentence-08-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7606-russian-drone-attack-near-kyiv/KM-NEWS-7606-russian-drone-attack-near-kyiv-sentence-08-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/f62951ff-677b-467d-afb4-1ec3ad9f87a6.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "調査",
+            "offsetMs": 50
+          },
+          {
+            "text": "を",
+            "offsetMs": 475
+          },
+          {
+            "text": "始める",
+            "offsetMs": 600
+          },
+          {
+            "text": "方針",
+            "offsetMs": 1100
+          },
+          {
+            "text": "を",
+            "offsetMs": 1575
+          },
+          {
+            "text": "示し",
+            "offsetMs": 1700
+          },
+          {
+            "text": "まし",
+            "offsetMs": 2075
+          },
+          {
+            "text": "た",
+            "offsetMs": 2300
+          }
+        ]
+      }
+    },
+    {
+      "id": "s09",
+      "sourcePieceId": 120991,
+      "sourceOrder": 14,
+      "ja": "ロシアの国防省は、攻撃されたのは兵器庫だと発表しました。",
+      "speechJa": "ロシアの国防省は、攻撃されたのはへいきこだと発表しました。",
+      "en": "Russia’s Defence Ministry said the target was an arms depot.",
+      "zhHant": "俄羅斯國防部則表示，受襲目標是一座軍火庫。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7606-russian-drone-attack-near-kyiv/KM-NEWS-7606-russian-drone-attack-near-kyiv-sentence-09-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7606-russian-drone-attack-near-kyiv/KM-NEWS-7606-russian-drone-attack-near-kyiv-sentence-09-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7606-russian-drone-attack-near-kyiv/KM-NEWS-7606-russian-drone-attack-near-kyiv-sentence-09-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/c5735a7d-4a8e-43f0-98b4-264f527564b5.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "ロシア",
+            "offsetMs": 50
+          },
+          {
+            "text": "の",
+            "offsetMs": 550
+          },
+          {
+            "text": "国防省",
+            "offsetMs": 700
+          },
+          {
+            "text": "は",
+            "offsetMs": 1412.5
+          },
+          {
+            "text": "攻撃",
+            "offsetMs": 1925
+          },
+          {
+            "text": "さ",
+            "offsetMs": 2387.5
+          },
+          {
+            "text": "れ",
+            "offsetMs": 2512.5
+          },
+          {
+            "text": "た",
+            "offsetMs": 2612.5
+          },
+          {
+            "text": "の",
+            "offsetMs": 2737.5
+          },
+          {
+            "text": "は",
+            "offsetMs": 2850
+          },
+          {
+            "text": "兵器",
+            "offsetMs": 3087.5
+          },
+          {
+            "text": "庫",
+            "offsetMs": 3475
+          },
+          {
+            "text": "だ",
+            "offsetMs": 3600
+          },
+          {
+            "text": "と",
+            "offsetMs": 3712.5
+          },
+          {
+            "text": "発表",
+            "offsetMs": 3825
+          },
+          {
+            "text": "し",
+            "offsetMs": 4250
+          },
+          {
+            "text": "まし",
+            "offsetMs": 4387.5
+          },
+          {
+            "text": "た",
+            "offsetMs": 4612.5
+          }
+        ]
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "v01",
+      "surface": "爆発",
+      "reading": "ばくはつ",
+      "en": "explosion",
+      "zhHant": "爆炸",
+      "speechJa": "ばくはつ",
+      "audio": {
+        "file": "../audio/7606-russian-drone-attack-near-kyiv/KM-NEWS-7606-russian-drone-attack-near-kyiv-vocab-01-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    },
+    {
+      "id": "v02",
+      "surface": "倉庫",
+      "reading": "そうこ",
+      "en": "warehouse",
+      "zhHant": "倉庫",
+      "speechJa": "そうこ",
+      "audio": {
+        "file": "../audio/7606-russian-drone-attack-near-kyiv/KM-NEWS-7606-russian-drone-attack-near-kyiv-vocab-02-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    },
+    {
+      "id": "v03",
+      "surface": "調査",
+      "reading": "ちょうさ",
+      "en": "investigation",
+      "zhHant": "調查",
+      "speechJa": "ちょうさ",
+      "audio": {
+        "file": "../audio/7606-russian-drone-attack-near-kyiv/KM-NEWS-7606-russian-drone-attack-near-kyiv-vocab-03-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    },
+    {
+      "id": "v04",
+      "surface": "首都",
+      "reading": "しゅと",
+      "en": "capital city",
+      "zhHant": "首都",
+      "speechJa": "しゅと",
+      "audio": {
+        "file": "../audio/7606-russian-drone-attack-near-kyiv/KM-NEWS-7606-russian-drone-attack-near-kyiv-vocab-04-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    },
+    {
+      "id": "v05",
+      "surface": "近郊",
+      "reading": "きんこう",
+      "en": "outskirts; vicinity",
+      "zhHant": "近郊",
+      "speechJa": "きんこう",
+      "audio": {
+        "file": "../audio/7606-russian-drone-attack-near-kyiv/KM-NEWS-7606-russian-drone-attack-near-kyiv-vocab-05-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    },
+    {
+      "id": "v06",
+      "surface": "弾薬",
+      "reading": "だんやく",
+      "en": "ammunition",
+      "zhHant": "彈藥",
+      "speechJa": "だんやく",
+      "audio": {
+        "file": "../audio/7606-russian-drone-attack-near-kyiv/KM-NEWS-7606-russian-drone-attack-near-kyiv-vocab-06-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    },
+    {
+      "id": "v07",
+      "surface": "兵器庫",
+      "reading": "へいきこ",
+      "en": "arms depot",
+      "zhHant": "軍火庫",
+      "speechJa": "へいきこ",
+      "audio": {
+        "file": "../audio/7606-russian-drone-attack-near-kyiv/KM-NEWS-7606-russian-drone-attack-near-kyiv-vocab-07-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    }
+  ],
+  "readingMinutes": 1,
+  "keywordCount": 7,
+  "playbackRates": [
+    0.8,
+    1.0,
+    1.2
+  ],
+  "audioPolicy": "Play Nanami sentence files sequentially; do not pitch-shift. Use each timing JSON at the selected playback rate. Source narration is retained only as an editorial backup.",
+  "cardPreview": {
+    "ja": "首都キーウ近郊の攻撃で多くの死傷者が出て、調査が始まります。",
+    "speechJa": "しゅとキーウきんこうの攻撃で多くの死傷者が出て、ちょうさが始まります。",
+    "audio": "../audio/7606-russian-drone-attack-near-kyiv/KM-NEWS-7606-russian-drone-attack-near-kyiv-card-preview-ja-Nanami.mp3",
+    "timings": "../audio/7606-russian-drone-attack-near-kyiv/KM-NEWS-7606-russian-drone-attack-near-kyiv-card-preview-ja-Nanami-timings.json",
+    "voice": "ja-JP-NanamiNeural"
+  }
+}

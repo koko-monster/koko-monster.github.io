@@ -1,0 +1,190 @@
+{
+  "schemaVersion": 1,
+  "id": 9992,
+  "slug": "suica-mascot-public-vote",
+  "sourceType": "kokomonster-demo",
+  "demoOnly": true,
+  "editorialNote": "Demo copy for interface development; verify the event and date before publication.",
+  "date": "2026-09-05",
+  "level": "N5",
+  "category": {
+    "key": "Business",
+    "ja": "ビジネス",
+    "en": "Business",
+    "zhHant": "商業"
+  },
+  "reservedPath": "/ja/news/Business/suica-mascot-public-vote-9992",
+  "reservedUrl": "https://kokomonster.com/ja/news/Business/suica-mascot-public-vote-9992",
+  "sourceUrl": null,
+  "title": {
+    "ja": "Suicaの新しいキャラクター、投票で選ぶ",
+    "en": "A public vote will choose Suica’s new mascot",
+    "zhHant": "Suica新吉祥物將由公眾投票選出"
+  },
+  "summary": {
+    "ja": "Suicaの新しいキャラクターを選ぶ投票が始まりました。",
+    "en": "Voting has begun to choose a new character for Suica.",
+    "zhHant": "Suica新角色的公眾投票已經展開。"
+  },
+  "cover": {
+    "file": "../../../assets/news-covers/suica-mascot-vote.png",
+    "sourceUrl": null
+  },
+  "sentences": [
+    {
+      "id": "s01",
+      "ja": "交通系ICカードのSuicaが、新しいキャラクターの候補を発表しました。",
+      "en": "Transit IC card Suica has announced candidates for a new mascot.",
+      "zhHant": "交通IC卡Suica公布了新吉祥物的候選角色。",
+      "speechJa": "交通系アイシーカードのスイカが、新しいキャラクターのこうほを発表しました。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/9992-suica-mascot-public-vote/KM-NEWS-9992-suica-mascot-public-vote-sentence-01-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/9992-suica-mascot-public-vote/KM-NEWS-9992-suica-mascot-public-vote-sentence-01-ja-Nanami-timings.json"
+      }
+    },
+    {
+      "id": "s02",
+      "ja": "利用者は、公式サイトから好きな候補に投票できます。",
+      "en": "Users can vote for their favourite candidate on the official website.",
+      "zhHant": "使用者可在官方網站投選喜愛的候選角色。",
+      "speechJa": "りようしゃは、こうしきサイトから好きなこうほにとうひょうできます。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/9992-suica-mascot-public-vote/KM-NEWS-9992-suica-mascot-public-vote-sentence-02-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/9992-suica-mascot-public-vote/KM-NEWS-9992-suica-mascot-public-vote-sentence-02-ja-Nanami-timings.json"
+      }
+    },
+    {
+      "id": "s03",
+      "ja": "候補はそれぞれ、電車や旅をテーマにしています。",
+      "en": "Each candidate is themed around trains and travel.",
+      "zhHant": "各個候選角色均以列車與旅遊為主題。",
+      "speechJa": "こうほはそれぞれ、電車や旅をテーマにしています。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/9992-suica-mascot-public-vote/KM-NEWS-9992-suica-mascot-public-vote-sentence-03-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/9992-suica-mascot-public-vote/KM-NEWS-9992-suica-mascot-public-vote-sentence-03-ja-Nanami-timings.json"
+      }
+    },
+    {
+      "id": "s04",
+      "ja": "投票は一人一日一回までです。",
+      "en": "Each person may vote once per day.",
+      "zhHant": "每人每日可投票一次。",
+      "speechJa": "とうひょうは一人一日一回までです。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/9992-suica-mascot-public-vote/KM-NEWS-9992-suica-mascot-public-vote-sentence-04-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/9992-suica-mascot-public-vote/KM-NEWS-9992-suica-mascot-public-vote-sentence-04-ja-Nanami-timings.json"
+      }
+    },
+    {
+      "id": "s05",
+      "ja": "選ばれたキャラクターは、駅のポスターやアプリに登場する予定です。",
+      "en": "The winning character is expected to appear on station posters and in the app.",
+      "zhHant": "勝出的角色預計會出現在車站海報與應用程式之中。",
+      "speechJa": "選ばれたキャラクターは、駅のポスターやアプリに登場する予定です。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/9992-suica-mascot-public-vote/KM-NEWS-9992-suica-mascot-public-vote-sentence-05-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/9992-suica-mascot-public-vote/KM-NEWS-9992-suica-mascot-public-vote-sentence-05-ja-Nanami-timings.json"
+      }
+    },
+    {
+      "id": "s06",
+      "ja": "結果は来月、発表されます。",
+      "en": "The result will be announced next month.",
+      "zhHant": "投票結果將於下月公布。",
+      "speechJa": "けっかは来月、発表されます。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/9992-suica-mascot-public-vote/KM-NEWS-9992-suica-mascot-public-vote-sentence-06-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/9992-suica-mascot-public-vote/KM-NEWS-9992-suica-mascot-public-vote-sentence-06-ja-Nanami-timings.json"
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "v01",
+      "surface": "候補",
+      "reading": "こうほ",
+      "en": "candidate",
+      "zhHant": "候選者",
+      "speechJa": "こうほ",
+      "audio": {
+        "file": "../audio/9992-suica-mascot-public-vote/KM-NEWS-9992-suica-mascot-public-vote-vocab-01-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    },
+    {
+      "id": "v02",
+      "surface": "投票",
+      "reading": "とうひょう",
+      "en": "vote; voting",
+      "zhHant": "投票",
+      "speechJa": "とうひょう",
+      "audio": {
+        "file": "../audio/9992-suica-mascot-public-vote/KM-NEWS-9992-suica-mascot-public-vote-vocab-02-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    },
+    {
+      "id": "v03",
+      "surface": "利用者",
+      "reading": "りようしゃ",
+      "en": "user",
+      "zhHant": "使用者",
+      "speechJa": "りようしゃ",
+      "audio": {
+        "file": "../audio/9992-suica-mascot-public-vote/KM-NEWS-9992-suica-mascot-public-vote-vocab-03-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    },
+    {
+      "id": "v04",
+      "surface": "公式サイト",
+      "reading": "こうしきサイト",
+      "en": "official website",
+      "zhHant": "官方網站",
+      "speechJa": "こうしきサイト",
+      "audio": {
+        "file": "../audio/9992-suica-mascot-public-vote/KM-NEWS-9992-suica-mascot-public-vote-vocab-04-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    },
+    {
+      "id": "v05",
+      "surface": "結果",
+      "reading": "けっか",
+      "en": "result",
+      "zhHant": "結果",
+      "speechJa": "けっか",
+      "audio": {
+        "file": "../audio/9992-suica-mascot-public-vote/KM-NEWS-9992-suica-mascot-public-vote-vocab-05-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    }
+  ],
+  "readingMinutes": 1,
+  "keywordCount": 5,
+  "playbackRates": [
+    0.8,
+    1.0,
+    1.2
+  ],
+  "audioPolicy": "Use one Nanami track per sentence and scale playback speed in the UI. Use timing JSON for word highlighting.",
+  "cardPreview": {
+    "ja": "利用者の投票で、駅やアプリに登場する新しい顔を決めます。",
+    "speechJa": "りようしゃのとうひょうで、駅やアプリに登場する新しい顔を決めます。",
+    "audio": "../audio/9992-suica-mascot-public-vote/KM-NEWS-9992-suica-mascot-public-vote-card-preview-ja-Nanami.mp3",
+    "timings": "../audio/9992-suica-mascot-public-vote/KM-NEWS-9992-suica-mascot-public-vote-card-preview-ja-Nanami-timings.json",
+    "voice": "ja-JP-NanamiNeural"
+  }
+}

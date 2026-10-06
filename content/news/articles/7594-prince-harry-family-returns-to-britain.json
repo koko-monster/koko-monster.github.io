@@ -1,0 +1,1277 @@
+{
+  "schemaVersion": 1,
+  "id": 7594,
+  "slug": "prince-harry-family-returns-to-britain",
+  "sourceType": "kokomonster-existing",
+  "demoOnly": false,
+  "date": "2026-08-27",
+  "level": "N4",
+  "category": {
+    "key": "Global",
+    "ja": "国際",
+    "en": "Global",
+    "zhHant": "國際"
+  },
+  "reservedPath": "/ja/news/Global/prince-harry-family-returns-to-britain-7594",
+  "reservedUrl": "https://kokomonster.com/ja/news/Global/prince-harry-family-returns-to-britain-7594",
+  "sourceUrl": "https://kokomonster.com/ja/news/Global/%E3%82%B5%E3%82%BB%E3%83%83%E3%82%AF%E3%82%B9%E5%85%AC%E3%83%8F%E3%83%AA%E3%83%BC%E7%8E%8B%E5%AD%90%E4%B8%80%E5%AE%B6%E3%81%8C%E3%82%A4%E3%82%AE%E3%83%AA%E3%82%B9%E3%81%AB%E5%B8%B0%E5%9B%BD-7594",
+  "title": {
+    "ja": "サセックス公ハリー王子一家がイギリスに帰国",
+    "en": "Prince Harry and his family return to Britain",
+    "zhHant": "哈里王子一家返回英國"
+  },
+  "summary": {
+    "ja": "イギリス王室のサセックス公ハリー王子と妻のメガン妃が家族と共にイギリスに帰国しました。彼らはプライベートジェットでバーミンガムに到着し、イギリスの学校に入学する予定です。夫妻は今後、イギリスでの公務には復帰せず、私有地に拠点を置くことが報じられていますが、王室警備に関する議論も続いています。",
+    "en": "Prince Harry, Meghan and their family return to Britain, where they are expected to live privately rather than resume royal duties.",
+    "zhHant": "哈里王子、梅根與家人返回英國，預料將以私人身分生活，不會恢復王室公務。"
+  },
+  "cover": {
+    "file": "../../../assets/news-covers/royal-return.png",
+    "sourceUrl": "https://api.kokomonster.com/file/resources/crawled-raw-news/2026-08-27/9791/1787826606664.jpg"
+  },
+  "sentences": [
+    {
+      "id": "s01",
+      "sourcePieceId": 120712,
+      "sourceOrder": 6,
+      "ja": "イギリス王室のサセックス公ハリー王子と妻のメガン妃が家族と共にイギリスに帰国しました。",
+      "speechJa": "イギリス王室のサセックス公ハリー王子と妻のメガン妃が家族と共にイギリスにきこくしました。",
+      "en": "Britain’s Prince Harry, Duke of Sussex, and his wife Meghan have returned to Britain with their family.",
+      "zhHant": "英國王室薩塞克斯公爵哈里王子與妻子梅根，已與家人一同返回英國。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7594-prince-harry-family-returns-to-britain/KM-NEWS-7594-prince-harry-family-returns-to-britain-sentence-01-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7594-prince-harry-family-returns-to-britain/KM-NEWS-7594-prince-harry-family-returns-to-britain-sentence-01-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7594-prince-harry-family-returns-to-britain/KM-NEWS-7594-prince-harry-family-returns-to-britain-sentence-01-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/1aac6a5b-5556-431b-bc99-58d47edb0b08.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "イギリス",
+            "offsetMs": 50
+          },
+          {
+            "text": "王室",
+            "offsetMs": 612.5
+          },
+          {
+            "text": "の",
+            "offsetMs": 1037.5
+          },
+          {
+            "text": "サセックス",
+            "offsetMs": 1175
+          },
+          {
+            "text": "公",
+            "offsetMs": 1787.5
+          },
+          {
+            "text": "ハリー",
+            "offsetMs": 1987.5
+          },
+          {
+            "text": "王子",
+            "offsetMs": 2300
+          },
+          {
+            "text": "と",
+            "offsetMs": 2662.5
+          },
+          {
+            "text": "妻",
+            "offsetMs": 2925
+          },
+          {
+            "text": "の",
+            "offsetMs": 3212.5
+          },
+          {
+            "text": "メガン",
+            "offsetMs": 3350
+          },
+          {
+            "text": "妃",
+            "offsetMs": 3675
+          },
+          {
+            "text": "が",
+            "offsetMs": 3850
+          },
+          {
+            "text": "家族",
+            "offsetMs": 4025
+          },
+          {
+            "text": "と",
+            "offsetMs": 4412.5
+          },
+          {
+            "text": "共",
+            "offsetMs": 4575
+          },
+          {
+            "text": "に",
+            "offsetMs": 4812.5
+          },
+          {
+            "text": "イギリス",
+            "offsetMs": 5062.5
+          },
+          {
+            "text": "に",
+            "offsetMs": 5550
+          },
+          {
+            "text": "帰国",
+            "offsetMs": 5712.5
+          },
+          {
+            "text": "し",
+            "offsetMs": 6075
+          },
+          {
+            "text": "まし",
+            "offsetMs": 6212.5
+          },
+          {
+            "text": "た",
+            "offsetMs": 6437.5
+          }
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "sourcePieceId": 120713,
+      "sourceOrder": 7,
+      "ja": "彼らはプライベートジェットでバーミンガムに到着し、イギリスの学校に入学する予定です。",
+      "speechJa": "彼らはプライベートジェットでバーミンガムに到着し、イギリスの学校に入学する予定です。",
+      "en": "They arrived in Birmingham by private jet, and the children are expected to enrol in British schools.",
+      "zhHant": "一家人乘私人飛機抵達伯明翰，孩子預計會入讀英國學校。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7594-prince-harry-family-returns-to-britain/KM-NEWS-7594-prince-harry-family-returns-to-britain-sentence-02-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7594-prince-harry-family-returns-to-britain/KM-NEWS-7594-prince-harry-family-returns-to-britain-sentence-02-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7594-prince-harry-family-returns-to-britain/KM-NEWS-7594-prince-harry-family-returns-to-britain-sentence-02-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/6d87d23c-191a-4393-84fd-386976e5a15f.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "彼ら",
+            "offsetMs": 50
+          },
+          {
+            "text": "は",
+            "offsetMs": 462.5
+          },
+          {
+            "text": "プライベートジェット",
+            "offsetMs": 750
+          },
+          {
+            "text": "で",
+            "offsetMs": 1737.5
+          },
+          {
+            "text": "バーミンガム",
+            "offsetMs": 1912.5
+          },
+          {
+            "text": "に",
+            "offsetMs": 2587.5
+          },
+          {
+            "text": "到着",
+            "offsetMs": 2762.5
+          },
+          {
+            "text": "し",
+            "offsetMs": 3187.5
+          },
+          {
+            "text": "イギリス",
+            "offsetMs": 3737.5
+          },
+          {
+            "text": "の",
+            "offsetMs": 4175
+          },
+          {
+            "text": "学校",
+            "offsetMs": 4300
+          },
+          {
+            "text": "に",
+            "offsetMs": 4762.5
+          },
+          {
+            "text": "入学",
+            "offsetMs": 4900
+          },
+          {
+            "text": "する",
+            "offsetMs": 5312.5
+          },
+          {
+            "text": "予定",
+            "offsetMs": 5537.5
+          },
+          {
+            "text": "です",
+            "offsetMs": 5875
+          }
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "sourcePieceId": 120714,
+      "sourceOrder": 8,
+      "ja": "夫妻は今後、イギリスでの公務には復帰せず、私有地に拠点を置くことが報じられています。",
+      "speechJa": "夫妻は今後、イギリスでの公務には復帰せず、しゆうちに拠点を置くことが報じられています。",
+      "en": "They are reportedly not returning to official duties and will be based on a private estate.",
+      "zhHant": "據報，二人不會恢復英國王室公務，並將居於私人莊園。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7594-prince-harry-family-returns-to-britain/KM-NEWS-7594-prince-harry-family-returns-to-britain-sentence-03-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7594-prince-harry-family-returns-to-britain/KM-NEWS-7594-prince-harry-family-returns-to-britain-sentence-03-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7594-prince-harry-family-returns-to-britain/KM-NEWS-7594-prince-harry-family-returns-to-britain-sentence-03-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/12d5cc43-e72e-4e87-9d21-e381f86bf1a6.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "夫妻",
+            "offsetMs": 50
+          },
+          {
+            "text": "は",
+            "offsetMs": 462.5
+          },
+          {
+            "text": "今後",
+            "offsetMs": 650
+          },
+          {
+            "text": "イギリス",
+            "offsetMs": 1400
+          },
+          {
+            "text": "で",
+            "offsetMs": 1837.5
+          },
+          {
+            "text": "の",
+            "offsetMs": 1937.5
+          },
+          {
+            "text": "公務",
+            "offsetMs": 2100
+          },
+          {
+            "text": "に",
+            "offsetMs": 2462.5
+          },
+          {
+            "text": "は",
+            "offsetMs": 2575
+          },
+          {
+            "text": "復帰",
+            "offsetMs": 2725
+          },
+          {
+            "text": "せ",
+            "offsetMs": 3062.5
+          },
+          {
+            "text": "ず",
+            "offsetMs": 3212.5
+          },
+          {
+            "text": "私有地",
+            "offsetMs": 3725
+          },
+          {
+            "text": "に",
+            "offsetMs": 4212.5
+          },
+          {
+            "text": "拠点",
+            "offsetMs": 4425
+          },
+          {
+            "text": "を",
+            "offsetMs": 4812.5
+          },
+          {
+            "text": "置く",
+            "offsetMs": 4925
+          },
+          {
+            "text": "こと",
+            "offsetMs": 5150
+          },
+          {
+            "text": "が",
+            "offsetMs": 5375
+          },
+          {
+            "text": "報じ",
+            "offsetMs": 5525
+          },
+          {
+            "text": "ら",
+            "offsetMs": 5937.5
+          },
+          {
+            "text": "れ",
+            "offsetMs": 6050
+          },
+          {
+            "text": "て",
+            "offsetMs": 6162.5
+          },
+          {
+            "text": "い",
+            "offsetMs": 6275
+          },
+          {
+            "text": "ます",
+            "offsetMs": 6387.5
+          }
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "sourcePieceId": 120715,
+      "sourceOrder": 9,
+      "ja": "王室の報道官は、夫妻の帰国についてはコメントしないと述べました。",
+      "speechJa": "王室の報道官は、夫妻のきこくについてはコメントしないと述べました。",
+      "en": "A royal spokesperson said there would be no comment on the couple’s return.",
+      "zhHant": "王室發言人表示，不會評論夫婦二人的回國安排。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7594-prince-harry-family-returns-to-britain/KM-NEWS-7594-prince-harry-family-returns-to-britain-sentence-04-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7594-prince-harry-family-returns-to-britain/KM-NEWS-7594-prince-harry-family-returns-to-britain-sentence-04-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7594-prince-harry-family-returns-to-britain/KM-NEWS-7594-prince-harry-family-returns-to-britain-sentence-04-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/238d6006-88a5-405f-9e7b-6d4a3e24f155.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "王室",
+            "offsetMs": 50
+          },
+          {
+            "text": "の",
+            "offsetMs": 550
+          },
+          {
+            "text": "報道官",
+            "offsetMs": 675
+          },
+          {
+            "text": "は",
+            "offsetMs": 1337.5
+          },
+          {
+            "text": "夫妻",
+            "offsetMs": 1887.5
+          },
+          {
+            "text": "の",
+            "offsetMs": 2237.5
+          },
+          {
+            "text": "帰国",
+            "offsetMs": 2375
+          },
+          {
+            "text": "に",
+            "offsetMs": 2762.5
+          },
+          {
+            "text": "つい",
+            "offsetMs": 2900
+          },
+          {
+            "text": "て",
+            "offsetMs": 3150
+          },
+          {
+            "text": "は",
+            "offsetMs": 3250
+          },
+          {
+            "text": "コメント",
+            "offsetMs": 3537.5
+          },
+          {
+            "text": "し",
+            "offsetMs": 4037.5
+          },
+          {
+            "text": "ない",
+            "offsetMs": 4175
+          },
+          {
+            "text": "と",
+            "offsetMs": 4375
+          },
+          {
+            "text": "述べ",
+            "offsetMs": 4487.5
+          },
+          {
+            "text": "まし",
+            "offsetMs": 4737.5
+          },
+          {
+            "text": "た",
+            "offsetMs": 4987.5
+          }
+        ]
+      }
+    },
+    {
+      "id": "s05",
+      "sourcePieceId": 120716,
+      "sourceOrder": 10,
+      "ja": "ハリー王子の兄であるウェールズ公ウィリアム皇太子にも、2人の計画が伝えられています。",
+      "speechJa": "ハリー王子の兄であるウェールズ公ウィリアムこうたいしにも、2人の計画が伝えられています。",
+      "en": "Prince William, Harry’s brother and the Prince of Wales, has also been told of their plans.",
+      "zhHant": "哈里的兄長、威爾斯親王威廉王子亦已獲告知二人的計劃。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7594-prince-harry-family-returns-to-britain/KM-NEWS-7594-prince-harry-family-returns-to-britain-sentence-05-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7594-prince-harry-family-returns-to-britain/KM-NEWS-7594-prince-harry-family-returns-to-britain-sentence-05-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7594-prince-harry-family-returns-to-britain/KM-NEWS-7594-prince-harry-family-returns-to-britain-sentence-05-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/9ba33922-d0c6-44fe-8bb2-8db1fb5b1672.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "ハリー",
+            "offsetMs": 50
+          },
+          {
+            "text": "王子",
+            "offsetMs": 437.5
+          },
+          {
+            "text": "の",
+            "offsetMs": 800
+          },
+          {
+            "text": "兄",
+            "offsetMs": 912.5
+          },
+          {
+            "text": "で",
+            "offsetMs": 1212.5
+          },
+          {
+            "text": "ある",
+            "offsetMs": 1325
+          },
+          {
+            "text": "ウェールズ公",
+            "offsetMs": 1625
+          },
+          {
+            "text": "ウィリアム",
+            "offsetMs": 2337.5
+          },
+          {
+            "text": "皇太子",
+            "offsetMs": 2875
+          },
+          {
+            "text": "に",
+            "offsetMs": 3437.5
+          },
+          {
+            "text": "も",
+            "offsetMs": 3550
+          },
+          {
+            "text": "2人",
+            "offsetMs": 4087.5
+          },
+          {
+            "text": "の",
+            "offsetMs": 4425
+          },
+          {
+            "text": "計画",
+            "offsetMs": 4575
+          },
+          {
+            "text": "が",
+            "offsetMs": 5075
+          },
+          {
+            "text": "伝え",
+            "offsetMs": 5212.5
+          },
+          {
+            "text": "ら",
+            "offsetMs": 5537.5
+          },
+          {
+            "text": "れ",
+            "offsetMs": 5650
+          },
+          {
+            "text": "て",
+            "offsetMs": 5762.5
+          },
+          {
+            "text": "い",
+            "offsetMs": 5875
+          },
+          {
+            "text": "ます",
+            "offsetMs": 5987.5
+          }
+        ]
+      }
+    },
+    {
+      "id": "s06",
+      "sourcePieceId": 120717,
+      "sourceOrder": 11,
+      "ja": "家族はカリフォルニア州から来ましたが、カリフォルニアで飼っていたニワトリは残して行きます。",
+      "speechJa": "家族はカリフォルニアしゅうから来ましたが、カリフォルニアで飼っていたニワトリは残して行きます。",
+      "en": "The family came from California, but the chickens they kept there will stay behind.",
+      "zhHant": "一家人從加州回來，但在當地飼養的雞隻將會留下。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7594-prince-harry-family-returns-to-britain/KM-NEWS-7594-prince-harry-family-returns-to-britain-sentence-06-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7594-prince-harry-family-returns-to-britain/KM-NEWS-7594-prince-harry-family-returns-to-britain-sentence-06-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7594-prince-harry-family-returns-to-britain/KM-NEWS-7594-prince-harry-family-returns-to-britain-sentence-06-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/7279a934-7def-4536-bd4d-2dd2dbc63323.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "家族",
+            "offsetMs": 50
+          },
+          {
+            "text": "は",
+            "offsetMs": 500
+          },
+          {
+            "text": "カリフォルニア",
+            "offsetMs": 725
+          },
+          {
+            "text": "州",
+            "offsetMs": 1437.5
+          },
+          {
+            "text": "から",
+            "offsetMs": 1712.5
+          },
+          {
+            "text": "来",
+            "offsetMs": 1937.5
+          },
+          {
+            "text": "まし",
+            "offsetMs": 2100
+          },
+          {
+            "text": "た",
+            "offsetMs": 2312.5
+          },
+          {
+            "text": "が",
+            "offsetMs": 2425
+          },
+          {
+            "text": "カリフォルニア",
+            "offsetMs": 2962.5
+          },
+          {
+            "text": "で",
+            "offsetMs": 3662.5
+          },
+          {
+            "text": "飼っ",
+            "offsetMs": 3787.5
+          },
+          {
+            "text": "て",
+            "offsetMs": 4012.5
+          },
+          {
+            "text": "い",
+            "offsetMs": 4112.5
+          },
+          {
+            "text": "た",
+            "offsetMs": 4250
+          },
+          {
+            "text": "ニワトリ",
+            "offsetMs": 4425
+          },
+          {
+            "text": "は",
+            "offsetMs": 4900
+          },
+          {
+            "text": "残し",
+            "offsetMs": 5037.5
+          },
+          {
+            "text": "て",
+            "offsetMs": 5400
+          },
+          {
+            "text": "行き",
+            "offsetMs": 5487.5
+          },
+          {
+            "text": "ます",
+            "offsetMs": 5725
+          }
+        ]
+      }
+    },
+    {
+      "id": "s07",
+      "sourcePieceId": 120718,
+      "sourceOrder": 12,
+      "ja": "犬のミアとプーラは一緒に連れて行くとのことです。",
+      "speechJa": "犬のミアとプーラは一緒に連れて行くとのことです。",
+      "en": "They will bring their dogs, Mia and Pula, with them.",
+      "zhHant": "他們會帶同愛犬米婭與普拉。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7594-prince-harry-family-returns-to-britain/KM-NEWS-7594-prince-harry-family-returns-to-britain-sentence-07-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7594-prince-harry-family-returns-to-britain/KM-NEWS-7594-prince-harry-family-returns-to-britain-sentence-07-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7594-prince-harry-family-returns-to-britain/KM-NEWS-7594-prince-harry-family-returns-to-britain-sentence-07-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/cf992815-0bd9-4106-94a8-60371e0c0682.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "犬",
+            "offsetMs": 50
+          },
+          {
+            "text": "の",
+            "offsetMs": 337.5
+          },
+          {
+            "text": "ミア",
+            "offsetMs": 462.5
+          },
+          {
+            "text": "と",
+            "offsetMs": 712.5
+          },
+          {
+            "text": "プーラ",
+            "offsetMs": 937.5
+          },
+          {
+            "text": "は",
+            "offsetMs": 1312.5
+          },
+          {
+            "text": "一緒",
+            "offsetMs": 1500
+          },
+          {
+            "text": "に",
+            "offsetMs": 1812.5
+          },
+          {
+            "text": "連れ",
+            "offsetMs": 1950
+          },
+          {
+            "text": "て",
+            "offsetMs": 2187.5
+          },
+          {
+            "text": "行く",
+            "offsetMs": 2287.5
+          },
+          {
+            "text": "と",
+            "offsetMs": 2500
+          },
+          {
+            "text": "の",
+            "offsetMs": 2612.5
+          },
+          {
+            "text": "こと",
+            "offsetMs": 2737.5
+          },
+          {
+            "text": "です",
+            "offsetMs": 2975
+          }
+        ]
+      }
+    },
+    {
+      "id": "s08",
+      "sourcePieceId": 120719,
+      "sourceOrder": 13,
+      "ja": "ハリー王子とメガン妃がイギリスを訪れるのは、2022年のエリザベス女王の葬儀以来のことです。",
+      "speechJa": "ハリー王子とメガン妃がイギリスを訪れるのは、にせんにじゅうにねんのエリザベス女王のそうぎ以来のことです。",
+      "en": "This is Harry and Meghan’s first visit to Britain since Queen Elizabeth’s funeral in 2022.",
+      "zhHant": "這是哈里與梅根自2022年伊利沙伯女王葬禮後，首次到訪英國。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7594-prince-harry-family-returns-to-britain/KM-NEWS-7594-prince-harry-family-returns-to-britain-sentence-08-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7594-prince-harry-family-returns-to-britain/KM-NEWS-7594-prince-harry-family-returns-to-britain-sentence-08-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7594-prince-harry-family-returns-to-britain/KM-NEWS-7594-prince-harry-family-returns-to-britain-sentence-08-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/70ac8287-0b06-4405-b78c-66292365b80e.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "ハリー",
+            "offsetMs": 50
+          },
+          {
+            "text": "王子",
+            "offsetMs": 450
+          },
+          {
+            "text": "と",
+            "offsetMs": 837.5
+          },
+          {
+            "text": "メガン",
+            "offsetMs": 1037.5
+          },
+          {
+            "text": "妃",
+            "offsetMs": 1362.5
+          },
+          {
+            "text": "が",
+            "offsetMs": 1537.5
+          },
+          {
+            "text": "イギリス",
+            "offsetMs": 1675
+          },
+          {
+            "text": "を",
+            "offsetMs": 2162.5
+          },
+          {
+            "text": "訪れる",
+            "offsetMs": 2250
+          },
+          {
+            "text": "の",
+            "offsetMs": 2825
+          },
+          {
+            "text": "は",
+            "offsetMs": 2937.5
+          },
+          {
+            "text": "2022年",
+            "offsetMs": 3562.5
+          },
+          {
+            "text": "の",
+            "offsetMs": 4687.5
+          },
+          {
+            "text": "エリザベス",
+            "offsetMs": 4837.5
+          },
+          {
+            "text": "女王",
+            "offsetMs": 5462.5
+          },
+          {
+            "text": "の",
+            "offsetMs": 5762.5
+          },
+          {
+            "text": "葬儀",
+            "offsetMs": 5912.5
+          },
+          {
+            "text": "以来",
+            "offsetMs": 6325
+          },
+          {
+            "text": "の",
+            "offsetMs": 6625
+          },
+          {
+            "text": "こと",
+            "offsetMs": 6737.5
+          },
+          {
+            "text": "です",
+            "offsetMs": 6987.5
+          }
+        ]
+      }
+    },
+    {
+      "id": "s09",
+      "sourcePieceId": 120720,
+      "sourceOrder": 14,
+      "ja": "しかし、帰国の警備体制については議論があります。",
+      "speechJa": "しかし、きこくのけいび体制については議論があります。",
+      "en": "However, there is debate about security arrangements for their return.",
+      "zhHant": "不過，二人回國期間的保安安排仍引起討論。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7594-prince-harry-family-returns-to-britain/KM-NEWS-7594-prince-harry-family-returns-to-britain-sentence-09-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7594-prince-harry-family-returns-to-britain/KM-NEWS-7594-prince-harry-family-returns-to-britain-sentence-09-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7594-prince-harry-family-returns-to-britain/KM-NEWS-7594-prince-harry-family-returns-to-britain-sentence-09-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/bde5f6fb-6a5e-4e63-9d31-201acbaba724.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "しかし",
+            "offsetMs": 50
+          },
+          {
+            "text": "帰国",
+            "offsetMs": 875
+          },
+          {
+            "text": "の",
+            "offsetMs": 1275
+          },
+          {
+            "text": "警備",
+            "offsetMs": 1412.5
+          },
+          {
+            "text": "体制",
+            "offsetMs": 1775
+          },
+          {
+            "text": "に",
+            "offsetMs": 2162.5
+          },
+          {
+            "text": "つい",
+            "offsetMs": 2300
+          },
+          {
+            "text": "て",
+            "offsetMs": 2550
+          },
+          {
+            "text": "は",
+            "offsetMs": 2650
+          },
+          {
+            "text": "議論",
+            "offsetMs": 2900
+          },
+          {
+            "text": "が",
+            "offsetMs": 3275
+          },
+          {
+            "text": "あり",
+            "offsetMs": 3387.5
+          },
+          {
+            "text": "ます",
+            "offsetMs": 3612.5
+          }
+        ]
+      }
+    },
+    {
+      "id": "s10",
+      "sourcePieceId": 120721,
+      "sourceOrder": 15,
+      "ja": "ハリー王子は以前、警備のレベルが引き下げられることに不満を持ち、訴訟を起こしました。",
+      "speechJa": "ハリー王子は以前、けいびのレベルが引き下げられることに不満を持ち、そしょうを起こしました。",
+      "en": "Harry previously challenged a reduction in his security protection through legal action.",
+      "zhHant": "哈里早前因保安級別被調低而提出訴訟。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7594-prince-harry-family-returns-to-britain/KM-NEWS-7594-prince-harry-family-returns-to-britain-sentence-10-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7594-prince-harry-family-returns-to-britain/KM-NEWS-7594-prince-harry-family-returns-to-britain-sentence-10-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7594-prince-harry-family-returns-to-britain/KM-NEWS-7594-prince-harry-family-returns-to-britain-sentence-10-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/657d6b75-982b-40d4-93a2-969ad17d2efa.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "ハリー",
+            "offsetMs": 50
+          },
+          {
+            "text": "王子",
+            "offsetMs": 437.5
+          },
+          {
+            "text": "は",
+            "offsetMs": 800
+          },
+          {
+            "text": "以前",
+            "offsetMs": 1025
+          },
+          {
+            "text": "警備",
+            "offsetMs": 1587.5
+          },
+          {
+            "text": "の",
+            "offsetMs": 1925
+          },
+          {
+            "text": "レベル",
+            "offsetMs": 2050
+          },
+          {
+            "text": "が",
+            "offsetMs": 2400
+          },
+          {
+            "text": "引き下げ",
+            "offsetMs": 2562.5
+          },
+          {
+            "text": "ら",
+            "offsetMs": 3062.5
+          },
+          {
+            "text": "れる",
+            "offsetMs": 3175
+          },
+          {
+            "text": "こと",
+            "offsetMs": 3425
+          },
+          {
+            "text": "に",
+            "offsetMs": 3650
+          },
+          {
+            "text": "不満",
+            "offsetMs": 3925
+          },
+          {
+            "text": "を",
+            "offsetMs": 4325
+          },
+          {
+            "text": "持ち",
+            "offsetMs": 4450
+          },
+          {
+            "text": "訴訟",
+            "offsetMs": 5012.5
+          },
+          {
+            "text": "を",
+            "offsetMs": 5437.5
+          },
+          {
+            "text": "起こし",
+            "offsetMs": 5525
+          },
+          {
+            "text": "まし",
+            "offsetMs": 5925
+          },
+          {
+            "text": "た",
+            "offsetMs": 6150
+          }
+        ]
+      }
+    },
+    {
+      "id": "s11",
+      "sourcePieceId": 120722,
+      "sourceOrder": 16,
+      "ja": "彼と家族の安全確保のための措置は不明ですが、英内務省は王室の警備が厳格かつ適切であると述べています。",
+      "speechJa": "彼と家族のあんぜんかくほのための措置は不明ですが、えいないむしょうは王室のけいびが厳格かつ適切であると述べています。",
+      "en": "The measures for keeping the family safe are unclear, but the Home Office says royal security is strict and appropriate.",
+      "zhHant": "目前未知保障一家人安全的具體措施；英國內政部則表示，王室保安安排嚴格而且恰當。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7594-prince-harry-family-returns-to-britain/KM-NEWS-7594-prince-harry-family-returns-to-britain-sentence-11-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7594-prince-harry-family-returns-to-britain/KM-NEWS-7594-prince-harry-family-returns-to-britain-sentence-11-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7594-prince-harry-family-returns-to-britain/KM-NEWS-7594-prince-harry-family-returns-to-britain-sentence-11-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/4a2f28e3-dcc3-40a6-8046-4dabf1ded183.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "彼",
+            "offsetMs": 50
+          },
+          {
+            "text": "と",
+            "offsetMs": 337.5
+          },
+          {
+            "text": "家族",
+            "offsetMs": 537.5
+          },
+          {
+            "text": "の",
+            "offsetMs": 937.5
+          },
+          {
+            "text": "安全",
+            "offsetMs": 1037.5
+          },
+          {
+            "text": "確保",
+            "offsetMs": 1525
+          },
+          {
+            "text": "の",
+            "offsetMs": 1887.5
+          },
+          {
+            "text": "ため",
+            "offsetMs": 2025
+          },
+          {
+            "text": "の",
+            "offsetMs": 2250
+          },
+          {
+            "text": "措置",
+            "offsetMs": 2387.5
+          },
+          {
+            "text": "は",
+            "offsetMs": 2687.5
+          },
+          {
+            "text": "不明",
+            "offsetMs": 2887.5
+          },
+          {
+            "text": "です",
+            "offsetMs": 3237.5
+          },
+          {
+            "text": "が",
+            "offsetMs": 3475
+          },
+          {
+            "text": "英",
+            "offsetMs": 4062.5
+          },
+          {
+            "text": "内務省",
+            "offsetMs": 4275
+          },
+          {
+            "text": "は",
+            "offsetMs": 4837.5
+          },
+          {
+            "text": "王室",
+            "offsetMs": 5100
+          },
+          {
+            "text": "の",
+            "offsetMs": 5537.5
+          },
+          {
+            "text": "警備",
+            "offsetMs": 5662.5
+          },
+          {
+            "text": "が",
+            "offsetMs": 6025
+          },
+          {
+            "text": "厳格",
+            "offsetMs": 6212.5
+          },
+          {
+            "text": "かつ",
+            "offsetMs": 6737.5
+          },
+          {
+            "text": "適切",
+            "offsetMs": 7012.5
+          },
+          {
+            "text": "で",
+            "offsetMs": 7475
+          },
+          {
+            "text": "ある",
+            "offsetMs": 7575
+          },
+          {
+            "text": "と",
+            "offsetMs": 7800
+          },
+          {
+            "text": "述べ",
+            "offsetMs": 7925
+          },
+          {
+            "text": "て",
+            "offsetMs": 8187.5
+          },
+          {
+            "text": "い",
+            "offsetMs": 8287.5
+          },
+          {
+            "text": "ます",
+            "offsetMs": 8400
+          }
+        ]
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "v01",
+      "surface": "帰国",
+      "reading": "きこく",
+      "en": "return to one’s country",
+      "zhHant": "回國",
+      "speechJa": "きこく",
+      "audio": {
+        "file": "../audio/7594-prince-harry-family-returns-to-britain/KM-NEWS-7594-prince-harry-family-returns-to-britain-vocab-01-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    },
+    {
+      "id": "v02",
+      "surface": "私有地",
+      "reading": "しゆうち",
+      "en": "private property",
+      "zhHant": "私人土地",
+      "speechJa": "しゆうち",
+      "audio": {
+        "file": "../audio/7594-prince-harry-family-returns-to-britain/KM-NEWS-7594-prince-harry-family-returns-to-britain-vocab-02-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    },
+    {
+      "id": "v03",
+      "surface": "警備",
+      "reading": "けいび",
+      "en": "security; protection",
+      "zhHant": "保安",
+      "speechJa": "けいび",
+      "audio": {
+        "file": "../audio/7594-prince-harry-family-returns-to-britain/KM-NEWS-7594-prince-harry-family-returns-to-britain-vocab-03-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    },
+    {
+      "id": "v04",
+      "surface": "皇太子",
+      "reading": "こうたいし",
+      "en": "crown prince",
+      "zhHant": "皇太子",
+      "speechJa": "こうたいし",
+      "audio": {
+        "file": "../audio/7594-prince-harry-family-returns-to-britain/KM-NEWS-7594-prince-harry-family-returns-to-britain-vocab-04-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    },
+    {
+      "id": "v05",
+      "surface": "葬儀",
+      "reading": "そうぎ",
+      "en": "funeral",
+      "zhHant": "葬禮",
+      "speechJa": "そうぎ",
+      "audio": {
+        "file": "../audio/7594-prince-harry-family-returns-to-britain/KM-NEWS-7594-prince-harry-family-returns-to-britain-vocab-05-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    },
+    {
+      "id": "v06",
+      "surface": "訴訟",
+      "reading": "そしょう",
+      "en": "lawsuit",
+      "zhHant": "訴訟",
+      "speechJa": "そしょう",
+      "audio": {
+        "file": "../audio/7594-prince-harry-family-returns-to-britain/KM-NEWS-7594-prince-harry-family-returns-to-britain-vocab-06-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    },
+    {
+      "id": "v07",
+      "surface": "安全確保",
+      "reading": "あんぜんかくほ",
+      "en": "ensuring safety",
+      "zhHant": "確保安全",
+      "speechJa": "あんぜんかくほ",
+      "audio": {
+        "file": "../audio/7594-prince-harry-family-returns-to-britain/KM-NEWS-7594-prince-harry-family-returns-to-britain-vocab-07-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    }
+  ],
+  "readingMinutes": 2,
+  "keywordCount": 7,
+  "playbackRates": [
+    0.8,
+    1.0,
+    1.2
+  ],
+  "audioPolicy": "Play Nanami sentence files sequentially; do not pitch-shift. Use each timing JSON at the selected playback rate. Source narration is retained only as an editorial backup.",
+  "cardPreview": {
+    "ja": "一家はイギリスで私的に生活し、公務には復帰しない見通しです。",
+    "speechJa": "一家はイギリスで私的に生活し、公務には復帰しない見通しです。",
+    "audio": "../audio/7594-prince-harry-family-returns-to-britain/KM-NEWS-7594-prince-harry-family-returns-to-britain-card-preview-ja-Nanami.mp3",
+    "timings": "../audio/7594-prince-harry-family-returns-to-britain/KM-NEWS-7594-prince-harry-family-returns-to-britain-card-preview-ja-Nanami-timings.json",
+    "voice": "ja-JP-NanamiNeural"
+  }
+}

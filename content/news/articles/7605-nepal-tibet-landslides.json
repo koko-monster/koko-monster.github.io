@@ -1,0 +1,1091 @@
+{
+  "schemaVersion": 1,
+  "id": 7605,
+  "slug": "nepal-tibet-landslides",
+  "sourceType": "kokomonster-existing",
+  "demoOnly": false,
+  "date": "2026-08-28",
+  "level": "N3",
+  "category": {
+    "key": "Environment",
+    "ja": "環境",
+    "en": "Environment",
+    "zhHant": "環境"
+  },
+  "reservedPath": "/ja/news/Environment/nepal-tibet-landslides-7605",
+  "reservedUrl": "https://kokomonster.com/ja/news/Environment/nepal-tibet-landslides-7605",
+  "sourceUrl": "https://kokomonster.com/ja/news/Environment/%E3%83%8D%E3%83%91%E3%83%BC%E3%83%AB%E3%81%A8%E3%83%81%E3%83%99%E3%83%83%E3%83%88%E3%81%AE%E5%A4%A7%E8%A6%8F%E6%A8%A1%E5%9C%9F%E7%9F%B3%E6%B5%81%E3%80%81675%E4%BA%BA%E6%AD%BB%E4%BA%A1%E3%83%BB2498%E4%BA%BA%E8%A1%8C%E6%96%B9%E4%B8%8D%E6%98%8E-7605",
+  "title": {
+    "ja": "ネパールとチベットの大規模土石流、675人死亡・2498人行方不明",
+    "en": "Major Nepal–Tibet landslides leave 675 dead and 2,498 missing",
+    "zhHant": "尼泊爾與西藏大型山泥傾瀉　675人死亡、2,498人失蹤"
+  },
+  "summary": {
+    "ja": "ネパールと中国・チベットの国境で発生した土石流により、575人が死亡し、2498人が行方不明との報告がある。中国側では16人の死者と546人の行方不明者が出ており、外国人261人が救出されたが、320人が依然として行方不明である。",
+    "en": "Major landslides along the Nepal–Tibet border cause heavy casualties and affect travellers from many countries.",
+    "zhHant": "尼泊爾與西藏邊境發生大型山泥傾瀉，造成嚴重傷亡，並波及多國旅客。"
+  },
+  "cover": {
+    "file": "../../../assets/news-covers/tibet-landslide.png",
+    "sourceUrl": "https://api.kokomonster.com/file/resources/crawled-raw-news/2026-08-30/9812/1788064074968.jpg"
+  },
+  "sentences": [
+    {
+      "id": "s01",
+      "sourcePieceId": 120965,
+      "sourceOrder": 6,
+      "ja": "ネパールと中国・チベットの国境で大規模な土石流が発生しました。",
+      "speechJa": "ネパールと中国・チベットのこっきょうでだいきぼな土石流が発生しました。",
+      "en": "A major landslide occurred along the border between Nepal and China’s Tibet region.",
+      "zhHant": "尼泊爾與中國西藏地區邊境發生大型山泥傾瀉。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7605-nepal-tibet-landslides/KM-NEWS-7605-nepal-tibet-landslides-sentence-01-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7605-nepal-tibet-landslides/KM-NEWS-7605-nepal-tibet-landslides-sentence-01-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7605-nepal-tibet-landslides/KM-NEWS-7605-nepal-tibet-landslides-sentence-01-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/6af2ec56-52c0-4905-bced-71f86cf66782.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "ネパール",
+            "offsetMs": 50
+          },
+          {
+            "text": "と",
+            "offsetMs": 600
+          },
+          {
+            "text": "中国",
+            "offsetMs": 712.5
+          },
+          {
+            "text": "・",
+            "offsetMs": 1512.5
+          },
+          {
+            "text": "チベット",
+            "offsetMs": 1612.5
+          },
+          {
+            "text": "の",
+            "offsetMs": 2112.5
+          },
+          {
+            "text": "国境",
+            "offsetMs": 2262.5
+          },
+          {
+            "text": "で",
+            "offsetMs": 2725
+          },
+          {
+            "text": "大規模",
+            "offsetMs": 2937.5
+          },
+          {
+            "text": "な",
+            "offsetMs": 3425
+          },
+          {
+            "text": "土石",
+            "offsetMs": 3575
+          },
+          {
+            "text": "流",
+            "offsetMs": 3962.5
+          },
+          {
+            "text": "が",
+            "offsetMs": 4162.5
+          },
+          {
+            "text": "発生",
+            "offsetMs": 4275
+          },
+          {
+            "text": "し",
+            "offsetMs": 4725
+          },
+          {
+            "text": "まし",
+            "offsetMs": 4862.5
+          },
+          {
+            "text": "た",
+            "offsetMs": 5087.5
+          }
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "sourcePieceId": 120966,
+      "sourceOrder": 7,
+      "ja": "この土石流により、ネパール側で675人が死亡し、2498人が行方不明となっています。",
+      "speechJa": "この土石流により、ネパール側で675人がしぼうし、2498人がゆくえふめいとなっています。",
+      "en": "In Nepal, 675 people were killed and 2,498 are missing.",
+      "zhHant": "尼泊爾一側有675人死亡，另有2,498人失蹤。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7605-nepal-tibet-landslides/KM-NEWS-7605-nepal-tibet-landslides-sentence-02-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7605-nepal-tibet-landslides/KM-NEWS-7605-nepal-tibet-landslides-sentence-02-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7605-nepal-tibet-landslides/KM-NEWS-7605-nepal-tibet-landslides-sentence-02-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/0b2dfa6a-1234-48fa-a7f9-094e63b69b8c.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "この",
+            "offsetMs": 50
+          },
+          {
+            "text": "土石流",
+            "offsetMs": 375
+          },
+          {
+            "text": "に",
+            "offsetMs": 962.5
+          },
+          {
+            "text": "より",
+            "offsetMs": 1075
+          },
+          {
+            "text": "ネパール",
+            "offsetMs": 1700
+          },
+          {
+            "text": "側",
+            "offsetMs": 2137.5
+          },
+          {
+            "text": "で",
+            "offsetMs": 2375
+          },
+          {
+            "text": "675人",
+            "offsetMs": 2575
+          },
+          {
+            "text": "が",
+            "offsetMs": 3900
+          },
+          {
+            "text": "死亡",
+            "offsetMs": 4037.5
+          },
+          {
+            "text": "し",
+            "offsetMs": 4425
+          },
+          {
+            "text": "2498人",
+            "offsetMs": 4950
+          },
+          {
+            "text": "が",
+            "offsetMs": 6875
+          },
+          {
+            "text": "行方",
+            "offsetMs": 7087.5
+          },
+          {
+            "text": "不明",
+            "offsetMs": 7475
+          },
+          {
+            "text": "と",
+            "offsetMs": 7837.5
+          },
+          {
+            "text": "なっ",
+            "offsetMs": 7937.5
+          },
+          {
+            "text": "て",
+            "offsetMs": 8137.5
+          },
+          {
+            "text": "い",
+            "offsetMs": 8250
+          },
+          {
+            "text": "ます",
+            "offsetMs": 8362.5
+          }
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "sourcePieceId": 120967,
+      "sourceOrder": 8,
+      "ja": "中国のメディアによると、チベット自治区でも16人が死亡しており、546人が行方不明です。",
+      "speechJa": "中国のメディアによると、チベット自治区でも16人がしぼうしており、546人がゆくえふめいです。",
+      "en": "Chinese media reported that 16 people had also died in the Tibet Autonomous Region and 546 were missing.",
+      "zhHant": "中國傳媒報道，西藏自治區亦有16人死亡、546人失蹤。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7605-nepal-tibet-landslides/KM-NEWS-7605-nepal-tibet-landslides-sentence-03-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7605-nepal-tibet-landslides/KM-NEWS-7605-nepal-tibet-landslides-sentence-03-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7605-nepal-tibet-landslides/KM-NEWS-7605-nepal-tibet-landslides-sentence-03-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/f5e3919e-f54d-40a2-8228-cd6c696d9aaa.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "中国",
+            "offsetMs": 50
+          },
+          {
+            "text": "の",
+            "offsetMs": 600
+          },
+          {
+            "text": "メディア",
+            "offsetMs": 712.5
+          },
+          {
+            "text": "に",
+            "offsetMs": 1062.5
+          },
+          {
+            "text": "よる",
+            "offsetMs": 1187.5
+          },
+          {
+            "text": "と",
+            "offsetMs": 1425
+          },
+          {
+            "text": "チベット",
+            "offsetMs": 1962.5
+          },
+          {
+            "text": "自治区",
+            "offsetMs": 2462.5
+          },
+          {
+            "text": "で",
+            "offsetMs": 2825
+          },
+          {
+            "text": "も",
+            "offsetMs": 2912.5
+          },
+          {
+            "text": "16人",
+            "offsetMs": 3137.5
+          },
+          {
+            "text": "が",
+            "offsetMs": 3812.5
+          },
+          {
+            "text": "死亡",
+            "offsetMs": 3950
+          },
+          {
+            "text": "し",
+            "offsetMs": 4325
+          },
+          {
+            "text": "て",
+            "offsetMs": 4425
+          },
+          {
+            "text": "おり",
+            "offsetMs": 4512.5
+          },
+          {
+            "text": "546人",
+            "offsetMs": 5037.5
+          },
+          {
+            "text": "が",
+            "offsetMs": 6350
+          },
+          {
+            "text": "行方",
+            "offsetMs": 6500
+          },
+          {
+            "text": "不明",
+            "offsetMs": 6900
+          },
+          {
+            "text": "です",
+            "offsetMs": 7275
+          }
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "sourcePieceId": 120968,
+      "sourceOrder": 9,
+      "ja": "ネパール観光局は、外国人261人を救出したと発表しました。",
+      "speechJa": "ネパールかんこうきょくは、がいこくじん261人をきゅうしゅつしたと発表しました。",
+      "en": "The Nepal Tourism Board said 261 foreign nationals had been rescued.",
+      "zhHant": "尼泊爾旅遊局表示，已有261名外國人獲救。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7605-nepal-tibet-landslides/KM-NEWS-7605-nepal-tibet-landslides-sentence-04-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7605-nepal-tibet-landslides/KM-NEWS-7605-nepal-tibet-landslides-sentence-04-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7605-nepal-tibet-landslides/KM-NEWS-7605-nepal-tibet-landslides-sentence-04-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/b1d00df7-8ce3-4182-ab5e-5dfd5e97fd6b.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "ネパール",
+            "offsetMs": 50
+          },
+          {
+            "text": "観光局",
+            "offsetMs": 612.5
+          },
+          {
+            "text": "は",
+            "offsetMs": 1300
+          },
+          {
+            "text": "外国人",
+            "offsetMs": 1837.5
+          },
+          {
+            "text": "261人",
+            "offsetMs": 2587.5
+          },
+          {
+            "text": "を",
+            "offsetMs": 3950
+          },
+          {
+            "text": "救出",
+            "offsetMs": 4100
+          },
+          {
+            "text": "し",
+            "offsetMs": 4575
+          },
+          {
+            "text": "た",
+            "offsetMs": 4675
+          },
+          {
+            "text": "と",
+            "offsetMs": 4787.5
+          },
+          {
+            "text": "発表",
+            "offsetMs": 4912.5
+          },
+          {
+            "text": "し",
+            "offsetMs": 5375
+          },
+          {
+            "text": "まし",
+            "offsetMs": 5512.5
+          },
+          {
+            "text": "た",
+            "offsetMs": 5737.5
+          }
+        ]
+      }
+    },
+    {
+      "id": "s05",
+      "sourcePieceId": 120969,
+      "sourceOrder": 10,
+      "ja": "しかし、まだ320人が行方不明です。",
+      "speechJa": "しかし、まだ320人がゆくえふめいです。",
+      "en": "However, 320 people remain missing.",
+      "zhHant": "不過，仍有320人下落不明。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7605-nepal-tibet-landslides/KM-NEWS-7605-nepal-tibet-landslides-sentence-05-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7605-nepal-tibet-landslides/KM-NEWS-7605-nepal-tibet-landslides-sentence-05-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7605-nepal-tibet-landslides/KM-NEWS-7605-nepal-tibet-landslides-sentence-05-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/62a6e0b6-4536-4585-a7df-8c253a87ccbb.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "しかし",
+            "offsetMs": 50
+          },
+          {
+            "text": "まだ",
+            "offsetMs": 762.5
+          },
+          {
+            "text": "320人",
+            "offsetMs": 1037.5
+          },
+          {
+            "text": "が",
+            "offsetMs": 2150
+          },
+          {
+            "text": "行方",
+            "offsetMs": 2287.5
+          },
+          {
+            "text": "不明",
+            "offsetMs": 2675
+          },
+          {
+            "text": "です",
+            "offsetMs": 3050
+          }
+        ]
+      }
+    },
+    {
+      "id": "s06",
+      "sourcePieceId": 120970,
+      "sourceOrder": 11,
+      "ja": "中国側の報告によると、行方不明者の中には23カ国の外国人が含まれています。",
+      "speechJa": "中国側の報告によると、ゆくえふめい者の中には23カ国のがいこくじんが含まれています。",
+      "en": "According to reports from China, the missing include foreign nationals from 23 countries.",
+      "zhHant": "根據中方報道，失蹤者包括來自23個國家的外國人。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7605-nepal-tibet-landslides/KM-NEWS-7605-nepal-tibet-landslides-sentence-06-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7605-nepal-tibet-landslides/KM-NEWS-7605-nepal-tibet-landslides-sentence-06-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7605-nepal-tibet-landslides/KM-NEWS-7605-nepal-tibet-landslides-sentence-06-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/9dabbdf7-7086-40f3-ae9e-92d2b1f45e73.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "中国",
+            "offsetMs": 50
+          },
+          {
+            "text": "側",
+            "offsetMs": 637.5
+          },
+          {
+            "text": "の",
+            "offsetMs": 862.5
+          },
+          {
+            "text": "報告",
+            "offsetMs": 1000
+          },
+          {
+            "text": "に",
+            "offsetMs": 1487.5
+          },
+          {
+            "text": "よる",
+            "offsetMs": 1600
+          },
+          {
+            "text": "と",
+            "offsetMs": 1850
+          },
+          {
+            "text": "行方",
+            "offsetMs": 2375
+          },
+          {
+            "text": "不明者",
+            "offsetMs": 2762.5
+          },
+          {
+            "text": "の",
+            "offsetMs": 3262.5
+          },
+          {
+            "text": "中",
+            "offsetMs": 3387.5
+          },
+          {
+            "text": "に",
+            "offsetMs": 3625
+          },
+          {
+            "text": "は",
+            "offsetMs": 3750
+          },
+          {
+            "text": "23",
+            "offsetMs": 4000
+          },
+          {
+            "text": "カ国",
+            "offsetMs": 4662.5
+          },
+          {
+            "text": "の",
+            "offsetMs": 5037.5
+          },
+          {
+            "text": "外国人",
+            "offsetMs": 5175
+          },
+          {
+            "text": "が",
+            "offsetMs": 5862.5
+          },
+          {
+            "text": "含ま",
+            "offsetMs": 6000
+          },
+          {
+            "text": "れ",
+            "offsetMs": 6362.5
+          },
+          {
+            "text": "て",
+            "offsetMs": 6462.5
+          },
+          {
+            "text": "い",
+            "offsetMs": 6562.5
+          },
+          {
+            "text": "ます",
+            "offsetMs": 6675
+          }
+        ]
+      }
+    },
+    {
+      "id": "s07",
+      "sourcePieceId": 120971,
+      "sourceOrder": 12,
+      "ja": "具体的には、マレーシア人やインド人、アメリカ人など多くの国の人々がいます。",
+      "speechJa": "ぐたいてきには、マレーシア人やインド人、アメリカ人など多くの国の人々がいます。",
+      "en": "They include people from Malaysia, India and the United States, among many other countries.",
+      "zhHant": "當中包括馬來西亞、印度、美國等多國人士。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7605-nepal-tibet-landslides/KM-NEWS-7605-nepal-tibet-landslides-sentence-07-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7605-nepal-tibet-landslides/KM-NEWS-7605-nepal-tibet-landslides-sentence-07-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7605-nepal-tibet-landslides/KM-NEWS-7605-nepal-tibet-landslides-sentence-07-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/342cfb9b-06c3-4bc1-bf76-e829a415f34d.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "具体的",
+            "offsetMs": 50
+          },
+          {
+            "text": "に",
+            "offsetMs": 737.5
+          },
+          {
+            "text": "は",
+            "offsetMs": 850
+          },
+          {
+            "text": "マレーシア",
+            "offsetMs": 1337.5
+          },
+          {
+            "text": "人",
+            "offsetMs": 1950
+          },
+          {
+            "text": "や",
+            "offsetMs": 2175
+          },
+          {
+            "text": "インド",
+            "offsetMs": 2375
+          },
+          {
+            "text": "人",
+            "offsetMs": 2750
+          },
+          {
+            "text": "アメリカ",
+            "offsetMs": 3350
+          },
+          {
+            "text": "人",
+            "offsetMs": 3850
+          },
+          {
+            "text": "など",
+            "offsetMs": 4075
+          },
+          {
+            "text": "多く",
+            "offsetMs": 4375
+          },
+          {
+            "text": "の",
+            "offsetMs": 4762.5
+          },
+          {
+            "text": "国",
+            "offsetMs": 4900
+          },
+          {
+            "text": "の",
+            "offsetMs": 5137.5
+          },
+          {
+            "text": "人々",
+            "offsetMs": 5250
+          },
+          {
+            "text": "が",
+            "offsetMs": 5700
+          },
+          {
+            "text": "い",
+            "offsetMs": 5812.5
+          },
+          {
+            "text": "ます",
+            "offsetMs": 5925
+          }
+        ]
+      }
+    },
+    {
+      "id": "s08",
+      "sourcePieceId": 120972,
+      "sourceOrder": 13,
+      "ja": "また、ネパール当局はイギリス人33人が行方不明であることを発表しました。",
+      "speechJa": "また、ネパールとうきょくはイギリス人33人がゆくえふめいであることを発表しました。",
+      "en": "Nepalese authorities also announced that 33 British nationals were missing.",
+      "zhHant": "尼泊爾當局亦公布，有33名英國人失蹤。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7605-nepal-tibet-landslides/KM-NEWS-7605-nepal-tibet-landslides-sentence-08-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7605-nepal-tibet-landslides/KM-NEWS-7605-nepal-tibet-landslides-sentence-08-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7605-nepal-tibet-landslides/KM-NEWS-7605-nepal-tibet-landslides-sentence-08-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/fbb9c528-b03d-4621-a014-89abd2471414.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "また",
+            "offsetMs": 50
+          },
+          {
+            "text": "ネパール",
+            "offsetMs": 762.5
+          },
+          {
+            "text": "当局",
+            "offsetMs": 1225
+          },
+          {
+            "text": "は",
+            "offsetMs": 1675
+          },
+          {
+            "text": "イギリス",
+            "offsetMs": 1937.5
+          },
+          {
+            "text": "人",
+            "offsetMs": 2425
+          },
+          {
+            "text": "33人",
+            "offsetMs": 2662.5
+          },
+          {
+            "text": "が",
+            "offsetMs": 3637.5
+          },
+          {
+            "text": "行方",
+            "offsetMs": 3837.5
+          },
+          {
+            "text": "不明",
+            "offsetMs": 4225
+          },
+          {
+            "text": "で",
+            "offsetMs": 4575
+          },
+          {
+            "text": "ある",
+            "offsetMs": 4675
+          },
+          {
+            "text": "こと",
+            "offsetMs": 4887.5
+          },
+          {
+            "text": "を",
+            "offsetMs": 5125
+          },
+          {
+            "text": "発表",
+            "offsetMs": 5225
+          },
+          {
+            "text": "し",
+            "offsetMs": 5662.5
+          },
+          {
+            "text": "まし",
+            "offsetMs": 5800
+          },
+          {
+            "text": "た",
+            "offsetMs": 6025
+          }
+        ]
+      }
+    },
+    {
+      "id": "s09",
+      "sourcePieceId": 120973,
+      "sourceOrder": 14,
+      "ja": "一部のイギリス人はチベットへ向かうために国境を越えようとしていたとのことです。",
+      "speechJa": "一部のイギリス人はチベットへ向かうためにこっきょうを越えようとしていたとのことです。",
+      "en": "Some of the British travellers were reportedly trying to cross the border on their way to Tibet.",
+      "zhHant": "據報，部分英國旅客當時正準備越境前往西藏。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7605-nepal-tibet-landslides/KM-NEWS-7605-nepal-tibet-landslides-sentence-09-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7605-nepal-tibet-landslides/KM-NEWS-7605-nepal-tibet-landslides-sentence-09-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7605-nepal-tibet-landslides/KM-NEWS-7605-nepal-tibet-landslides-sentence-09-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/13b2e75d-d11b-4d6d-b19f-b662ad788860.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "一部",
+            "offsetMs": 50
+          },
+          {
+            "text": "の",
+            "offsetMs": 475
+          },
+          {
+            "text": "イギリス",
+            "offsetMs": 625
+          },
+          {
+            "text": "人",
+            "offsetMs": 1125
+          },
+          {
+            "text": "は",
+            "offsetMs": 1350
+          },
+          {
+            "text": "チベット",
+            "offsetMs": 1637.5
+          },
+          {
+            "text": "へ",
+            "offsetMs": 2150
+          },
+          {
+            "text": "向かう",
+            "offsetMs": 2275
+          },
+          {
+            "text": "ため",
+            "offsetMs": 2637.5
+          },
+          {
+            "text": "に",
+            "offsetMs": 2862.5
+          },
+          {
+            "text": "国境",
+            "offsetMs": 3087.5
+          },
+          {
+            "text": "を",
+            "offsetMs": 3537.5
+          },
+          {
+            "text": "越え",
+            "offsetMs": 3662.5
+          },
+          {
+            "text": "よう",
+            "offsetMs": 3900
+          },
+          {
+            "text": "と",
+            "offsetMs": 4137.5
+          },
+          {
+            "text": "し",
+            "offsetMs": 4250
+          },
+          {
+            "text": "て",
+            "offsetMs": 4350
+          },
+          {
+            "text": "い",
+            "offsetMs": 4437.5
+          },
+          {
+            "text": "た",
+            "offsetMs": 4550
+          },
+          {
+            "text": "と",
+            "offsetMs": 4662.5
+          },
+          {
+            "text": "の",
+            "offsetMs": 4775
+          },
+          {
+            "text": "こと",
+            "offsetMs": 4900
+          },
+          {
+            "text": "です",
+            "offsetMs": 5137.5
+          }
+        ]
+      }
+    },
+    {
+      "id": "s10",
+      "sourcePieceId": 120974,
+      "sourceOrder": 15,
+      "ja": "状況は非常に深刻で、救助活動が続いています。",
+      "speechJa": "状況は非常にしんこくで、救助活動が続いています。",
+      "en": "The situation remains extremely serious, and rescue operations are continuing.",
+      "zhHant": "當地情況仍然十分嚴峻，救援工作持續進行。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7605-nepal-tibet-landslides/KM-NEWS-7605-nepal-tibet-landslides-sentence-10-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7605-nepal-tibet-landslides/KM-NEWS-7605-nepal-tibet-landslides-sentence-10-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7605-nepal-tibet-landslides/KM-NEWS-7605-nepal-tibet-landslides-sentence-10-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/511c3269-3712-432d-a7f8-7eec55abe154.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "状況",
+            "offsetMs": 50
+          },
+          {
+            "text": "は",
+            "offsetMs": 612.5
+          },
+          {
+            "text": "非常",
+            "offsetMs": 800
+          },
+          {
+            "text": "に",
+            "offsetMs": 1237.5
+          },
+          {
+            "text": "深刻",
+            "offsetMs": 1350
+          },
+          {
+            "text": "で",
+            "offsetMs": 1837.5
+          },
+          {
+            "text": "救助",
+            "offsetMs": 2212.5
+          },
+          {
+            "text": "活動",
+            "offsetMs": 2625
+          },
+          {
+            "text": "が",
+            "offsetMs": 3062.5
+          },
+          {
+            "text": "続い",
+            "offsetMs": 3187.5
+          },
+          {
+            "text": "て",
+            "offsetMs": 3587.5
+          },
+          {
+            "text": "い",
+            "offsetMs": 3662.5
+          },
+          {
+            "text": "ます",
+            "offsetMs": 3787.5
+          }
+        ]
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "v01",
+      "surface": "大規模",
+      "reading": "だいきぼ",
+      "en": "large-scale",
+      "zhHant": "大規模",
+      "speechJa": "だいきぼ",
+      "audio": {
+        "file": "../audio/7605-nepal-tibet-landslides/KM-NEWS-7605-nepal-tibet-landslides-vocab-01-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    },
+    {
+      "id": "v02",
+      "surface": "救出",
+      "reading": "きゅうしゅつ",
+      "en": "rescue; extraction",
+      "zhHant": "救出",
+      "speechJa": "きゅうしゅつ",
+      "audio": {
+        "file": "../audio/7605-nepal-tibet-landslides/KM-NEWS-7605-nepal-tibet-landslides-vocab-02-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    },
+    {
+      "id": "v03",
+      "surface": "深刻",
+      "reading": "しんこく",
+      "en": "serious; severe",
+      "zhHant": "嚴峻",
+      "speechJa": "しんこく",
+      "audio": {
+        "file": "../audio/7605-nepal-tibet-landslides/KM-NEWS-7605-nepal-tibet-landslides-vocab-03-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    },
+    {
+      "id": "v04",
+      "surface": "死亡",
+      "reading": "しぼう",
+      "en": "death; to die",
+      "zhHant": "死亡",
+      "speechJa": "しぼう",
+      "audio": {
+        "file": "../audio/7605-nepal-tibet-landslides/KM-NEWS-7605-nepal-tibet-landslides-vocab-04-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    },
+    {
+      "id": "v05",
+      "surface": "行方不明",
+      "reading": "ゆくえふめい",
+      "en": "missing",
+      "zhHant": "失蹤",
+      "speechJa": "ゆくえふめい",
+      "audio": {
+        "file": "../audio/7605-nepal-tibet-landslides/KM-NEWS-7605-nepal-tibet-landslides-vocab-05-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    },
+    {
+      "id": "v06",
+      "surface": "観光局",
+      "reading": "かんこうきょく",
+      "en": "tourism board",
+      "zhHant": "旅遊局",
+      "speechJa": "かんこうきょく",
+      "audio": {
+        "file": "../audio/7605-nepal-tibet-landslides/KM-NEWS-7605-nepal-tibet-landslides-vocab-06-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    },
+    {
+      "id": "v07",
+      "surface": "外国人",
+      "reading": "がいこくじん",
+      "en": "foreign national",
+      "zhHant": "外國人",
+      "speechJa": "がいこくじん",
+      "audio": {
+        "file": "../audio/7605-nepal-tibet-landslides/KM-NEWS-7605-nepal-tibet-landslides-vocab-07-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    },
+    {
+      "id": "v08",
+      "surface": "当局",
+      "reading": "とうきょく",
+      "en": "authorities",
+      "zhHant": "當局",
+      "speechJa": "とうきょく",
+      "audio": {
+        "file": "../audio/7605-nepal-tibet-landslides/KM-NEWS-7605-nepal-tibet-landslides-vocab-08-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    },
+    {
+      "id": "v09",
+      "surface": "国境",
+      "reading": "こっきょう",
+      "en": "border",
+      "zhHant": "邊境",
+      "speechJa": "こっきょう",
+      "audio": {
+        "file": "../audio/7605-nepal-tibet-landslides/KM-NEWS-7605-nepal-tibet-landslides-vocab-09-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    },
+    {
+      "id": "v10",
+      "surface": "具体的",
+      "reading": "ぐたいてき",
+      "en": "specific; concrete",
+      "zhHant": "具體",
+      "speechJa": "ぐたいてき",
+      "audio": {
+        "file": "../audio/7605-nepal-tibet-landslides/KM-NEWS-7605-nepal-tibet-landslides-vocab-10-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    }
+  ],
+  "readingMinutes": 2,
+  "keywordCount": 10,
+  "playbackRates": [
+    0.8,
+    1.0,
+    1.2
+  ],
+  "audioPolicy": "Play Nanami sentence files sequentially; do not pitch-shift. Use each timing JSON at the selected playback rate. Source narration is retained only as an editorial backup.",
+  "cardPreview": {
+    "ja": "外国人旅行者も被害に巻き込まれ、各地で救助活動が続いています。",
+    "speechJa": "がいこくじん旅行者も被害に巻き込まれ、各地で救助活動が続いています。",
+    "audio": "../audio/7605-nepal-tibet-landslides/KM-NEWS-7605-nepal-tibet-landslides-card-preview-ja-Nanami.mp3",
+    "timings": "../audio/7605-nepal-tibet-landslides/KM-NEWS-7605-nepal-tibet-landslides-card-preview-ja-Nanami-timings.json",
+    "voice": "ja-JP-NanamiNeural"
+  }
+}

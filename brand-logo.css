@@ -13,5 +13,6 @@
 .kkm-logo.is-wordmark .kkm-logo__slot:not(:first-child) .kkm-logo__head{opacity:0;transform:translateY(0) scale(.98)}
 .kkm-logo.is-wordmark .kkm-logo__wordmark{opacity:1;transform:translateY(-50%)}
 .kkm-logo__fallback{display:block;width:100%;height:auto}
-.story-footer__brand .brand{width:184px}
+.story-footer__brand .footer-heads-link{width:220px}
+.footer-heads{display:block;width:100%;height:auto}
 @media(prefers-reduced-motion:reduce){.kkm-logo__slot:not(:first-child) .kkm-logo__head{opacity:0}.kkm-logo__slot:first-child .kkm-logo__head,.kkm-logo__wordmark{opacity:1}.kkm-logo__wordmark{transform:translateY(-50%)}}

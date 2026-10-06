@@ -1,0 +1,90 @@
+{
+  "9991": [
+    {"surface":"使者","reading":"ししゃ","en":"messenger","zhHant":"使者"},
+    {"surface":"謹んで","reading":"つつしんで","en":"humbly; respectfully","zhHant":"謹慎地；恭敬地"},
+    {"surface":"責任","reading":"せきにん","en":"responsibility","zhHant":"責任"},
+    {"surface":"土俵","reading":"どひょう","en":"sumo ring","zhHant":"相撲土俵"}
+  ],
+  "9992": [
+    {"surface":"公式サイト","reading":"こうしきサイト","en":"official website","zhHant":"官方網站"},
+    {"surface":"結果","reading":"けっか","en":"result","zhHant":"結果"}
+  ],
+  "9993": [
+    {"surface":"被害","reading":"ひがい","en":"damage; harm","zhHant":"損害；災情"},
+    {"surface":"自治体","reading":"じちたい","en":"local government","zhHant":"地方政府"},
+    {"surface":"鉄道","reading":"てつどう","en":"railway","zhHant":"鐵路"},
+    {"surface":"連絡方法","reading":"れんらくほうほう","en":"way to make contact","zhHant":"聯絡方式"}
+  ],
+  "7648": [
+    {"surface":"表明","reading":"ひょうめい","en":"declaration; to state","zhHant":"表明"},
+    {"surface":"書簡","reading":"しょかん","en":"written letter","zhHant":"書函"},
+    {"surface":"周知","reading":"しゅうち","en":"widely known","zhHant":"周知"},
+    {"surface":"慈善活動","reading":"じぜんかつどう","en":"charitable work","zhHant":"慈善活動"}
+  ],
+  "7642": [
+    {"surface":"決議案","reading":"けつぎあん","en":"draft resolution","zhHant":"決議案"},
+    {"surface":"図法","reading":"ずほう","en":"map projection","zhHant":"地圖投影法"},
+    {"surface":"ゆがみ","reading":"ゆがみ","en":"distortion","zhHant":"失真；扭曲"},
+    {"surface":"廃止","reading":"はいし","en":"abolition; discontinuation","zhHant":"廢止"}
+  ],
+  "7611": [
+    {"surface":"国境","reading":"こっきょう","en":"border","zhHant":"邊境"},
+    {"surface":"災害","reading":"さいがい","en":"disaster","zhHant":"災害"}
+  ],
+  "7606": [
+    {"surface":"首都","reading":"しゅと","en":"capital city","zhHant":"首都"},
+    {"surface":"近郊","reading":"きんこう","en":"outskirts; vicinity","zhHant":"近郊"},
+    {"surface":"弾薬","reading":"だんやく","en":"ammunition","zhHant":"彈藥"},
+    {"surface":"兵器庫","reading":"へいきこ","en":"arms depot","zhHant":"軍火庫"}
+  ],
+  "7605": [
+    {"surface":"死亡","reading":"しぼう","en":"death; to die","zhHant":"死亡"},
+    {"surface":"行方不明","reading":"ゆくえふめい","en":"missing","zhHant":"失蹤"},
+    {"surface":"観光局","reading":"かんこうきょく","en":"tourism board","zhHant":"旅遊局"},
+    {"surface":"外国人","reading":"がいこくじん","en":"foreign national","zhHant":"外國人"},
+    {"surface":"当局","reading":"とうきょく","en":"authorities","zhHant":"當局"},
+    {"surface":"国境","reading":"こっきょう","en":"border","zhHant":"邊境"},
+    {"surface":"具体的","reading":"ぐたいてき","en":"specific; concrete","zhHant":"具體"}
+  ],
+  "7596": [
+    {"surface":"洪水","reading":"こうずい","en":"flood","zhHant":"洪水"},
+    {"surface":"警告","reading":"けいこく","en":"warning; to warn","zhHant":"警告"}
+  ],
+  "7594": [
+    {"surface":"皇太子","reading":"こうたいし","en":"crown prince","zhHant":"皇太子"},
+    {"surface":"葬儀","reading":"そうぎ","en":"funeral","zhHant":"葬禮"},
+    {"surface":"訴訟","reading":"そしょう","en":"lawsuit","zhHant":"訴訟"},
+    {"surface":"安全確保","reading":"あんぜんかくほ","en":"ensuring safety","zhHant":"確保安全"}
+  ],
+  "7581": [
+    {"surface":"政治的混乱","reading":"せいじてきこんらん","en":"political turmoil","zhHant":"政治動盪"},
+    {"surface":"保守派","reading":"ほしゅは","en":"conservatives","zhHant":"保守派"},
+    {"surface":"圧力","reading":"あつりょく","en":"pressure","zhHant":"壓力"},
+    {"surface":"当局","reading":"とうきょく","en":"authorities","zhHant":"當局"},
+    {"surface":"公然と","reading":"こうぜんと","en":"openly; publicly","zhHant":"公然；公開地"},
+    {"surface":"若い世代","reading":"わかいせだい","en":"younger generation","zhHant":"年輕一代"},
+    {"surface":"屈する","reading":"くっする","en":"to yield; give in","zhHant":"屈服"}
+  ],
+  "7567": [
+    {"surface":"発動","reading":"はつどう","en":"implementation; taking effect","zhHant":"啟動；生效"},
+    {"surface":"回避","reading":"かいひ","en":"avoidance; to avoid","zhHant":"避免"},
+    {"surface":"合意","reading":"ごうい","en":"agreement","zhHant":"協議；共識"},
+    {"surface":"交渉団","reading":"こうしょうだん","en":"negotiating team","zhHant":"談判代表團"},
+    {"surface":"相当","reading":"そうとう","en":"equivalent to; worth","zhHant":"相當於"},
+    {"surface":"課す","reading":"かす","en":"to impose","zhHant":"徵收；施加"},
+    {"surface":"労働者","reading":"ろうどうしゃ","en":"worker","zhHant":"勞工"}
+  ],
+  "7561": [
+    {"surface":"非難","reading":"ひなん","en":"condemnation; to condemn","zhHant":"譴責"},
+    {"surface":"国際法","reading":"こくさいほう","en":"international law","zhHant":"國際法"},
+    {"surface":"違法","reading":"いほう","en":"illegal","zhHant":"違法"},
+    {"surface":"緊張","reading":"きんちょう","en":"tension","zhHant":"緊張局勢"},
+    {"surface":"反発","reading":"はんぱつ","en":"opposition; backlash","zhHant":"反對；反彈"},
+    {"surface":"入札","reading":"にゅうさつ","en":"bidding; tender","zhHant":"招標"},
+    {"surface":"総選挙","reading":"そうせんきょ","en":"general election","zhHant":"大選"}
+  ],
+  "7542": [
+    {"surface":"航行","reading":"こうこう","en":"navigation; to sail","zhHant":"航行"},
+    {"surface":"派遣","reading":"はけん","en":"deployment; dispatch","zhHant":"派遣"}
+  ]
+}

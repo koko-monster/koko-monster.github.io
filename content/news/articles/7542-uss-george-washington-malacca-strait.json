@@ -1,0 +1,1067 @@
+{
+  "schemaVersion": 1,
+  "id": 7542,
+  "slug": "uss-george-washington-malacca-strait",
+  "sourceType": "kokomonster-existing",
+  "demoOnly": false,
+  "date": "2026-08-19",
+  "level": "N5",
+  "category": {
+    "key": "Global",
+    "ja": "国際",
+    "en": "Global",
+    "zhHant": "國際"
+  },
+  "reservedPath": "/ja/news/Global/uss-george-washington-malacca-strait-7542",
+  "reservedUrl": "https://kokomonster.com/ja/news/Global/uss-george-washington-malacca-strait-7542",
+  "sourceUrl": "https://kokomonster.com/ja/news/Global/%E7%B1%B3%E7%A9%BA%E6%AF%8D%E3%82%B8%E3%83%A7%E3%83%BC%E3%82%B8%E3%83%BB%E3%83%AF%E3%82%B7%E3%83%B3%E3%83%88%E3%83%B3%E3%80%81%E3%83%9E%E3%83%A9%E3%83%83%E3%82%AB%E6%B5%B7%E5%B3%A1%E3%82%92%E8%88%AA%E8%A1%8C-7542",
+  "title": {
+    "ja": "米空母ジョージ・ワシントン、マラッカ海峡を航行",
+    "en": "USS George Washington sails through the Strait of Malacca",
+    "zhHant": "美國航空母艦喬治・華盛頓號航經馬六甲海峽"
+  },
+  "summary": {
+    "ja": "米軍が空母ジョージ・ワシントンの航行と航空任務の映像を公開した。エイブラハム・リンカーンの交代のため、中東へ向かう。その間、乗組員の健康問題が懸念されている。",
+    "en": "The US Navy releases footage of the USS George Washington passing through the Strait of Malacca and conducting flight operations.",
+    "zhHant": "美國海軍發布片段，顯示航空母艦喬治・華盛頓號航經馬六甲海峽並進行飛行任務。"
+  },
+  "cover": {
+    "file": "../../../assets/news-covers/aircraft-carrier.png",
+    "sourceUrl": "https://api.kokomonster.com/file/resources/crawled-raw-news/2026-08-19/9710/1787135535379.jpg"
+  },
+  "sentences": [
+    {
+      "id": "s01",
+      "sourcePieceId": 119194,
+      "sourceOrder": 6,
+      "ja": "米軍は、空母ジョージ・ワシントンがマレーシアとインドネシアを結ぶマラッカ海峡を航行した。",
+      "speechJa": "べいぐんは、くうぼジョージ・ワシントンがマレーシアとインドネシアを結ぶマラッカかいきょうをこうこうした。",
+      "en": "The US military said the aircraft carrier USS George Washington sailed through the Strait of Malacca between Malaysia and Indonesia.",
+      "zhHant": "美軍表示，航空母艦喬治・華盛頓號航經連接馬來西亞與印度尼西亞的馬六甲海峽。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7542-uss-george-washington-malacca-strait/KM-NEWS-7542-uss-george-washington-malacca-strait-sentence-01-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7542-uss-george-washington-malacca-strait/KM-NEWS-7542-uss-george-washington-malacca-strait-sentence-01-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7542-uss-george-washington-malacca-strait/KM-NEWS-7542-uss-george-washington-malacca-strait-sentence-01-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/6e12e9f5-f9fa-4ce1-8293-2e3f49c89931.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "米軍",
+            "offsetMs": 50
+          },
+          {
+            "text": "は",
+            "offsetMs": 587.5
+          },
+          {
+            "text": "空母",
+            "offsetMs": 1062.5
+          },
+          {
+            "text": "ジョージ",
+            "offsetMs": 1462.5
+          },
+          {
+            "text": "・",
+            "offsetMs": 2062.5
+          },
+          {
+            "text": "ワシントン",
+            "offsetMs": 2162.5
+          },
+          {
+            "text": "が",
+            "offsetMs": 2775
+          },
+          {
+            "text": "マレーシア",
+            "offsetMs": 2925
+          },
+          {
+            "text": "と",
+            "offsetMs": 3500
+          },
+          {
+            "text": "インドネシア",
+            "offsetMs": 3700
+          },
+          {
+            "text": "を",
+            "offsetMs": 4412.5
+          },
+          {
+            "text": "結ぶ",
+            "offsetMs": 4562.5
+          },
+          {
+            "text": "マラッカ",
+            "offsetMs": 5050
+          },
+          {
+            "text": "海峡",
+            "offsetMs": 5500
+          },
+          {
+            "text": "を",
+            "offsetMs": 5950
+          },
+          {
+            "text": "航行",
+            "offsetMs": 6075
+          },
+          {
+            "text": "し",
+            "offsetMs": 6537.5
+          },
+          {
+            "text": "た",
+            "offsetMs": 6662.5
+          }
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "sourcePieceId": 119195,
+      "sourceOrder": 7,
+      "ja": "インド洋で航空任務を実施する様子も公開された。",
+      "speechJa": "インド洋で航空任務を実施する様子も公開された。",
+      "en": "It also released footage of flight operations in the Indian Ocean.",
+      "zhHant": "美軍亦發布艦載機在印度洋執行飛行任務的片段。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7542-uss-george-washington-malacca-strait/KM-NEWS-7542-uss-george-washington-malacca-strait-sentence-02-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7542-uss-george-washington-malacca-strait/KM-NEWS-7542-uss-george-washington-malacca-strait-sentence-02-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7542-uss-george-washington-malacca-strait/KM-NEWS-7542-uss-george-washington-malacca-strait-sentence-02-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/2c6f3ef6-a960-47f2-b2a6-c476353e2d82.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "インド",
+            "offsetMs": 50
+          },
+          {
+            "text": "洋",
+            "offsetMs": 450
+          },
+          {
+            "text": "で",
+            "offsetMs": 700
+          },
+          {
+            "text": "航空",
+            "offsetMs": 850
+          },
+          {
+            "text": "任務",
+            "offsetMs": 1337.5
+          },
+          {
+            "text": "を",
+            "offsetMs": 1650
+          },
+          {
+            "text": "実施",
+            "offsetMs": 1800
+          },
+          {
+            "text": "する",
+            "offsetMs": 2137.5
+          },
+          {
+            "text": "様子",
+            "offsetMs": 2387.5
+          },
+          {
+            "text": "も",
+            "offsetMs": 2750
+          },
+          {
+            "text": "公開",
+            "offsetMs": 2900
+          },
+          {
+            "text": "さ",
+            "offsetMs": 3312.5
+          },
+          {
+            "text": "れ",
+            "offsetMs": 3450
+          },
+          {
+            "text": "た",
+            "offsetMs": 3550
+          }
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "sourcePieceId": 119196,
+      "sourceOrder": 8,
+      "ja": "映像は8月13日に撮影され、世界で最も交通量の多い海峡の一つを航行する空母の甲板が映し出されている。",
+      "speechJa": "映像ははちがつじゅうさんにちに撮影され、世界で最も交通量の多いかいきょうの一つをこうこうするくうぼの甲板が映し出されている。",
+      "en": "The footage, filmed on 13 August, shows the carrier’s deck as it moves through one of the world’s busiest waterways.",
+      "zhHant": "片段攝於8月13日，可見航母甲板，以及艦隻駛過全球最繁忙航道之一的情況。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7542-uss-george-washington-malacca-strait/KM-NEWS-7542-uss-george-washington-malacca-strait-sentence-03-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7542-uss-george-washington-malacca-strait/KM-NEWS-7542-uss-george-washington-malacca-strait-sentence-03-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7542-uss-george-washington-malacca-strait/KM-NEWS-7542-uss-george-washington-malacca-strait-sentence-03-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/64e076a4-0222-44d6-957c-3593d56c4145.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "映像",
+            "offsetMs": 50
+          },
+          {
+            "text": "は",
+            "offsetMs": 550
+          },
+          {
+            "text": "8月",
+            "offsetMs": 750
+          },
+          {
+            "text": "13日",
+            "offsetMs": 1337.5
+          },
+          {
+            "text": "に",
+            "offsetMs": 2025
+          },
+          {
+            "text": "撮影",
+            "offsetMs": 2150
+          },
+          {
+            "text": "さ",
+            "offsetMs": 2625
+          },
+          {
+            "text": "れ",
+            "offsetMs": 2775
+          },
+          {
+            "text": "世界",
+            "offsetMs": 3350
+          },
+          {
+            "text": "で",
+            "offsetMs": 3737.5
+          },
+          {
+            "text": "最も",
+            "offsetMs": 3900
+          },
+          {
+            "text": "交通",
+            "offsetMs": 4412.5
+          },
+          {
+            "text": "量",
+            "offsetMs": 4875
+          },
+          {
+            "text": "の",
+            "offsetMs": 5112.5
+          },
+          {
+            "text": "多い",
+            "offsetMs": 5212.5
+          },
+          {
+            "text": "海峡",
+            "offsetMs": 5600
+          },
+          {
+            "text": "の",
+            "offsetMs": 6062.5
+          },
+          {
+            "text": "一つ",
+            "offsetMs": 6175
+          },
+          {
+            "text": "を",
+            "offsetMs": 6587.5
+          },
+          {
+            "text": "航行",
+            "offsetMs": 6725
+          },
+          {
+            "text": "する",
+            "offsetMs": 7187.5
+          },
+          {
+            "text": "空母",
+            "offsetMs": 7500
+          },
+          {
+            "text": "の",
+            "offsetMs": 7837.5
+          },
+          {
+            "text": "甲板",
+            "offsetMs": 8012.5
+          },
+          {
+            "text": "が",
+            "offsetMs": 8500
+          },
+          {
+            "text": "映し",
+            "offsetMs": 8637.5
+          },
+          {
+            "text": "出さ",
+            "offsetMs": 9037.5
+          },
+          {
+            "text": "れ",
+            "offsetMs": 9275
+          },
+          {
+            "text": "て",
+            "offsetMs": 9375
+          },
+          {
+            "text": "いる",
+            "offsetMs": 9487.5
+          }
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "sourcePieceId": 119197,
+      "sourceOrder": 9,
+      "ja": "ジョージ・ワシントンはエイブラハム・リンカーンに代わるため中東へ向かっている。",
+      "speechJa": "ジョージ・ワシントンはエイブラハム・リンカーンに代わるため中東へ向かっている。",
+      "en": "The George Washington is heading to the Middle East to replace the Abraham Lincoln.",
+      "zhHant": "喬治・華盛頓號正前往中東，接替林肯號航空母艦。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7542-uss-george-washington-malacca-strait/KM-NEWS-7542-uss-george-washington-malacca-strait-sentence-04-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7542-uss-george-washington-malacca-strait/KM-NEWS-7542-uss-george-washington-malacca-strait-sentence-04-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7542-uss-george-washington-malacca-strait/KM-NEWS-7542-uss-george-washington-malacca-strait-sentence-04-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/1dfaa318-edf4-4114-bcf0-b047f50f1a6e.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "ジョージ",
+            "offsetMs": 50
+          },
+          {
+            "text": "・",
+            "offsetMs": 737.5
+          },
+          {
+            "text": "ワシントン",
+            "offsetMs": 875
+          },
+          {
+            "text": "は",
+            "offsetMs": 1500
+          },
+          {
+            "text": "エイ",
+            "offsetMs": 1662.5
+          },
+          {
+            "text": "ブラハム",
+            "offsetMs": 1887.5
+          },
+          {
+            "text": "・",
+            "offsetMs": 2562.5
+          },
+          {
+            "text": "リンカーン",
+            "offsetMs": 2612.5
+          },
+          {
+            "text": "に",
+            "offsetMs": 3100
+          },
+          {
+            "text": "代わる",
+            "offsetMs": 3275
+          },
+          {
+            "text": "ため",
+            "offsetMs": 3637.5
+          },
+          {
+            "text": "中東",
+            "offsetMs": 3900
+          },
+          {
+            "text": "へ",
+            "offsetMs": 4412.5
+          },
+          {
+            "text": "向かっ",
+            "offsetMs": 4512.5
+          },
+          {
+            "text": "て",
+            "offsetMs": 4875
+          },
+          {
+            "text": "いる",
+            "offsetMs": 4987.5
+          }
+        ]
+      }
+    },
+    {
+      "id": "s05",
+      "sourcePieceId": 119198,
+      "sourceOrder": 10,
+      "ja": "エイブラハム・リンカーンはイランとの戦争の影響で長期にわたり海上にいる。",
+      "speechJa": "エイブラハム・リンカーンはイランとの戦争の影響で長期にわたり海上にいる。",
+      "en": "The Abraham Lincoln has remained at sea for an extended period because of the effects of the war with Iran.",
+      "zhHant": "受與伊朗戰事影響，林肯號已長時間留在海上。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7542-uss-george-washington-malacca-strait/KM-NEWS-7542-uss-george-washington-malacca-strait-sentence-05-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7542-uss-george-washington-malacca-strait/KM-NEWS-7542-uss-george-washington-malacca-strait-sentence-05-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7542-uss-george-washington-malacca-strait/KM-NEWS-7542-uss-george-washington-malacca-strait-sentence-05-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/b408cc46-ccdf-497b-9970-06c993f98323.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "エイ",
+            "offsetMs": 50
+          },
+          {
+            "text": "ブラハム",
+            "offsetMs": 325
+          },
+          {
+            "text": "・",
+            "offsetMs": 1025
+          },
+          {
+            "text": "リンカーン",
+            "offsetMs": 1062.5
+          },
+          {
+            "text": "は",
+            "offsetMs": 1600
+          },
+          {
+            "text": "イラン",
+            "offsetMs": 1875
+          },
+          {
+            "text": "と",
+            "offsetMs": 2187.5
+          },
+          {
+            "text": "の",
+            "offsetMs": 2312.5
+          },
+          {
+            "text": "戦争",
+            "offsetMs": 2462.5
+          },
+          {
+            "text": "の",
+            "offsetMs": 2975
+          },
+          {
+            "text": "影響",
+            "offsetMs": 3075
+          },
+          {
+            "text": "で",
+            "offsetMs": 3550
+          },
+          {
+            "text": "長期",
+            "offsetMs": 3737.5
+          },
+          {
+            "text": "に",
+            "offsetMs": 4162.5
+          },
+          {
+            "text": "わたり",
+            "offsetMs": 4287.5
+          },
+          {
+            "text": "海上",
+            "offsetMs": 4675
+          },
+          {
+            "text": "に",
+            "offsetMs": 5150
+          },
+          {
+            "text": "いる",
+            "offsetMs": 5262.5
+          }
+        ]
+      }
+    },
+    {
+      "id": "s06",
+      "sourcePieceId": 119199,
+      "sourceOrder": 11,
+      "ja": "そのため、議員や軍の関係者の家族の間で懸念が広がっている。",
+      "speechJa": "そのため、議員や軍の関係者の家族の間で懸念が広がっている。",
+      "en": "This has caused concern among lawmakers and the families of military personnel.",
+      "zhHant": "情況引起國會議員及軍人家屬憂慮。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7542-uss-george-washington-malacca-strait/KM-NEWS-7542-uss-george-washington-malacca-strait-sentence-06-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7542-uss-george-washington-malacca-strait/KM-NEWS-7542-uss-george-washington-malacca-strait-sentence-06-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7542-uss-george-washington-malacca-strait/KM-NEWS-7542-uss-george-washington-malacca-strait-sentence-06-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/d2a3ae74-31ac-46b3-bb2b-a262d6d70a3b.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "その",
+            "offsetMs": 50
+          },
+          {
+            "text": "ため",
+            "offsetMs": 400
+          },
+          {
+            "text": "議員",
+            "offsetMs": 1025
+          },
+          {
+            "text": "や",
+            "offsetMs": 1387.5
+          },
+          {
+            "text": "軍",
+            "offsetMs": 1625
+          },
+          {
+            "text": "の",
+            "offsetMs": 1900
+          },
+          {
+            "text": "関係者",
+            "offsetMs": 2062.5
+          },
+          {
+            "text": "の",
+            "offsetMs": 2637.5
+          },
+          {
+            "text": "家族",
+            "offsetMs": 2812.5
+          },
+          {
+            "text": "の",
+            "offsetMs": 3200
+          },
+          {
+            "text": "間",
+            "offsetMs": 3300
+          },
+          {
+            "text": "で",
+            "offsetMs": 3662.5
+          },
+          {
+            "text": "懸念",
+            "offsetMs": 3900
+          },
+          {
+            "text": "が",
+            "offsetMs": 4275
+          },
+          {
+            "text": "広がっ",
+            "offsetMs": 4387.5
+          },
+          {
+            "text": "て",
+            "offsetMs": 4875
+          },
+          {
+            "text": "いる",
+            "offsetMs": 4987.5
+          }
+        ]
+      }
+    },
+    {
+      "id": "s07",
+      "sourcePieceId": 119200,
+      "sourceOrder": 12,
+      "ja": "今月初め、エイブラハム・リンカーンから乗組員が海に転落した。",
+      "speechJa": "今月初め、エイブラハム・リンカーンからのりくみいんが海に転落した。",
+      "en": "Earlier this month, a crew member fell overboard from the Abraham Lincoln.",
+      "zhHant": "本月初，林肯號一名船員墮海。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7542-uss-george-washington-malacca-strait/KM-NEWS-7542-uss-george-washington-malacca-strait-sentence-07-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7542-uss-george-washington-malacca-strait/KM-NEWS-7542-uss-george-washington-malacca-strait-sentence-07-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7542-uss-george-washington-malacca-strait/KM-NEWS-7542-uss-george-washington-malacca-strait-sentence-07-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/a60aec5a-6fca-43cf-aa3e-d73e4affe6a4.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "今月",
+            "offsetMs": 50
+          },
+          {
+            "text": "初め",
+            "offsetMs": 587.5
+          },
+          {
+            "text": "エイブラハム",
+            "offsetMs": 1200
+          },
+          {
+            "text": "・",
+            "offsetMs": 2037.5
+          },
+          {
+            "text": "リンカーン",
+            "offsetMs": 2062.5
+          },
+          {
+            "text": "から",
+            "offsetMs": 2562.5
+          },
+          {
+            "text": "乗組員",
+            "offsetMs": 2837.5
+          },
+          {
+            "text": "が",
+            "offsetMs": 3487.5
+          },
+          {
+            "text": "海",
+            "offsetMs": 3625
+          },
+          {
+            "text": "に",
+            "offsetMs": 3875
+          },
+          {
+            "text": "転落",
+            "offsetMs": 4037.5
+          },
+          {
+            "text": "し",
+            "offsetMs": 4475
+          },
+          {
+            "text": "た",
+            "offsetMs": 4600
+          }
+        ]
+      }
+    },
+    {
+      "id": "s08",
+      "sourcePieceId": 119201,
+      "sourceOrder": 13,
+      "ja": "また、乗組員の精神状態の悪化が報じられている。",
+      "speechJa": "また、のりくみいんの精神状態の悪化が報じられている。",
+      "en": "There have also been reports of worsening mental health among the crew.",
+      "zhHant": "另有報道指，船員的精神健康狀況正在惡化。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7542-uss-george-washington-malacca-strait/KM-NEWS-7542-uss-george-washington-malacca-strait-sentence-08-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7542-uss-george-washington-malacca-strait/KM-NEWS-7542-uss-george-washington-malacca-strait-sentence-08-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7542-uss-george-washington-malacca-strait/KM-NEWS-7542-uss-george-washington-malacca-strait-sentence-08-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/2aabee09-b519-4e59-9558-03b6de574050.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "また",
+            "offsetMs": 50
+          },
+          {
+            "text": "乗組員",
+            "offsetMs": 725
+          },
+          {
+            "text": "の",
+            "offsetMs": 1387.5
+          },
+          {
+            "text": "精神",
+            "offsetMs": 1562.5
+          },
+          {
+            "text": "状態",
+            "offsetMs": 2062.5
+          },
+          {
+            "text": "の",
+            "offsetMs": 2462.5
+          },
+          {
+            "text": "悪化",
+            "offsetMs": 2562.5
+          },
+          {
+            "text": "が",
+            "offsetMs": 2937.5
+          },
+          {
+            "text": "報じ",
+            "offsetMs": 3075
+          },
+          {
+            "text": "ら",
+            "offsetMs": 3475
+          },
+          {
+            "text": "れ",
+            "offsetMs": 3587.5
+          },
+          {
+            "text": "て",
+            "offsetMs": 3712.5
+          },
+          {
+            "text": "いる",
+            "offsetMs": 3837.5
+          }
+        ]
+      }
+    },
+    {
+      "id": "s09",
+      "sourcePieceId": 119202,
+      "sourceOrder": 14,
+      "ja": "さらに公開された映像には、18日にジョージ・ワシントンから航空機が夜間の任務に飛び立つ様子が映っていた。",
+      "speechJa": "さらに公開された映像には、じゅうはちにちにジョージ・ワシントンから航空機が夜間の任務に飛び立つ様子が映っていた。",
+      "en": "Other released footage showed aircraft taking off from the George Washington on a night mission on the 18th.",
+      "zhHant": "另一段公開片段顯示，飛機於18日從喬治・華盛頓號起飛，執行夜間任務。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7542-uss-george-washington-malacca-strait/KM-NEWS-7542-uss-george-washington-malacca-strait-sentence-09-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7542-uss-george-washington-malacca-strait/KM-NEWS-7542-uss-george-washington-malacca-strait-sentence-09-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7542-uss-george-washington-malacca-strait/KM-NEWS-7542-uss-george-washington-malacca-strait-sentence-09-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/7afc4183-b0d3-4733-9eda-df76499edf6b.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "さら",
+            "offsetMs": 50
+          },
+          {
+            "text": "に",
+            "offsetMs": 387.5
+          },
+          {
+            "text": "公開",
+            "offsetMs": 562.5
+          },
+          {
+            "text": "さ",
+            "offsetMs": 1000
+          },
+          {
+            "text": "れ",
+            "offsetMs": 1137.5
+          },
+          {
+            "text": "た",
+            "offsetMs": 1237.5
+          },
+          {
+            "text": "映像",
+            "offsetMs": 1362.5
+          },
+          {
+            "text": "に",
+            "offsetMs": 1825
+          },
+          {
+            "text": "は",
+            "offsetMs": 1925
+          },
+          {
+            "text": "18日",
+            "offsetMs": 2387.5
+          },
+          {
+            "text": "に",
+            "offsetMs": 3187.5
+          },
+          {
+            "text": "ジョージ",
+            "offsetMs": 3350
+          },
+          {
+            "text": "・",
+            "offsetMs": 3925
+          },
+          {
+            "text": "ワシントン",
+            "offsetMs": 4037.5
+          },
+          {
+            "text": "から",
+            "offsetMs": 4612.5
+          },
+          {
+            "text": "航空機",
+            "offsetMs": 4912.5
+          },
+          {
+            "text": "が",
+            "offsetMs": 5500
+          },
+          {
+            "text": "夜間",
+            "offsetMs": 5687.5
+          },
+          {
+            "text": "の",
+            "offsetMs": 6087.5
+          },
+          {
+            "text": "任務",
+            "offsetMs": 6225
+          },
+          {
+            "text": "に",
+            "offsetMs": 6587.5
+          },
+          {
+            "text": "飛び立つ",
+            "offsetMs": 6762.5
+          },
+          {
+            "text": "様子",
+            "offsetMs": 7287.5
+          },
+          {
+            "text": "が",
+            "offsetMs": 7662.5
+          },
+          {
+            "text": "映っ",
+            "offsetMs": 7775
+          },
+          {
+            "text": "て",
+            "offsetMs": 8125
+          },
+          {
+            "text": "い",
+            "offsetMs": 8225
+          },
+          {
+            "text": "た",
+            "offsetMs": 8350
+          }
+        ]
+      }
+    },
+    {
+      "id": "s10",
+      "sourcePieceId": 119203,
+      "sourceOrder": 15,
+      "ja": "ジョージ・ワシントンの派遣により、現状で太平洋には米空母が存在しない。",
+      "speechJa": "ジョージ・ワシントンのはけんにより、現状で太平洋にはべいくうぼが存在しない。",
+      "en": "With the George Washington deployed, there is currently no US aircraft carrier in the Pacific.",
+      "zhHant": "隨着喬治・華盛頓號調派離開，目前太平洋並無美國航空母艦駐守。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7542-uss-george-washington-malacca-strait/KM-NEWS-7542-uss-george-washington-malacca-strait-sentence-10-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7542-uss-george-washington-malacca-strait/KM-NEWS-7542-uss-george-washington-malacca-strait-sentence-10-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7542-uss-george-washington-malacca-strait/KM-NEWS-7542-uss-george-washington-malacca-strait-sentence-10-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/7e5da329-6fa7-4791-864f-5d8c549e4f00.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "ジョージ",
+            "offsetMs": 50
+          },
+          {
+            "text": "・",
+            "offsetMs": 725
+          },
+          {
+            "text": "ワシントン",
+            "offsetMs": 850
+          },
+          {
+            "text": "の",
+            "offsetMs": 1462.5
+          },
+          {
+            "text": "派遣",
+            "offsetMs": 1587.5
+          },
+          {
+            "text": "に",
+            "offsetMs": 1950
+          },
+          {
+            "text": "より",
+            "offsetMs": 2087.5
+          },
+          {
+            "text": "現状",
+            "offsetMs": 2612.5
+          },
+          {
+            "text": "で",
+            "offsetMs": 3087.5
+          },
+          {
+            "text": "太平洋",
+            "offsetMs": 3237.5
+          },
+          {
+            "text": "に",
+            "offsetMs": 3862.5
+          },
+          {
+            "text": "は",
+            "offsetMs": 3962.5
+          },
+          {
+            "text": "米空母",
+            "offsetMs": 4200
+          },
+          {
+            "text": "が",
+            "offsetMs": 4775
+          },
+          {
+            "text": "存在",
+            "offsetMs": 4925
+          },
+          {
+            "text": "し",
+            "offsetMs": 5387.5
+          },
+          {
+            "text": "ない",
+            "offsetMs": 5550
+          }
+        ]
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "v01",
+      "surface": "空母",
+      "reading": "くうぼ",
+      "en": "aircraft carrier",
+      "zhHant": "航空母艦",
+      "speechJa": "くうぼ",
+      "audio": {
+        "file": "../audio/7542-uss-george-washington-malacca-strait/KM-NEWS-7542-uss-george-washington-malacca-strait-vocab-01-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    },
+    {
+      "id": "v02",
+      "surface": "海峡",
+      "reading": "かいきょう",
+      "en": "strait",
+      "zhHant": "海峽",
+      "speechJa": "かいきょう",
+      "audio": {
+        "file": "../audio/7542-uss-george-washington-malacca-strait/KM-NEWS-7542-uss-george-washington-malacca-strait-vocab-02-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    },
+    {
+      "id": "v03",
+      "surface": "乗組員",
+      "reading": "のりくみいん",
+      "en": "crew member",
+      "zhHant": "船員",
+      "speechJa": "のりくみいん",
+      "audio": {
+        "file": "../audio/7542-uss-george-washington-malacca-strait/KM-NEWS-7542-uss-george-washington-malacca-strait-vocab-03-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    },
+    {
+      "id": "v04",
+      "surface": "航行",
+      "reading": "こうこう",
+      "en": "navigation; to sail",
+      "zhHant": "航行",
+      "speechJa": "こうこう",
+      "audio": {
+        "file": "../audio/7542-uss-george-washington-malacca-strait/KM-NEWS-7542-uss-george-washington-malacca-strait-vocab-04-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    },
+    {
+      "id": "v05",
+      "surface": "派遣",
+      "reading": "はけん",
+      "en": "deployment; dispatch",
+      "zhHant": "派遣",
+      "speechJa": "はけん",
+      "audio": {
+        "file": "../audio/7542-uss-george-washington-malacca-strait/KM-NEWS-7542-uss-george-washington-malacca-strait-vocab-05-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    }
+  ],
+  "readingMinutes": 2,
+  "keywordCount": 5,
+  "playbackRates": [
+    0.8,
+    1.0,
+    1.2
+  ],
+  "audioPolicy": "Play Nanami sentence files sequentially; do not pitch-shift. Use each timing JSON at the selected playback rate. Source narration is retained only as an editorial backup.",
+  "cardPreview": {
+    "ja": "空母は中東へ向かいながら、インド洋で航空任務を実施しています。",
+    "speechJa": "くうぼは中東へ向かいながら、インド洋で航空任務を実施しています。",
+    "audio": "../audio/7542-uss-george-washington-malacca-strait/KM-NEWS-7542-uss-george-washington-malacca-strait-card-preview-ja-Nanami.mp3",
+    "timings": "../audio/7542-uss-george-washington-malacca-strait/KM-NEWS-7542-uss-george-washington-malacca-strait-card-preview-ja-Nanami-timings.json",
+    "voice": "ja-JP-NanamiNeural"
+  }
+}

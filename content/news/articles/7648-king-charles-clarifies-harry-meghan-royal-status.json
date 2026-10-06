@@ -1,0 +1,1029 @@
+{
+  "schemaVersion": 1,
+  "id": 7648,
+  "slug": "king-charles-clarifies-harry-meghan-royal-status",
+  "sourceType": "kokomonster-existing",
+  "demoOnly": false,
+  "date": "2026-09-08",
+  "level": "N4",
+  "category": {
+    "key": "Global",
+    "ja": "国際",
+    "en": "Global",
+    "zhHant": "國際"
+  },
+  "reservedPath": "/ja/news/Global/king-charles-clarifies-harry-meghan-royal-status-7648",
+  "reservedUrl": "https://kokomonster.com/ja/news/Global/king-charles-clarifies-harry-meghan-royal-status-7648",
+  "sourceUrl": "https://kokomonster.com/ja/news/Global/%E3%83%81%E3%83%A3%E3%83%BC%E3%83%AB%E3%82%BA%E5%9B%BD%E7%8E%8B%E3%80%81%E3%83%98%E3%83%B3%E3%83%AA%E3%83%BC%E7%8E%8B%E5%AD%90%E3%81%A8%E3%83%A1%E3%83%BC%E3%82%AC%E3%83%B3%E5%A6%83%E3%81%AE%E7%8E%8B%E5%AE%A4%E3%81%A7%E3%81%AE%E7%AB%8B%E5%A0%B4%E3%82%92%E6%98%8E%E7%A2%BA%E5%8C%96-7648",
+  "title": {
+    "ja": "チャールズ国王、ヘンリー王子とメーガン妃の王室での立場を明確化",
+    "en": "King Charles clarifies Harry and Meghan’s royal status",
+    "zhHant": "查理斯國王澄清哈里王子與梅根的王室身分"
+  },
+  "summary": {
+    "ja": "チャールズ国王は、ヘンリー王子とメーガン妃が公務に就かない王族であることを表明し、彼らの立場が変わらないことを強調した。",
+    "en": "King Charles says Prince Harry and Meghan remain non-working members of the royal family and that their position will not change.",
+    "zhHant": "查理斯國王表示，哈里王子與梅根仍是不履行王室公務的王室成員，而二人的身分不會改變。"
+  },
+  "cover": {
+    "file": "../../../assets/news-covers/royal-letter.png",
+    "sourceUrl": "https://api.kokomonster.com/file/resources/crawled-raw-news/2026-09-08/9888/1788841910743.jpg"
+  },
+  "sentences": [
+    {
+      "id": "s01",
+      "sourcePieceId": 122080,
+      "sourceOrder": 6,
+      "ja": "チャールズ国王は7日、ヘンリー王子とメーガン妃について公務に就かない王族であると表明した。",
+      "speechJa": "チャールズ国王はなのか、ヘンリー王子とメーガン妃についてこうむに就かない王族であるとひょうめいした。",
+      "en": "King Charles said on the 7th that Prince Harry and Meghan are members of the royal family who do not undertake official duties.",
+      "zhHant": "查理斯國王於7日表示，哈里王子與梅根是不履行王室公務的王室成員。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7648-king-charles-clarifies-harry-meghan-royal-status/KM-NEWS-7648-king-charles-clarifies-harry-meghan-royal-status-sentence-01-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7648-king-charles-clarifies-harry-meghan-royal-status/KM-NEWS-7648-king-charles-clarifies-harry-meghan-royal-status-sentence-01-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7648-king-charles-clarifies-harry-meghan-royal-status/KM-NEWS-7648-king-charles-clarifies-harry-meghan-royal-status-sentence-01-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/71baad3d-0566-451f-a925-b93dd586171b.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "チャールズ",
+            "offsetMs": 50
+          },
+          {
+            "text": "国王",
+            "offsetMs": 612.5
+          },
+          {
+            "text": "は",
+            "offsetMs": 1075
+          },
+          {
+            "text": "7日",
+            "offsetMs": 1237.5
+          },
+          {
+            "text": "ヘンリー",
+            "offsetMs": 2075
+          },
+          {
+            "text": "王子",
+            "offsetMs": 2487.5
+          },
+          {
+            "text": "と",
+            "offsetMs": 2875
+          },
+          {
+            "text": "メーガン",
+            "offsetMs": 3112.5
+          },
+          {
+            "text": "妃",
+            "offsetMs": 3537.5
+          },
+          {
+            "text": "に",
+            "offsetMs": 3712.5
+          },
+          {
+            "text": "つい",
+            "offsetMs": 3850
+          },
+          {
+            "text": "て",
+            "offsetMs": 4100
+          },
+          {
+            "text": "公務",
+            "offsetMs": 4337.5
+          },
+          {
+            "text": "に",
+            "offsetMs": 4712.5
+          },
+          {
+            "text": "就か",
+            "offsetMs": 4862.5
+          },
+          {
+            "text": "ない",
+            "offsetMs": 5112.5
+          },
+          {
+            "text": "王族",
+            "offsetMs": 5350
+          },
+          {
+            "text": "で",
+            "offsetMs": 5762.5
+          },
+          {
+            "text": "ある",
+            "offsetMs": 5862.5
+          },
+          {
+            "text": "と",
+            "offsetMs": 6087.5
+          },
+          {
+            "text": "表明",
+            "offsetMs": 6200
+          },
+          {
+            "text": "し",
+            "offsetMs": 6675
+          },
+          {
+            "text": "た",
+            "offsetMs": 6800
+          }
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "sourcePieceId": 122081,
+      "sourceOrder": 7,
+      "ja": "侍従長は書簡で、公爵夫妻が王室の公務を担うメンバーではないことが周知の事実であると述べた。",
+      "speechJa": "侍従長はしょかんで、公爵夫妻がおうしつのこうむを担うメンバーではないことがしゅうちの事実であると述べた。",
+      "en": "The Lord Chamberlain wrote that it is widely known that the Duke and Duchess are not working members of the royal family.",
+      "zhHant": "王室侍從長在信中指出，公爵夫婦並非履行公務的王室成員，這一點早已廣為人知。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7648-king-charles-clarifies-harry-meghan-royal-status/KM-NEWS-7648-king-charles-clarifies-harry-meghan-royal-status-sentence-02-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7648-king-charles-clarifies-harry-meghan-royal-status/KM-NEWS-7648-king-charles-clarifies-harry-meghan-royal-status-sentence-02-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7648-king-charles-clarifies-harry-meghan-royal-status/KM-NEWS-7648-king-charles-clarifies-harry-meghan-royal-status-sentence-02-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/3250a911-011e-4adc-8b11-f4679a218671.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "侍従長",
+            "offsetMs": 50
+          },
+          {
+            "text": "は",
+            "offsetMs": 762.5
+          },
+          {
+            "text": "書簡",
+            "offsetMs": 900
+          },
+          {
+            "text": "で",
+            "offsetMs": 1300
+          },
+          {
+            "text": "公爵",
+            "offsetMs": 1787.5
+          },
+          {
+            "text": "夫妻",
+            "offsetMs": 2300
+          },
+          {
+            "text": "が",
+            "offsetMs": 2650
+          },
+          {
+            "text": "王室",
+            "offsetMs": 2825
+          },
+          {
+            "text": "の",
+            "offsetMs": 3262.5
+          },
+          {
+            "text": "公務",
+            "offsetMs": 3400
+          },
+          {
+            "text": "を",
+            "offsetMs": 3725
+          },
+          {
+            "text": "担う",
+            "offsetMs": 3862.5
+          },
+          {
+            "text": "メンバー",
+            "offsetMs": 4287.5
+          },
+          {
+            "text": "で",
+            "offsetMs": 4687.5
+          },
+          {
+            "text": "は",
+            "offsetMs": 4800
+          },
+          {
+            "text": "ない",
+            "offsetMs": 4987.5
+          },
+          {
+            "text": "こと",
+            "offsetMs": 5237.5
+          },
+          {
+            "text": "が",
+            "offsetMs": 5475
+          },
+          {
+            "text": "周知",
+            "offsetMs": 5700
+          },
+          {
+            "text": "の",
+            "offsetMs": 6112.5
+          },
+          {
+            "text": "事実",
+            "offsetMs": 6237.5
+          },
+          {
+            "text": "で",
+            "offsetMs": 6650
+          },
+          {
+            "text": "ある",
+            "offsetMs": 6750
+          },
+          {
+            "text": "と",
+            "offsetMs": 6987.5
+          },
+          {
+            "text": "述べ",
+            "offsetMs": 7125
+          },
+          {
+            "text": "た",
+            "offsetMs": 7387.5
+          }
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "sourcePieceId": 122082,
+      "sourceOrder": 8,
+      "ja": "この立場は「今後も尊重される」と強調されている。",
+      "speechJa": "このたちばは「今後も尊重される」と強調されている。",
+      "en": "The letter stressed that this position “will continue to be respected.”",
+      "zhHant": "信中強調，這一身分「今後仍會受到尊重」。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7648-king-charles-clarifies-harry-meghan-royal-status/KM-NEWS-7648-king-charles-clarifies-harry-meghan-royal-status-sentence-03-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7648-king-charles-clarifies-harry-meghan-royal-status/KM-NEWS-7648-king-charles-clarifies-harry-meghan-royal-status-sentence-03-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7648-king-charles-clarifies-harry-meghan-royal-status/KM-NEWS-7648-king-charles-clarifies-harry-meghan-royal-status-sentence-03-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/004222be-5a4a-43d6-bbfc-0a724d1d1c81.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "この",
+            "offsetMs": 50
+          },
+          {
+            "text": "立場",
+            "offsetMs": 375
+          },
+          {
+            "text": "は",
+            "offsetMs": 762.5
+          },
+          {
+            "text": "「",
+            "offsetMs": 1150
+          },
+          {
+            "text": "今後",
+            "offsetMs": 1275
+          },
+          {
+            "text": "も",
+            "offsetMs": 1650
+          },
+          {
+            "text": "尊重",
+            "offsetMs": 1787.5
+          },
+          {
+            "text": "さ",
+            "offsetMs": 2287.5
+          },
+          {
+            "text": "れる",
+            "offsetMs": 2400
+          },
+          {
+            "text": "」",
+            "offsetMs": 2762.5
+          },
+          {
+            "text": "と",
+            "offsetMs": 2787.5
+          },
+          {
+            "text": "強調",
+            "offsetMs": 2937.5
+          },
+          {
+            "text": "さ",
+            "offsetMs": 3425
+          },
+          {
+            "text": "れ",
+            "offsetMs": 3550
+          },
+          {
+            "text": "て",
+            "offsetMs": 3650
+          },
+          {
+            "text": "いる",
+            "offsetMs": 3762.5
+          }
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "sourcePieceId": 122083,
+      "sourceOrder": 9,
+      "ja": "書簡は政府や軍の高官、夫妻の関係者に送付された。",
+      "speechJa": "しょかんは政府や軍の高官、夫妻の関係者に送付された。",
+      "en": "The letter was sent to senior government and military officials, as well as people connected with the couple.",
+      "zhHant": "該信函已送交政府及軍方高層，以及與夫婦二人有關的人士。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7648-king-charles-clarifies-harry-meghan-royal-status/KM-NEWS-7648-king-charles-clarifies-harry-meghan-royal-status-sentence-04-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7648-king-charles-clarifies-harry-meghan-royal-status/KM-NEWS-7648-king-charles-clarifies-harry-meghan-royal-status-sentence-04-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7648-king-charles-clarifies-harry-meghan-royal-status/KM-NEWS-7648-king-charles-clarifies-harry-meghan-royal-status-sentence-04-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/d4cd725f-0cef-4c64-b852-3b3d4a366c1d.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "書簡",
+            "offsetMs": 50
+          },
+          {
+            "text": "は",
+            "offsetMs": 537.5
+          },
+          {
+            "text": "政府",
+            "offsetMs": 750
+          },
+          {
+            "text": "や",
+            "offsetMs": 1162.5
+          },
+          {
+            "text": "軍",
+            "offsetMs": 1350
+          },
+          {
+            "text": "の",
+            "offsetMs": 1612.5
+          },
+          {
+            "text": "高官",
+            "offsetMs": 1775
+          },
+          {
+            "text": "夫妻",
+            "offsetMs": 2587.5
+          },
+          {
+            "text": "の",
+            "offsetMs": 2912.5
+          },
+          {
+            "text": "関係者",
+            "offsetMs": 3062.5
+          },
+          {
+            "text": "に",
+            "offsetMs": 3625
+          },
+          {
+            "text": "送付",
+            "offsetMs": 3775
+          },
+          {
+            "text": "さ",
+            "offsetMs": 4112.5
+          },
+          {
+            "text": "れ",
+            "offsetMs": 4250
+          },
+          {
+            "text": "た",
+            "offsetMs": 4350
+          }
+        ]
+      }
+    },
+    {
+      "id": "s05",
+      "sourcePieceId": 122084,
+      "sourceOrder": 10,
+      "ja": "王室の新たな活動日程が始まるにあたり、夫妻の立場について明確化の要望があった。",
+      "speechJa": "おうしつの新たな活動日程が始まるにあたり、夫妻のたちばについて明確化の要望があった。",
+      "en": "As a new schedule of royal engagements begins, there had been calls to clarify the couple’s position.",
+      "zhHant": "隨着王室新一輪活動日程展開，外界要求進一步釐清夫婦二人的身分。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7648-king-charles-clarifies-harry-meghan-royal-status/KM-NEWS-7648-king-charles-clarifies-harry-meghan-royal-status-sentence-05-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7648-king-charles-clarifies-harry-meghan-royal-status/KM-NEWS-7648-king-charles-clarifies-harry-meghan-royal-status-sentence-05-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7648-king-charles-clarifies-harry-meghan-royal-status/KM-NEWS-7648-king-charles-clarifies-harry-meghan-royal-status-sentence-05-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/8e042a24-f0f1-42b8-8967-7573f75ddc34.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "王室",
+            "offsetMs": 50
+          },
+          {
+            "text": "の",
+            "offsetMs": 575
+          },
+          {
+            "text": "新た",
+            "offsetMs": 700
+          },
+          {
+            "text": "な",
+            "offsetMs": 1112.5
+          },
+          {
+            "text": "活動",
+            "offsetMs": 1262.5
+          },
+          {
+            "text": "日程",
+            "offsetMs": 1737.5
+          },
+          {
+            "text": "が",
+            "offsetMs": 2162.5
+          },
+          {
+            "text": "始ま",
+            "offsetMs": 2287.5
+          },
+          {
+            "text": "る",
+            "offsetMs": 2700
+          },
+          {
+            "text": "に",
+            "offsetMs": 2800
+          },
+          {
+            "text": "あたり",
+            "offsetMs": 2900
+          },
+          {
+            "text": "夫妻",
+            "offsetMs": 3675
+          },
+          {
+            "text": "の",
+            "offsetMs": 4025
+          },
+          {
+            "text": "立場",
+            "offsetMs": 4175
+          },
+          {
+            "text": "に",
+            "offsetMs": 4550
+          },
+          {
+            "text": "つい",
+            "offsetMs": 4700
+          },
+          {
+            "text": "て",
+            "offsetMs": 4950
+          },
+          {
+            "text": "明確化",
+            "offsetMs": 5225
+          },
+          {
+            "text": "の",
+            "offsetMs": 5787.5
+          },
+          {
+            "text": "要望",
+            "offsetMs": 5925
+          },
+          {
+            "text": "が",
+            "offsetMs": 6362.5
+          },
+          {
+            "text": "あっ",
+            "offsetMs": 6462.5
+          },
+          {
+            "text": "た",
+            "offsetMs": 6700
+          }
+        ]
+      }
+    },
+    {
+      "id": "s06",
+      "sourcePieceId": 122085,
+      "sourceOrder": 11,
+      "ja": "ヘンリー王子とメーガン妃は、王室の公務から退いて北米に移住した。",
+      "speechJa": "ヘンリー王子とメーガン妃は、おうしつのこうむから退いて北米に移住した。",
+      "en": "Prince Harry and Meghan stepped back from royal duties and moved to North America.",
+      "zhHant": "哈里王子與梅根退出王室公務後，移居北美。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7648-king-charles-clarifies-harry-meghan-royal-status/KM-NEWS-7648-king-charles-clarifies-harry-meghan-royal-status-sentence-06-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7648-king-charles-clarifies-harry-meghan-royal-status/KM-NEWS-7648-king-charles-clarifies-harry-meghan-royal-status-sentence-06-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7648-king-charles-clarifies-harry-meghan-royal-status/KM-NEWS-7648-king-charles-clarifies-harry-meghan-royal-status-sentence-06-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/1483eb9d-23e7-4410-9837-2333e1a056b7.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "ヘンリー",
+            "offsetMs": 50
+          },
+          {
+            "text": "王子",
+            "offsetMs": 537.5
+          },
+          {
+            "text": "と",
+            "offsetMs": 925
+          },
+          {
+            "text": "メーガン",
+            "offsetMs": 1075
+          },
+          {
+            "text": "妃",
+            "offsetMs": 1500
+          },
+          {
+            "text": "は",
+            "offsetMs": 1687.5
+          },
+          {
+            "text": "王室",
+            "offsetMs": 2200
+          },
+          {
+            "text": "の",
+            "offsetMs": 2650
+          },
+          {
+            "text": "公務",
+            "offsetMs": 2787.5
+          },
+          {
+            "text": "から",
+            "offsetMs": 3137.5
+          },
+          {
+            "text": "退い",
+            "offsetMs": 3375
+          },
+          {
+            "text": "て",
+            "offsetMs": 3912.5
+          },
+          {
+            "text": "北米",
+            "offsetMs": 4075
+          },
+          {
+            "text": "に",
+            "offsetMs": 4537.5
+          },
+          {
+            "text": "移住",
+            "offsetMs": 4662.5
+          },
+          {
+            "text": "し",
+            "offsetMs": 5000
+          },
+          {
+            "text": "た",
+            "offsetMs": 5125
+          }
+        ]
+      }
+    },
+    {
+      "id": "s07",
+      "sourcePieceId": 122086,
+      "sourceOrder": 12,
+      "ja": "彼らは先月末、アーチー王子とリリベット王女と共に英国に戻った。",
+      "speechJa": "彼らは先月末、アーチー王子とリリベット王女と共にえいこくに戻った。",
+      "en": "They returned to Britain late last month with Prince Archie and Princess Lilibet.",
+      "zhHant": "上月底，二人與阿奇王子及莉莉貝特公主一同返回英國。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7648-king-charles-clarifies-harry-meghan-royal-status/KM-NEWS-7648-king-charles-clarifies-harry-meghan-royal-status-sentence-07-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7648-king-charles-clarifies-harry-meghan-royal-status/KM-NEWS-7648-king-charles-clarifies-harry-meghan-royal-status-sentence-07-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7648-king-charles-clarifies-harry-meghan-royal-status/KM-NEWS-7648-king-charles-clarifies-harry-meghan-royal-status-sentence-07-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/7051389b-d27f-4567-b8d5-7e085e8669f7.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "彼ら",
+            "offsetMs": 50
+          },
+          {
+            "text": "は",
+            "offsetMs": 462.5
+          },
+          {
+            "text": "先月末",
+            "offsetMs": 637.5
+          },
+          {
+            "text": "アーチー",
+            "offsetMs": 1725
+          },
+          {
+            "text": "王子",
+            "offsetMs": 2212.5
+          },
+          {
+            "text": "と",
+            "offsetMs": 2600
+          },
+          {
+            "text": "リリベット",
+            "offsetMs": 2850
+          },
+          {
+            "text": "王女",
+            "offsetMs": 3462.5
+          },
+          {
+            "text": "と",
+            "offsetMs": 3787.5
+          },
+          {
+            "text": "共",
+            "offsetMs": 3937.5
+          },
+          {
+            "text": "に",
+            "offsetMs": 4175
+          },
+          {
+            "text": "英国",
+            "offsetMs": 4400
+          },
+          {
+            "text": "に",
+            "offsetMs": 4837.5
+          },
+          {
+            "text": "戻っ",
+            "offsetMs": 4950
+          },
+          {
+            "text": "た",
+            "offsetMs": 5300
+          }
+        ]
+      }
+    },
+    {
+      "id": "s08",
+      "sourcePieceId": 122087,
+      "sourceOrder": 13,
+      "ja": "書簡によると、夫妻の慈善活動は私的なものとして行われると位置づけられている。",
+      "speechJa": "しょかんによると、夫妻のじぜんかつどうは私的なものとして行われると位置づけられている。",
+      "en": "According to the letter, the couple’s charitable work will be carried out in a private capacity.",
+      "zhHant": "信中亦指出，夫婦二人的慈善工作將以私人身分進行。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7648-king-charles-clarifies-harry-meghan-royal-status/KM-NEWS-7648-king-charles-clarifies-harry-meghan-royal-status-sentence-08-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7648-king-charles-clarifies-harry-meghan-royal-status/KM-NEWS-7648-king-charles-clarifies-harry-meghan-royal-status-sentence-08-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7648-king-charles-clarifies-harry-meghan-royal-status/KM-NEWS-7648-king-charles-clarifies-harry-meghan-royal-status-sentence-08-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/6cf6ae62-4126-4e35-90aa-b0d61a4998ad.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "書簡",
+            "offsetMs": 50
+          },
+          {
+            "text": "に",
+            "offsetMs": 500
+          },
+          {
+            "text": "よる",
+            "offsetMs": 637.5
+          },
+          {
+            "text": "と",
+            "offsetMs": 900
+          },
+          {
+            "text": "夫妻",
+            "offsetMs": 1387.5
+          },
+          {
+            "text": "の",
+            "offsetMs": 1737.5
+          },
+          {
+            "text": "慈善",
+            "offsetMs": 1887.5
+          },
+          {
+            "text": "活動",
+            "offsetMs": 2250
+          },
+          {
+            "text": "は",
+            "offsetMs": 2712.5
+          },
+          {
+            "text": "私的",
+            "offsetMs": 2975
+          },
+          {
+            "text": "な",
+            "offsetMs": 3325
+          },
+          {
+            "text": "もの",
+            "offsetMs": 3425
+          },
+          {
+            "text": "と",
+            "offsetMs": 3650
+          },
+          {
+            "text": "し",
+            "offsetMs": 3775
+          },
+          {
+            "text": "て",
+            "offsetMs": 3875
+          },
+          {
+            "text": "行わ",
+            "offsetMs": 3962.5
+          },
+          {
+            "text": "れる",
+            "offsetMs": 4462.5
+          },
+          {
+            "text": "と",
+            "offsetMs": 4712.5
+          },
+          {
+            "text": "位置づけ",
+            "offsetMs": 4937.5
+          },
+          {
+            "text": "ら",
+            "offsetMs": 5450
+          },
+          {
+            "text": "れ",
+            "offsetMs": 5562.5
+          },
+          {
+            "text": "て",
+            "offsetMs": 5687.5
+          },
+          {
+            "text": "いる",
+            "offsetMs": 5812.5
+          }
+        ]
+      }
+    },
+    {
+      "id": "s09",
+      "sourcePieceId": 122088,
+      "sourceOrder": 14,
+      "ja": "夫妻の立場は一般市民と同等であると明記されている。",
+      "speechJa": "夫妻のたちばは一般市民と同等であると明記されている。",
+      "en": "It states that the couple’s position is equivalent to that of private citizens.",
+      "zhHant": "信函明確說明，夫婦二人的地位等同一般市民。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7648-king-charles-clarifies-harry-meghan-royal-status/KM-NEWS-7648-king-charles-clarifies-harry-meghan-royal-status-sentence-09-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7648-king-charles-clarifies-harry-meghan-royal-status/KM-NEWS-7648-king-charles-clarifies-harry-meghan-royal-status-sentence-09-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7648-king-charles-clarifies-harry-meghan-royal-status/KM-NEWS-7648-king-charles-clarifies-harry-meghan-royal-status-sentence-09-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/5fee8bd4-c30b-481f-aa44-64d2f22a7c43.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "夫妻",
+            "offsetMs": 50
+          },
+          {
+            "text": "の",
+            "offsetMs": 462.5
+          },
+          {
+            "text": "立場",
+            "offsetMs": 600
+          },
+          {
+            "text": "は",
+            "offsetMs": 1000
+          },
+          {
+            "text": "一般",
+            "offsetMs": 1300
+          },
+          {
+            "text": "市民",
+            "offsetMs": 1712.5
+          },
+          {
+            "text": "と",
+            "offsetMs": 2100
+          },
+          {
+            "text": "同等",
+            "offsetMs": 2300
+          },
+          {
+            "text": "で",
+            "offsetMs": 2750
+          },
+          {
+            "text": "ある",
+            "offsetMs": 2850
+          },
+          {
+            "text": "と",
+            "offsetMs": 3075
+          },
+          {
+            "text": "明記",
+            "offsetMs": 3225
+          },
+          {
+            "text": "さ",
+            "offsetMs": 3562.5
+          },
+          {
+            "text": "れ",
+            "offsetMs": 3700
+          },
+          {
+            "text": "て",
+            "offsetMs": 3800
+          },
+          {
+            "text": "いる",
+            "offsetMs": 3912.5
+          }
+        ]
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "v01",
+      "surface": "王室",
+      "reading": "おうしつ",
+      "en": "royal family",
+      "zhHant": "王室",
+      "speechJa": "おうしつ",
+      "audio": {
+        "file": "../audio/7648-king-charles-clarifies-harry-meghan-royal-status/KM-NEWS-7648-king-charles-clarifies-harry-meghan-royal-status-vocab-01-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    },
+    {
+      "id": "v02",
+      "surface": "公務",
+      "reading": "こうむ",
+      "en": "official duties",
+      "zhHant": "公務",
+      "speechJa": "こうむ",
+      "audio": {
+        "file": "../audio/7648-king-charles-clarifies-harry-meghan-royal-status/KM-NEWS-7648-king-charles-clarifies-harry-meghan-royal-status-vocab-02-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    },
+    {
+      "id": "v03",
+      "surface": "立場",
+      "reading": "たちば",
+      "en": "position; status",
+      "zhHant": "身分；立場",
+      "speechJa": "たちば",
+      "audio": {
+        "file": "../audio/7648-king-charles-clarifies-harry-meghan-royal-status/KM-NEWS-7648-king-charles-clarifies-harry-meghan-royal-status-vocab-03-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    },
+    {
+      "id": "v04",
+      "surface": "表明",
+      "reading": "ひょうめい",
+      "en": "declaration; to state",
+      "zhHant": "表明",
+      "speechJa": "ひょうめい",
+      "audio": {
+        "file": "../audio/7648-king-charles-clarifies-harry-meghan-royal-status/KM-NEWS-7648-king-charles-clarifies-harry-meghan-royal-status-vocab-04-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    },
+    {
+      "id": "v05",
+      "surface": "書簡",
+      "reading": "しょかん",
+      "en": "written letter",
+      "zhHant": "書函",
+      "speechJa": "しょかん",
+      "audio": {
+        "file": "../audio/7648-king-charles-clarifies-harry-meghan-royal-status/KM-NEWS-7648-king-charles-clarifies-harry-meghan-royal-status-vocab-05-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    },
+    {
+      "id": "v06",
+      "surface": "周知",
+      "reading": "しゅうち",
+      "en": "widely known",
+      "zhHant": "周知",
+      "speechJa": "しゅうち",
+      "audio": {
+        "file": "../audio/7648-king-charles-clarifies-harry-meghan-royal-status/KM-NEWS-7648-king-charles-clarifies-harry-meghan-royal-status-vocab-06-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    },
+    {
+      "id": "v07",
+      "surface": "慈善活動",
+      "reading": "じぜんかつどう",
+      "en": "charitable work",
+      "zhHant": "慈善活動",
+      "speechJa": "じぜんかつどう",
+      "audio": {
+        "file": "../audio/7648-king-charles-clarifies-harry-meghan-royal-status/KM-NEWS-7648-king-charles-clarifies-harry-meghan-royal-status-vocab-07-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    }
+  ],
+  "readingMinutes": 2,
+  "keywordCount": 7,
+  "playbackRates": [
+    0.8,
+    1.0,
+    1.2
+  ],
+  "audioPolicy": "Play Nanami sentence files sequentially; do not pitch-shift. Use each timing JSON at the selected playback rate. Source narration is retained only as an editorial backup.",
+  "cardPreview": {
+    "ja": "王室は、夫妻が公務を担わない立場を今後も維持すると説明しました。",
+    "speechJa": "おうしつは、夫妻がこうむを担わないたちばを今後も維持すると説明しました。",
+    "audio": "../audio/7648-king-charles-clarifies-harry-meghan-royal-status/KM-NEWS-7648-king-charles-clarifies-harry-meghan-royal-status-card-preview-ja-Nanami.mp3",
+    "timings": "../audio/7648-king-charles-clarifies-harry-meghan-royal-status/KM-NEWS-7648-king-charles-clarifies-harry-meghan-royal-status-card-preview-ja-Nanami-timings.json",
+    "voice": "ja-JP-NanamiNeural"
+  }
+}

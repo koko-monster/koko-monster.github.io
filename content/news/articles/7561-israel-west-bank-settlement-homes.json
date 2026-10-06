@@ -1,0 +1,1079 @@
+{
+  "schemaVersion": 1,
+  "id": 7561,
+  "slug": "israel-west-bank-settlement-homes",
+  "sourceType": "kokomonster-existing",
+  "demoOnly": false,
+  "date": "2026-08-21",
+  "level": "N3",
+  "category": {
+    "key": "Global",
+    "ja": "国際",
+    "en": "Global",
+    "zhHant": "國際"
+  },
+  "reservedPath": "/ja/news/Global/israel-west-bank-settlement-homes-7561",
+  "reservedUrl": "https://kokomonster.com/ja/news/Global/israel-west-bank-settlement-homes-7561",
+  "sourceUrl": "https://kokomonster.com/ja/news/Global/%E3%82%A4%E3%82%B9%E3%83%A9%E3%82%A8%E3%83%AB%E3%80%81%E3%83%A8%E3%83%AB%E3%83%80%E3%83%B3%E5%B7%9D%E8%A5%BF%E5%B2%B8%E5%9C%B0%E5%8C%BA%E3%81%A7%E3%81%AE%E5%85%A5%E6%A4%8D%E8%80%85%E5%90%91%E3%81%91%E4%BD%8F%E5%AE%85%E5%BB%BA%E8%A8%AD%E3%82%92%E7%99%BA%E8%A1%A8-7561",
+  "title": {
+    "ja": "イスラエル、ヨルダン川西岸地区での入植者向け住宅建設を発表",
+    "en": "Israel announces 1,200 settler homes in the West Bank",
+    "zhHant": "以色列宣布在約旦河西岸興建1,200個定居者住宅"
+  },
+  "summary": {
+    "ja": "イスラエルは、占領したパレスチナのヨルダン川西岸地区で入植者向けの住宅1200戸を建設する計画を発表し、西側主要国が強く非難している。国際法では入植地は違法とされ、入植計画は平和の妨げになると指摘されている。",
+    "en": "Israel announces plans for 1,200 settler homes in the occupied West Bank, drawing international criticism.",
+    "zhHant": "以色列宣布計劃在被佔領的約旦河西岸興建1,200個定居者住宅，引發國際批評。"
+  },
+  "cover": {
+    "file": "../../../assets/news-covers/housing-construction.png",
+    "sourceUrl": "https://api.kokomonster.com/file/resources/crawled-raw-news/2026-08-21/9734/1787286592209.jpg"
+  },
+  "sentences": [
+    {
+      "id": "s01",
+      "sourcePieceId": 119874,
+      "sourceOrder": 4,
+      "ja": "イスラエルは、占領したパレスチナのヨルダン川西岸地区で、入植者向けの住宅1200戸を建設する計画を発表しました。",
+      "speechJa": "イスラエルは、せんりょうしたパレスチナのヨルダンがわせいがんちくで、にゅうしょくしゃ向けの住宅1200戸を建設する計画を発表しました。",
+      "en": "Israel announced plans to build 1,200 homes for settlers in the occupied Palestinian West Bank.",
+      "zhHant": "以色列宣布，計劃在被佔領的巴勒斯坦約旦河西岸興建1,200個定居者住宅。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7561-israel-west-bank-settlement-homes/KM-NEWS-7561-israel-west-bank-settlement-homes-sentence-01-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7561-israel-west-bank-settlement-homes/KM-NEWS-7561-israel-west-bank-settlement-homes-sentence-01-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7561-israel-west-bank-settlement-homes/KM-NEWS-7561-israel-west-bank-settlement-homes-sentence-01-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/30cb4ccb-8fba-4b3a-a480-188805ac8c1f.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "イスラエル",
+            "offsetMs": 50
+          },
+          {
+            "text": "は",
+            "offsetMs": 675
+          },
+          {
+            "text": "占領",
+            "offsetMs": 1200
+          },
+          {
+            "text": "し",
+            "offsetMs": 1687.5
+          },
+          {
+            "text": "た",
+            "offsetMs": 1775
+          },
+          {
+            "text": "パレスチナ",
+            "offsetMs": 1925
+          },
+          {
+            "text": "の",
+            "offsetMs": 2487.5
+          },
+          {
+            "text": "ヨルダン",
+            "offsetMs": 2675
+          },
+          {
+            "text": "川",
+            "offsetMs": 3175
+          },
+          {
+            "text": "西岸",
+            "offsetMs": 3425
+          },
+          {
+            "text": "地区",
+            "offsetMs": 3862.5
+          },
+          {
+            "text": "で",
+            "offsetMs": 4112.5
+          },
+          {
+            "text": "入植者",
+            "offsetMs": 4675
+          },
+          {
+            "text": "向け",
+            "offsetMs": 5262.5
+          },
+          {
+            "text": "の",
+            "offsetMs": 5512.5
+          },
+          {
+            "text": "住宅",
+            "offsetMs": 5700
+          },
+          {
+            "text": "1200戸",
+            "offsetMs": 6150
+          },
+          {
+            "text": "を",
+            "offsetMs": 6875
+          },
+          {
+            "text": "建設",
+            "offsetMs": 7000
+          },
+          {
+            "text": "する",
+            "offsetMs": 7500
+          },
+          {
+            "text": "計画",
+            "offsetMs": 7750
+          },
+          {
+            "text": "を",
+            "offsetMs": 8200
+          },
+          {
+            "text": "発表",
+            "offsetMs": 8325
+          },
+          {
+            "text": "し",
+            "offsetMs": 8812.5
+          },
+          {
+            "text": "まし",
+            "offsetMs": 8950
+          },
+          {
+            "text": "た",
+            "offsetMs": 9175
+          }
+        ]
+      }
+    },
+    {
+      "id": "s02",
+      "sourcePieceId": 119875,
+      "sourceOrder": 5,
+      "ja": "この発表に対して、西側の主要国は強く非難しました。",
+      "speechJa": "この発表に対して、西側の主要国は強くひなんしました。",
+      "en": "Major Western countries strongly condemned the announcement.",
+      "zhHant": "多個主要西方國家強烈譴責有關宣布。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7561-israel-west-bank-settlement-homes/KM-NEWS-7561-israel-west-bank-settlement-homes-sentence-02-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7561-israel-west-bank-settlement-homes/KM-NEWS-7561-israel-west-bank-settlement-homes-sentence-02-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7561-israel-west-bank-settlement-homes/KM-NEWS-7561-israel-west-bank-settlement-homes-sentence-02-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/94bb2f6a-5178-409f-b28e-703bd7e2d7d7.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "この",
+            "offsetMs": 50
+          },
+          {
+            "text": "発表",
+            "offsetMs": 350
+          },
+          {
+            "text": "に",
+            "offsetMs": 812.5
+          },
+          {
+            "text": "対し",
+            "offsetMs": 950
+          },
+          {
+            "text": "て",
+            "offsetMs": 1250
+          },
+          {
+            "text": "西側",
+            "offsetMs": 1687.5
+          },
+          {
+            "text": "の",
+            "offsetMs": 2175
+          },
+          {
+            "text": "主要",
+            "offsetMs": 2312.5
+          },
+          {
+            "text": "国",
+            "offsetMs": 2725
+          },
+          {
+            "text": "は",
+            "offsetMs": 2975
+          },
+          {
+            "text": "強く",
+            "offsetMs": 3150
+          },
+          {
+            "text": "非難",
+            "offsetMs": 3562.5
+          },
+          {
+            "text": "し",
+            "offsetMs": 3925
+          },
+          {
+            "text": "まし",
+            "offsetMs": 4087.5
+          },
+          {
+            "text": "た",
+            "offsetMs": 4312.5
+          }
+        ]
+      }
+    },
+    {
+      "id": "s03",
+      "sourcePieceId": 119876,
+      "sourceOrder": 6,
+      "ja": "国際法では、入植地は違法とされています。",
+      "speechJa": "こくさいほうでは、入植地はいほうとされています。",
+      "en": "Settlements are considered illegal under international law.",
+      "zhHant": "根據國際法，這些定居點被視為非法。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7561-israel-west-bank-settlement-homes/KM-NEWS-7561-israel-west-bank-settlement-homes-sentence-03-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7561-israel-west-bank-settlement-homes/KM-NEWS-7561-israel-west-bank-settlement-homes-sentence-03-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7561-israel-west-bank-settlement-homes/KM-NEWS-7561-israel-west-bank-settlement-homes-sentence-03-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/eec643a6-5f02-4e45-a350-d6f610fb5f3a.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "国際法",
+            "offsetMs": 50
+          },
+          {
+            "text": "で",
+            "offsetMs": 812.5
+          },
+          {
+            "text": "は",
+            "offsetMs": 912.5
+          },
+          {
+            "text": "入植地",
+            "offsetMs": 1375
+          },
+          {
+            "text": "は",
+            "offsetMs": 1975
+          },
+          {
+            "text": "違法",
+            "offsetMs": 2162.5
+          },
+          {
+            "text": "と",
+            "offsetMs": 2525
+          },
+          {
+            "text": "さ",
+            "offsetMs": 2625
+          },
+          {
+            "text": "れ",
+            "offsetMs": 2762.5
+          },
+          {
+            "text": "て",
+            "offsetMs": 2862.5
+          },
+          {
+            "text": "い",
+            "offsetMs": 2962.5
+          },
+          {
+            "text": "ます",
+            "offsetMs": 3087.5
+          }
+        ]
+      }
+    },
+    {
+      "id": "s04",
+      "sourcePieceId": 119877,
+      "sourceOrder": 7,
+      "ja": "イスラエルの計画は、平和を妨げるものとされています。",
+      "speechJa": "イスラエルの計画は、平和を妨げるものとされています。",
+      "en": "Israel’s plan is regarded as an obstacle to peace.",
+      "zhHant": "以色列的計劃被視為妨礙和平進程。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7561-israel-west-bank-settlement-homes/KM-NEWS-7561-israel-west-bank-settlement-homes-sentence-04-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7561-israel-west-bank-settlement-homes/KM-NEWS-7561-israel-west-bank-settlement-homes-sentence-04-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7561-israel-west-bank-settlement-homes/KM-NEWS-7561-israel-west-bank-settlement-homes-sentence-04-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/cc745ed5-274b-4e16-8cb8-9b07a7e8505e.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "イスラエル",
+            "offsetMs": 50
+          },
+          {
+            "text": "の",
+            "offsetMs": 650
+          },
+          {
+            "text": "計画",
+            "offsetMs": 787.5
+          },
+          {
+            "text": "は",
+            "offsetMs": 1275
+          },
+          {
+            "text": "平和",
+            "offsetMs": 1700
+          },
+          {
+            "text": "を",
+            "offsetMs": 2037.5
+          },
+          {
+            "text": "妨げる",
+            "offsetMs": 2187.5
+          },
+          {
+            "text": "もの",
+            "offsetMs": 2775
+          },
+          {
+            "text": "と",
+            "offsetMs": 3000
+          },
+          {
+            "text": "さ",
+            "offsetMs": 3125
+          },
+          {
+            "text": "れ",
+            "offsetMs": 3262.5
+          },
+          {
+            "text": "て",
+            "offsetMs": 3362.5
+          },
+          {
+            "text": "い",
+            "offsetMs": 3475
+          },
+          {
+            "text": "ます",
+            "offsetMs": 3587.5
+          }
+        ]
+      }
+    },
+    {
+      "id": "s05",
+      "sourcePieceId": 119878,
+      "sourceOrder": 8,
+      "ja": "多くの国は、この計画が中東の緊張を高めると警告しています。",
+      "speechJa": "多くの国は、この計画が中東のきんちょうを高めると警告しています。",
+      "en": "Many countries warn that it could heighten tensions in the Middle East.",
+      "zhHant": "多國警告，計劃可能令中東局勢進一步緊張。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7561-israel-west-bank-settlement-homes/KM-NEWS-7561-israel-west-bank-settlement-homes-sentence-05-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7561-israel-west-bank-settlement-homes/KM-NEWS-7561-israel-west-bank-settlement-homes-sentence-05-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7561-israel-west-bank-settlement-homes/KM-NEWS-7561-israel-west-bank-settlement-homes-sentence-05-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/f468ea29-b2a8-4214-9e96-68280812b4a9.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "多く",
+            "offsetMs": 50
+          },
+          {
+            "text": "の",
+            "offsetMs": 450
+          },
+          {
+            "text": "国",
+            "offsetMs": 587.5
+          },
+          {
+            "text": "は",
+            "offsetMs": 825
+          },
+          {
+            "text": "この",
+            "offsetMs": 1387.5
+          },
+          {
+            "text": "計画",
+            "offsetMs": 1675
+          },
+          {
+            "text": "が",
+            "offsetMs": 2162.5
+          },
+          {
+            "text": "中東",
+            "offsetMs": 2337.5
+          },
+          {
+            "text": "の",
+            "offsetMs": 2837.5
+          },
+          {
+            "text": "緊張",
+            "offsetMs": 2962.5
+          },
+          {
+            "text": "を",
+            "offsetMs": 3462.5
+          },
+          {
+            "text": "高める",
+            "offsetMs": 3587.5
+          },
+          {
+            "text": "と",
+            "offsetMs": 4062.5
+          },
+          {
+            "text": "警告",
+            "offsetMs": 4237.5
+          },
+          {
+            "text": "し",
+            "offsetMs": 4737.5
+          },
+          {
+            "text": "て",
+            "offsetMs": 4837.5
+          },
+          {
+            "text": "い",
+            "offsetMs": 4925
+          },
+          {
+            "text": "ます",
+            "offsetMs": 5037.5
+          }
+        ]
+      }
+    },
+    {
+      "id": "s06",
+      "sourcePieceId": 119879,
+      "sourceOrder": 9,
+      "ja": "イスラエルは、これに反発しており、計画を進める意向を示しています。",
+      "speechJa": "イスラエルは、これにはんぱつしており、計画を進める意向を示しています。",
+      "en": "Israel rejects the criticism and says it intends to proceed.",
+      "zhHant": "以色列反駁有關批評，並表明將繼續推進計劃。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7561-israel-west-bank-settlement-homes/KM-NEWS-7561-israel-west-bank-settlement-homes-sentence-06-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7561-israel-west-bank-settlement-homes/KM-NEWS-7561-israel-west-bank-settlement-homes-sentence-06-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7561-israel-west-bank-settlement-homes/KM-NEWS-7561-israel-west-bank-settlement-homes-sentence-06-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/598f6ab0-04f1-4b08-b225-8bd31703a20c.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "イスラエル",
+            "offsetMs": 50
+          },
+          {
+            "text": "は",
+            "offsetMs": 675
+          },
+          {
+            "text": "これ",
+            "offsetMs": 1175
+          },
+          {
+            "text": "に",
+            "offsetMs": 1425
+          },
+          {
+            "text": "反発",
+            "offsetMs": 1562.5
+          },
+          {
+            "text": "し",
+            "offsetMs": 2062.5
+          },
+          {
+            "text": "て",
+            "offsetMs": 2162.5
+          },
+          {
+            "text": "おり",
+            "offsetMs": 2250
+          },
+          {
+            "text": "計画",
+            "offsetMs": 2775
+          },
+          {
+            "text": "を",
+            "offsetMs": 3250
+          },
+          {
+            "text": "進める",
+            "offsetMs": 3375
+          },
+          {
+            "text": "意向",
+            "offsetMs": 3875
+          },
+          {
+            "text": "を",
+            "offsetMs": 4200
+          },
+          {
+            "text": "示し",
+            "offsetMs": 4312.5
+          },
+          {
+            "text": "て",
+            "offsetMs": 4675
+          },
+          {
+            "text": "い",
+            "offsetMs": 4762.5
+          },
+          {
+            "text": "ます",
+            "offsetMs": 4875
+          }
+        ]
+      }
+    },
+    {
+      "id": "s07",
+      "sourcePieceId": 119880,
+      "sourceOrder": 10,
+      "ja": "入植者向け住宅は、これらの地域の経済や社会に影響を与えると考えられています。",
+      "speechJa": "にゅうしょくしゃ向け住宅は、これらの地域の経済や社会に影響を与えると考えられています。",
+      "en": "The new housing is expected to affect the economy and society of the area.",
+      "zhHant": "定居者住宅預料會對當地經濟與社會造成影響。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7561-israel-west-bank-settlement-homes/KM-NEWS-7561-israel-west-bank-settlement-homes-sentence-07-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7561-israel-west-bank-settlement-homes/KM-NEWS-7561-israel-west-bank-settlement-homes-sentence-07-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7561-israel-west-bank-settlement-homes/KM-NEWS-7561-israel-west-bank-settlement-homes-sentence-07-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/369dc218-c01b-41fa-908a-6836bb2e570a.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "入植者",
+            "offsetMs": 50
+          },
+          {
+            "text": "向け",
+            "offsetMs": 725
+          },
+          {
+            "text": "住宅",
+            "offsetMs": 1025
+          },
+          {
+            "text": "は",
+            "offsetMs": 1500
+          },
+          {
+            "text": "これら",
+            "offsetMs": 2050
+          },
+          {
+            "text": "の",
+            "offsetMs": 2412.5
+          },
+          {
+            "text": "地域",
+            "offsetMs": 2550
+          },
+          {
+            "text": "の",
+            "offsetMs": 2962.5
+          },
+          {
+            "text": "経済",
+            "offsetMs": 3112.5
+          },
+          {
+            "text": "や",
+            "offsetMs": 3600
+          },
+          {
+            "text": "社会",
+            "offsetMs": 3850
+          },
+          {
+            "text": "に",
+            "offsetMs": 4250
+          },
+          {
+            "text": "影響",
+            "offsetMs": 4425
+          },
+          {
+            "text": "を",
+            "offsetMs": 4850
+          },
+          {
+            "text": "与える",
+            "offsetMs": 4937.5
+          },
+          {
+            "text": "と",
+            "offsetMs": 5375
+          },
+          {
+            "text": "考え",
+            "offsetMs": 5550
+          },
+          {
+            "text": "ら",
+            "offsetMs": 5987.5
+          },
+          {
+            "text": "れ",
+            "offsetMs": 6100
+          },
+          {
+            "text": "て",
+            "offsetMs": 6212.5
+          },
+          {
+            "text": "い",
+            "offsetMs": 6325
+          },
+          {
+            "text": "ます",
+            "offsetMs": 6437.5
+          }
+        ]
+      }
+    },
+    {
+      "id": "s08",
+      "sourcePieceId": 119881,
+      "sourceOrder": 11,
+      "ja": "入札の期限は10月19日で、イスラエルの総選挙の直前です。",
+      "speechJa": "にゅうさつの期限はじゅうがつじゅうくにちで、イスラエルのそうせんきょの直前です。",
+      "en": "The tender closes on 19 October, shortly before Israel’s general election.",
+      "zhHant": "項目投標將於10月19日截止，時間接近以色列大選。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7561-israel-west-bank-settlement-homes/KM-NEWS-7561-israel-west-bank-settlement-homes-sentence-08-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7561-israel-west-bank-settlement-homes/KM-NEWS-7561-israel-west-bank-settlement-homes-sentence-08-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7561-israel-west-bank-settlement-homes/KM-NEWS-7561-israel-west-bank-settlement-homes-sentence-08-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/255f798e-d337-4898-9c5b-9f3868ee4dd6.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "入札",
+            "offsetMs": 50
+          },
+          {
+            "text": "の",
+            "offsetMs": 650
+          },
+          {
+            "text": "期限",
+            "offsetMs": 775
+          },
+          {
+            "text": "は",
+            "offsetMs": 1150
+          },
+          {
+            "text": "10月",
+            "offsetMs": 1412.5
+          },
+          {
+            "text": "19日",
+            "offsetMs": 1962.5
+          },
+          {
+            "text": "で",
+            "offsetMs": 2562.5
+          },
+          {
+            "text": "イスラエル",
+            "offsetMs": 2962.5
+          },
+          {
+            "text": "の",
+            "offsetMs": 3487.5
+          },
+          {
+            "text": "総選挙",
+            "offsetMs": 3637.5
+          },
+          {
+            "text": "の",
+            "offsetMs": 4287.5
+          },
+          {
+            "text": "直前",
+            "offsetMs": 4412.5
+          },
+          {
+            "text": "です",
+            "offsetMs": 4875
+          }
+        ]
+      }
+    },
+    {
+      "id": "s09",
+      "sourcePieceId": 119882,
+      "sourceOrder": 12,
+      "ja": "国連もこの計画に対して懸念を表明しています。",
+      "speechJa": "国連もこの計画に対してけねんを表明しています。",
+      "en": "The United Nations has also expressed concern over the plan.",
+      "zhHant": "聯合國亦對計劃表示關注。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7561-israel-west-bank-settlement-homes/KM-NEWS-7561-israel-west-bank-settlement-homes-sentence-09-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7561-israel-west-bank-settlement-homes/KM-NEWS-7561-israel-west-bank-settlement-homes-sentence-09-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7561-israel-west-bank-settlement-homes/KM-NEWS-7561-israel-west-bank-settlement-homes-sentence-09-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/a79be0f3-8161-4ab9-97ab-7cf9e5aad5ed.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "国連",
+            "offsetMs": 50
+          },
+          {
+            "text": "も",
+            "offsetMs": 562.5
+          },
+          {
+            "text": "この",
+            "offsetMs": 762.5
+          },
+          {
+            "text": "計画",
+            "offsetMs": 1037.5
+          },
+          {
+            "text": "に",
+            "offsetMs": 1500
+          },
+          {
+            "text": "対し",
+            "offsetMs": 1637.5
+          },
+          {
+            "text": "て",
+            "offsetMs": 1937.5
+          },
+          {
+            "text": "懸念",
+            "offsetMs": 2187.5
+          },
+          {
+            "text": "を",
+            "offsetMs": 2562.5
+          },
+          {
+            "text": "表明",
+            "offsetMs": 2675
+          },
+          {
+            "text": "し",
+            "offsetMs": 3125
+          },
+          {
+            "text": "て",
+            "offsetMs": 3225
+          },
+          {
+            "text": "い",
+            "offsetMs": 3312.5
+          },
+          {
+            "text": "ます",
+            "offsetMs": 3425
+          }
+        ]
+      }
+    },
+    {
+      "id": "s10",
+      "sourcePieceId": 119883,
+      "sourceOrder": 13,
+      "ja": "イスラエルがこれまでに建設した入植地には約70万人のイスラエル人が住んでいます。",
+      "speechJa": "イスラエルがこれまでに建設した入植地には約70万人のイスラエル人が住んでいます。",
+      "en": "Around 700,000 Israelis live in settlements built by Israel to date.",
+      "zhHant": "以色列歷來興建的定居點，現時約有70萬名以色列人居住。",
+      "tokens": [],
+      "audio": {
+        "file": "../audio/7561-israel-west-bank-settlement-homes/KM-NEWS-7561-israel-west-bank-settlement-homes-sentence-10-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural",
+        "timings": "../audio/7561-israel-west-bank-settlement-homes/KM-NEWS-7561-israel-west-bank-settlement-homes-sentence-10-ja-Nanami-timings.json"
+      },
+      "sourceAudio": {
+        "file": "../audio/7561-israel-west-bank-settlement-homes/KM-NEWS-7561-israel-west-bank-settlement-homes-sentence-10-ja-source.mp3",
+        "sourceUrl": "https://api.kokomonster.com/file/resources/news-piece/audio-file/d9d26980-d949-4456-9f33-4e93f0028446.mp3",
+        "voice": "Kokomonster source narration",
+        "tokens": [
+          {
+            "text": "イスラエル",
+            "offsetMs": 50
+          },
+          {
+            "text": "が",
+            "offsetMs": 662.5
+          },
+          {
+            "text": "これ",
+            "offsetMs": 825
+          },
+          {
+            "text": "まで",
+            "offsetMs": 1062.5
+          },
+          {
+            "text": "に",
+            "offsetMs": 1287.5
+          },
+          {
+            "text": "建設",
+            "offsetMs": 1475
+          },
+          {
+            "text": "し",
+            "offsetMs": 1987.5
+          },
+          {
+            "text": "た",
+            "offsetMs": 2087.5
+          },
+          {
+            "text": "入植地",
+            "offsetMs": 2225
+          },
+          {
+            "text": "に",
+            "offsetMs": 2837.5
+          },
+          {
+            "text": "は",
+            "offsetMs": 2950
+          },
+          {
+            "text": "約",
+            "offsetMs": 3200
+          },
+          {
+            "text": "70万人",
+            "offsetMs": 3500
+          },
+          {
+            "text": "の",
+            "offsetMs": 4437.5
+          },
+          {
+            "text": "イスラエル",
+            "offsetMs": 4587.5
+          },
+          {
+            "text": "人",
+            "offsetMs": 5150
+          },
+          {
+            "text": "が",
+            "offsetMs": 5362.5
+          },
+          {
+            "text": "住ん",
+            "offsetMs": 5500
+          },
+          {
+            "text": "で",
+            "offsetMs": 5775
+          },
+          {
+            "text": "い",
+            "offsetMs": 5875
+          },
+          {
+            "text": "ます",
+            "offsetMs": 5987.5
+          }
+        ]
+      }
+    }
+  ],
+  "vocabulary": [
+    {
+      "id": "v01",
+      "surface": "入植者",
+      "reading": "にゅうしょくしゃ",
+      "en": "settler",
+      "zhHant": "定居者",
+      "speechJa": "にゅうしょくしゃ",
+      "audio": {
+        "file": "../audio/7561-israel-west-bank-settlement-homes/KM-NEWS-7561-israel-west-bank-settlement-homes-vocab-01-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    },
+    {
+      "id": "v02",
+      "surface": "占領",
+      "reading": "せんりょう",
+      "en": "occupation",
+      "zhHant": "佔領",
+      "speechJa": "せんりょう",
+      "audio": {
+        "file": "../audio/7561-israel-west-bank-settlement-homes/KM-NEWS-7561-israel-west-bank-settlement-homes-vocab-02-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    },
+    {
+      "id": "v03",
+      "surface": "懸念",
+      "reading": "けねん",
+      "en": "concern",
+      "zhHant": "關注；憂慮",
+      "speechJa": "けねん",
+      "audio": {
+        "file": "../audio/7561-israel-west-bank-settlement-homes/KM-NEWS-7561-israel-west-bank-settlement-homes-vocab-03-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    },
+    {
+      "id": "v04",
+      "surface": "非難",
+      "reading": "ひなん",
+      "en": "condemnation; to condemn",
+      "zhHant": "譴責",
+      "speechJa": "ひなん",
+      "audio": {
+        "file": "../audio/7561-israel-west-bank-settlement-homes/KM-NEWS-7561-israel-west-bank-settlement-homes-vocab-04-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    },
+    {
+      "id": "v05",
+      "surface": "国際法",
+      "reading": "こくさいほう",
+      "en": "international law",
+      "zhHant": "國際法",
+      "speechJa": "こくさいほう",
+      "audio": {
+        "file": "../audio/7561-israel-west-bank-settlement-homes/KM-NEWS-7561-israel-west-bank-settlement-homes-vocab-05-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    },
+    {
+      "id": "v06",
+      "surface": "違法",
+      "reading": "いほう",
+      "en": "illegal",
+      "zhHant": "違法",
+      "speechJa": "いほう",
+      "audio": {
+        "file": "../audio/7561-israel-west-bank-settlement-homes/KM-NEWS-7561-israel-west-bank-settlement-homes-vocab-06-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    },
+    {
+      "id": "v07",
+      "surface": "緊張",
+      "reading": "きんちょう",
+      "en": "tension",
+      "zhHant": "緊張局勢",
+      "speechJa": "きんちょう",
+      "audio": {
+        "file": "../audio/7561-israel-west-bank-settlement-homes/KM-NEWS-7561-israel-west-bank-settlement-homes-vocab-07-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    },
+    {
+      "id": "v08",
+      "surface": "反発",
+      "reading": "はんぱつ",
+      "en": "opposition; backlash",
+      "zhHant": "反對；反彈",
+      "speechJa": "はんぱつ",
+      "audio": {
+        "file": "../audio/7561-israel-west-bank-settlement-homes/KM-NEWS-7561-israel-west-bank-settlement-homes-vocab-08-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    },
+    {
+      "id": "v09",
+      "surface": "入札",
+      "reading": "にゅうさつ",
+      "en": "bidding; tender",
+      "zhHant": "招標",
+      "speechJa": "にゅうさつ",
+      "audio": {
+        "file": "../audio/7561-israel-west-bank-settlement-homes/KM-NEWS-7561-israel-west-bank-settlement-homes-vocab-09-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    },
+    {
+      "id": "v10",
+      "surface": "総選挙",
+      "reading": "そうせんきょ",
+      "en": "general election",
+      "zhHant": "大選",
+      "speechJa": "そうせんきょ",
+      "audio": {
+        "file": "../audio/7561-israel-west-bank-settlement-homes/KM-NEWS-7561-israel-west-bank-settlement-homes-vocab-10-ja-Nanami.mp3",
+        "voice": "ja-JP-NanamiNeural"
+      }
+    }
+  ],
+  "readingMinutes": 2,
+  "keywordCount": 10,
+  "playbackRates": [
+    0.8,
+    1.0,
+    1.2
+  ],
+  "audioPolicy": "Play Nanami sentence files sequentially; do not pitch-shift. Use each timing JSON at the selected playback rate. Source narration is retained only as an editorial backup.",
+  "cardPreview": {
+    "ja": "国際社会は計画が中東の緊張を高めるとして、強く懸念しています。",
+    "speechJa": "国際社会は計画が中東のきんちょうを高めるとして、強くけねんしています。",
+    "audio": "../audio/7561-israel-west-bank-settlement-homes/KM-NEWS-7561-israel-west-bank-settlement-homes-card-preview-ja-Nanami.mp3",
+    "timings": "../audio/7561-israel-west-bank-settlement-homes/KM-NEWS-7561-israel-west-bank-settlement-homes-card-preview-ja-Nanami-timings.json",
+    "voice": "ja-JP-NanamiNeural"
+  }
+}

@@ -1,0 +1,2598 @@
+{
+  "schemaVersion": 1,
+  "trackCount": 324,
+  "tracks": [
+    {
+      "articleId": 7648,
+      "kind": "sentence",
+      "itemId": "s01",
+      "file": "audio/7648-king-charles-clarifies-harry-meghan-royal-status/KM-NEWS-7648-king-charles-clarifies-harry-meghan-royal-status-sentence-01-ja-Nanami.mp3",
+      "bytes": 47520,
+      "sha256": "1e87f885e46af2658fdc92424dae6721cbe3984603df2a3cecadd13880d20138"
+    },
+    {
+      "articleId": 7648,
+      "kind": "source-sentence",
+      "itemId": "s01",
+      "file": "audio/7648-king-charles-clarifies-harry-meghan-royal-status/KM-NEWS-7648-king-charles-clarifies-harry-meghan-royal-status-sentence-01-ja-source.mp3",
+      "bytes": 94176,
+      "sha256": "04d3a86c471d4d3cc397ee41e6322b13e25bee88cd1f191bab32eb646d6dde1d"
+    },
+    {
+      "articleId": 7648,
+      "kind": "sentence",
+      "itemId": "s02",
+      "file": "audio/7648-king-charles-clarifies-harry-meghan-royal-status/KM-NEWS-7648-king-charles-clarifies-harry-meghan-royal-status-sentence-02-ja-Nanami.mp3",
+      "bytes": 52848,
+      "sha256": "bdb7c6ad12620e90cc4114800616b3813977f25c810a6da8543ac182fb135a95"
+    },
+    {
+      "articleId": 7648,
+      "kind": "source-sentence",
+      "itemId": "s02",
+      "file": "audio/7648-king-charles-clarifies-harry-meghan-royal-status/KM-NEWS-7648-king-charles-clarifies-harry-meghan-royal-status-sentence-02-ja-source.mp3",
+      "bytes": 101664,
+      "sha256": "8f95bee3e7aa6f67884d58b0af05f23247a38feb2d5e460f8edae149a137c16a"
+    },
+    {
+      "articleId": 7648,
+      "kind": "sentence",
+      "itemId": "s03",
+      "file": "audio/7648-king-charles-clarifies-harry-meghan-royal-status/KM-NEWS-7648-king-charles-clarifies-harry-meghan-royal-status-sentence-03-ja-Nanami.mp3",
+      "bytes": 31248,
+      "sha256": "826ba7d64c8bb12ec69297ca8141010bd2ad6784faecb383ad3041dd12c06e24"
+    },
+    {
+      "articleId": 7648,
+      "kind": "source-sentence",
+      "itemId": "s03",
+      "file": "audio/7648-king-charles-clarifies-harry-meghan-royal-status/KM-NEWS-7648-king-charles-clarifies-harry-meghan-royal-status-sentence-03-ja-source.mp3",
+      "bytes": 59040,
+      "sha256": "3bcc5b2d609801d3741f7b8150c2af85c78030976c9ab4645eaf283c9fe22867"
+    },
+    {
+      "articleId": 7648,
+      "kind": "sentence",
+      "itemId": "s04",
+      "file": "audio/7648-king-charles-clarifies-harry-meghan-royal-status/KM-NEWS-7648-king-charles-clarifies-harry-meghan-royal-status-sentence-04-ja-Nanami.mp3",
+      "bytes": 32400,
+      "sha256": "c81857da748ccc75bdc20d99f5622d0543e1fde178930010e8feb6f8113df536"
+    },
+    {
+      "articleId": 7648,
+      "kind": "source-sentence",
+      "itemId": "s04",
+      "file": "audio/7648-king-charles-clarifies-harry-meghan-royal-status/KM-NEWS-7648-king-charles-clarifies-harry-meghan-royal-status-sentence-04-ja-source.mp3",
+      "bytes": 65088,
+      "sha256": "36e25ed1eee4065d8bed374456d5a60b69b4bd9c72938e2940fcb43665cbe1a0"
+    },
+    {
+      "articleId": 7648,
+      "kind": "sentence",
+      "itemId": "s05",
+      "file": "audio/7648-king-charles-clarifies-harry-meghan-royal-status/KM-NEWS-7648-king-charles-clarifies-harry-meghan-royal-status-sentence-05-ja-Nanami.mp3",
+      "bytes": 46944,
+      "sha256": "e475a3bcadf31c0eac5d8b95028a1bb5fcf455f71c46654805b9e30ce5a2eb56"
+    },
+    {
+      "articleId": 7648,
+      "kind": "source-sentence",
+      "itemId": "s05",
+      "file": "audio/7648-king-charles-clarifies-harry-meghan-royal-status/KM-NEWS-7648-king-charles-clarifies-harry-meghan-royal-status-sentence-05-ja-source.mp3",
+      "bytes": 93312,
+      "sha256": "45c2e7f9f56c171449db5f8d1cba8556b302eaa8f9ae244995de782864fa549c"
+    },
+    {
+      "articleId": 7648,
+      "kind": "sentence",
+      "itemId": "s06",
+      "file": "audio/7648-king-charles-clarifies-harry-meghan-royal-status/KM-NEWS-7648-king-charles-clarifies-harry-meghan-royal-status-sentence-06-ja-Nanami.mp3",
+      "bytes": 37872,
+      "sha256": "c6c6e79e6e59d9c4434ae811255e1ae50173939228f6f29fc1874dbd5e65be3b"
+    },
+    {
+      "articleId": 7648,
+      "kind": "source-sentence",
+      "itemId": "s06",
+      "file": "audio/7648-king-charles-clarifies-harry-meghan-royal-status/KM-NEWS-7648-king-charles-clarifies-harry-meghan-royal-status-sentence-06-ja-source.mp3",
+      "bytes": 74016,
+      "sha256": "b30f010b5ad053b13d88dc3364ee3d1fb54f81038b23d0752aa9d1eab6e809c5"
+    },
+    {
+      "articleId": 7648,
+      "kind": "sentence",
+      "itemId": "s07",
+      "file": "audio/7648-king-charles-clarifies-harry-meghan-royal-status/KM-NEWS-7648-king-charles-clarifies-harry-meghan-royal-status-sentence-07-ja-Nanami.mp3",
+      "bytes": 39600,
+      "sha256": "6ef43c06d7fe403cde35a6d571161bf835781e2267d2b7a96833a7535e2afb36"
+    },
+    {
+      "articleId": 7648,
+      "kind": "source-sentence",
+      "itemId": "s07",
+      "file": "audio/7648-king-charles-clarifies-harry-meghan-royal-status/KM-NEWS-7648-king-charles-clarifies-harry-meghan-royal-status-sentence-07-ja-source.mp3",
+      "bytes": 76608,
+      "sha256": "db723eaa869d313ee7f761dc08421482527b72b246bf04a7ae16f52390827c4a"
+    },
+    {
+      "articleId": 7648,
+      "kind": "sentence",
+      "itemId": "s08",
+      "file": "audio/7648-king-charles-clarifies-harry-meghan-royal-status/KM-NEWS-7648-king-charles-clarifies-harry-meghan-royal-status-sentence-08-ja-Nanami.mp3",
+      "bytes": 40752,
+      "sha256": "6b1915863095b5a02eb4f9078d14795dda17574b122f17c251a5f37bc68b51df"
+    },
+    {
+      "articleId": 7648,
+      "kind": "source-sentence",
+      "itemId": "s08",
+      "file": "audio/7648-king-charles-clarifies-harry-meghan-royal-status/KM-NEWS-7648-king-charles-clarifies-harry-meghan-royal-status-sentence-08-ja-source.mp3",
+      "bytes": 83520,
+      "sha256": "d20ee666e94921e8e02607f0c8b4eb7270ff0d157e4dc702f5e30635ba835c4c"
+    },
+    {
+      "articleId": 7648,
+      "kind": "sentence",
+      "itemId": "s09",
+      "file": "audio/7648-king-charles-clarifies-harry-meghan-royal-status/KM-NEWS-7648-king-charles-clarifies-harry-meghan-royal-status-sentence-09-ja-Nanami.mp3",
+      "bytes": 31968,
+      "sha256": "f73e156ae4917d1e9f2c4d4652b7238a079fd20783ed526fd45dd018f4abc51d"
+    },
+    {
+      "articleId": 7648,
+      "kind": "source-sentence",
+      "itemId": "s09",
+      "file": "audio/7648-king-charles-clarifies-harry-meghan-royal-status/KM-NEWS-7648-king-charles-clarifies-harry-meghan-royal-status-sentence-09-ja-source.mp3",
+      "bytes": 60480,
+      "sha256": "6c093ede2b8848353eeec26bf00ff503294b64ff7c06c84a6c8829ecdbcc48e2"
+    },
+    {
+      "articleId": 7648,
+      "kind": "card-preview",
+      "itemId": "card-preview",
+      "file": "audio/7648-king-charles-clarifies-harry-meghan-royal-status/KM-NEWS-7648-king-charles-clarifies-harry-meghan-royal-status-card-preview-ja-Nanami.mp3",
+      "bytes": 39600,
+      "sha256": "a59efcdc59f9e3ce633875ae35ebd253a6e0ae5cb37c7a1b93851ec0e6bfbf37"
+    },
+    {
+      "articleId": 7648,
+      "kind": "vocabulary",
+      "itemId": "v01",
+      "file": "audio/7648-king-charles-clarifies-harry-meghan-royal-status/KM-NEWS-7648-king-charles-clarifies-harry-meghan-royal-status-vocab-01-ja-Nanami.mp3",
+      "bytes": 11232,
+      "sha256": "eadf7b3b62736de3380d1fdf665533208e4249327fbbd5dc4e2d389f21f03331"
+    },
+    {
+      "articleId": 7648,
+      "kind": "vocabulary",
+      "itemId": "v02",
+      "file": "audio/7648-king-charles-clarifies-harry-meghan-royal-status/KM-NEWS-7648-king-charles-clarifies-harry-meghan-royal-status-vocab-02-ja-Nanami.mp3",
+      "bytes": 11232,
+      "sha256": "e5ac6872ae12462f1d8b303b340073bc52e2f2453197327f3858704554581599"
+    },
+    {
+      "articleId": 7648,
+      "kind": "vocabulary",
+      "itemId": "v03",
+      "file": "audio/7648-king-charles-clarifies-harry-meghan-royal-status/KM-NEWS-7648-king-charles-clarifies-harry-meghan-royal-status-vocab-03-ja-Nanami.mp3",
+      "bytes": 11232,
+      "sha256": "276a99b9d3acd33b8c698ae8dd3c87d06f0041bd81e8d4aac5e9a664c0e222ad"
+    },
+    {
+      "articleId": 7648,
+      "kind": "vocabulary",
+      "itemId": "v04",
+      "file": "audio/7648-king-charles-clarifies-harry-meghan-royal-status/KM-NEWS-7648-king-charles-clarifies-harry-meghan-royal-status-vocab-04-ja-Nanami.mp3",
+      "bytes": 11232,
+      "sha256": "e50ac400b8021773fe2c894ae6ec1e5b36afbca066666c8fbd3f8c2da4bfc518"
+    },
+    {
+      "articleId": 7648,
+      "kind": "vocabulary",
+      "itemId": "v05",
+      "file": "audio/7648-king-charles-clarifies-harry-meghan-royal-status/KM-NEWS-7648-king-charles-clarifies-harry-meghan-royal-status-vocab-05-ja-Nanami.mp3",
+      "bytes": 11232,
+      "sha256": "c9740c7b55791a927be79eeafe5e8c301e3878f40114b63d00367718a9b6f54a"
+    },
+    {
+      "articleId": 7648,
+      "kind": "vocabulary",
+      "itemId": "v06",
+      "file": "audio/7648-king-charles-clarifies-harry-meghan-royal-status/KM-NEWS-7648-king-charles-clarifies-harry-meghan-royal-status-vocab-06-ja-Nanami.mp3",
+      "bytes": 11232,
+      "sha256": "552d88d89d007bc4190441de069d269c34fe68648f6bd2adfd8b04203f8ef628"
+    },
+    {
+      "articleId": 7648,
+      "kind": "vocabulary",
+      "itemId": "v07",
+      "file": "audio/7648-king-charles-clarifies-harry-meghan-royal-status/KM-NEWS-7648-king-charles-clarifies-harry-meghan-royal-status-vocab-07-ja-Nanami.mp3",
+      "bytes": 12096,
+      "sha256": "feeddf08e746f695cceb68d5dd3bd077e520e3224df9b33adae19c70564f254c"
+    },
+    {
+      "articleId": 9991,
+      "kind": "sentence",
+      "itemId": "s01",
+      "file": "audio/9991-onosato-promoted-to-yokozuna/KM-NEWS-9991-onosato-promoted-to-yokozuna-sentence-01-ja-Nanami.mp3",
+      "bytes": 31680,
+      "sha256": "a7adfd7bd735706b2d04823333c3e2caad47a2682ef51bd3570db9daea3c43ce"
+    },
+    {
+      "articleId": 9991,
+      "kind": "sentence",
+      "itemId": "s02",
+      "file": "audio/9991-onosato-promoted-to-yokozuna/KM-NEWS-9991-onosato-promoted-to-yokozuna-sentence-02-ja-Nanami.mp3",
+      "bytes": 30384,
+      "sha256": "cc9ede2eb444143179ecbf4b1e5a5515c87807095f9a724c02fbc823d5d101fb"
+    },
+    {
+      "articleId": 9991,
+      "kind": "sentence",
+      "itemId": "s03",
+      "file": "audio/9991-onosato-promoted-to-yokozuna/KM-NEWS-9991-onosato-promoted-to-yokozuna-sentence-03-ja-Nanami.mp3",
+      "bytes": 26928,
+      "sha256": "e323b5d0216b62748ca30363725c41f2a0a494d36a36baf92b536cc5b7f90a11"
+    },
+    {
+      "articleId": 9991,
+      "kind": "sentence",
+      "itemId": "s04",
+      "file": "audio/9991-onosato-promoted-to-yokozuna/KM-NEWS-9991-onosato-promoted-to-yokozuna-sentence-04-ja-Nanami.mp3",
+      "bytes": 31968,
+      "sha256": "25c9748b31baa7d97f6510e342ef9b7fe76c019cdc5cde9fd3672a7157f59c7b"
+    },
+    {
+      "articleId": 9991,
+      "kind": "sentence",
+      "itemId": "s05",
+      "file": "audio/9991-onosato-promoted-to-yokozuna/KM-NEWS-9991-onosato-promoted-to-yokozuna-sentence-05-ja-Nanami.mp3",
+      "bytes": 35856,
+      "sha256": "d09d2873f1e276eff4bea24d6fedc8e5f98ffa14722e601374d2be4ac226b4e7"
+    },
+    {
+      "articleId": 9991,
+      "kind": "sentence",
+      "itemId": "s06",
+      "file": "audio/9991-onosato-promoted-to-yokozuna/KM-NEWS-9991-onosato-promoted-to-yokozuna-sentence-06-ja-Nanami.mp3",
+      "bytes": 28080,
+      "sha256": "5f755a48a8855f8c44576485c4b8a3c58bfee5d3a47c5bc7b72ea65a07c4f9ae"
+    },
+    {
+      "articleId": 9991,
+      "kind": "card-preview",
+      "itemId": "card-preview",
+      "file": "audio/9991-onosato-promoted-to-yokozuna/KM-NEWS-9991-onosato-promoted-to-yokozuna-card-preview-ja-Nanami.mp3",
+      "bytes": 39312,
+      "sha256": "e17a707b8b1e67b061e4cef30aa909c40ea80e6b2107a938f931732fda54ec8a"
+    },
+    {
+      "articleId": 9991,
+      "kind": "vocabulary",
+      "itemId": "v01",
+      "file": "audio/9991-onosato-promoted-to-yokozuna/KM-NEWS-9991-onosato-promoted-to-yokozuna-vocab-01-ja-Nanami.mp3",
+      "bytes": 11232,
+      "sha256": "63ce933545dbdd7844ea74815f68648e20af3cd77910a4f60d591321a3e9c46e"
+    },
+    {
+      "articleId": 9991,
+      "kind": "vocabulary",
+      "itemId": "v02",
+      "file": "audio/9991-onosato-promoted-to-yokozuna/KM-NEWS-9991-onosato-promoted-to-yokozuna-vocab-02-ja-Nanami.mp3",
+      "bytes": 11232,
+      "sha256": "5498f5fbe213daa10d31ed1b3d1c27a4840a0f256908c32de37eee08474412d5"
+    },
+    {
+      "articleId": 9991,
+      "kind": "vocabulary",
+      "itemId": "v03",
+      "file": "audio/9991-onosato-promoted-to-yokozuna/KM-NEWS-9991-onosato-promoted-to-yokozuna-vocab-03-ja-Nanami.mp3",
+      "bytes": 11232,
+      "sha256": "1dbf423f6ef21f28c384b8b0935b0b43689e31806cb74760fcc42025a1de2ca8"
+    },
+    {
+      "articleId": 9991,
+      "kind": "vocabulary",
+      "itemId": "v04",
+      "file": "audio/9991-onosato-promoted-to-yokozuna/KM-NEWS-9991-onosato-promoted-to-yokozuna-vocab-04-ja-Nanami.mp3",
+      "bytes": 11232,
+      "sha256": "7535f3a645dcc046cfdb2886360452e341f3e30b3e9150d0eafadd87da14b0b9"
+    },
+    {
+      "articleId": 9991,
+      "kind": "vocabulary",
+      "itemId": "v05",
+      "file": "audio/9991-onosato-promoted-to-yokozuna/KM-NEWS-9991-onosato-promoted-to-yokozuna-vocab-05-ja-Nanami.mp3",
+      "bytes": 11232,
+      "sha256": "b39b0c20673320cf9565684e745e55fddb96ed890b3519b3fce8b1950bfa9a51"
+    },
+    {
+      "articleId": 9991,
+      "kind": "vocabulary",
+      "itemId": "v06",
+      "file": "audio/9991-onosato-promoted-to-yokozuna/KM-NEWS-9991-onosato-promoted-to-yokozuna-vocab-06-ja-Nanami.mp3",
+      "bytes": 11232,
+      "sha256": "66dcdec347ebec835507d7cb0b6c182321c05d6028c1e529d7e6c7ded2bc4d9a"
+    },
+    {
+      "articleId": 9991,
+      "kind": "vocabulary",
+      "itemId": "v07",
+      "file": "audio/9991-onosato-promoted-to-yokozuna/KM-NEWS-9991-onosato-promoted-to-yokozuna-vocab-07-ja-Nanami.mp3",
+      "bytes": 11232,
+      "sha256": "1e5e8174c337b7a204e919e4ad5a64c4d7f908572800be7da81da1ef355c2bcd"
+    },
+    {
+      "articleId": 9992,
+      "kind": "sentence",
+      "itemId": "s01",
+      "file": "audio/9992-suica-mascot-public-vote/KM-NEWS-9992-suica-mascot-public-vote-sentence-01-ja-Nanami.mp3",
+      "bytes": 39312,
+      "sha256": "e27f8b09bd39f97505c834fa82cc6df3915538c981e709f25a75726b935e5a99"
+    },
+    {
+      "articleId": 9992,
+      "kind": "sentence",
+      "itemId": "s02",
+      "file": "audio/9992-suica-mascot-public-vote/KM-NEWS-9992-suica-mascot-public-vote-sentence-02-ja-Nanami.mp3",
+      "bytes": 30960,
+      "sha256": "3a1d6017b31358c8e2401c9faef8a6d9a5d8378839524d03a5a55028e8a1c236"
+    },
+    {
+      "articleId": 9992,
+      "kind": "sentence",
+      "itemId": "s03",
+      "file": "audio/9992-suica-mascot-public-vote/KM-NEWS-9992-suica-mascot-public-vote-sentence-03-ja-Nanami.mp3",
+      "bytes": 27648,
+      "sha256": "88e3b94f2cfe9efbd3ddae11377b167db79c68f34ca80890b2b70af2db22ab2e"
+    },
+    {
+      "articleId": 9992,
+      "kind": "sentence",
+      "itemId": "s04",
+      "file": "audio/9992-suica-mascot-public-vote/KM-NEWS-9992-suica-mascot-public-vote-sentence-04-ja-Nanami.mp3",
+      "bytes": 22176,
+      "sha256": "c7ceba9ca3e079cf1356bbbdb374cae5fdbf2c860f0cbae6c436af2da1c72247"
+    },
+    {
+      "articleId": 9992,
+      "kind": "sentence",
+      "itemId": "s05",
+      "file": "audio/9992-suica-mascot-public-vote/KM-NEWS-9992-suica-mascot-public-vote-sentence-05-ja-Nanami.mp3",
+      "bytes": 35712,
+      "sha256": "7f58ae39ac473ca198b76f2f5b8a2c79f9d10fd03fbe8720fdb90f07134069bf"
+    },
+    {
+      "articleId": 9992,
+      "kind": "sentence",
+      "itemId": "s06",
+      "file": "audio/9992-suica-mascot-public-vote/KM-NEWS-9992-suica-mascot-public-vote-sentence-06-ja-Nanami.mp3",
+      "bytes": 19584,
+      "sha256": "cd840c6e9a7e27f67c1cae21b3f579a9391c599c2395392553e720cf3fecb9bf"
+    },
+    {
+      "articleId": 9992,
+      "kind": "card-preview",
+      "itemId": "card-preview",
+      "file": "audio/9992-suica-mascot-public-vote/KM-NEWS-9992-suica-mascot-public-vote-card-preview-ja-Nanami.mp3",
+      "bytes": 36432,
+      "sha256": "8a075fc7c373d2cbd1ac8ea59923146b02f30664645393358e8faedbd343a349"
+    },
+    {
+      "articleId": 9992,
+      "kind": "vocabulary",
+      "itemId": "v01",
+      "file": "audio/9992-suica-mascot-public-vote/KM-NEWS-9992-suica-mascot-public-vote-vocab-01-ja-Nanami.mp3",
+      "bytes": 11232,
+      "sha256": "e2c83e22d7fb9db49b01022a28d88bc34e31739e88c19e69789c0b70204baa92"
+    },
+    {
+      "articleId": 9992,
+      "kind": "vocabulary",
+      "itemId": "v02",
+      "file": "audio/9992-suica-mascot-public-vote/KM-NEWS-9992-suica-mascot-public-vote-vocab-02-ja-Nanami.mp3",
+      "bytes": 11232,
+      "sha256": "1bb28606f6de2305408a791ece1e25cacc110f574a1b58301f286d79a4d9f6cf"
+    },
+    {
+      "articleId": 9992,
+      "kind": "vocabulary",
+      "itemId": "v03",
+      "file": "audio/9992-suica-mascot-public-vote/KM-NEWS-9992-suica-mascot-public-vote-vocab-03-ja-Nanami.mp3",
+      "bytes": 11232,
+      "sha256": "179fb498f39df3a7f19a79e08bea0842771c081d8d3e4fa065e85167e6d42400"
+    },
+    {
+      "articleId": 9992,
+      "kind": "vocabulary",
+      "itemId": "v04",
+      "file": "audio/9992-suica-mascot-public-vote/KM-NEWS-9992-suica-mascot-public-vote-vocab-04-ja-Nanami.mp3",
+      "bytes": 12096,
+      "sha256": "9e2a87c0f7c1f0e5decb0bd5ae1c804fc941f07f3dcd38888af4e017d4750f47"
+    },
+    {
+      "articleId": 9992,
+      "kind": "vocabulary",
+      "itemId": "v05",
+      "file": "audio/9992-suica-mascot-public-vote/KM-NEWS-9992-suica-mascot-public-vote-vocab-05-ja-Nanami.mp3",
+      "bytes": 11232,
+      "sha256": "ca474b93e46cc89223d0132ba15aeac96b3cfbd38b9a70a34d41a0c2d06135d5"
+    },
+    {
+      "articleId": 9993,
+      "kind": "sentence",
+      "itemId": "s01",
+      "file": "audio/9993-aomori-earthquake-magnitude-7-5/KM-NEWS-9993-aomori-earthquake-magnitude-7-5-sentence-01-ja-Nanami.mp3",
+      "bytes": 34848,
+      "sha256": "2fe7296ddcae6870586e28627c6e65afbc4906b9d294bb22f4e7626b7a39c3e1"
+    },
+    {
+      "articleId": 9993,
+      "kind": "sentence",
+      "itemId": "s02",
+      "file": "audio/9993-aomori-earthquake-magnitude-7-5/KM-NEWS-9993-aomori-earthquake-magnitude-7-5-sentence-02-ja-Nanami.mp3",
+      "bytes": 32544,
+      "sha256": "1d27b07493bdcec454cf5e478ba52aedac8c75569a7a0705980ff7973434d88d"
+    },
+    {
+      "articleId": 9993,
+      "kind": "sentence",
+      "itemId": "s03",
+      "file": "audio/9993-aomori-earthquake-magnitude-7-5/KM-NEWS-9993-aomori-earthquake-magnitude-7-5-sentence-03-ja-Nanami.mp3",
+      "bytes": 30384,
+      "sha256": "612157f328ff4272d83be0ffd6d2dbef71012ababef10581c80d6dc87356d3cd"
+    },
+    {
+      "articleId": 9993,
+      "kind": "sentence",
+      "itemId": "s04",
+      "file": "audio/9993-aomori-earthquake-magnitude-7-5/KM-NEWS-9993-aomori-earthquake-magnitude-7-5-sentence-04-ja-Nanami.mp3",
+      "bytes": 32688,
+      "sha256": "72a25372d6bf47c64171a1f32e540fd5146f69464a53f7786c5353b6dbc9b469"
+    },
+    {
+      "articleId": 9993,
+      "kind": "sentence",
+      "itemId": "s05",
+      "file": "audio/9993-aomori-earthquake-magnitude-7-5/KM-NEWS-9993-aomori-earthquake-magnitude-7-5-sentence-05-ja-Nanami.mp3",
+      "bytes": 38304,
+      "sha256": "3d6f4ba64cecd22f12864b9ff41999e6f34b6fb04e73b311c00fb7bdaa54ed6d"
+    },
+    {
+      "articleId": 9993,
+      "kind": "sentence",
+      "itemId": "s06",
+      "file": "audio/9993-aomori-earthquake-magnitude-7-5/KM-NEWS-9993-aomori-earthquake-magnitude-7-5-sentence-06-ja-Nanami.mp3",
+      "bytes": 31824,
+      "sha256": "42ed08b3da1438cb6ca4834ad7147029962d16c43110e1509f5128213113fea8"
+    },
+    {
+      "articleId": 9993,
+      "kind": "card-preview",
+      "itemId": "card-preview",
+      "file": "audio/9993-aomori-earthquake-magnitude-7-5/KM-NEWS-9993-aomori-earthquake-magnitude-7-5-card-preview-ja-Nanami.mp3",
+      "bytes": 39600,
+      "sha256": "1cd16af7321a60d30ab050b80c78f2b70026967d9cbb116e0a73fc6e1199074f"
+    },
+    {
+      "articleId": 9993,
+      "kind": "vocabulary",
+      "itemId": "v01",
+      "file": "audio/9993-aomori-earthquake-magnitude-7-5/KM-NEWS-9993-aomori-earthquake-magnitude-7-5-vocab-01-ja-Nanami.mp3",
+      "bytes": 11232,
+      "sha256": "f3daff87162e245cfc015ea0e7ceb53cab95cc1b8c3fa6639c44f8cb8f935d15"
+    },
+    {
+      "articleId": 9993,
+      "kind": "vocabulary",
+      "itemId": "v02",
+      "file": "audio/9993-aomori-earthquake-magnitude-7-5/KM-NEWS-9993-aomori-earthquake-magnitude-7-5-vocab-02-ja-Nanami.mp3",
+      "bytes": 11232,
+      "sha256": "7d3d1d35704fc9b277059619cdb3e49c325fa0e9ab7c54621f633e7959d5762e"
+    },
+    {
+      "articleId": 9993,
+      "kind": "vocabulary",
+      "itemId": "v03",
+      "file": "audio/9993-aomori-earthquake-magnitude-7-5/KM-NEWS-9993-aomori-earthquake-magnitude-7-5-vocab-03-ja-Nanami.mp3",
+      "bytes": 11232,
+      "sha256": "4ebee6c7c5f9cb28469fc4800ded7d92e0403cbc06e1d097f0a4fadbc4873dd9"
+    },
+    {
+      "articleId": 9993,
+      "kind": "vocabulary",
+      "itemId": "v04",
+      "file": "audio/9993-aomori-earthquake-magnitude-7-5/KM-NEWS-9993-aomori-earthquake-magnitude-7-5-vocab-04-ja-Nanami.mp3",
+      "bytes": 11232,
+      "sha256": "36120e9acbaf9961cde1ff405f11ce7f4ed709020cfbcddfee304f1881cfd5e8"
+    },
+    {
+      "articleId": 9993,
+      "kind": "vocabulary",
+      "itemId": "v05",
+      "file": "audio/9993-aomori-earthquake-magnitude-7-5/KM-NEWS-9993-aomori-earthquake-magnitude-7-5-vocab-05-ja-Nanami.mp3",
+      "bytes": 11232,
+      "sha256": "89ef0eeb01733c17eae00a1ad964647b90e028b5ef9ef12aa654af8129e15a1c"
+    },
+    {
+      "articleId": 9993,
+      "kind": "vocabulary",
+      "itemId": "v06",
+      "file": "audio/9993-aomori-earthquake-magnitude-7-5/KM-NEWS-9993-aomori-earthquake-magnitude-7-5-vocab-06-ja-Nanami.mp3",
+      "bytes": 11232,
+      "sha256": "8f177a0f6667aaa831b08b7de55821ecba6a6477b42735e0c2fa5351c8fb3c5f"
+    },
+    {
+      "articleId": 9993,
+      "kind": "vocabulary",
+      "itemId": "v07",
+      "file": "audio/9993-aomori-earthquake-magnitude-7-5/KM-NEWS-9993-aomori-earthquake-magnitude-7-5-vocab-07-ja-Nanami.mp3",
+      "bytes": 12960,
+      "sha256": "3fe0856337920774b130c61f4f9adc6c38c21783baabbead1cd69163ad73a627"
+    },
+    {
+      "articleId": 7642,
+      "kind": "sentence",
+      "itemId": "s01",
+      "file": "audio/7642-un-adopts-equal-earth-world-map/KM-NEWS-7642-un-adopts-equal-earth-world-map-sentence-01-ja-Nanami.mp3",
+      "bytes": 62784,
+      "sha256": "d70891a8376e498c95d59e3a1a1b743a1b74de5e9bc5f78f2fe47fa84f5fef1a"
+    },
+    {
+      "articleId": 7642,
+      "kind": "source-sentence",
+      "itemId": "s01",
+      "file": "audio/7642-un-adopts-equal-earth-world-map/KM-NEWS-7642-un-adopts-equal-earth-world-map-sentence-01-ja-source.mp3",
+      "bytes": 119520,
+      "sha256": "333442891aeca09170ea4af11e1745d4c8992f72cda96ebceed4193938db0262"
+    },
+    {
+      "articleId": 7642,
+      "kind": "sentence",
+      "itemId": "s02",
+      "file": "audio/7642-un-adopts-equal-earth-world-map/KM-NEWS-7642-un-adopts-equal-earth-world-map-sentence-02-ja-Nanami.mp3",
+      "bytes": 54144,
+      "sha256": "ec6bb33a42217b79729e2963780eb7217e11fee3e402065db594143a6c305697"
+    },
+    {
+      "articleId": 7642,
+      "kind": "source-sentence",
+      "itemId": "s02",
+      "file": "audio/7642-un-adopts-equal-earth-world-map/KM-NEWS-7642-un-adopts-equal-earth-world-map-sentence-02-ja-source.mp3",
+      "bytes": 104256,
+      "sha256": "9f190f2657d61edbe1d923ebaceb85cace41dbd2f38c9fa5064ccbeaa8483bc7"
+    },
+    {
+      "articleId": 7642,
+      "kind": "sentence",
+      "itemId": "s03",
+      "file": "audio/7642-un-adopts-equal-earth-world-map/KM-NEWS-7642-un-adopts-equal-earth-world-map-sentence-03-ja-Nanami.mp3",
+      "bytes": 47088,
+      "sha256": "22b2662d212deffc2593fbb908532a95b288b2bbedf5474e2f8f616e2f05e111"
+    },
+    {
+      "articleId": 7642,
+      "kind": "source-sentence",
+      "itemId": "s03",
+      "file": "audio/7642-un-adopts-equal-earth-world-map/KM-NEWS-7642-un-adopts-equal-earth-world-map-sentence-03-ja-source.mp3",
+      "bytes": 89280,
+      "sha256": "d1611fe95a1bbf28925e9aecc1a9013c8160c4fb9916c4dc86ec3b44f4953393"
+    },
+    {
+      "articleId": 7642,
+      "kind": "sentence",
+      "itemId": "s04",
+      "file": "audio/7642-un-adopts-equal-earth-world-map/KM-NEWS-7642-un-adopts-equal-earth-world-map-sentence-04-ja-Nanami.mp3",
+      "bytes": 52272,
+      "sha256": "352a7b405e1fdcb52330579143cf7dd330e9b9df83422c5c8965f3ea49cc07f6"
+    },
+    {
+      "articleId": 7642,
+      "kind": "source-sentence",
+      "itemId": "s04",
+      "file": "audio/7642-un-adopts-equal-earth-world-map/KM-NEWS-7642-un-adopts-equal-earth-world-map-sentence-04-ja-source.mp3",
+      "bytes": 101088,
+      "sha256": "c88229da53e930104435461e3c83d05456a927f268376e37861cd9cad3f657a0"
+    },
+    {
+      "articleId": 7642,
+      "kind": "sentence",
+      "itemId": "s05",
+      "file": "audio/7642-un-adopts-equal-earth-world-map/KM-NEWS-7642-un-adopts-equal-earth-world-map-sentence-05-ja-Nanami.mp3",
+      "bytes": 50112,
+      "sha256": "e291c17470ca24ecc339b4287df6ea10e7dea8db4191a51f170596f5961b2639"
+    },
+    {
+      "articleId": 7642,
+      "kind": "source-sentence",
+      "itemId": "s05",
+      "file": "audio/7642-un-adopts-equal-earth-world-map/KM-NEWS-7642-un-adopts-equal-earth-world-map-sentence-05-ja-source.mp3",
+      "bytes": 98784,
+      "sha256": "b15ab0cb6cc448aa65f921533e4a6ac14a0b3fff17d1ef37a4c9d0f1ddeb978c"
+    },
+    {
+      "articleId": 7642,
+      "kind": "sentence",
+      "itemId": "s06",
+      "file": "audio/7642-un-adopts-equal-earth-world-map/KM-NEWS-7642-un-adopts-equal-earth-world-map-sentence-06-ja-Nanami.mp3",
+      "bytes": 53568,
+      "sha256": "b8740dd451e88904f348c85f9d6c4861fe30480053766eac0e0b3d45b680316b"
+    },
+    {
+      "articleId": 7642,
+      "kind": "source-sentence",
+      "itemId": "s06",
+      "file": "audio/7642-un-adopts-equal-earth-world-map/KM-NEWS-7642-un-adopts-equal-earth-world-map-sentence-06-ja-source.mp3",
+      "bytes": 104256,
+      "sha256": "3d9cd402450d0476dda21e257e1549149972a802900374aa0f8d421c1fea48fe"
+    },
+    {
+      "articleId": 7642,
+      "kind": "sentence",
+      "itemId": "s07",
+      "file": "audio/7642-un-adopts-equal-earth-world-map/KM-NEWS-7642-un-adopts-equal-earth-world-map-sentence-07-ja-Nanami.mp3",
+      "bytes": 39600,
+      "sha256": "e609759975f8d08e9b24cc9e8a076ef02b64ca818e10e0937d05ff62eb40c236"
+    },
+    {
+      "articleId": 7642,
+      "kind": "source-sentence",
+      "itemId": "s07",
+      "file": "audio/7642-un-adopts-equal-earth-world-map/KM-NEWS-7642-un-adopts-equal-earth-world-map-sentence-07-ja-source.mp3",
+      "bytes": 73728,
+      "sha256": "94dcb047e04b6fe77aa5c837895eccd2886bae51cf44a3fc3ac77cd79913fab0"
+    },
+    {
+      "articleId": 7642,
+      "kind": "sentence",
+      "itemId": "s08",
+      "file": "audio/7642-un-adopts-equal-earth-world-map/KM-NEWS-7642-un-adopts-equal-earth-world-map-sentence-08-ja-Nanami.mp3",
+      "bytes": 48960,
+      "sha256": "3fbefcdf6142dcb901bfeb8035bb9b0708049c215a10803338820f233e1e107e"
+    },
+    {
+      "articleId": 7642,
+      "kind": "source-sentence",
+      "itemId": "s08",
+      "file": "audio/7642-un-adopts-equal-earth-world-map/KM-NEWS-7642-un-adopts-equal-earth-world-map-sentence-08-ja-source.mp3",
+      "bytes": 91872,
+      "sha256": "41df5a4c3b621112f15598f0f67cf3c3616f09ab237b7072390c84afdd9c26b4"
+    },
+    {
+      "articleId": 7642,
+      "kind": "sentence",
+      "itemId": "s09",
+      "file": "audio/7642-un-adopts-equal-earth-world-map/KM-NEWS-7642-un-adopts-equal-earth-world-map-sentence-09-ja-Nanami.mp3",
+      "bytes": 49536,
+      "sha256": "ba00a033606a064fdd9bd758c549ed21661453671627f4d60b8819e91a88a61e"
+    },
+    {
+      "articleId": 7642,
+      "kind": "source-sentence",
+      "itemId": "s09",
+      "file": "audio/7642-un-adopts-equal-earth-world-map/KM-NEWS-7642-un-adopts-equal-earth-world-map-sentence-09-ja-source.mp3",
+      "bytes": 98208,
+      "sha256": "d9ccf6e7b394920ae4d0157dda3fde6b559ea12a3c9186f8c424716316f90428"
+    },
+    {
+      "articleId": 7642,
+      "kind": "sentence",
+      "itemId": "s10",
+      "file": "audio/7642-un-adopts-equal-earth-world-map/KM-NEWS-7642-un-adopts-equal-earth-world-map-sentence-10-ja-Nanami.mp3",
+      "bytes": 30096,
+      "sha256": "633f1383cc698a200e9ad84f2cfd1f82a47887ee6e81ca5d9892e7035f0dcf78"
+    },
+    {
+      "articleId": 7642,
+      "kind": "source-sentence",
+      "itemId": "s10",
+      "file": "audio/7642-un-adopts-equal-earth-world-map/KM-NEWS-7642-un-adopts-equal-earth-world-map-sentence-10-ja-source.mp3",
+      "bytes": 58464,
+      "sha256": "585484cac365607e566f7040b5a3f35aeac1e6cdb8231fe4a085ec0b5762420a"
+    },
+    {
+      "articleId": 7642,
+      "kind": "card-preview",
+      "itemId": "card-preview",
+      "file": "audio/7642-un-adopts-equal-earth-world-map/KM-NEWS-7642-un-adopts-equal-earth-world-map-card-preview-ja-Nanami.mp3",
+      "bytes": 33984,
+      "sha256": "0d7ba9423ba2b43d780aedcc1d067ee345f1b391f6aec21eca54168a06f10404"
+    },
+    {
+      "articleId": 7642,
+      "kind": "vocabulary",
+      "itemId": "v01",
+      "file": "audio/7642-un-adopts-equal-earth-world-map/KM-NEWS-7642-un-adopts-equal-earth-world-map-vocab-01-ja-Nanami.mp3",
+      "bytes": 11232,
+      "sha256": "658e89ebacac7e6f9e4fd7d58c155049d3e4f81e0ad33be48b2e457d1855c423"
+    },
+    {
+      "articleId": 7642,
+      "kind": "vocabulary",
+      "itemId": "v02",
+      "file": "audio/7642-un-adopts-equal-earth-world-map/KM-NEWS-7642-un-adopts-equal-earth-world-map-vocab-02-ja-Nanami.mp3",
+      "bytes": 11232,
+      "sha256": "a480fc28b93829213eb4a2e3b3e19dc1e272193a97aabe0dafc2329baee29262"
+    },
+    {
+      "articleId": 7642,
+      "kind": "vocabulary",
+      "itemId": "v03",
+      "file": "audio/7642-un-adopts-equal-earth-world-map/KM-NEWS-7642-un-adopts-equal-earth-world-map-vocab-03-ja-Nanami.mp3",
+      "bytes": 11232,
+      "sha256": "943af4d7d195018831c027707bec857cb615c1915f6742289d5cac84e98967be"
+    },
+    {
+      "articleId": 7642,
+      "kind": "vocabulary",
+      "itemId": "v04",
+      "file": "audio/7642-un-adopts-equal-earth-world-map/KM-NEWS-7642-un-adopts-equal-earth-world-map-vocab-04-ja-Nanami.mp3",
+      "bytes": 11232,
+      "sha256": "645aa33dc15932cd0657e1e9cd697221066f58fa9073730f703d3abd199dccf2"
+    },
+    {
+      "articleId": 7642,
+      "kind": "vocabulary",
+      "itemId": "v05",
+      "file": "audio/7642-un-adopts-equal-earth-world-map/KM-NEWS-7642-un-adopts-equal-earth-world-map-vocab-05-ja-Nanami.mp3",
+      "bytes": 11232,
+      "sha256": "d1685d2e26a7c8d4c811dbb529a86645aa531a2fd70ae82442c071edbc74f2a0"
+    },
+    {
+      "articleId": 7642,
+      "kind": "vocabulary",
+      "itemId": "v06",
+      "file": "audio/7642-un-adopts-equal-earth-world-map/KM-NEWS-7642-un-adopts-equal-earth-world-map-vocab-06-ja-Nanami.mp3",
+      "bytes": 11232,
+      "sha256": "5870893fe3eee7f7459d3cd25e0cdee2a070914b2750aede80b97f4354755daf"
+    },
+    {
+      "articleId": 7642,
+      "kind": "vocabulary",
+      "itemId": "v07",
+      "file": "audio/7642-un-adopts-equal-earth-world-map/KM-NEWS-7642-un-adopts-equal-earth-world-map-vocab-07-ja-Nanami.mp3",
+      "bytes": 11232,
+      "sha256": "0ace6f78b95974ae1ac3f745f8e9f5c3cc83503394ec5880a4c5dc76715407a0"
+    },
+    {
+      "articleId": 7611,
+      "kind": "sentence",
+      "itemId": "s01",
+      "file": "audio/7611-nepal-china-border-landslides/KM-NEWS-7611-nepal-china-border-landslides-sentence-01-ja-Nanami.mp3",
+      "bytes": 39456,
+      "sha256": "03451abef2e77d7afef82401aa725d6c9927049860e8309c5278ed338874367b"
+    },
+    {
+      "articleId": 7611,
+      "kind": "source-sentence",
+      "itemId": "s01",
+      "file": "audio/7611-nepal-china-border-landslides/KM-NEWS-7611-nepal-china-border-landslides-sentence-01-ja-source.mp3",
+      "bytes": 74880,
+      "sha256": "d29334c466e0bd71038bcf3906977a5b126a328b15e7c909462f55b3cc0e61f4"
+    },
+    {
+      "articleId": 7611,
+      "kind": "sentence",
+      "itemId": "s02",
+      "file": "audio/7611-nepal-china-border-landslides/KM-NEWS-7611-nepal-china-border-landslides-sentence-02-ja-Nanami.mp3",
+      "bytes": 45072,
+      "sha256": "db78fbe058e447aa31b623e2df967cdc1a45dbb27907109413d3121c3617000f"
+    },
+    {
+      "articleId": 7611,
+      "kind": "source-sentence",
+      "itemId": "s02",
+      "file": "audio/7611-nepal-china-border-landslides/KM-NEWS-7611-nepal-china-border-landslides-sentence-02-ja-source.mp3",
+      "bytes": 89568,
+      "sha256": "e1f57aaa52dbf79726922501393222bc3d20064e73ffa4becfc53cc0cc1c16e8"
+    },
+    {
+      "articleId": 7611,
+      "kind": "sentence",
+      "itemId": "s03",
+      "file": "audio/7611-nepal-china-border-landslides/KM-NEWS-7611-nepal-china-border-landslides-sentence-03-ja-Nanami.mp3",
+      "bytes": 39888,
+      "sha256": "850d6cf770b026f4dfe1e8e4ab310c84376550c1c6d74e2aad790a74a3900370"
+    },
+    {
+      "articleId": 7611,
+      "kind": "source-sentence",
+      "itemId": "s03",
+      "file": "audio/7611-nepal-china-border-landslides/KM-NEWS-7611-nepal-china-border-landslides-sentence-03-ja-source.mp3",
+      "bytes": 73440,
+      "sha256": "942aaedd9f19920336dae7b586a8fc40baa1d805c3d2b0eb9a037591370d51ad"
+    },
+    {
+      "articleId": 7611,
+      "kind": "sentence",
+      "itemId": "s04",
+      "file": "audio/7611-nepal-china-border-landslides/KM-NEWS-7611-nepal-china-border-landslides-sentence-04-ja-Nanami.mp3",
+      "bytes": 60192,
+      "sha256": "9f8d9321559bb0e99eba51a892b9d8f95107af7a30b3a52fc8808c62a67b913b"
+    },
+    {
+      "articleId": 7611,
+      "kind": "source-sentence",
+      "itemId": "s04",
+      "file": "audio/7611-nepal-china-border-landslides/KM-NEWS-7611-nepal-china-border-landslides-sentence-04-ja-source.mp3",
+      "bytes": 115488,
+      "sha256": "c60b3b7a0129a2fc76c1c5a9fc12f47d4f3c92ea3e0778478d0ba69fcde351f2"
+    },
+    {
+      "articleId": 7611,
+      "kind": "sentence",
+      "itemId": "s05",
+      "file": "audio/7611-nepal-china-border-landslides/KM-NEWS-7611-nepal-china-border-landslides-sentence-05-ja-Nanami.mp3",
+      "bytes": 42624,
+      "sha256": "3553a33a6133a344e5c1fd3abfe2469cf70026688c20ac6ebc4000d6249d7d52"
+    },
+    {
+      "articleId": 7611,
+      "kind": "source-sentence",
+      "itemId": "s05",
+      "file": "audio/7611-nepal-china-border-landslides/KM-NEWS-7611-nepal-china-border-landslides-sentence-05-ja-source.mp3",
+      "bytes": 81504,
+      "sha256": "503a37f0050c6760f0ed1631543c68d5edbfd4af8f5b3b3f2d1b60b5e696eee0"
+    },
+    {
+      "articleId": 7611,
+      "kind": "sentence",
+      "itemId": "s06",
+      "file": "audio/7611-nepal-china-border-landslides/KM-NEWS-7611-nepal-china-border-landslides-sentence-06-ja-Nanami.mp3",
+      "bytes": 60480,
+      "sha256": "4e923c109d7ffca035ed049c2228e95e83d886be719fa5b149cdb73d1d19f804"
+    },
+    {
+      "articleId": 7611,
+      "kind": "source-sentence",
+      "itemId": "s06",
+      "file": "audio/7611-nepal-china-border-landslides/KM-NEWS-7611-nepal-china-border-landslides-sentence-06-ja-source.mp3",
+      "bytes": 116352,
+      "sha256": "3c7e1971d601b45a686d966d59b759e39507ef93697c54ec52fc748ac6bec556"
+    },
+    {
+      "articleId": 7611,
+      "kind": "sentence",
+      "itemId": "s07",
+      "file": "audio/7611-nepal-china-border-landslides/KM-NEWS-7611-nepal-china-border-landslides-sentence-07-ja-Nanami.mp3",
+      "bytes": 59328,
+      "sha256": "abe4bf7ee055e718927f2e2957e9473b71c073b841fbd2517a492c8c005158a2"
+    },
+    {
+      "articleId": 7611,
+      "kind": "source-sentence",
+      "itemId": "s07",
+      "file": "audio/7611-nepal-china-border-landslides/KM-NEWS-7611-nepal-china-border-landslides-sentence-07-ja-source.mp3",
+      "bytes": 113760,
+      "sha256": "5409660ec958f0c4ba86b4cac11f48e1316802a9e4f054a60bd3d17ba95fa642"
+    },
+    {
+      "articleId": 7611,
+      "kind": "card-preview",
+      "itemId": "card-preview",
+      "file": "audio/7611-nepal-china-border-landslides/KM-NEWS-7611-nepal-china-border-landslides-card-preview-ja-Nanami.mp3",
+      "bytes": 41040,
+      "sha256": "803ab800041312cdbdbfec0add3205ac627ab5cdd788b2185cb1262ebd68a6b0"
+    },
+    {
+      "articleId": 7611,
+      "kind": "vocabulary",
+      "itemId": "v01",
+      "file": "audio/7611-nepal-china-border-landslides/KM-NEWS-7611-nepal-china-border-landslides-vocab-01-ja-Nanami.mp3",
+      "bytes": 11232,
+      "sha256": "91ed3c0952c6fdbbc9adf507940dac7449ae354289e2ed5e9f0f383b2307b7cd"
+    },
+    {
+      "articleId": 7611,
+      "kind": "vocabulary",
+      "itemId": "v02",
+      "file": "audio/7611-nepal-china-border-landslides/KM-NEWS-7611-nepal-china-border-landslides-vocab-02-ja-Nanami.mp3",
+      "bytes": 11664,
+      "sha256": "ec096409a05c0bb55cb621110ab0bbc777cf66b39b5fa4fb4689ad7bb9f4eac8"
+    },
+    {
+      "articleId": 7611,
+      "kind": "vocabulary",
+      "itemId": "v03",
+      "file": "audio/7611-nepal-china-border-landslides/KM-NEWS-7611-nepal-china-border-landslides-vocab-03-ja-Nanami.mp3",
+      "bytes": 12384,
+      "sha256": "01b703245057a6b8886cc3f98e129b4185c3f82de940f5c768fcd338816d0fd7"
+    },
+    {
+      "articleId": 7611,
+      "kind": "vocabulary",
+      "itemId": "v04",
+      "file": "audio/7611-nepal-china-border-landslides/KM-NEWS-7611-nepal-china-border-landslides-vocab-04-ja-Nanami.mp3",
+      "bytes": 11232,
+      "sha256": "6f8f53facd5221b02a9f70e2e95ad43655cc35a1c1a2984d5b694a6ed92e8624"
+    },
+    {
+      "articleId": 7611,
+      "kind": "vocabulary",
+      "itemId": "v05",
+      "file": "audio/7611-nepal-china-border-landslides/KM-NEWS-7611-nepal-china-border-landslides-vocab-05-ja-Nanami.mp3",
+      "bytes": 11232,
+      "sha256": "3bd5f94dac6a6cc0599d4ba20124c12cf1e8af31af66e0a20f02f680b817fc2a"
+    },
+    {
+      "articleId": 7606,
+      "kind": "sentence",
+      "itemId": "s01",
+      "file": "audio/7606-russian-drone-attack-near-kyiv/KM-NEWS-7606-russian-drone-attack-near-kyiv-sentence-01-ja-Nanami.mp3",
+      "bytes": 29088,
+      "sha256": "cb6524375a55037b8bf99009771994cabd8750e598ec19e116ffb42877b0d387"
+    },
+    {
+      "articleId": 7606,
+      "kind": "source-sentence",
+      "itemId": "s01",
+      "file": "audio/7606-russian-drone-attack-near-kyiv/KM-NEWS-7606-russian-drone-attack-near-kyiv-sentence-01-ja-source.mp3",
+      "bytes": 55296,
+      "sha256": "7ed7f97efe2596cfdb8a1e11dfe4c95aaa7e35062a3dbbd580b1fa084ed3e787"
+    },
+    {
+      "articleId": 7606,
+      "kind": "sentence",
+      "itemId": "s02",
+      "file": "audio/7606-russian-drone-attack-near-kyiv/KM-NEWS-7606-russian-drone-attack-near-kyiv-sentence-02-ja-Nanami.mp3",
+      "bytes": 26496,
+      "sha256": "334d29865d439e61ba96aff59f8edce631c3f616019156b01faa32ded040ed8c"
+    },
+    {
+      "articleId": 7606,
+      "kind": "source-sentence",
+      "itemId": "s02",
+      "file": "audio/7606-russian-drone-attack-near-kyiv/KM-NEWS-7606-russian-drone-attack-near-kyiv-sentence-02-ja-source.mp3",
+      "bytes": 51840,
+      "sha256": "3d5c0470891b0643602afb9aa6b3a1017ba49a80dc8f72af97e309979ddfedde"
+    },
+    {
+      "articleId": 7606,
+      "kind": "sentence",
+      "itemId": "s03",
+      "file": "audio/7606-russian-drone-attack-near-kyiv/KM-NEWS-7606-russian-drone-attack-near-kyiv-sentence-03-ja-Nanami.mp3",
+      "bytes": 33840,
+      "sha256": "8ca25c4b0fdabc09a8cc47f366b61522ca845f9b6a8bac25cc2eb7309db2a979"
+    },
+    {
+      "articleId": 7606,
+      "kind": "source-sentence",
+      "itemId": "s03",
+      "file": "audio/7606-russian-drone-attack-near-kyiv/KM-NEWS-7606-russian-drone-attack-near-kyiv-sentence-03-ja-source.mp3",
+      "bytes": 66528,
+      "sha256": "ad582b852bdc3834dfd00c70da1fbae00ef0aea5a92fefb6e17cd9f8cb0bddb4"
+    },
+    {
+      "articleId": 7606,
+      "kind": "sentence",
+      "itemId": "s04",
+      "file": "audio/7606-russian-drone-attack-near-kyiv/KM-NEWS-7606-russian-drone-attack-near-kyiv-sentence-04-ja-Nanami.mp3",
+      "bytes": 45504,
+      "sha256": "030e3c1ab97e16fda2166dc1cf471fe8bff1ffadf911648c4f346f96a5f5490d"
+    },
+    {
+      "articleId": 7606,
+      "kind": "source-sentence",
+      "itemId": "s04",
+      "file": "audio/7606-russian-drone-attack-near-kyiv/KM-NEWS-7606-russian-drone-attack-near-kyiv-sentence-04-ja-source.mp3",
+      "bytes": 87552,
+      "sha256": "f56caeb518e22aca672f4ab7c6ca195c26c0320eacd7a8ef3e597d391e39dc71"
+    },
+    {
+      "articleId": 7606,
+      "kind": "sentence",
+      "itemId": "s05",
+      "file": "audio/7606-russian-drone-attack-near-kyiv/KM-NEWS-7606-russian-drone-attack-near-kyiv-sentence-05-ja-Nanami.mp3",
+      "bytes": 34992,
+      "sha256": "f038574550f350d4a89f80baadd1efa11dd787fa77cf05d45a35b21c98f304b1"
+    },
+    {
+      "articleId": 7606,
+      "kind": "source-sentence",
+      "itemId": "s05",
+      "file": "audio/7606-russian-drone-attack-near-kyiv/KM-NEWS-7606-russian-drone-attack-near-kyiv-sentence-05-ja-source.mp3",
+      "bytes": 68544,
+      "sha256": "9add716f433a31e2faf67748114c88e4a9195497391234a0590809ced260ec9d"
+    },
+    {
+      "articleId": 7606,
+      "kind": "sentence",
+      "itemId": "s06",
+      "file": "audio/7606-russian-drone-attack-near-kyiv/KM-NEWS-7606-russian-drone-attack-near-kyiv-sentence-06-ja-Nanami.mp3",
+      "bytes": 33696,
+      "sha256": "c92fc3993174e4831b9c1cdd5acb88935192fed424ba2e0c73fbfe4f0ebfe851"
+    },
+    {
+      "articleId": 7606,
+      "kind": "source-sentence",
+      "itemId": "s06",
+      "file": "audio/7606-russian-drone-attack-near-kyiv/KM-NEWS-7606-russian-drone-attack-near-kyiv-sentence-06-ja-source.mp3",
+      "bytes": 64800,
+      "sha256": "69acb22c3136678c92a9ac02217e70ca661f7ffa4cbd2fdb0c0ad74ed7ce0b11"
+    },
+    {
+      "articleId": 7606,
+      "kind": "sentence",
+      "itemId": "s07",
+      "file": "audio/7606-russian-drone-attack-near-kyiv/KM-NEWS-7606-russian-drone-attack-near-kyiv-sentence-07-ja-Nanami.mp3",
+      "bytes": 37440,
+      "sha256": "132d2e1eb88532ff1118c2fb50ae8139b4d3310eacd376fc07113d3a0bd27219"
+    },
+    {
+      "articleId": 7606,
+      "kind": "source-sentence",
+      "itemId": "s07",
+      "file": "audio/7606-russian-drone-attack-near-kyiv/KM-NEWS-7606-russian-drone-attack-near-kyiv-sentence-07-ja-source.mp3",
+      "bytes": 73728,
+      "sha256": "066b7c0634b89fdb16fff8301b5209ec76231b9043ad31818ab89df40a82fbce"
+    },
+    {
+      "articleId": 7606,
+      "kind": "sentence",
+      "itemId": "s08",
+      "file": "audio/7606-russian-drone-attack-near-kyiv/KM-NEWS-7606-russian-drone-attack-near-kyiv-sentence-08-ja-Nanami.mp3",
+      "bytes": 20880,
+      "sha256": "b1b3989f14f6cc9fec386d1c5401821ea46a67fc31a0886a21075949cc57f59a"
+    },
+    {
+      "articleId": 7606,
+      "kind": "source-sentence",
+      "itemId": "s08",
+      "file": "audio/7606-russian-drone-attack-near-kyiv/KM-NEWS-7606-russian-drone-attack-near-kyiv-sentence-08-ja-source.mp3",
+      "bytes": 40320,
+      "sha256": "dac32aa6aa4d56645724e6c354388cc3552354c48a7db13e3cd4ec5c171d655b"
+    },
+    {
+      "articleId": 7606,
+      "kind": "sentence",
+      "itemId": "s09",
+      "file": "audio/7606-russian-drone-attack-near-kyiv/KM-NEWS-7606-russian-drone-attack-near-kyiv-sentence-09-ja-Nanami.mp3",
+      "bytes": 35424,
+      "sha256": "f7475bec022a4ec6bc5c1699027c8de2ea449b7613dc4f960d6b9433bf7ed5ec"
+    },
+    {
+      "articleId": 7606,
+      "kind": "source-sentence",
+      "itemId": "s09",
+      "file": "audio/7606-russian-drone-attack-near-kyiv/KM-NEWS-7606-russian-drone-attack-near-kyiv-sentence-09-ja-source.mp3",
+      "bytes": 67968,
+      "sha256": "d248579ae00e9120e1c70bba5763fb092b7c7ade078bc46b90c706916dc30106"
+    },
+    {
+      "articleId": 7606,
+      "kind": "card-preview",
+      "itemId": "card-preview",
+      "file": "audio/7606-russian-drone-attack-near-kyiv/KM-NEWS-7606-russian-drone-attack-near-kyiv-card-preview-ja-Nanami.mp3",
+      "bytes": 37008,
+      "sha256": "b4eaa5eaf2d6231400fffffae6b30d60bb506f2165ac316f55aafb9e2fa43e4d"
+    },
+    {
+      "articleId": 7606,
+      "kind": "vocabulary",
+      "itemId": "v01",
+      "file": "audio/7606-russian-drone-attack-near-kyiv/KM-NEWS-7606-russian-drone-attack-near-kyiv-vocab-01-ja-Nanami.mp3",
+      "bytes": 11232,
+      "sha256": "81ce05e45dbc3178e4a1dd034aa007c9734d5304e74e68d8e1672a7eb050c687"
+    },
+    {
+      "articleId": 7606,
+      "kind": "vocabulary",
+      "itemId": "v02",
+      "file": "audio/7606-russian-drone-attack-near-kyiv/KM-NEWS-7606-russian-drone-attack-near-kyiv-vocab-02-ja-Nanami.mp3",
+      "bytes": 11232,
+      "sha256": "59eca66f26219267c378ee1e35daed5aef04aef9ba1ec9baf1753ed89f103909"
+    },
+    {
+      "articleId": 7606,
+      "kind": "vocabulary",
+      "itemId": "v03",
+      "file": "audio/7606-russian-drone-attack-near-kyiv/KM-NEWS-7606-russian-drone-attack-near-kyiv-vocab-03-ja-Nanami.mp3",
+      "bytes": 11232,
+      "sha256": "c50488fb7d706b64a694266bb963fdec198d27fb56323780eb97f5a80e19cbf6"
+    },
+    {
+      "articleId": 7606,
+      "kind": "vocabulary",
+      "itemId": "v04",
+      "file": "audio/7606-russian-drone-attack-near-kyiv/KM-NEWS-7606-russian-drone-attack-near-kyiv-vocab-04-ja-Nanami.mp3",
+      "bytes": 11232,
+      "sha256": "73d34a6e60d0bcdc588d03fa13e3fd86eaee863508c798ad7b174c6e4af973b8"
+    },
+    {
+      "articleId": 7606,
+      "kind": "vocabulary",
+      "itemId": "v05",
+      "file": "audio/7606-russian-drone-attack-near-kyiv/KM-NEWS-7606-russian-drone-attack-near-kyiv-vocab-05-ja-Nanami.mp3",
+      "bytes": 11232,
+      "sha256": "3e8ee48a24371585e2acb017db167d434f3c0b8472918c60f1bf6cffb35cec0f"
+    },
+    {
+      "articleId": 7606,
+      "kind": "vocabulary",
+      "itemId": "v06",
+      "file": "audio/7606-russian-drone-attack-near-kyiv/KM-NEWS-7606-russian-drone-attack-near-kyiv-vocab-06-ja-Nanami.mp3",
+      "bytes": 11232,
+      "sha256": "6d2655a0b8a7dc474b9b4ec70365db5553e423570dfd50e42c283c2262e2d54b"
+    },
+    {
+      "articleId": 7606,
+      "kind": "vocabulary",
+      "itemId": "v07",
+      "file": "audio/7606-russian-drone-attack-near-kyiv/KM-NEWS-7606-russian-drone-attack-near-kyiv-vocab-07-ja-Nanami.mp3",
+      "bytes": 11232,
+      "sha256": "b258805bd5cb3924d7e9c0601358270db25e2d992140f8245e7bcad9ee7ad2c0"
+    },
+    {
+      "articleId": 7605,
+      "kind": "sentence",
+      "itemId": "s01",
+      "file": "audio/7605-nepal-tibet-landslides/KM-NEWS-7605-nepal-tibet-landslides-sentence-01-ja-Nanami.mp3",
+      "bytes": 38160,
+      "sha256": "b642418ef45417dcc9f7d8ae01f8cb4393412949bb8449460161443308e4c85d"
+    },
+    {
+      "articleId": 7605,
+      "kind": "source-sentence",
+      "itemId": "s01",
+      "file": "audio/7605-nepal-tibet-landslides/KM-NEWS-7605-nepal-tibet-landslides-sentence-01-ja-source.mp3",
+      "bytes": 73728,
+      "sha256": "e1d7397b0efeab184c855ebdc40f3b8a3fbfb1499fca578f59ab9a734f0a35ba"
+    },
+    {
+      "articleId": 7605,
+      "kind": "sentence",
+      "itemId": "s02",
+      "file": "audio/7605-nepal-tibet-landslides/KM-NEWS-7605-nepal-tibet-landslides-sentence-02-ja-Nanami.mp3",
+      "bytes": 58752,
+      "sha256": "7cec573db964b7acbcc9cb61debc3a80b70394d513363012bb837a0f061856de"
+    },
+    {
+      "articleId": 7605,
+      "kind": "source-sentence",
+      "itemId": "s02",
+      "file": "audio/7605-nepal-tibet-landslides/KM-NEWS-7605-nepal-tibet-landslides-sentence-02-ja-source.mp3",
+      "bytes": 115200,
+      "sha256": "3e1912f2995627145693a67103a729fdd66c125824031d6c3f88e6675eba062e"
+    },
+    {
+      "articleId": 7605,
+      "kind": "sentence",
+      "itemId": "s03",
+      "file": "audio/7605-nepal-tibet-landslides/KM-NEWS-7605-nepal-tibet-landslides-sentence-03-ja-Nanami.mp3",
+      "bytes": 52272,
+      "sha256": "f2d21d2963fe24455fa60881437625f033063df7d8414cc5d11f896c8a0b4bcc"
+    },
+    {
+      "articleId": 7605,
+      "kind": "source-sentence",
+      "itemId": "s03",
+      "file": "audio/7605-nepal-tibet-landslides/KM-NEWS-7605-nepal-tibet-landslides-sentence-03-ja-source.mp3",
+      "bytes": 102240,
+      "sha256": "f8d8f0ceb388fcd786945f97035a9e3bd396d757a821d108ad1926bc68f07651"
+    },
+    {
+      "articleId": 7605,
+      "kind": "sentence",
+      "itemId": "s04",
+      "file": "audio/7605-nepal-tibet-landslides/KM-NEWS-7605-nepal-tibet-landslides-sentence-04-ja-Nanami.mp3",
+      "bytes": 42480,
+      "sha256": "ccd13ea5a6fe82322b75bb16fb5943e136aaf4678d0d37ef0910303d45fe307a"
+    },
+    {
+      "articleId": 7605,
+      "kind": "source-sentence",
+      "itemId": "s04",
+      "file": "audio/7605-nepal-tibet-landslides/KM-NEWS-7605-nepal-tibet-landslides-sentence-04-ja-source.mp3",
+      "bytes": 81504,
+      "sha256": "79e0656e55fd6b985c5f2cf955ac548c40f73c022d7002198daf3446447a6680"
+    },
+    {
+      "articleId": 7605,
+      "kind": "sentence",
+      "itemId": "s05",
+      "file": "audio/7605-nepal-tibet-landslides/KM-NEWS-7605-nepal-tibet-landslides-sentence-05-ja-Nanami.mp3",
+      "bytes": 27648,
+      "sha256": "60ede36248ca06149599008fddd892d26cb356b4b49a5ed421f13b4a9834ee9f"
+    },
+    {
+      "articleId": 7605,
+      "kind": "source-sentence",
+      "itemId": "s05",
+      "file": "audio/7605-nepal-tibet-landslides/KM-NEWS-7605-nepal-tibet-landslides-sentence-05-ja-source.mp3",
+      "bytes": 51264,
+      "sha256": "3129ef7760ee91b7b04c1ebac9c636dcba377e6d4f6a1ab52cd27e6d824f2541"
+    },
+    {
+      "articleId": 7605,
+      "kind": "sentence",
+      "itemId": "s06",
+      "file": "audio/7605-nepal-tibet-landslides/KM-NEWS-7605-nepal-tibet-landslides-sentence-06-ja-Nanami.mp3",
+      "bytes": 48096,
+      "sha256": "6261f32612b96dbc934ee1affe4d7021618d1cb8d9655fb86f2fc3cef9e54c08"
+    },
+    {
+      "articleId": 7605,
+      "kind": "source-sentence",
+      "itemId": "s06",
+      "file": "audio/7605-nepal-tibet-landslides/KM-NEWS-7605-nepal-tibet-landslides-sentence-06-ja-source.mp3",
+      "bytes": 95040,
+      "sha256": "b019db73e58265dd3a1bd97db51ab81be95d95a77f961420141fd5f5fd60a9a9"
+    },
+    {
+      "articleId": 7605,
+      "kind": "sentence",
+      "itemId": "s07",
+      "file": "audio/7605-nepal-tibet-landslides/KM-NEWS-7605-nepal-tibet-landslides-sentence-07-ja-Nanami.mp3",
+      "bytes": 43200,
+      "sha256": "e1b8366b8c771079c6b35eec9401cb00bd2304533b35f6acf754807248f15f68"
+    },
+    {
+      "articleId": 7605,
+      "kind": "source-sentence",
+      "itemId": "s07",
+      "file": "audio/7605-nepal-tibet-landslides/KM-NEWS-7605-nepal-tibet-landslides-sentence-07-ja-source.mp3",
+      "bytes": 86112,
+      "sha256": "e1535d3006dc57d9e24a59bca41e23c35836f3eec30908ac2ed9db24dc1cb096"
+    },
+    {
+      "articleId": 7605,
+      "kind": "sentence",
+      "itemId": "s08",
+      "file": "audio/7605-nepal-tibet-landslides/KM-NEWS-7605-nepal-tibet-landslides-sentence-08-ja-Nanami.mp3",
+      "bytes": 44496,
+      "sha256": "b40c8521955ccb75ae731bd69bfbdf3ce20ea5fe9402456694941eb61805327e"
+    },
+    {
+      "articleId": 7605,
+      "kind": "source-sentence",
+      "itemId": "s08",
+      "file": "audio/7605-nepal-tibet-landslides/KM-NEWS-7605-nepal-tibet-landslides-sentence-08-ja-source.mp3",
+      "bytes": 84960,
+      "sha256": "2624c841fecdff3137ba40168fe8f4a392daa4399fc4e0da53e33d288350e3ef"
+    },
+    {
+      "articleId": 7605,
+      "kind": "sentence",
+      "itemId": "s09",
+      "file": "audio/7605-nepal-tibet-landslides/KM-NEWS-7605-nepal-tibet-landslides-sentence-09-ja-Nanami.mp3",
+      "bytes": 40176,
+      "sha256": "72285d1891fce5775ac0ca51633d9d7d6eb451ab2e32644e26e60e2a7df07bbe"
+    },
+    {
+      "articleId": 7605,
+      "kind": "source-sentence",
+      "itemId": "s09",
+      "file": "audio/7605-nepal-tibet-landslides/KM-NEWS-7605-nepal-tibet-landslides-sentence-09-ja-source.mp3",
+      "bytes": 77184,
+      "sha256": "b5fc08bfcc8972625df10c4ec5249164467b21efbeeecfd610a5aff41520915e"
+    },
+    {
+      "articleId": 7605,
+      "kind": "sentence",
+      "itemId": "s10",
+      "file": "audio/7605-nepal-tibet-landslides/KM-NEWS-7605-nepal-tibet-landslides-sentence-10-ja-Nanami.mp3",
+      "bytes": 31536,
+      "sha256": "e4cb38b1cd99eefdf9fd7d7d0584635e5c8618932f724231e9ff4304b5b130a8"
+    },
+    {
+      "articleId": 7605,
+      "kind": "source-sentence",
+      "itemId": "s10",
+      "file": "audio/7605-nepal-tibet-landslides/KM-NEWS-7605-nepal-tibet-landslides-sentence-10-ja-source.mp3",
+      "bytes": 60480,
+      "sha256": "11957d34751e4e0af2e29efea5a069b00a85c363f6b28280dd9ae0d25c8c0f0d"
+    },
+    {
+      "articleId": 7605,
+      "kind": "card-preview",
+      "itemId": "card-preview",
+      "file": "audio/7605-nepal-tibet-landslides/KM-NEWS-7605-nepal-tibet-landslides-card-preview-ja-Nanami.mp3",
+      "bytes": 39888,
+      "sha256": "610b9da78d4a7afba41e271640a955671d3ba85363b98be39313e57d2e7cc3f4"
+    },
+    {
+      "articleId": 7605,
+      "kind": "vocabulary",
+      "itemId": "v01",
+      "file": "audio/7605-nepal-tibet-landslides/KM-NEWS-7605-nepal-tibet-landslides-vocab-01-ja-Nanami.mp3",
+      "bytes": 11232,
+      "sha256": "290dc92b19076f5dbf2e632e0b7203cf354539ca3a7070e4ee06746ae2733405"
+    },
+    {
+      "articleId": 7605,
+      "kind": "vocabulary",
+      "itemId": "v02",
+      "file": "audio/7605-nepal-tibet-landslides/KM-NEWS-7605-nepal-tibet-landslides-vocab-02-ja-Nanami.mp3",
+      "bytes": 11232,
+      "sha256": "ac1a2c7a2d5806bdf04b8b20c96e4d0ddf7ed4a9f691fa5da753c78fff189918"
+    },
+    {
+      "articleId": 7605,
+      "kind": "vocabulary",
+      "itemId": "v03",
+      "file": "audio/7605-nepal-tibet-landslides/KM-NEWS-7605-nepal-tibet-landslides-vocab-03-ja-Nanami.mp3",
+      "bytes": 11232,
+      "sha256": "3b7a26e398df7b84a7775f304d40a7e1319ba50baaa7e3c266d28928766c8167"
+    },
+    {
+      "articleId": 7605,
+      "kind": "vocabulary",
+      "itemId": "v04",
+      "file": "audio/7605-nepal-tibet-landslides/KM-NEWS-7605-nepal-tibet-landslides-vocab-04-ja-Nanami.mp3",
+      "bytes": 11232,
+      "sha256": "8ed7c608578e62e9ca89239b6dcf748bf46de3063ec5c7deb5cf052bf92d8093"
+    },
+    {
+      "articleId": 7605,
+      "kind": "vocabulary",
+      "itemId": "v05",
+      "file": "audio/7605-nepal-tibet-landslides/KM-NEWS-7605-nepal-tibet-landslides-vocab-05-ja-Nanami.mp3",
+      "bytes": 11664,
+      "sha256": "9a67f752668e46b3e2277890db09c34dd975a7b28d8dcd841fd5d90c135ed737"
+    },
+    {
+      "articleId": 7605,
+      "kind": "vocabulary",
+      "itemId": "v06",
+      "file": "audio/7605-nepal-tibet-landslides/KM-NEWS-7605-nepal-tibet-landslides-vocab-06-ja-Nanami.mp3",
+      "bytes": 12240,
+      "sha256": "dc417dbdd122c60d651812852af2c57b46eea3e83fb4107f6d0453cd08965e86"
+    },
+    {
+      "articleId": 7605,
+      "kind": "vocabulary",
+      "itemId": "v07",
+      "file": "audio/7605-nepal-tibet-landslides/KM-NEWS-7605-nepal-tibet-landslides-vocab-07-ja-Nanami.mp3",
+      "bytes": 11232,
+      "sha256": "31d5471c55bdd20ce37a9366deb6ed4bbd247ae9b0e794c450e3f3dd9b5a9604"
+    },
+    {
+      "articleId": 7605,
+      "kind": "vocabulary",
+      "itemId": "v08",
+      "file": "audio/7605-nepal-tibet-landslides/KM-NEWS-7605-nepal-tibet-landslides-vocab-08-ja-Nanami.mp3",
+      "bytes": 11232,
+      "sha256": "bce4f54e84a666fd0c6d6c1b13c7239e28bec281d3f2ae34c42a67c9f2f2206a"
+    },
+    {
+      "articleId": 7605,
+      "kind": "vocabulary",
+      "itemId": "v09",
+      "file": "audio/7605-nepal-tibet-landslides/KM-NEWS-7605-nepal-tibet-landslides-vocab-09-ja-Nanami.mp3",
+      "bytes": 11232,
+      "sha256": "149cbd9213556098432a505cc414618c9aef4e184d7e1683cfb0ca698e51654b"
+    },
+    {
+      "articleId": 7605,
+      "kind": "vocabulary",
+      "itemId": "v10",
+      "file": "audio/7605-nepal-tibet-landslides/KM-NEWS-7605-nepal-tibet-landslides-vocab-10-ja-Nanami.mp3",
+      "bytes": 11232,
+      "sha256": "f3e0a782b30aa38680c747a6868bd719f5ffb9c1d94ddb45a53535f8a88eef16"
+    },
+    {
+      "articleId": 7596,
+      "kind": "sentence",
+      "itemId": "s01",
+      "file": "audio/7596-nepal-china-border-flash-flood/KM-NEWS-7596-nepal-china-border-flash-flood-sentence-01-ja-Nanami.mp3",
+      "bytes": 37728,
+      "sha256": "57442bb2db4dcfc3645594c32060385a6a2cf990cb01060d2dd5df5eb8701077"
+    },
+    {
+      "articleId": 7596,
+      "kind": "source-sentence",
+      "itemId": "s01",
+      "file": "audio/7596-nepal-china-border-flash-flood/KM-NEWS-7596-nepal-china-border-flash-flood-sentence-01-ja-source.mp3",
+      "bytes": 73152,
+      "sha256": "25060f94e2c35e994d22abff10e43fbdaa88e3cdec40b8b886955ea23fd8de19"
+    },
+    {
+      "articleId": 7596,
+      "kind": "sentence",
+      "itemId": "s02",
+      "file": "audio/7596-nepal-china-border-flash-flood/KM-NEWS-7596-nepal-china-border-flash-flood-sentence-02-ja-Nanami.mp3",
+      "bytes": 44928,
+      "sha256": "2646de9897728c132ac35196ac66d41fec26dcc27ebdcf7f53878fea1677437f"
+    },
+    {
+      "articleId": 7596,
+      "kind": "source-sentence",
+      "itemId": "s02",
+      "file": "audio/7596-nepal-china-border-flash-flood/KM-NEWS-7596-nepal-china-border-flash-flood-sentence-02-ja-source.mp3",
+      "bytes": 86112,
+      "sha256": "f6557daf9b3fec526d85a4a86f57b7faf65320430df87d3ccaba24d6c3fabc2d"
+    },
+    {
+      "articleId": 7596,
+      "kind": "sentence",
+      "itemId": "s03",
+      "file": "audio/7596-nepal-china-border-flash-flood/KM-NEWS-7596-nepal-china-border-flash-flood-sentence-03-ja-Nanami.mp3",
+      "bytes": 40752,
+      "sha256": "76b3a582987ff40ea61520db8fbeaa1b6289a5fbeb0102ad818cf03071b18e07"
+    },
+    {
+      "articleId": 7596,
+      "kind": "source-sentence",
+      "itemId": "s03",
+      "file": "audio/7596-nepal-china-border-flash-flood/KM-NEWS-7596-nepal-china-border-flash-flood-sentence-03-ja-source.mp3",
+      "bytes": 79200,
+      "sha256": "d4765f7e93d4e4a3a372a728184b96a7fdf725c1b5b879bd5982f2984cf4273a"
+    },
+    {
+      "articleId": 7596,
+      "kind": "sentence",
+      "itemId": "s04",
+      "file": "audio/7596-nepal-china-border-flash-flood/KM-NEWS-7596-nepal-china-border-flash-flood-sentence-04-ja-Nanami.mp3",
+      "bytes": 41184,
+      "sha256": "a57b380d81cee5d0481ca9695fd2bc85181f413e75ee33b0f0a34b5cdcd1c2f1"
+    },
+    {
+      "articleId": 7596,
+      "kind": "source-sentence",
+      "itemId": "s04",
+      "file": "audio/7596-nepal-china-border-flash-flood/KM-NEWS-7596-nepal-china-border-flash-flood-sentence-04-ja-source.mp3",
+      "bytes": 82944,
+      "sha256": "8b981bc3b154d89d4e7f95369b4a33d4e337e53f25d6f879bca0eceb9fdb9cca"
+    },
+    {
+      "articleId": 7596,
+      "kind": "sentence",
+      "itemId": "s05",
+      "file": "audio/7596-nepal-china-border-flash-flood/KM-NEWS-7596-nepal-china-border-flash-flood-sentence-05-ja-Nanami.mp3",
+      "bytes": 37296,
+      "sha256": "4aaa146a34f71730e5859d23859885e5a3dbf1d8501ba042b13cb726e33d9866"
+    },
+    {
+      "articleId": 7596,
+      "kind": "source-sentence",
+      "itemId": "s05",
+      "file": "audio/7596-nepal-china-border-flash-flood/KM-NEWS-7596-nepal-china-border-flash-flood-sentence-05-ja-source.mp3",
+      "bytes": 70272,
+      "sha256": "272a78cb177fac998074c50da46d28a493e767101b949bc2d2c3a512c60678dd"
+    },
+    {
+      "articleId": 7596,
+      "kind": "sentence",
+      "itemId": "s06",
+      "file": "audio/7596-nepal-china-border-flash-flood/KM-NEWS-7596-nepal-china-border-flash-flood-sentence-06-ja-Nanami.mp3",
+      "bytes": 27504,
+      "sha256": "745b5761993469a104612db027ad0bca586ec02f1c963dfcb7db109585faa45d"
+    },
+    {
+      "articleId": 7596,
+      "kind": "source-sentence",
+      "itemId": "s06",
+      "file": "audio/7596-nepal-china-border-flash-flood/KM-NEWS-7596-nepal-china-border-flash-flood-sentence-06-ja-source.mp3",
+      "bytes": 52992,
+      "sha256": "da9699b006512ef40531e21a97f65a168fad3350d322256998881d1b4d2898a5"
+    },
+    {
+      "articleId": 7596,
+      "kind": "sentence",
+      "itemId": "s07",
+      "file": "audio/7596-nepal-china-border-flash-flood/KM-NEWS-7596-nepal-china-border-flash-flood-sentence-07-ja-Nanami.mp3",
+      "bytes": 46080,
+      "sha256": "304fbb4613150aa14b75fe51f29802ef413ae0959eaabfa2103cd6b78b707f6b"
+    },
+    {
+      "articleId": 7596,
+      "kind": "source-sentence",
+      "itemId": "s07",
+      "file": "audio/7596-nepal-china-border-flash-flood/KM-NEWS-7596-nepal-china-border-flash-flood-sentence-07-ja-source.mp3",
+      "bytes": 89856,
+      "sha256": "fa948480906911b51f9ad0cd8ad0c0cf3aac94c46fcf6243db1c97a1c6e44a54"
+    },
+    {
+      "articleId": 7596,
+      "kind": "sentence",
+      "itemId": "s08",
+      "file": "audio/7596-nepal-china-border-flash-flood/KM-NEWS-7596-nepal-china-border-flash-flood-sentence-08-ja-Nanami.mp3",
+      "bytes": 38880,
+      "sha256": "0e035bf5533422d267e434e4368f8961ec2493e67f71f84a3904e876d0731dd6"
+    },
+    {
+      "articleId": 7596,
+      "kind": "source-sentence",
+      "itemId": "s08",
+      "file": "audio/7596-nepal-china-border-flash-flood/KM-NEWS-7596-nepal-china-border-flash-flood-sentence-08-ja-source.mp3",
+      "bytes": 72864,
+      "sha256": "559b7a7ae35ae9ec781bca02dc63833580411ec6afcf8b3d317a150528de0827"
+    },
+    {
+      "articleId": 7596,
+      "kind": "sentence",
+      "itemId": "s09",
+      "file": "audio/7596-nepal-china-border-flash-flood/KM-NEWS-7596-nepal-china-border-flash-flood-sentence-09-ja-Nanami.mp3",
+      "bytes": 41616,
+      "sha256": "2f0470a09e5d8986afb9a45b957c7008afc35eb2a676894cf83a5b1a295aa514"
+    },
+    {
+      "articleId": 7596,
+      "kind": "source-sentence",
+      "itemId": "s09",
+      "file": "audio/7596-nepal-china-border-flash-flood/KM-NEWS-7596-nepal-china-border-flash-flood-sentence-09-ja-source.mp3",
+      "bytes": 82656,
+      "sha256": "fd7167eb89bce7e256fd832351216418de30ca4706f3cb9fc8d554eb396c56fa"
+    },
+    {
+      "articleId": 7596,
+      "kind": "card-preview",
+      "itemId": "card-preview",
+      "file": "audio/7596-nepal-china-border-flash-flood/KM-NEWS-7596-nepal-china-border-flash-flood-card-preview-ja-Nanami.mp3",
+      "bytes": 38448,
+      "sha256": "8255ee379745942a1ce569c30de92cd776e8bfa58c8398d031c7079cb192d96c"
+    },
+    {
+      "articleId": 7596,
+      "kind": "vocabulary",
+      "itemId": "v01",
+      "file": "audio/7596-nepal-china-border-flash-flood/KM-NEWS-7596-nepal-china-border-flash-flood-vocab-01-ja-Nanami.mp3",
+      "bytes": 11520,
+      "sha256": "25874692d649dd772198be6c021be67011badec9b68df39a4eac18d1fdff4703"
+    },
+    {
+      "articleId": 7596,
+      "kind": "vocabulary",
+      "itemId": "v02",
+      "file": "audio/7596-nepal-china-border-flash-flood/KM-NEWS-7596-nepal-china-border-flash-flood-vocab-02-ja-Nanami.mp3",
+      "bytes": 11232,
+      "sha256": "e6751ab8b7b35886d75d4711f15bfae4fcf610a74769f1329a1b2df0b711710a"
+    },
+    {
+      "articleId": 7596,
+      "kind": "vocabulary",
+      "itemId": "v03",
+      "file": "audio/7596-nepal-china-border-flash-flood/KM-NEWS-7596-nepal-china-border-flash-flood-vocab-03-ja-Nanami.mp3",
+      "bytes": 11520,
+      "sha256": "aa516be4a3342878e0fb5a265deee70df5437df46abaae501867fa4641b07399"
+    },
+    {
+      "articleId": 7596,
+      "kind": "vocabulary",
+      "itemId": "v04",
+      "file": "audio/7596-nepal-china-border-flash-flood/KM-NEWS-7596-nepal-china-border-flash-flood-vocab-04-ja-Nanami.mp3",
+      "bytes": 11232,
+      "sha256": "b331cab47a4523db91f3ca03e7c15c902816bb76c1264e6d2d4e78dabef8dec4"
+    },
+    {
+      "articleId": 7596,
+      "kind": "vocabulary",
+      "itemId": "v05",
+      "file": "audio/7596-nepal-china-border-flash-flood/KM-NEWS-7596-nepal-china-border-flash-flood-vocab-05-ja-Nanami.mp3",
+      "bytes": 11232,
+      "sha256": "ea002ccb0edc0d0267861532e10bccdfe767a9c9b1769c1e18edb7ff1e4446d8"
+    },
+    {
+      "articleId": 7594,
+      "kind": "sentence",
+      "itemId": "s01",
+      "file": "audio/7594-prince-harry-family-returns-to-britain/KM-NEWS-7594-prince-harry-family-returns-to-britain-sentence-01-ja-Nanami.mp3",
+      "bytes": 49968,
+      "sha256": "b21b38a598c4efb239920938f11c5aa4e4a179cfd80be7a26d8cb26feb2c8f0e"
+    },
+    {
+      "articleId": 7594,
+      "kind": "source-sentence",
+      "itemId": "s01",
+      "file": "audio/7594-prince-harry-family-returns-to-britain/KM-NEWS-7594-prince-harry-family-returns-to-britain-sentence-01-ja-source.mp3",
+      "bytes": 89856,
+      "sha256": "9c788e884bf3ab836d8f028c3d11bddf2794308a20819043413d72fbc7041a96"
+    },
+    {
+      "articleId": 7594,
+      "kind": "sentence",
+      "itemId": "s02",
+      "file": "audio/7594-prince-harry-family-returns-to-britain/KM-NEWS-7594-prince-harry-family-returns-to-britain-sentence-02-ja-Nanami.mp3",
+      "bytes": 43632,
+      "sha256": "78942e5ef0666cdcaa082b8042e7661dc6256d7aa9b6a9e1b30d97012847bb8c"
+    },
+    {
+      "articleId": 7594,
+      "kind": "source-sentence",
+      "itemId": "s02",
+      "file": "audio/7594-prince-harry-family-returns-to-britain/KM-NEWS-7594-prince-harry-family-returns-to-britain-sentence-02-ja-source.mp3",
+      "bytes": 85536,
+      "sha256": "7e323d4dc972fcdbf3dc14561f83bfbe69777802e210321f8a973954478c32ca"
+    },
+    {
+      "articleId": 7594,
+      "kind": "sentence",
+      "itemId": "s03",
+      "file": "audio/7594-prince-harry-family-returns-to-britain/KM-NEWS-7594-prince-harry-family-returns-to-britain-sentence-03-ja-Nanami.mp3",
+      "bytes": 47232,
+      "sha256": "39cff3f927d5077a3e4a2f570592c225842bdc90b1418ccb5c6c0f3c4d899e4f"
+    },
+    {
+      "articleId": 7594,
+      "kind": "source-sentence",
+      "itemId": "s03",
+      "file": "audio/7594-prince-harry-family-returns-to-britain/KM-NEWS-7594-prince-harry-family-returns-to-britain-sentence-03-ja-source.mp3",
+      "bytes": 91584,
+      "sha256": "915d154c915036a4bcd6a9756c398e14021aad091a05b6c51e7b89b40b339f35"
+    },
+    {
+      "articleId": 7594,
+      "kind": "sentence",
+      "itemId": "s04",
+      "file": "audio/7594-prince-harry-family-returns-to-britain/KM-NEWS-7594-prince-harry-family-returns-to-britain-sentence-04-ja-Nanami.mp3",
+      "bytes": 36288,
+      "sha256": "9683a998bf638a46508025c555425632f6d59982ebbfc00656d578b3d50c66a1"
+    },
+    {
+      "articleId": 7594,
+      "kind": "source-sentence",
+      "itemId": "s04",
+      "file": "audio/7594-prince-harry-family-returns-to-britain/KM-NEWS-7594-prince-harry-family-returns-to-britain-sentence-04-ja-source.mp3",
+      "bytes": 72288,
+      "sha256": "c6fe284f99dba9973ac2e31d2d20d739cf5c648207bb07f34cbf5272f9b29086"
+    },
+    {
+      "articleId": 7594,
+      "kind": "sentence",
+      "itemId": "s05",
+      "file": "audio/7594-prince-harry-family-returns-to-britain/KM-NEWS-7594-prince-harry-family-returns-to-britain-sentence-05-ja-Nanami.mp3",
+      "bytes": 42480,
+      "sha256": "354f006877410079cdcea58f4093af8235ba330faf4f2552ccbfe70d06091182"
+    },
+    {
+      "articleId": 7594,
+      "kind": "source-sentence",
+      "itemId": "s05",
+      "file": "audio/7594-prince-harry-family-returns-to-britain/KM-NEWS-7594-prince-harry-family-returns-to-britain-sentence-05-ja-source.mp3",
+      "bytes": 86688,
+      "sha256": "f720bdb6f22f1458083a554a081347f94c684ec85009087cb28a6f257813d97c"
+    },
+    {
+      "articleId": 7594,
+      "kind": "sentence",
+      "itemId": "s06",
+      "file": "audio/7594-prince-harry-family-returns-to-britain/KM-NEWS-7594-prince-harry-family-returns-to-britain-sentence-06-ja-Nanami.mp3",
+      "bytes": 43920,
+      "sha256": "9e906bc821914b5c7a6fd6f54ff7d01f7b8d29bfe981fda85c063d395e30022c"
+    },
+    {
+      "articleId": 7594,
+      "kind": "source-sentence",
+      "itemId": "s06",
+      "file": "audio/7594-prince-harry-family-returns-to-britain/KM-NEWS-7594-prince-harry-family-returns-to-britain-sentence-06-ja-source.mp3",
+      "bytes": 83520,
+      "sha256": "72b8dbccaaff61cc85ccc57c1dd2e008d3797f61d622ecca3f57d0f702defbb7"
+    },
+    {
+      "articleId": 7594,
+      "kind": "sentence",
+      "itemId": "s07",
+      "file": "audio/7594-prince-harry-family-returns-to-britain/KM-NEWS-7594-prince-harry-family-returns-to-britain-sentence-07-ja-Nanami.mp3",
+      "bytes": 26640,
+      "sha256": "de72538994c9b9cb99e400292e47a9fd79f39532edc8381788bd2a9cf297d51b"
+    },
+    {
+      "articleId": 7594,
+      "kind": "source-sentence",
+      "itemId": "s07",
+      "file": "audio/7594-prince-harry-family-returns-to-britain/KM-NEWS-7594-prince-harry-family-returns-to-britain-sentence-07-ja-source.mp3",
+      "bytes": 50400,
+      "sha256": "7b139c2ca49d6a5b6c88d3d5592aaf2f33b7404c74c4886adae95a3b18af842a"
+    },
+    {
+      "articleId": 7594,
+      "kind": "sentence",
+      "itemId": "s08",
+      "file": "audio/7594-prince-harry-family-returns-to-britain/KM-NEWS-7594-prince-harry-family-returns-to-britain-sentence-08-ja-Nanami.mp3",
+      "bytes": 49392,
+      "sha256": "5119812b3ecef00eed816dc1e4bfce104fb209268144624ea189525945cab567"
+    },
+    {
+      "articleId": 7594,
+      "kind": "source-sentence",
+      "itemId": "s08",
+      "file": "audio/7594-prince-harry-family-returns-to-britain/KM-NEWS-7594-prince-harry-family-returns-to-britain-sentence-08-ja-source.mp3",
+      "bytes": 99360,
+      "sha256": "c3ecefd93883beb3a04b2e54aefc5183341908acf9835b7f536f6e66856a6f24"
+    },
+    {
+      "articleId": 7594,
+      "kind": "sentence",
+      "itemId": "s09",
+      "file": "audio/7594-prince-harry-family-returns-to-britain/KM-NEWS-7594-prince-harry-family-returns-to-britain-sentence-09-ja-Nanami.mp3",
+      "bytes": 29808,
+      "sha256": "20513fc984874c2d3b0d6254e8815bd76d9aeee4c7252464b88e821185089086"
+    },
+    {
+      "articleId": 7594,
+      "kind": "source-sentence",
+      "itemId": "s09",
+      "file": "audio/7594-prince-harry-family-returns-to-britain/KM-NEWS-7594-prince-harry-family-returns-to-britain-sentence-09-ja-source.mp3",
+      "bytes": 57888,
+      "sha256": "36572d9de2e61889f539d9db081e870df4b4a2b35aa6f7c98fdf3910cbe8111c"
+    },
+    {
+      "articleId": 7594,
+      "kind": "sentence",
+      "itemId": "s10",
+      "file": "audio/7594-prince-harry-family-returns-to-britain/KM-NEWS-7594-prince-harry-family-returns-to-britain-sentence-10-ja-Nanami.mp3",
+      "bytes": 44352,
+      "sha256": "d1b987ec324c988e36b6b66fd807cdbba5f6f5bfd153c7ed0352ca00094305d3"
+    },
+    {
+      "articleId": 7594,
+      "kind": "source-sentence",
+      "itemId": "s10",
+      "file": "audio/7594-prince-harry-family-returns-to-britain/KM-NEWS-7594-prince-harry-family-returns-to-britain-sentence-10-ja-source.mp3",
+      "bytes": 86400,
+      "sha256": "75112cc26b54fd81acb154127dafd2f92901a141a191463648d636735dcf18c2"
+    },
+    {
+      "articleId": 7594,
+      "kind": "sentence",
+      "itemId": "s11",
+      "file": "audio/7594-prince-harry-family-returns-to-britain/KM-NEWS-7594-prince-harry-family-returns-to-britain-sentence-11-ja-Nanami.mp3",
+      "bytes": 59040,
+      "sha256": "4dbcae7b54e08604a78f3d5936b8948c44056bb2ba66fccd919bcf8b9283c6cb"
+    },
+    {
+      "articleId": 7594,
+      "kind": "source-sentence",
+      "itemId": "s11",
+      "file": "audio/7594-prince-harry-family-returns-to-britain/KM-NEWS-7594-prince-harry-family-returns-to-britain-sentence-11-ja-source.mp3",
+      "bytes": 115488,
+      "sha256": "3d321cff6c113bd16e05954906f554b91a17d8f7e1ebf1f0617d4a90bfaab93e"
+    },
+    {
+      "articleId": 7594,
+      "kind": "card-preview",
+      "itemId": "card-preview",
+      "file": "audio/7594-prince-harry-family-returns-to-britain/KM-NEWS-7594-prince-harry-family-returns-to-britain-card-preview-ja-Nanami.mp3",
+      "bytes": 36432,
+      "sha256": "1b0e33c97de59d401b7bd3ef46ab91361395ef721fb96ace05571bc0e1f38a05"
+    },
+    {
+      "articleId": 7594,
+      "kind": "vocabulary",
+      "itemId": "v01",
+      "file": "audio/7594-prince-harry-family-returns-to-britain/KM-NEWS-7594-prince-harry-family-returns-to-britain-vocab-01-ja-Nanami.mp3",
+      "bytes": 11232,
+      "sha256": "10b35f5951a7bf4b88067da4386eb04c44365c3e768189fb0ab01b3b8d8037e6"
+    },
+    {
+      "articleId": 7594,
+      "kind": "vocabulary",
+      "itemId": "v02",
+      "file": "audio/7594-prince-harry-family-returns-to-britain/KM-NEWS-7594-prince-harry-family-returns-to-britain-vocab-02-ja-Nanami.mp3",
+      "bytes": 11232,
+      "sha256": "56ae857fd7f82648345e8c4f2c1626b3e0db867e4f7d960c3933bb18712f4b3c"
+    },
+    {
+      "articleId": 7594,
+      "kind": "vocabulary",
+      "itemId": "v03",
+      "file": "audio/7594-prince-harry-family-returns-to-britain/KM-NEWS-7594-prince-harry-family-returns-to-britain-vocab-03-ja-Nanami.mp3",
+      "bytes": 11232,
+      "sha256": "7d2a4fecdd3f71cb808f44571ee8c7981efb43c0507653e1a256d251b3ff39f3"
+    },
+    {
+      "articleId": 7594,
+      "kind": "vocabulary",
+      "itemId": "v04",
+      "file": "audio/7594-prince-harry-family-returns-to-britain/KM-NEWS-7594-prince-harry-family-returns-to-britain-vocab-04-ja-Nanami.mp3",
+      "bytes": 11232,
+      "sha256": "d2129c6da271a3ab889e314db35e4b5bf584c729d3b1977fae88758adfc67759"
+    },
+    {
+      "articleId": 7594,
+      "kind": "vocabulary",
+      "itemId": "v05",
+      "file": "audio/7594-prince-harry-family-returns-to-britain/KM-NEWS-7594-prince-harry-family-returns-to-britain-vocab-05-ja-Nanami.mp3",
+      "bytes": 11232,
+      "sha256": "5a36d7bb5ef4b397ae4c4457fcafdea2127705aaf57162395507267d070df84a"
+    },
+    {
+      "articleId": 7594,
+      "kind": "vocabulary",
+      "itemId": "v06",
+      "file": "audio/7594-prince-harry-family-returns-to-britain/KM-NEWS-7594-prince-harry-family-returns-to-britain-vocab-06-ja-Nanami.mp3",
+      "bytes": 11232,
+      "sha256": "40b2a4eea6e540c8753dbcae87d24449a29fdd6adf74a73e9037dfb2553319fb"
+    },
+    {
+      "articleId": 7594,
+      "kind": "vocabulary",
+      "itemId": "v07",
+      "file": "audio/7594-prince-harry-family-returns-to-britain/KM-NEWS-7594-prince-harry-family-returns-to-britain-vocab-07-ja-Nanami.mp3",
+      "bytes": 12096,
+      "sha256": "eaafc8f35989d4187b78a518f22c07449945f81fe3da9171611e27ababd64223"
+    },
+    {
+      "articleId": 7581,
+      "kind": "sentence",
+      "itemId": "s01",
+      "file": "audio/7581-iran-hijab-rules-women-resist/KM-NEWS-7581-iran-hijab-rules-women-resist-sentence-01-ja-Nanami.mp3",
+      "bytes": 47808,
+      "sha256": "321fa532555df616df1b79b6e81de6b84b8975a8f25a54177f4cbad75626dd05"
+    },
+    {
+      "articleId": 7581,
+      "kind": "source-sentence",
+      "itemId": "s01",
+      "file": "audio/7581-iran-hijab-rules-women-resist/KM-NEWS-7581-iran-hijab-rules-women-resist-sentence-01-ja-source.mp3",
+      "bytes": 92160,
+      "sha256": "61fd016047e887c198adfeb7a73da2dcc3f6fd80f665a55a612edf850cca6cd3"
+    },
+    {
+      "articleId": 7581,
+      "kind": "sentence",
+      "itemId": "s02",
+      "file": "audio/7581-iran-hijab-rules-women-resist/KM-NEWS-7581-iran-hijab-rules-women-resist-sentence-02-ja-Nanami.mp3",
+      "bytes": 52848,
+      "sha256": "a113366a81c643f45df55b8d8b4f06f62bab84842188e4b9fae9b93e2f8ba60b"
+    },
+    {
+      "articleId": 7581,
+      "kind": "source-sentence",
+      "itemId": "s02",
+      "file": "audio/7581-iran-hijab-rules-women-resist/KM-NEWS-7581-iran-hijab-rules-women-resist-sentence-02-ja-source.mp3",
+      "bytes": 103680,
+      "sha256": "2e55e801e0f67a970836a58e2fe6b376b0e338820affcdfdcf62113b141036f3"
+    },
+    {
+      "articleId": 7581,
+      "kind": "sentence",
+      "itemId": "s03",
+      "file": "audio/7581-iran-hijab-rules-women-resist/KM-NEWS-7581-iran-hijab-rules-women-resist-sentence-03-ja-Nanami.mp3",
+      "bytes": 61488,
+      "sha256": "757284f6b01e42349794c239eb25ce1a00ec140acfc7efb7a8edd2bbd8b524c5"
+    },
+    {
+      "articleId": 7581,
+      "kind": "source-sentence",
+      "itemId": "s03",
+      "file": "audio/7581-iran-hijab-rules-women-resist/KM-NEWS-7581-iran-hijab-rules-women-resist-sentence-03-ja-source.mp3",
+      "bytes": 120672,
+      "sha256": "5b617243c8a1a17cf0cf9e9affbda1a1ba301b1b2db4c07be188fc1242fbc521"
+    },
+    {
+      "articleId": 7581,
+      "kind": "card-preview",
+      "itemId": "card-preview",
+      "file": "audio/7581-iran-hijab-rules-women-resist/KM-NEWS-7581-iran-hijab-rules-women-resist-card-preview-ja-Nanami.mp3",
+      "bytes": 38304,
+      "sha256": "664055b4f1f5884c6637588fa1b024a920695938825245ceb7cb8c0163af8107"
+    },
+    {
+      "articleId": 7581,
+      "kind": "vocabulary",
+      "itemId": "v01",
+      "file": "audio/7581-iran-hijab-rules-women-resist/KM-NEWS-7581-iran-hijab-rules-women-resist-vocab-01-ja-Nanami.mp3",
+      "bytes": 11232,
+      "sha256": "6154c857de022d07500f967fe314f9174f5057a0c4e2e8f278aa11982328488f"
+    },
+    {
+      "articleId": 7581,
+      "kind": "vocabulary",
+      "itemId": "v02",
+      "file": "audio/7581-iran-hijab-rules-women-resist/KM-NEWS-7581-iran-hijab-rules-women-resist-vocab-02-ja-Nanami.mp3",
+      "bytes": 11232,
+      "sha256": "b7f2abd7b3c48eaa67b3227fdad3980c80bec400c68f2477da69436330ee3a20"
+    },
+    {
+      "articleId": 7581,
+      "kind": "vocabulary",
+      "itemId": "v03",
+      "file": "audio/7581-iran-hijab-rules-women-resist/KM-NEWS-7581-iran-hijab-rules-women-resist-vocab-03-ja-Nanami.mp3",
+      "bytes": 11232,
+      "sha256": "4225fbad9e55e20cf24a83f1969a69a8ceac583e87f3233f1796275a8e579ec4"
+    },
+    {
+      "articleId": 7581,
+      "kind": "vocabulary",
+      "itemId": "v04",
+      "file": "audio/7581-iran-hijab-rules-women-resist/KM-NEWS-7581-iran-hijab-rules-women-resist-vocab-04-ja-Nanami.mp3",
+      "bytes": 13968,
+      "sha256": "63881acbb6ddb1a1183e5ae8407a264491f934c49e0855348fd784583bd72860"
+    },
+    {
+      "articleId": 7581,
+      "kind": "vocabulary",
+      "itemId": "v05",
+      "file": "audio/7581-iran-hijab-rules-women-resist/KM-NEWS-7581-iran-hijab-rules-women-resist-vocab-05-ja-Nanami.mp3",
+      "bytes": 11232,
+      "sha256": "e1646206ae4319968797065228574d498bf739a2d2c586c891bdfab2cb797b31"
+    },
+    {
+      "articleId": 7581,
+      "kind": "vocabulary",
+      "itemId": "v06",
+      "file": "audio/7581-iran-hijab-rules-women-resist/KM-NEWS-7581-iran-hijab-rules-women-resist-vocab-06-ja-Nanami.mp3",
+      "bytes": 11232,
+      "sha256": "b8cf9552dbd117d1039495394a6c82add6acdca5c672bf0d81d1f756031c4cf8"
+    },
+    {
+      "articleId": 7581,
+      "kind": "vocabulary",
+      "itemId": "v07",
+      "file": "audio/7581-iran-hijab-rules-women-resist/KM-NEWS-7581-iran-hijab-rules-women-resist-vocab-07-ja-Nanami.mp3",
+      "bytes": 11232,
+      "sha256": "c9dfcbb7f22ee1f09f5a347d663370be4653d6cb3cd3aea06311e3d50c9ad92d"
+    },
+    {
+      "articleId": 7581,
+      "kind": "vocabulary",
+      "itemId": "v08",
+      "file": "audio/7581-iran-hijab-rules-women-resist/KM-NEWS-7581-iran-hijab-rules-women-resist-vocab-08-ja-Nanami.mp3",
+      "bytes": 11232,
+      "sha256": "3c2da6f8493bf9d84ad7f3719cb285b96bbbe984ee6ed2a9cb01f6513fb4f17e"
+    },
+    {
+      "articleId": 7581,
+      "kind": "vocabulary",
+      "itemId": "v09",
+      "file": "audio/7581-iran-hijab-rules-women-resist/KM-NEWS-7581-iran-hijab-rules-women-resist-vocab-09-ja-Nanami.mp3",
+      "bytes": 11520,
+      "sha256": "e5cd033b2e2b35e39f9bedc95db5afa85559deee53057da9a3aaacc591de53f2"
+    },
+    {
+      "articleId": 7581,
+      "kind": "vocabulary",
+      "itemId": "v10",
+      "file": "audio/7581-iran-hijab-rules-women-resist/KM-NEWS-7581-iran-hijab-rules-women-resist-vocab-10-ja-Nanami.mp3",
+      "bytes": 11232,
+      "sha256": "3d2a5d637476d4fc258dcba2617778b46ace18bb78efec197dff52956e2c9556"
+    },
+    {
+      "articleId": 7567,
+      "kind": "sentence",
+      "itemId": "s01",
+      "file": "audio/7567-canada-pauses-us-trade-talks/KM-NEWS-7567-canada-pauses-us-trade-talks-sentence-01-ja-Nanami.mp3",
+      "bytes": 42048,
+      "sha256": "064b4e822bc9fbf6745ef292202a187ab3369ede5d7ee4ba99c4843e256d31f3"
+    },
+    {
+      "articleId": 7567,
+      "kind": "source-sentence",
+      "itemId": "s01",
+      "file": "audio/7567-canada-pauses-us-trade-talks/KM-NEWS-7567-canada-pauses-us-trade-talks-sentence-01-ja-source.mp3",
+      "bytes": 80640,
+      "sha256": "bada5aabf0844ed26cc4e275b05fc90eb0a18935a0f331eaaca2218b1b6bb8a1"
+    },
+    {
+      "articleId": 7567,
+      "kind": "sentence",
+      "itemId": "s02",
+      "file": "audio/7567-canada-pauses-us-trade-talks/KM-NEWS-7567-canada-pauses-us-trade-talks-sentence-02-ja-Nanami.mp3",
+      "bytes": 48672,
+      "sha256": "21a2f48e6b0f4f0541740b87961495c8319735c35c770cbdc68553aec67d65e4"
+    },
+    {
+      "articleId": 7567,
+      "kind": "source-sentence",
+      "itemId": "s02",
+      "file": "audio/7567-canada-pauses-us-trade-talks/KM-NEWS-7567-canada-pauses-us-trade-talks-sentence-02-ja-source.mp3",
+      "bytes": 98208,
+      "sha256": "a8f8bbd2e4d1a2c82cd21150c27ee84a52b553c3aa633fe4177eb6c424c1c439"
+    },
+    {
+      "articleId": 7567,
+      "kind": "sentence",
+      "itemId": "s03",
+      "file": "audio/7567-canada-pauses-us-trade-talks/KM-NEWS-7567-canada-pauses-us-trade-talks-sentence-03-ja-Nanami.mp3",
+      "bytes": 90144,
+      "sha256": "b871a88b1fb5afb33e78fe38848bf8fcc291c9729668dedf1476b3c4eeeb2910"
+    },
+    {
+      "articleId": 7567,
+      "kind": "source-sentence",
+      "itemId": "s03",
+      "file": "audio/7567-canada-pauses-us-trade-talks/KM-NEWS-7567-canada-pauses-us-trade-talks-sentence-03-ja-source.mp3",
+      "bytes": 175392,
+      "sha256": "abd15ff3f46c44f49493a323ef07450b2eb6e8b19b7c72377eea00d368bcfb4b"
+    },
+    {
+      "articleId": 7567,
+      "kind": "sentence",
+      "itemId": "s04",
+      "file": "audio/7567-canada-pauses-us-trade-talks/KM-NEWS-7567-canada-pauses-us-trade-talks-sentence-04-ja-Nanami.mp3",
+      "bytes": 34560,
+      "sha256": "21c765b026c1c2e0e4e1a432f338e6102a9f15efc8f9bdd44f4cbed30a2b5a64"
+    },
+    {
+      "articleId": 7567,
+      "kind": "source-sentence",
+      "itemId": "s04",
+      "file": "audio/7567-canada-pauses-us-trade-talks/KM-NEWS-7567-canada-pauses-us-trade-talks-sentence-04-ja-source.mp3",
+      "bytes": 67392,
+      "sha256": "84564f84306adc8ca71077c5fc10086877d48810965ff29ade51743d407dc696"
+    },
+    {
+      "articleId": 7567,
+      "kind": "sentence",
+      "itemId": "s05",
+      "file": "audio/7567-canada-pauses-us-trade-talks/KM-NEWS-7567-canada-pauses-us-trade-talks-sentence-05-ja-Nanami.mp3",
+      "bytes": 75600,
+      "sha256": "70897c82fce595b07920a2d3aef73f268b63416bf326e164826f623d8b13e3c4"
+    },
+    {
+      "articleId": 7567,
+      "kind": "source-sentence",
+      "itemId": "s05",
+      "file": "audio/7567-canada-pauses-us-trade-talks/KM-NEWS-7567-canada-pauses-us-trade-talks-sentence-05-ja-source.mp3",
+      "bytes": 150912,
+      "sha256": "d15ed8c3786de96d90a1c2787cccdb5dcc2f19f2061a227fa09a75dceeea5ebc"
+    },
+    {
+      "articleId": 7567,
+      "kind": "sentence",
+      "itemId": "s06",
+      "file": "audio/7567-canada-pauses-us-trade-talks/KM-NEWS-7567-canada-pauses-us-trade-talks-sentence-06-ja-Nanami.mp3",
+      "bytes": 64080,
+      "sha256": "5c0450df31b41c36753713188c246c7664c047ab7451f16578a70ba5f8b9a121"
+    },
+    {
+      "articleId": 7567,
+      "kind": "source-sentence",
+      "itemId": "s06",
+      "file": "audio/7567-canada-pauses-us-trade-talks/KM-NEWS-7567-canada-pauses-us-trade-talks-sentence-06-ja-source.mp3",
+      "bytes": 122112,
+      "sha256": "44a004576c3b93bf93c8028bb00e83049e57b0c7c3d46a08c59928a56072d64b"
+    },
+    {
+      "articleId": 7567,
+      "kind": "sentence",
+      "itemId": "s07",
+      "file": "audio/7567-canada-pauses-us-trade-talks/KM-NEWS-7567-canada-pauses-us-trade-talks-sentence-07-ja-Nanami.mp3",
+      "bytes": 48384,
+      "sha256": "6c8fe84fe6872e541bb2ca913cdd9a36e8839281f0f693d0a1bf436eb023d5b6"
+    },
+    {
+      "articleId": 7567,
+      "kind": "source-sentence",
+      "itemId": "s07",
+      "file": "audio/7567-canada-pauses-us-trade-talks/KM-NEWS-7567-canada-pauses-us-trade-talks-sentence-07-ja-source.mp3",
+      "bytes": 96480,
+      "sha256": "c045f974e1f16ba173782120e9ea4dfb0f01bbf0060f1f5eaf1713a8edf856bb"
+    },
+    {
+      "articleId": 7567,
+      "kind": "card-preview",
+      "itemId": "card-preview",
+      "file": "audio/7567-canada-pauses-us-trade-talks/KM-NEWS-7567-canada-pauses-us-trade-talks-card-preview-ja-Nanami.mp3",
+      "bytes": 35856,
+      "sha256": "871e95d90f8af0edac8df08ab56e418f5f1d394ca416f8026dbf0ae12051fb3c"
+    },
+    {
+      "articleId": 7567,
+      "kind": "vocabulary",
+      "itemId": "v01",
+      "file": "audio/7567-canada-pauses-us-trade-talks/KM-NEWS-7567-canada-pauses-us-trade-talks-vocab-01-ja-Nanami.mp3",
+      "bytes": 13392,
+      "sha256": "16ca438b7333901a51ccb38b016d291928dc5067c4ca27202930433e7d153d55"
+    },
+    {
+      "articleId": 7567,
+      "kind": "vocabulary",
+      "itemId": "v02",
+      "file": "audio/7567-canada-pauses-us-trade-talks/KM-NEWS-7567-canada-pauses-us-trade-talks-vocab-02-ja-Nanami.mp3",
+      "bytes": 11232,
+      "sha256": "ba9bb444654b590b3dda5999ec1686f618e62f02d7a8c0d3947eae161befe1c7"
+    },
+    {
+      "articleId": 7567,
+      "kind": "vocabulary",
+      "itemId": "v03",
+      "file": "audio/7567-canada-pauses-us-trade-talks/KM-NEWS-7567-canada-pauses-us-trade-talks-vocab-03-ja-Nanami.mp3",
+      "bytes": 11808,
+      "sha256": "43eba56766c5f91317592d00bb0dd1f7894b3eb64d8c6a473762ad8aca1ca65e"
+    },
+    {
+      "articleId": 7567,
+      "kind": "vocabulary",
+      "itemId": "v04",
+      "file": "audio/7567-canada-pauses-us-trade-talks/KM-NEWS-7567-canada-pauses-us-trade-talks-vocab-04-ja-Nanami.mp3",
+      "bytes": 11232,
+      "sha256": "90390dab143fb06348aca252933d1f66565e34df6deb92f50cd79967c13b9620"
+    },
+    {
+      "articleId": 7567,
+      "kind": "vocabulary",
+      "itemId": "v05",
+      "file": "audio/7567-canada-pauses-us-trade-talks/KM-NEWS-7567-canada-pauses-us-trade-talks-vocab-05-ja-Nanami.mp3",
+      "bytes": 11232,
+      "sha256": "b0530e134f734f6d01d40abbc4d6d75bd66c72466e7e2dc8085881bd52383974"
+    },
+    {
+      "articleId": 7567,
+      "kind": "vocabulary",
+      "itemId": "v06",
+      "file": "audio/7567-canada-pauses-us-trade-talks/KM-NEWS-7567-canada-pauses-us-trade-talks-vocab-06-ja-Nanami.mp3",
+      "bytes": 11232,
+      "sha256": "bc65e27824f6bca4b751caf865570f7783508350b4f8be8039426d7a184b5346"
+    },
+    {
+      "articleId": 7567,
+      "kind": "vocabulary",
+      "itemId": "v07",
+      "file": "audio/7567-canada-pauses-us-trade-talks/KM-NEWS-7567-canada-pauses-us-trade-talks-vocab-07-ja-Nanami.mp3",
+      "bytes": 11232,
+      "sha256": "6c6d17ef26b5e4a60bd229015536ee6a339fcea7123cc1ba8a24186537b90c89"
+    },
+    {
+      "articleId": 7567,
+      "kind": "vocabulary",
+      "itemId": "v08",
+      "file": "audio/7567-canada-pauses-us-trade-talks/KM-NEWS-7567-canada-pauses-us-trade-talks-vocab-08-ja-Nanami.mp3",
+      "bytes": 11232,
+      "sha256": "8c906dcf1aba0ae910515b48369c6dfe7299152849d67bd1c6875ca5d526217c"
+    },
+    {
+      "articleId": 7567,
+      "kind": "vocabulary",
+      "itemId": "v09",
+      "file": "audio/7567-canada-pauses-us-trade-talks/KM-NEWS-7567-canada-pauses-us-trade-talks-vocab-09-ja-Nanami.mp3",
+      "bytes": 11232,
+      "sha256": "738bd18eae0030ada4dbe002d498673ee46285dc57db49178ab831f8a561d69e"
+    },
+    {
+      "articleId": 7567,
+      "kind": "vocabulary",
+      "itemId": "v10",
+      "file": "audio/7567-canada-pauses-us-trade-talks/KM-NEWS-7567-canada-pauses-us-trade-talks-vocab-10-ja-Nanami.mp3",
+      "bytes": 11232,
+      "sha256": "4b944e0127853e79652b0d7eaf517e51bff21233c9551c4d7aac2e6d868bb014"
+    },
+    {
+      "articleId": 7561,
+      "kind": "sentence",
+      "itemId": "s01",
+      "file": "audio/7561-israel-west-bank-settlement-homes/KM-NEWS-7561-israel-west-bank-settlement-homes-sentence-01-ja-Nanami.mp3",
+      "bytes": 62208,
+      "sha256": "6d1ae88be65fd103e6c752b786f509b36faaf21830ef6a8afc8cc7225be2aafd"
+    },
+    {
+      "articleId": 7561,
+      "kind": "source-sentence",
+      "itemId": "s01",
+      "file": "audio/7561-israel-west-bank-settlement-homes/KM-NEWS-7561-israel-west-bank-settlement-homes-sentence-01-ja-source.mp3",
+      "bytes": 122688,
+      "sha256": "77ad3f5800956fe01e007753da64ed2ce5699b1d6f2d029bd4f3985cef99130f"
+    },
+    {
+      "articleId": 7561,
+      "kind": "sentence",
+      "itemId": "s02",
+      "file": "audio/7561-israel-west-bank-settlement-homes/KM-NEWS-7561-israel-west-bank-settlement-homes-sentence-02-ja-Nanami.mp3",
+      "bytes": 34704,
+      "sha256": "d22baafa8395cc49dbb9283ddb8b4bb64d887fb02b90b5ba905666862ce647b4"
+    },
+    {
+      "articleId": 7561,
+      "kind": "source-sentence",
+      "itemId": "s02",
+      "file": "audio/7561-israel-west-bank-settlement-homes/KM-NEWS-7561-israel-west-bank-settlement-homes-sentence-02-ja-source.mp3",
+      "bytes": 64224,
+      "sha256": "9b0d60476e7544704feac5d49528c7158d038772185aac5f18fbfbfbafc0db03"
+    },
+    {
+      "articleId": 7561,
+      "kind": "sentence",
+      "itemId": "s03",
+      "file": "audio/7561-israel-west-bank-settlement-homes/KM-NEWS-7561-israel-west-bank-settlement-homes-sentence-03-ja-Nanami.mp3",
+      "bytes": 26640,
+      "sha256": "088abe7d699290958f128d6798138a957a39e4f058599bd00c3165988ac4c5cc"
+    },
+    {
+      "articleId": 7561,
+      "kind": "source-sentence",
+      "itemId": "s03",
+      "file": "audio/7561-israel-west-bank-settlement-homes/KM-NEWS-7561-israel-west-bank-settlement-homes-sentence-03-ja-source.mp3",
+      "bytes": 51840,
+      "sha256": "f01f0780a68beb272e5e911e6178c65f1a5648c1a803dd4c7d7f5b375268e653"
+    },
+    {
+      "articleId": 7561,
+      "kind": "sentence",
+      "itemId": "s04",
+      "file": "audio/7561-israel-west-bank-settlement-homes/KM-NEWS-7561-israel-west-bank-settlement-homes-sentence-04-ja-Nanami.mp3",
+      "bytes": 30528,
+      "sha256": "a7b6915776771563a5b6abc8e58925dc2bd7900bef3b95a387e599604e1b519f"
+    },
+    {
+      "articleId": 7561,
+      "kind": "source-sentence",
+      "itemId": "s04",
+      "file": "audio/7561-israel-west-bank-settlement-homes/KM-NEWS-7561-israel-west-bank-settlement-homes-sentence-04-ja-source.mp3",
+      "bytes": 57888,
+      "sha256": "c352c448f8da0d07dd054f609fd931fdb11aafe3267ea81308aad8de3dd3344d"
+    },
+    {
+      "articleId": 7561,
+      "kind": "sentence",
+      "itemId": "s05",
+      "file": "audio/7561-israel-west-bank-settlement-homes/KM-NEWS-7561-israel-west-bank-settlement-homes-sentence-05-ja-Nanami.mp3",
+      "bytes": 39888,
+      "sha256": "c2834262272fc05ff722a42d93a78618f4010e636ee4171d9d20b7fdd26da06e"
+    },
+    {
+      "articleId": 7561,
+      "kind": "source-sentence",
+      "itemId": "s05",
+      "file": "audio/7561-israel-west-bank-settlement-homes/KM-NEWS-7561-israel-west-bank-settlement-homes-sentence-05-ja-source.mp3",
+      "bytes": 75456,
+      "sha256": "fe914ce2df3d0242ccdaa39c9df50d2227d23fb5012fdad33d0a653557f9461f"
+    },
+    {
+      "articleId": 7561,
+      "kind": "sentence",
+      "itemId": "s06",
+      "file": "audio/7561-israel-west-bank-settlement-homes/KM-NEWS-7561-israel-west-bank-settlement-homes-sentence-06-ja-Nanami.mp3",
+      "bytes": 39168,
+      "sha256": "f0f52b9fceea9a44c651494e2c8c6a9dea52b4e3e2b5605356b9942965eb81af"
+    },
+    {
+      "articleId": 7561,
+      "kind": "source-sentence",
+      "itemId": "s06",
+      "file": "audio/7561-israel-west-bank-settlement-homes/KM-NEWS-7561-israel-west-bank-settlement-homes-sentence-06-ja-source.mp3",
+      "bytes": 73728,
+      "sha256": "f8defbebb6b4b386f83eebda2d9e2275a9c87534e06da97e51ec1e0f28694f28"
+    },
+    {
+      "articleId": 7561,
+      "kind": "sentence",
+      "itemId": "s07",
+      "file": "audio/7561-israel-west-bank-settlement-homes/KM-NEWS-7561-israel-west-bank-settlement-homes-sentence-07-ja-Nanami.mp3",
+      "bytes": 45792,
+      "sha256": "9ad31f2cbc61d98669c8a1286ade952918e4897188e8ec9a56b3704c81876473"
+    },
+    {
+      "articleId": 7561,
+      "kind": "source-sentence",
+      "itemId": "s07",
+      "file": "audio/7561-israel-west-bank-settlement-homes/KM-NEWS-7561-israel-west-bank-settlement-homes-sentence-07-ja-source.mp3",
+      "bytes": 92448,
+      "sha256": "157e9be1f31a3f14111a4b78a664aff2bb3b8f90de6f7739cd7fdda7c01f1b33"
+    },
+    {
+      "articleId": 7561,
+      "kind": "sentence",
+      "itemId": "s08",
+      "file": "audio/7561-israel-west-bank-settlement-homes/KM-NEWS-7561-israel-west-bank-settlement-homes-sentence-08-ja-Nanami.mp3",
+      "bytes": 38160,
+      "sha256": "f7e56cfbc11a8c0b98f6a26b3333e5e18c98529f117ff4ee005fc8c08c4b6dd9"
+    },
+    {
+      "articleId": 7561,
+      "kind": "source-sentence",
+      "itemId": "s08",
+      "file": "audio/7561-israel-west-bank-settlement-homes/KM-NEWS-7561-israel-west-bank-settlement-homes-sentence-08-ja-source.mp3",
+      "bytes": 73440,
+      "sha256": "d250a29d4c724e023d9caf1b6cafc66d1d067ac8ef1cb6b81ec06de8bac7ba47"
+    },
+    {
+      "articleId": 7561,
+      "kind": "sentence",
+      "itemId": "s09",
+      "file": "audio/7561-israel-west-bank-settlement-homes/KM-NEWS-7561-israel-west-bank-settlement-homes-sentence-09-ja-Nanami.mp3",
+      "bytes": 28656,
+      "sha256": "8b7546cce61de2cce98ef68d2a3d011d2e3189b4750a29dc86dee22bddd18816"
+    },
+    {
+      "articleId": 7561,
+      "kind": "source-sentence",
+      "itemId": "s09",
+      "file": "audio/7561-israel-west-bank-settlement-homes/KM-NEWS-7561-israel-west-bank-settlement-homes-sentence-09-ja-source.mp3",
+      "bytes": 56160,
+      "sha256": "6b50d8e3e649d208d63616b5d1d8125f56df8fd45173dfb9c654cc1fc7376a36"
+    },
+    {
+      "articleId": 7561,
+      "kind": "sentence",
+      "itemId": "s10",
+      "file": "audio/7561-israel-west-bank-settlement-homes/KM-NEWS-7561-israel-west-bank-settlement-homes-sentence-10-ja-Nanami.mp3",
+      "bytes": 40464,
+      "sha256": "67f7301259566551527eb238444ad5e7fee1b2f108a23ae4ba9b52b91191096e"
+    },
+    {
+      "articleId": 7561,
+      "kind": "source-sentence",
+      "itemId": "s10",
+      "file": "audio/7561-israel-west-bank-settlement-homes/KM-NEWS-7561-israel-west-bank-settlement-homes-sentence-10-ja-source.mp3",
+      "bytes": 86688,
+      "sha256": "81b2d6170a3cc76c28f65d7651c2c400f50edef712d9b0ba432df78dd08ba69d"
+    },
+    {
+      "articleId": 7561,
+      "kind": "card-preview",
+      "itemId": "card-preview",
+      "file": "audio/7561-israel-west-bank-settlement-homes/KM-NEWS-7561-israel-west-bank-settlement-homes-card-preview-ja-Nanami.mp3",
+      "bytes": 41328,
+      "sha256": "aadd12911b45ca70d8a007cc36b6944bf443ab4b062b7c20c13c3350355390fc"
+    },
+    {
+      "articleId": 7561,
+      "kind": "vocabulary",
+      "itemId": "v01",
+      "file": "audio/7561-israel-west-bank-settlement-homes/KM-NEWS-7561-israel-west-bank-settlement-homes-vocab-01-ja-Nanami.mp3",
+      "bytes": 11232,
+      "sha256": "14aa8c54ec8227bd06d8dcf597a40b8e395c60dece29b87487d3c0c1565f0e32"
+    },
+    {
+      "articleId": 7561,
+      "kind": "vocabulary",
+      "itemId": "v02",
+      "file": "audio/7561-israel-west-bank-settlement-homes/KM-NEWS-7561-israel-west-bank-settlement-homes-vocab-02-ja-Nanami.mp3",
+      "bytes": 11232,
+      "sha256": "82f1fae78bef42af01491a1d9a29329bddd38687bbf311c692efed7b03694e62"
+    },
+    {
+      "articleId": 7561,
+      "kind": "vocabulary",
+      "itemId": "v03",
+      "file": "audio/7561-israel-west-bank-settlement-homes/KM-NEWS-7561-israel-west-bank-settlement-homes-vocab-03-ja-Nanami.mp3",
+      "bytes": 11232,
+      "sha256": "1eb70339e253ede301ee0e601df114d17b486fb076d6295e12d3afdbdb661f6e"
+    },
+    {
+      "articleId": 7561,
+      "kind": "vocabulary",
+      "itemId": "v04",
+      "file": "audio/7561-israel-west-bank-settlement-homes/KM-NEWS-7561-israel-west-bank-settlement-homes-vocab-04-ja-Nanami.mp3",
+      "bytes": 11232,
+      "sha256": "4ec1be764e4dd1bad8c7307878282e01a6e5a509a9cc80de31dc9ce76c8b4485"
+    },
+    {
+      "articleId": 7561,
+      "kind": "vocabulary",
+      "itemId": "v05",
+      "file": "audio/7561-israel-west-bank-settlement-homes/KM-NEWS-7561-israel-west-bank-settlement-homes-vocab-05-ja-Nanami.mp3",
+      "bytes": 11520,
+      "sha256": "22850ccd40799b2934e88fc74de6c56ea0db1dcba6b58dc39ed9aa394a9003a3"
+    },
+    {
+      "articleId": 7561,
+      "kind": "vocabulary",
+      "itemId": "v06",
+      "file": "audio/7561-israel-west-bank-settlement-homes/KM-NEWS-7561-israel-west-bank-settlement-homes-vocab-06-ja-Nanami.mp3",
+      "bytes": 11232,
+      "sha256": "91a05472bef20a632f4ec5f95661a767b2e60fcd04f38febc07764793d57342d"
+    },
+    {
+      "articleId": 7561,
+      "kind": "vocabulary",
+      "itemId": "v07",
+      "file": "audio/7561-israel-west-bank-settlement-homes/KM-NEWS-7561-israel-west-bank-settlement-homes-vocab-07-ja-Nanami.mp3",
+      "bytes": 11232,
+      "sha256": "b68e26842f772c27efb684a425d0496deaea7e4bf6c8272a6e7f1738002925dc"
+    },
+    {
+      "articleId": 7561,
+      "kind": "vocabulary",
+      "itemId": "v08",
+      "file": "audio/7561-israel-west-bank-settlement-homes/KM-NEWS-7561-israel-west-bank-settlement-homes-vocab-08-ja-Nanami.mp3",
+      "bytes": 11232,
+      "sha256": "d2e84006116a6e389082b73e118474f32321a5083ef430224efeea0d15c4d4c2"
+    },
+    {
+      "articleId": 7561,
+      "kind": "vocabulary",
+      "itemId": "v09",
+      "file": "audio/7561-israel-west-bank-settlement-homes/KM-NEWS-7561-israel-west-bank-settlement-homes-vocab-09-ja-Nanami.mp3",
+      "bytes": 11232,
+      "sha256": "e57bce2cbaf47174c1630ed53a1cccfde30734c42bd4b1b576e0f3a36d060eb9"
+    },
+    {
+      "articleId": 7561,
+      "kind": "vocabulary",
+      "itemId": "v10",
+      "file": "audio/7561-israel-west-bank-settlement-homes/KM-NEWS-7561-israel-west-bank-settlement-homes-vocab-10-ja-Nanami.mp3",
+      "bytes": 11232,
+      "sha256": "a43268a5f56d118dccb20e56e0b551cab31181a7a2a18ef34e7ce7a3038ac2f1"
+    },
+    {
+      "articleId": 7542,
+      "kind": "sentence",
+      "itemId": "s01",
+      "file": "audio/7542-uss-george-washington-malacca-strait/KM-NEWS-7542-uss-george-washington-malacca-strait-sentence-01-ja-Nanami.mp3",
+      "bytes": 46944,
+      "sha256": "e5761b274592a2cddb784f9b692faed4f31f83fc215a81332d480bf041d1453f"
+    },
+    {
+      "articleId": 7542,
+      "kind": "source-sentence",
+      "itemId": "s01",
+      "file": "audio/7542-uss-george-washington-malacca-strait/KM-NEWS-7542-uss-george-washington-malacca-strait-sentence-01-ja-source.mp3",
+      "bytes": 92448,
+      "sha256": "ee36fa92ced26a1885c6c3003030460fb6cda348cae6e3cf62153a05cef22c7e"
+    },
+    {
+      "articleId": 7542,
+      "kind": "sentence",
+      "itemId": "s02",
+      "file": "audio/7542-uss-george-washington-malacca-strait/KM-NEWS-7542-uss-george-washington-malacca-strait-sentence-02-ja-Nanami.mp3",
+      "bytes": 29232,
+      "sha256": "8c5961ac4216d6886582a7046674745e797e7c93ec8673071d63f319c1d2a3f4"
+    },
+    {
+      "articleId": 7542,
+      "kind": "source-sentence",
+      "itemId": "s02",
+      "file": "audio/7542-uss-george-washington-malacca-strait/KM-NEWS-7542-uss-george-washington-malacca-strait-sentence-02-ja-source.mp3",
+      "bytes": 55584,
+      "sha256": "cb2309c83751fa6c0cbd430421346327fff5b2f833d53082ef604f03f44c5440"
+    },
+    {
+      "articleId": 7542,
+      "kind": "sentence",
+      "itemId": "s03",
+      "file": "audio/7542-uss-george-washington-malacca-strait/KM-NEWS-7542-uss-george-washington-malacca-strait-sentence-03-ja-Nanami.mp3",
+      "bytes": 67680,
+      "sha256": "4ba04fb987ded5ffbbcc26ec1db75ac25b2f2ad5715668a44ebc7a61fa7be3a3"
+    },
+    {
+      "articleId": 7542,
+      "kind": "source-sentence",
+      "itemId": "s03",
+      "file": "audio/7542-uss-george-washington-malacca-strait/KM-NEWS-7542-uss-george-washington-malacca-strait-sentence-03-ja-source.mp3",
+      "bytes": 127584,
+      "sha256": "961371944602549d6cfbeba4e6e70d4cd0cd9803828149d27fca623729435b54"
+    },
+    {
+      "articleId": 7542,
+      "kind": "sentence",
+      "itemId": "s04",
+      "file": "audio/7542-uss-george-washington-malacca-strait/KM-NEWS-7542-uss-george-washington-malacca-strait-sentence-04-ja-Nanami.mp3",
+      "bytes": 39312,
+      "sha256": "5c9a8dd7975c26fed3adc1e19ad29509fd5dd3f93512b9ced3e592ae73853b81"
+    },
+    {
+      "articleId": 7542,
+      "kind": "source-sentence",
+      "itemId": "s04",
+      "file": "audio/7542-uss-george-washington-malacca-strait/KM-NEWS-7542-uss-george-washington-malacca-strait-sentence-04-ja-source.mp3",
+      "bytes": 73728,
+      "sha256": "4519713080dde8869e992689b410d616425426d631886c1d7a2ef6e6ae51739b"
+    },
+    {
+      "articleId": 7542,
+      "kind": "sentence",
+      "itemId": "s05",
+      "file": "audio/7542-uss-george-washington-malacca-strait/KM-NEWS-7542-uss-george-washington-malacca-strait-sentence-05-ja-Nanami.mp3",
+      "bytes": 40752,
+      "sha256": "a1d7019d5760402e7d81646fb73061c6e15469ccabfe8def20e9dbb82e7937fe"
+    },
+    {
+      "articleId": 7542,
+      "kind": "source-sentence",
+      "itemId": "s05",
+      "file": "audio/7542-uss-george-washington-malacca-strait/KM-NEWS-7542-uss-george-washington-malacca-strait-sentence-05-ja-source.mp3",
+      "bytes": 76608,
+      "sha256": "901e864ca99e3501fa7a33f64ff3257d8f02b1a40ee19a0abb2addea013f8df3"
+    },
+    {
+      "articleId": 7542,
+      "kind": "sentence",
+      "itemId": "s06",
+      "file": "audio/7542-uss-george-washington-malacca-strait/KM-NEWS-7542-uss-george-washington-malacca-strait-sentence-06-ja-Nanami.mp3",
+      "bytes": 37584,
+      "sha256": "47ddd11ef7a4e5dba8cd83060bc8e08a9b46af15aa15feb7f2c187d0bf0de133"
+    },
+    {
+      "articleId": 7542,
+      "kind": "source-sentence",
+      "itemId": "s06",
+      "file": "audio/7542-uss-george-washington-malacca-strait/KM-NEWS-7542-uss-george-washington-malacca-strait-sentence-06-ja-source.mp3",
+      "bytes": 73728,
+      "sha256": "a69296cc1587d6b782db2ecb3264953df40cfe53d87b10ed0d26ba1d9fb7dc0c"
+    },
+    {
+      "articleId": 7542,
+      "kind": "sentence",
+      "itemId": "s07",
+      "file": "audio/7542-uss-george-washington-malacca-strait/KM-NEWS-7542-uss-george-washington-malacca-strait-sentence-07-ja-Nanami.mp3",
+      "bytes": 37440,
+      "sha256": "09220a2dab8b4cf261ad9d732080b61e0fa4da2a2d89ca21f663ea15babd6890"
+    },
+    {
+      "articleId": 7542,
+      "kind": "source-sentence",
+      "itemId": "s07",
+      "file": "audio/7542-uss-george-washington-malacca-strait/KM-NEWS-7542-uss-george-washington-malacca-strait-sentence-07-ja-source.mp3",
+      "bytes": 67680,
+      "sha256": "227a882352896b2be79b93614c71cf610e6d893dac93b412d8970f84f027c573"
+    },
+    {
+      "articleId": 7542,
+      "kind": "sentence",
+      "itemId": "s08",
+      "file": "audio/7542-uss-george-washington-malacca-strait/KM-NEWS-7542-uss-george-washington-malacca-strait-sentence-08-ja-Nanami.mp3",
+      "bytes": 31536,
+      "sha256": "af3a0c73ccb711336c302d14690df03e3920f102dc4439a2737f9f516ffbea32"
+    },
+    {
+      "articleId": 7542,
+      "kind": "source-sentence",
+      "itemId": "s08",
+      "file": "audio/7542-uss-george-washington-malacca-strait/KM-NEWS-7542-uss-george-washington-malacca-strait-sentence-08-ja-source.mp3",
+      "bytes": 59904,
+      "sha256": "0cf64d9e4630041d5d6c27579fe40777e319b9d8077d1efa6909dd2d77c4fcd3"
+    },
+    {
+      "articleId": 7542,
+      "kind": "sentence",
+      "itemId": "s09",
+      "file": "audio/7542-uss-george-washington-malacca-strait/KM-NEWS-7542-uss-george-washington-malacca-strait-sentence-09-ja-Nanami.mp3",
+      "bytes": 58752,
+      "sha256": "e5465e5aaeb4bc4b7c63b76de6ac4c1699d1ac82e583f5b401e8f314d46b683c"
+    },
+    {
+      "articleId": 7542,
+      "kind": "source-sentence",
+      "itemId": "s09",
+      "file": "audio/7542-uss-george-washington-malacca-strait/KM-NEWS-7542-uss-george-washington-malacca-strait-sentence-09-ja-source.mp3",
+      "bytes": 112896,
+      "sha256": "214d9f70bbfe2463d92f00c47f8ee5f7ade97e36edf5c0bb8c153c3d62310151"
+    },
+    {
+      "articleId": 7542,
+      "kind": "sentence",
+      "itemId": "s10",
+      "file": "audio/7542-uss-george-washington-malacca-strait/KM-NEWS-7542-uss-george-washington-malacca-strait-sentence-10-ja-Nanami.mp3",
+      "bytes": 41904,
+      "sha256": "0685967d23a1f3f43d1deedf5ae2aeebb0759564327b1837acfbc07e15005da5"
+    },
+    {
+      "articleId": 7542,
+      "kind": "source-sentence",
+      "itemId": "s10",
+      "file": "audio/7542-uss-george-washington-malacca-strait/KM-NEWS-7542-uss-george-washington-malacca-strait-sentence-10-ja-source.mp3",
+      "bytes": 79488,
+      "sha256": "80ae8fbfc873c453460305fcbfa42d2a2e412f5defb3594236c2f35ca208f05f"
+    },
+    {
+      "articleId": 7542,
+      "kind": "card-preview",
+      "itemId": "card-preview",
+      "file": "audio/7542-uss-george-washington-malacca-strait/KM-NEWS-7542-uss-george-washington-malacca-strait-card-preview-ja-Nanami.mp3",
+      "bytes": 36000,
+      "sha256": "edfe742c79cb3d69d225cddbe502fdd58e6acb053cbaa704fb596c1fbd65e1a9"
+    },
+    {
+      "articleId": 7542,
+      "kind": "vocabulary",
+      "itemId": "v01",
+      "file": "audio/7542-uss-george-washington-malacca-strait/KM-NEWS-7542-uss-george-washington-malacca-strait-vocab-01-ja-Nanami.mp3",
+      "bytes": 11232,
+      "sha256": "b24f3be020e9a476cefffafe6d0b0b345aa43efd39d5e9658a15bd3f7a780fd4"
+    },
+    {
+      "articleId": 7542,
+      "kind": "vocabulary",
+      "itemId": "v02",
+      "file": "audio/7542-uss-george-washington-malacca-strait/KM-NEWS-7542-uss-george-washington-malacca-strait-vocab-02-ja-Nanami.mp3",
+      "bytes": 11232,
+      "sha256": "a768d70d35e3bba9c9db260346b2549494107bebadb309f4d9620a00a6ecee63"
+    },
+    {
+      "articleId": 7542,
+      "kind": "vocabulary",
+      "itemId": "v03",
+      "file": "audio/7542-uss-george-washington-malacca-strait/KM-NEWS-7542-uss-george-washington-malacca-strait-vocab-03-ja-Nanami.mp3",
+      "bytes": 11232,
+      "sha256": "6ec7f66800aa83444f592fc4c3d835d7c1675ac6b439642c985998f8ea393e6f"
+    },
+    {
+      "articleId": 7542,
+      "kind": "vocabulary",
+      "itemId": "v04",
+      "file": "audio/7542-uss-george-washington-malacca-strait/KM-NEWS-7542-uss-george-washington-malacca-strait-vocab-04-ja-Nanami.mp3",
+      "bytes": 11232,
+      "sha256": "952132be9067e117625ee108d9fdbe97f2b3932c8888ecfd6982dc32f2a199ad"
+    },
+    {
+      "articleId": 7542,
+      "kind": "vocabulary",
+      "itemId": "v05",
+      "file": "audio/7542-uss-george-washington-malacca-strait/KM-NEWS-7542-uss-george-washington-malacca-strait-vocab-05-ja-Nanami.mp3",
+      "bytes": 11232,
+      "sha256": "e4b357fb78b0db0e0ad21c7ba171c415720cd6caeef7bebf4d257e479f88691c"
+    }
+  ]
+}
