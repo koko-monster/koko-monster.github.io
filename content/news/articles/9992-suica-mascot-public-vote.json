@@ -27,9 +27,23 @@
     "zhHant": "Suica新角色的公眾投票已經展開。"
   },
   "cover": {
-    "file": "../../../assets/news-covers/suica-mascot-vote.png",
+    "file": "../../../assets/news-covers/suica-mascot-vote.webp",
     "sourceUrl": null
   },
+  "inlineImages": [
+    {
+      "afterSentence": 2,
+      "file": "../../../assets/news-covers/suica-mascot-storyboard.webp",
+      "crop": "top",
+      "alt": "First supporting Kokomonster scene for this news story"
+    },
+    {
+      "afterSentence": 4,
+      "file": "../../../assets/news-covers/suica-mascot-storyboard.webp",
+      "crop": "bottom",
+      "alt": "Second supporting Kokomonster scene for this news story"
+    }
+  ],
   "sentences": [
     {
       "id": "s01",
@@ -37,7 +51,138 @@
       "en": "Transit IC card Suica has announced candidates for a new mascot.",
       "zhHant": "交通IC卡Suica公布了新吉祥物的候選角色。",
       "speechJa": "交通系アイシーカードのスイカが、新しいキャラクターのこうほを発表しました。",
-      "tokens": [],
+      "tokens": [
+        {
+          "text": "交通",
+          "offsetMs": 100.0,
+          "durationMs": 363.594,
+          "reading": "こうつう",
+          "romaji": "koutsuu",
+          "en": "traffic; transportation",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "系",
+          "offsetMs": 463.594,
+          "durationMs": 181.79699999999997,
+          "reading": "けい",
+          "romaji": "kei",
+          "en": "system; lineage",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "IC",
+          "offsetMs": 645.391,
+          "durationMs": 363.59399999999994,
+          "reading": "アイシー",
+          "romaji": "aishii",
+          "en": "integrated circuit; IC",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        },
+        {
+          "text": "カード",
+          "offsetMs": 1008.986,
+          "durationMs": 545.391,
+          "reading": "かーど",
+          "romaji": "kaado",
+          "en": "card (information, filing, etc.)",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "の",
+          "offsetMs": 1554.377,
+          "durationMs": 181.79700000000003,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "Suica",
+          "offsetMs": 1736.174,
+          "durationMs": 908.9859999999999,
+          "reading": "スイカ",
+          "romaji": "suika",
+          "en": "Suica transit card",
+          "zhHant": "Suica交通卡",
+          "showRuby": false
+        },
+        {
+          "text": "が",
+          "offsetMs": 2645.159,
+          "durationMs": 181.79700000000003,
+          "reading": "が",
+          "romaji": "ga",
+          "en": "subject marker",
+          "zhHant": "主語助詞",
+          "showRuby": false
+        },
+        {
+          "text": "新しい",
+          "offsetMs": 2872.406,
+          "durationMs": 545.3910000000001,
+          "reading": "あたらしい",
+          "romaji": "atarashii",
+          "en": "new; novel",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "キャラクター",
+          "offsetMs": 3417.797,
+          "durationMs": 1090.783,
+          "reading": "きゃらくたー",
+          "romaji": "kyarakutaa",
+          "en": "character; personality",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "の",
+          "offsetMs": 4508.58,
+          "durationMs": 181.79699999999957,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "候補",
+          "offsetMs": 4690.377,
+          "durationMs": 363.59400000000005,
+          "reading": "こうほ",
+          "romaji": "kouho",
+          "en": "candidate",
+          "zhHant": "候選者",
+          "showRuby": true
+        },
+        {
+          "text": "を",
+          "offsetMs": 5053.971,
+          "durationMs": 181.79699999999957,
+          "reading": "を",
+          "romaji": "o",
+          "en": "object marker",
+          "zhHant": "受詞助詞",
+          "showRuby": false
+        },
+        {
+          "text": "発表しました",
+          "offsetMs": 5235.768,
+          "durationMs": 1090.7829999999994,
+          "reading": "はっぴょうしました",
+          "romaji": "happyoushimashita",
+          "en": "announcement; publication",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        }
+      ],
       "audio": {
         "file": "../audio/9992-suica-mascot-public-vote/KM-NEWS-9992-suica-mascot-public-vote-sentence-01-ja-Nanami.mp3",
         "voice": "ja-JP-NanamiNeural",
@@ -50,7 +195,108 @@
       "en": "Users can vote for their favourite candidate on the official website.",
       "zhHant": "使用者可在官方網站投選喜愛的候選角色。",
       "speechJa": "りようしゃは、こうしきサイトから好きなこうほにとうひょうできます。",
-      "tokens": [],
+      "tokens": [
+        {
+          "text": "利用者",
+          "offsetMs": 100.0,
+          "durationMs": 622.979,
+          "reading": "りようしゃ",
+          "romaji": "riyousha",
+          "en": "user",
+          "zhHant": "使用者",
+          "showRuby": true
+        },
+        {
+          "text": "は",
+          "offsetMs": 722.979,
+          "durationMs": 207.65999999999997,
+          "reading": "は",
+          "romaji": "wa",
+          "en": "topic marker",
+          "zhHant": "主題助詞",
+          "showRuby": false
+        },
+        {
+          "text": "公式サイト",
+          "offsetMs": 982.553,
+          "durationMs": 1038.2980000000002,
+          "reading": "こうしきサイト",
+          "romaji": "koushikisaito",
+          "en": "official website",
+          "zhHant": "官方網站",
+          "showRuby": true
+        },
+        {
+          "text": "から",
+          "offsetMs": 2020.851,
+          "durationMs": 415.31899999999996,
+          "reading": "から",
+          "romaji": "kara",
+          "en": "from; because",
+          "zhHant": "從；因為",
+          "showRuby": false
+        },
+        {
+          "text": "好き",
+          "offsetMs": 2436.17,
+          "durationMs": 415.31899999999996,
+          "reading": "すき",
+          "romaji": "suki",
+          "en": "liked; well-liked",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "な",
+          "offsetMs": 2851.489,
+          "durationMs": 207.65999999999985,
+          "reading": "な",
+          "romaji": "na",
+          "en": "linking ending",
+          "zhHant": "連接詞尾",
+          "showRuby": false
+        },
+        {
+          "text": "候補",
+          "offsetMs": 3059.149,
+          "durationMs": 415.31899999999996,
+          "reading": "こうほ",
+          "romaji": "kouho",
+          "en": "candidate",
+          "zhHant": "候選者",
+          "showRuby": true
+        },
+        {
+          "text": "に",
+          "offsetMs": 3474.468,
+          "durationMs": 207.65999999999985,
+          "reading": "に",
+          "romaji": "ni",
+          "en": "to; at; in",
+          "zhHant": "向；在；於",
+          "showRuby": false
+        },
+        {
+          "text": "投票",
+          "offsetMs": 3682.128,
+          "durationMs": 415.31899999999996,
+          "reading": "とうひょう",
+          "romaji": "touhyou",
+          "en": "vote; voting",
+          "zhHant": "投票",
+          "showRuby": true
+        },
+        {
+          "text": "できます",
+          "offsetMs": 4097.447,
+          "durationMs": 830.6379999999999,
+          "reading": "できます",
+          "romaji": "dekimasu",
+          "en": "to be able (in a position) to do; to be up to the task",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        }
+      ],
       "audio": {
         "file": "../audio/9992-suica-mascot-public-vote/KM-NEWS-9992-suica-mascot-public-vote-sentence-02-ja-Nanami.mp3",
         "voice": "ja-JP-NanamiNeural",
@@ -63,7 +309,108 @@
       "en": "Each candidate is themed around trains and travel.",
       "zhHant": "各個候選角色均以列車與旅遊為主題。",
       "speechJa": "こうほはそれぞれ、電車や旅をテーマにしています。",
-      "tokens": [],
+      "tokens": [
+        {
+          "text": "候補",
+          "offsetMs": 100.0,
+          "durationMs": 402.605,
+          "reading": "こうほ",
+          "romaji": "kouho",
+          "en": "candidate",
+          "zhHant": "候選者",
+          "showRuby": true
+        },
+        {
+          "text": "は",
+          "offsetMs": 502.605,
+          "durationMs": 201.30200000000002,
+          "reading": "は",
+          "romaji": "wa",
+          "en": "topic marker",
+          "zhHant": "主題助詞",
+          "showRuby": false
+        },
+        {
+          "text": "それぞれ",
+          "offsetMs": 703.907,
+          "durationMs": 805.209,
+          "reading": "それぞれ",
+          "romaji": "sorezore",
+          "en": "each; respectively",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        },
+        {
+          "text": "電車",
+          "offsetMs": 1559.442,
+          "durationMs": 402.605,
+          "reading": "でんしゃ",
+          "romaji": "densha",
+          "en": "train; electric train",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "や",
+          "offsetMs": 1962.047,
+          "durationMs": 201.30200000000013,
+          "reading": "や",
+          "romaji": "ya",
+          "en": "and; such as",
+          "zhHant": "和；例如",
+          "showRuby": false
+        },
+        {
+          "text": "旅",
+          "offsetMs": 2163.349,
+          "durationMs": 201.30200000000013,
+          "reading": "たび",
+          "romaji": "tabi",
+          "en": "travel; trip",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "を",
+          "offsetMs": 2364.651,
+          "durationMs": 201.30200000000013,
+          "reading": "を",
+          "romaji": "o",
+          "en": "object marker",
+          "zhHant": "受詞助詞",
+          "showRuby": false
+        },
+        {
+          "text": "テーマ",
+          "offsetMs": 2565.953,
+          "durationMs": 603.9070000000002,
+          "reading": "てーま",
+          "romaji": "teema",
+          "en": "theme; topic",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "に",
+          "offsetMs": 3169.86,
+          "durationMs": 201.30200000000013,
+          "reading": "に",
+          "romaji": "ni",
+          "en": "to; at; in",
+          "zhHant": "向；在；於",
+          "showRuby": false
+        },
+        {
+          "text": "しています",
+          "offsetMs": 3371.163,
+          "durationMs": 1006.5120000000002,
+          "reading": "しています",
+          "romaji": "shiteimasu",
+          "en": "to do; to carry out",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        }
+      ],
       "audio": {
         "file": "../audio/9992-suica-mascot-public-vote/KM-NEWS-9992-suica-mascot-public-vote-sentence-03-ja-Nanami.mp3",
         "voice": "ja-JP-NanamiNeural",
@@ -76,7 +423,108 @@
       "en": "Each person may vote once per day.",
       "zhHant": "每人每日可投票一次。",
       "speechJa": "とうひょうは一人一日一回までです。",
-      "tokens": [],
+      "tokens": [
+        {
+          "text": "投票",
+          "offsetMs": 100.0,
+          "durationMs": 515.623,
+          "reading": "とうひょう",
+          "romaji": "touhyou",
+          "en": "vote; voting",
+          "zhHant": "投票",
+          "showRuby": true
+        },
+        {
+          "text": "は",
+          "offsetMs": 615.623,
+          "durationMs": 257.8109999999999,
+          "reading": "は",
+          "romaji": "wa",
+          "en": "topic marker",
+          "zhHant": "主題助詞",
+          "showRuby": false
+        },
+        {
+          "text": "一",
+          "offsetMs": 873.434,
+          "durationMs": 257.8109999999999,
+          "reading": "いち",
+          "romaji": "ichi",
+          "en": "one",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "人",
+          "offsetMs": 1131.245,
+          "durationMs": 257.8109999999999,
+          "reading": "ひと",
+          "romaji": "hito",
+          "en": "-ian (e.g. Italian); -ite (e.g. Tokyoite)",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "一",
+          "offsetMs": 1389.057,
+          "durationMs": 257.8109999999999,
+          "reading": "いち",
+          "romaji": "ichi",
+          "en": "one",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "日",
+          "offsetMs": 1646.868,
+          "durationMs": 257.8109999999999,
+          "reading": "ひ",
+          "romaji": "hi",
+          "en": "day; days",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "一",
+          "offsetMs": 1904.679,
+          "durationMs": 257.81100000000015,
+          "reading": "いち",
+          "romaji": "ichi",
+          "en": "one",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "回",
+          "offsetMs": 2162.491,
+          "durationMs": 257.81100000000015,
+          "reading": "かい",
+          "romaji": "kai",
+          "en": "counter for occurrences",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "まで",
+          "offsetMs": 2420.302,
+          "durationMs": 515.623,
+          "reading": "まで",
+          "romaji": "made",
+          "en": "until; as far as",
+          "zhHant": "直到；至",
+          "showRuby": false
+        },
+        {
+          "text": "です",
+          "offsetMs": 2935.925,
+          "durationMs": 515.623,
+          "reading": "です",
+          "romaji": "desu",
+          "en": "is; polite copula",
+          "zhHant": "是；禮貌判斷詞",
+          "showRuby": false
+        }
+      ],
       "audio": {
         "file": "../audio/9992-suica-mascot-public-vote/KM-NEWS-9992-suica-mascot-public-vote-sentence-04-ja-Nanami.mp3",
         "voice": "ja-JP-NanamiNeural",
@@ -89,7 +537,148 @@
       "en": "The winning character is expected to appear on station posters and in the app.",
       "zhHant": "勝出的角色預計會出現在車站海報與應用程式之中。",
       "speechJa": "選ばれたキャラクターは、駅のポスターやアプリに登場する予定です。",
-      "tokens": [],
+      "tokens": [
+        {
+          "text": "選ば",
+          "offsetMs": 100.0,
+          "durationMs": 371.934,
+          "reading": "えらば",
+          "romaji": "eraba",
+          "en": "to choose; to select",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "れた",
+          "offsetMs": 471.934,
+          "durationMs": 371.935,
+          "reading": "れた",
+          "romaji": "reta",
+          "en": "indicates passive voice (incl. the \"suffering passive\")",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        },
+        {
+          "text": "キャラクター",
+          "offsetMs": 843.869,
+          "durationMs": 1115.8029999999999,
+          "reading": "きゃらくたー",
+          "romaji": "kyarakutaa",
+          "en": "character; personality",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "は",
+          "offsetMs": 1959.672,
+          "durationMs": 185.9670000000001,
+          "reading": "は",
+          "romaji": "wa",
+          "en": "topic marker",
+          "zhHant": "主題助詞",
+          "showRuby": false
+        },
+        {
+          "text": "駅",
+          "offsetMs": 2192.131,
+          "durationMs": 185.9670000000001,
+          "reading": "えき",
+          "romaji": "eki",
+          "en": "railway station; train station",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "の",
+          "offsetMs": 2378.098,
+          "durationMs": 185.9670000000001,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "ポスター",
+          "offsetMs": 2564.066,
+          "durationMs": 743.8690000000001,
+          "reading": "ぽすたー",
+          "romaji": "posutaa",
+          "en": "poster",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "や",
+          "offsetMs": 3307.934,
+          "durationMs": 185.9670000000001,
+          "reading": "や",
+          "romaji": "ya",
+          "en": "and; such as",
+          "zhHant": "和；例如",
+          "showRuby": false
+        },
+        {
+          "text": "アプリ",
+          "offsetMs": 3493.902,
+          "durationMs": 557.902,
+          "reading": "あぷり",
+          "romaji": "apuri",
+          "en": "app; application",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "に",
+          "offsetMs": 4051.803,
+          "durationMs": 185.96699999999964,
+          "reading": "に",
+          "romaji": "ni",
+          "en": "to; at; in",
+          "zhHant": "向；在；於",
+          "showRuby": false
+        },
+        {
+          "text": "登場",
+          "offsetMs": 4237.77,
+          "durationMs": 371.9340000000002,
+          "reading": "とうじょう",
+          "romaji": "toujou",
+          "en": "entry (on stage); appearance (on screen)",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "する",
+          "offsetMs": 4609.705,
+          "durationMs": 371.9340000000002,
+          "reading": "する",
+          "romaji": "suru",
+          "en": "to do",
+          "zhHant": "做；進行",
+          "showRuby": false
+        },
+        {
+          "text": "予定",
+          "offsetMs": 4981.639,
+          "durationMs": 371.9340000000002,
+          "reading": "よてい",
+          "romaji": "yotei",
+          "en": "plans; arrangement",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "です",
+          "offsetMs": 5353.574,
+          "durationMs": 371.9340000000002,
+          "reading": "です",
+          "romaji": "desu",
+          "en": "is; polite copula",
+          "zhHant": "是；禮貌判斷詞",
+          "showRuby": false
+        }
+      ],
       "audio": {
         "file": "../audio/9992-suica-mascot-public-vote/KM-NEWS-9992-suica-mascot-public-vote-sentence-05-ja-Nanami.mp3",
         "voice": "ja-JP-NanamiNeural",
@@ -102,7 +691,68 @@
       "en": "The result will be announced next month.",
       "zhHant": "投票結果將於下月公布。",
       "speechJa": "けっかは来月、発表されます。",
-      "tokens": [],
+      "tokens": [
+        {
+          "text": "結果",
+          "offsetMs": 97.92,
+          "durationMs": 522.24,
+          "reading": "けっか",
+          "romaji": "kekka",
+          "en": "result",
+          "zhHant": "結果",
+          "showRuby": true
+        },
+        {
+          "text": "は",
+          "offsetMs": 620.16,
+          "durationMs": 261.12,
+          "reading": "は",
+          "romaji": "wa",
+          "en": "topic marker",
+          "zhHant": "主題助詞",
+          "showRuby": false
+        },
+        {
+          "text": "来月",
+          "offsetMs": 881.28,
+          "durationMs": 522.24,
+          "reading": "らいげつ",
+          "romaji": "raigetsu",
+          "en": "next month",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "発表",
+          "offsetMs": 1468.8,
+          "durationMs": 522.24,
+          "reading": "はっぴょう",
+          "romaji": "happyou",
+          "en": "announcement; publication",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "さ",
+          "offsetMs": 1991.04,
+          "durationMs": 261.1199999999999,
+          "reading": "さ",
+          "romaji": "sa",
+          "en": "difference; variation",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        },
+        {
+          "text": "れます",
+          "offsetMs": 2252.16,
+          "durationMs": 783.3600000000006,
+          "reading": "れます",
+          "romaji": "remasu",
+          "en": "indicates passive voice (incl. the \"suffering passive\")",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        }
+      ],
       "audio": {
         "file": "../audio/9992-suica-mascot-public-vote/KM-NEWS-9992-suica-mascot-public-vote-sentence-06-ja-Nanami.mp3",
         "voice": "ja-JP-NanamiNeural",

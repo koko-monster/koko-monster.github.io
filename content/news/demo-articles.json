@@ -8,7 +8,7 @@
     "demoOnly": true,
     "title": {"ja":"大の里、横綱になる","en":"Ōnosato is promoted to yokozuna","zhHant":"大之里晉升橫綱"},
     "summary": {"ja":"大の里が相撲で最も高い地位の横綱になりました。","en":"Ōnosato has reached yokozuna, sumo’s highest rank.","zhHant":"大之里晉升為相撲最高級別「橫綱」。"},
-    "cover": "../../../assets/news-covers/sumo-yokozuna.png",
+    "cover": "../../../assets/news-covers/sumo-yokozuna.webp",
     "sentences": [
       {"ja":"大の里は、相撲でいちばん高い地位、横綱になりました。","en":"Ōnosato has reached yokozuna, the highest rank in sumo.","zhHant":"大之里晉升為相撲最高級別「橫綱」。"},
       {"ja":"横綱になることが決まると、使者が部屋を訪れました。","en":"After the promotion was decided, messengers visited his sumo stable.","zhHant":"晉升決定後，使者到訪其相撲部屋。"},
@@ -32,7 +32,7 @@
     "demoOnly": true,
     "title": {"ja":"Suicaの新しいキャラクター、投票で選ぶ","en":"A public vote will choose Suica’s new mascot","zhHant":"Suica新吉祥物將由公眾投票選出"},
     "summary": {"ja":"Suicaの新しいキャラクターを選ぶ投票が始まりました。","en":"Voting has begun to choose a new character for Suica.","zhHant":"Suica新角色的公眾投票已經展開。"},
-    "cover": "../../../assets/news-covers/suica-mascot-vote.png",
+    "cover": "../../../assets/news-covers/suica-mascot-vote.webp",
     "sentences": [
       {"ja":"交通系ICカードのSuicaが、新しいキャラクターの候補を発表しました。","en":"Transit IC card Suica has announced candidates for a new mascot.","zhHant":"交通IC卡Suica公布了新吉祥物的候選角色。"},
       {"ja":"利用者は、公式サイトから好きな候補に投票できます。","en":"Users can vote for their favourite candidate on the official website.","zhHant":"使用者可在官方網站投選喜愛的候選角色。"},
@@ -56,7 +56,7 @@
     "demoOnly": true,
     "title": {"ja":"青森県沖でマグニチュード7.5の地震","en":"Magnitude 7.5 earthquake strikes off Aomori","zhHant":"青森縣外海發生7.5級地震"},
     "summary": {"ja":"青森県の沖で強い地震があり、住民に安全確認が呼びかけられました。","en":"A strong earthquake off Aomori prompts calls for residents to check their safety.","zhHant":"青森縣外海發生強烈地震，當局呼籲居民確認安全。"},
-    "cover": "../../../assets/news-covers/earthquake-preparedness.png",
+    "cover": "../../../assets/news-covers/earthquake-preparedness.webp",
     "sentences": [
       {"ja":"青森県の沖で、マグニチュード7.5の強い地震がありました。","en":"A strong magnitude 7.5 earthquake struck off Aomori Prefecture.","zhHant":"青森縣外海發生7.5級強烈地震。"},
       {"ja":"海岸に近い地域では、住民が高い場所へ避難しました。","en":"In coastal areas, residents evacuated to higher ground.","zhHant":"沿岸地區居民疏散到較高地勢。"},

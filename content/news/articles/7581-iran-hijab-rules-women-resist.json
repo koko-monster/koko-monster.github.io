@@ -26,9 +26,23 @@
     "zhHant": "隨着保守派施壓加劇，許多女性公開反抗強制頭巾規定，並透過網絡發聲。"
   },
   "cover": {
-    "file": "../../../assets/news-covers/iran-women.png",
+    "file": "../../../assets/news-covers/iran-women.webp",
     "sourceUrl": "https://api.kokomonster.com/file/resources/crawled-raw-news/2026-08-24/9759/1787585564750.jpg"
   },
+  "inlineImages": [
+    {
+      "afterSentence": 1,
+      "file": "../../../assets/news-covers/iran-women-storyboard.webp",
+      "crop": "top",
+      "alt": "First supporting Kokomonster scene for this news story"
+    },
+    {
+      "afterSentence": 2,
+      "file": "../../../assets/news-covers/iran-women-storyboard.webp",
+      "crop": "bottom",
+      "alt": "Second supporting Kokomonster scene for this news story"
+    }
+  ],
   "sentences": [
     {
       "id": "s01",
@@ -38,7 +52,188 @@
       "speechJa": "イランでは、せいじてきこんらんの中、女性のヒジャブちゃくように関する問題が再浮上しています。",
       "en": "Amid political turmoil in Iran, the issue of women wearing the hijab has returned to the forefront.",
       "zhHant": "伊朗政局動盪之際，女性佩戴頭巾的問題再次成為焦點。",
-      "tokens": [],
+      "tokens": [
+        {
+          "text": "イラン",
+          "offsetMs": 57.706,
+          "durationMs": 447.221,
+          "reading": "いらん",
+          "romaji": "iran",
+          "en": "Iran",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "で",
+          "offsetMs": 504.926,
+          "durationMs": 129.83800000000002,
+          "reading": "で",
+          "romaji": "de",
+          "en": "at; by; with",
+          "zhHant": "在；以；用",
+          "showRuby": false
+        },
+        {
+          "text": "は",
+          "offsetMs": 634.765,
+          "durationMs": 634.765,
+          "reading": "は",
+          "romaji": "wa",
+          "en": "topic marker",
+          "zhHant": "主題助詞",
+          "showRuby": false
+        },
+        {
+          "text": "政治的",
+          "offsetMs": 1269.529,
+          "durationMs": 721.3240000000001,
+          "reading": "せいじてき",
+          "romaji": "seijiteki",
+          "en": "political",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "混乱",
+          "offsetMs": 1990.853,
+          "durationMs": 504.92599999999993,
+          "reading": "こんらん",
+          "romaji": "konran",
+          "en": "disorder; chaos",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "の",
+          "offsetMs": 2495.779,
+          "durationMs": 129.8380000000002,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "中",
+          "offsetMs": 2625.618,
+          "durationMs": 678.0439999999999,
+          "reading": "なか",
+          "romaji": "naka",
+          "en": "inside; interior",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "女性",
+          "offsetMs": 3303.662,
+          "durationMs": 476.07400000000007,
+          "reading": "じょせい",
+          "romaji": "josei",
+          "en": "woman; female",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "の",
+          "offsetMs": 3779.735,
+          "durationMs": 115.41199999999981,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "ヒジャブ",
+          "offsetMs": 3895.147,
+          "durationMs": 533.7789999999995,
+          "reading": "ひじゃぶ",
+          "romaji": "hijabu",
+          "en": "hijab; Muslim head covering for women",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "着用",
+          "offsetMs": 4428.926,
+          "durationMs": 562.6319999999996,
+          "reading": "ちゃくよう",
+          "romaji": "chakuyou",
+          "en": "wearing",
+          "zhHant": "佩戴",
+          "showRuby": true
+        },
+        {
+          "text": "に",
+          "offsetMs": 4991.559,
+          "durationMs": 158.6909999999998,
+          "reading": "に",
+          "romaji": "ni",
+          "en": "to; at; in",
+          "zhHant": "向；在；於",
+          "showRuby": false
+        },
+        {
+          "text": "関する",
+          "offsetMs": 5150.25,
+          "durationMs": 533.7790000000005,
+          "reading": "かんする",
+          "romaji": "kansuru",
+          "en": "to concern; to be related",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "問題",
+          "offsetMs": 5684.029,
+          "durationMs": 461.64699999999993,
+          "reading": "もんだい",
+          "romaji": "mondai",
+          "en": "question (e.g. on a test); problem",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "が",
+          "offsetMs": 6145.676,
+          "durationMs": 216.39699999999993,
+          "reading": "が",
+          "romaji": "ga",
+          "en": "subject marker",
+          "zhHant": "主語助詞",
+          "showRuby": false
+        },
+        {
+          "text": "再",
+          "offsetMs": 6362.074,
+          "durationMs": 302.95600000000013,
+          "reading": "さい",
+          "romaji": "sai",
+          "en": "re-; again",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "浮上",
+          "offsetMs": 6665.029,
+          "durationMs": 432.79399999999987,
+          "reading": "ふじょう",
+          "romaji": "fujou",
+          "en": "surfacing; rising to the surface",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "しています",
+          "offsetMs": 7097.824,
+          "durationMs": 750.1760000000004,
+          "reading": "しています",
+          "romaji": "shiteimasu",
+          "en": "to do; to carry out",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        }
+      ],
       "audio": {
         "file": "../audio/7581-iran-hijab-rules-women-resist/KM-NEWS-7581-iran-hijab-rules-women-resist-sentence-01-ja-Nanami.mp3",
         "voice": "ja-JP-NanamiNeural",
@@ -144,7 +339,228 @@
       "speechJa": "ほしゅはからのあつりょくが強まる一方で、多くの女性がとうきょくに対抗し、こうぜんと規則を無視しています。",
       "en": "Although pressure from conservatives is growing, many women are confronting the authorities and openly ignoring the rules.",
       "zhHant": "儘管保守派施壓日增，許多女性仍與當局抗衡，並公開無視相關規定。",
-      "tokens": [],
+      "tokens": [
+        {
+          "text": "保守派",
+          "offsetMs": 56.052,
+          "durationMs": 504.4649999999999,
+          "reading": "ほしゅは",
+          "romaji": "hoshuha",
+          "en": "conservatives",
+          "zhHant": "保守派",
+          "showRuby": true
+        },
+        {
+          "text": "から",
+          "offsetMs": 560.516,
+          "durationMs": 238.21899999999994,
+          "reading": "から",
+          "romaji": "kara",
+          "en": "from; because",
+          "zhHant": "從；因為",
+          "showRuby": false
+        },
+        {
+          "text": "の",
+          "offsetMs": 798.735,
+          "durationMs": 126.11599999999999,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "圧力",
+          "offsetMs": 924.852,
+          "durationMs": 574.5289999999999,
+          "reading": "あつりょく",
+          "romaji": "atsuryoku",
+          "en": "pressure",
+          "zhHant": "壓力",
+          "showRuby": true
+        },
+        {
+          "text": "が",
+          "offsetMs": 1499.381,
+          "durationMs": 154.14200000000005,
+          "reading": "が",
+          "romaji": "ga",
+          "en": "subject marker",
+          "zhHant": "主語助詞",
+          "showRuby": false
+        },
+        {
+          "text": "強まる",
+          "offsetMs": 1653.523,
+          "durationMs": 602.5550000000001,
+          "reading": "つよまる",
+          "romaji": "tsuyomaru",
+          "en": "to get strong; to gain strength",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "一方",
+          "offsetMs": 2256.077,
+          "durationMs": 476.43899999999985,
+          "reading": "いっぽう",
+          "romaji": "ippou",
+          "en": "one (esp. of two); the other",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "で",
+          "offsetMs": 2732.516,
+          "durationMs": 672.6190000000001,
+          "reading": "で",
+          "romaji": "de",
+          "en": "at; by; with",
+          "zhHant": "在；以；用",
+          "showRuby": false
+        },
+        {
+          "text": "多く",
+          "offsetMs": 3405.135,
+          "durationMs": 364.33500000000004,
+          "reading": "おおく",
+          "romaji": "ooku",
+          "en": "many; much",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "の",
+          "offsetMs": 3769.471,
+          "durationMs": 154.14199999999983,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "女性",
+          "offsetMs": 3923.613,
+          "durationMs": 448.413,
+          "reading": "じょせい",
+          "romaji": "josei",
+          "en": "woman; female",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "が",
+          "offsetMs": 4372.026,
+          "durationMs": 224.20600000000013,
+          "reading": "が",
+          "romaji": "ga",
+          "en": "subject marker",
+          "zhHant": "主語助詞",
+          "showRuby": false
+        },
+        {
+          "text": "当局",
+          "offsetMs": 4596.232,
+          "durationMs": 546.5029999999997,
+          "reading": "とうきょく",
+          "romaji": "toukyoku",
+          "en": "authorities",
+          "zhHant": "當局",
+          "showRuby": true
+        },
+        {
+          "text": "に",
+          "offsetMs": 5142.735,
+          "durationMs": 168.15499999999975,
+          "reading": "に",
+          "romaji": "ni",
+          "en": "to; at; in",
+          "zhHant": "向；在；於",
+          "showRuby": false
+        },
+        {
+          "text": "対抗",
+          "offsetMs": 5310.89,
+          "durationMs": 476.4390000000003,
+          "reading": "たいこう",
+          "romaji": "taikou",
+          "en": "opposition; rivalry",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "し",
+          "offsetMs": 5787.329,
+          "durationMs": 602.5550000000003,
+          "reading": "し",
+          "romaji": "shi",
+          "en": "do; verb stem",
+          "zhHant": "做；動詞詞幹",
+          "showRuby": false
+        },
+        {
+          "text": "公然",
+          "offsetMs": 6389.884,
+          "durationMs": 518.4769999999999,
+          "reading": "こうぜん",
+          "romaji": "kouzen",
+          "en": "open; public",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "と",
+          "offsetMs": 6908.361,
+          "durationMs": 168.15499999999975,
+          "reading": "と",
+          "romaji": "to",
+          "en": "and; with; that",
+          "zhHant": "和；與；表示引用",
+          "showRuby": false
+        },
+        {
+          "text": "規則",
+          "offsetMs": 7076.516,
+          "durationMs": 434.39999999999964,
+          "reading": "きそく",
+          "romaji": "kisoku",
+          "en": "rule; regulation",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "を",
+          "offsetMs": 7510.916,
+          "durationMs": 140.1289999999999,
+          "reading": "を",
+          "romaji": "o",
+          "en": "object marker",
+          "zhHant": "受詞助詞",
+          "showRuby": false
+        },
+        {
+          "text": "無視",
+          "offsetMs": 7651.045,
+          "durationMs": 308.28399999999965,
+          "reading": "むし",
+          "romaji": "mushi",
+          "en": "disregarding; ignoring",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "しています",
+          "offsetMs": 7959.329,
+          "durationMs": 728.6710000000003,
+          "reading": "しています",
+          "romaji": "shiteimasu",
+          "en": "to do; to carry out",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        }
+      ],
       "audio": {
         "file": "../audio/7581-iran-hijab-rules-women-resist/KM-NEWS-7581-iran-hijab-rules-women-resist-sentence-02-ja-Nanami.mp3",
         "voice": "ja-JP-NanamiNeural",
@@ -266,7 +682,308 @@
       "speechJa": "特にわかいせだいの女性たちは、エスエヌエスを通じてこの問題にこうぎしており、政府のキャンペーンに屈していないことが明らかです。",
       "en": "Young women in particular are protesting through social media, showing that they have not yielded to the government’s campaign.",
       "zhHant": "尤其是年輕女性，正透過社交媒體表達抗議，顯示她們並未向政府行動屈服。",
-      "tokens": [],
+      "tokens": [
+        {
+          "text": "特",
+          "offsetMs": 55.269,
+          "durationMs": 331.613,
+          "reading": "とく",
+          "romaji": "toku",
+          "en": "especially",
+          "zhHant": "特別",
+          "showRuby": true
+        },
+        {
+          "text": "に",
+          "offsetMs": 386.881,
+          "durationMs": 138.17200000000003,
+          "reading": "に",
+          "romaji": "ni",
+          "en": "to; at; in",
+          "zhHant": "向；在；於",
+          "showRuby": false
+        },
+        {
+          "text": "若い",
+          "offsetMs": 525.053,
+          "durationMs": 414.51599999999996,
+          "reading": "わかい",
+          "romaji": "wakai",
+          "en": "young; youthful",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "世代",
+          "offsetMs": 939.569,
+          "durationMs": 373.0640000000001,
+          "reading": "せだい",
+          "romaji": "sedai",
+          "en": "generation; the world",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "の",
+          "offsetMs": 1312.633,
+          "durationMs": 138.17200000000003,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "女性",
+          "offsetMs": 1450.805,
+          "durationMs": 414.5160000000001,
+          "reading": "じょせい",
+          "romaji": "josei",
+          "en": "woman; female",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "たち",
+          "offsetMs": 1865.321,
+          "durationMs": 276.34400000000005,
+          "reading": "たち",
+          "romaji": "tachi",
+          "en": "mansion; palace",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        },
+        {
+          "text": "は",
+          "offsetMs": 2141.664,
+          "durationMs": 677.0419999999999,
+          "reading": "は",
+          "romaji": "wa",
+          "en": "topic marker",
+          "zhHant": "主題助詞",
+          "showRuby": false
+        },
+        {
+          "text": "SNS",
+          "offsetMs": 2818.707,
+          "durationMs": 773.7629999999999,
+          "reading": "エスエヌエス",
+          "romaji": "esuenuesu",
+          "en": "social networking service; SNS",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        },
+        {
+          "text": "を",
+          "offsetMs": 3592.469,
+          "durationMs": 138.17200000000003,
+          "reading": "を",
+          "romaji": "o",
+          "en": "object marker",
+          "zhHant": "受詞助詞",
+          "showRuby": false
+        },
+        {
+          "text": "通じ",
+          "offsetMs": 3730.641,
+          "durationMs": 442.1500000000001,
+          "reading": "つうじ",
+          "romaji": "tsuuji",
+          "en": "bowel movement; evacuation",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "て",
+          "offsetMs": 4172.791,
+          "durationMs": 221.07499999999982,
+          "reading": "て",
+          "romaji": "te",
+          "en": "linking verb ending",
+          "zhHant": "連接動詞詞尾",
+          "showRuby": false
+        },
+        {
+          "text": "この",
+          "offsetMs": 4393.866,
+          "durationMs": 290.16100000000006,
+          "reading": "この",
+          "romaji": "kono",
+          "en": "nine",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        },
+        {
+          "text": "問題",
+          "offsetMs": 4684.027,
+          "durationMs": 428.33299999999963,
+          "reading": "もんだい",
+          "romaji": "mondai",
+          "en": "question (e.g. on a test); problem",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "に",
+          "offsetMs": 5112.36,
+          "durationMs": 165.80599999999959,
+          "reading": "に",
+          "romaji": "ni",
+          "en": "to; at; in",
+          "zhHant": "向；在；於",
+          "showRuby": false
+        },
+        {
+          "text": "抗議",
+          "offsetMs": 5278.166,
+          "durationMs": 400.6980000000003,
+          "reading": "こうぎ",
+          "romaji": "kougi",
+          "en": "protest",
+          "zhHant": "抗議",
+          "showRuby": true
+        },
+        {
+          "text": "し",
+          "offsetMs": 5678.865,
+          "durationMs": 110.53799999999956,
+          "reading": "し",
+          "romaji": "shi",
+          "en": "do; verb stem",
+          "zhHant": "做；動詞詞幹",
+          "showRuby": false
+        },
+        {
+          "text": "て",
+          "offsetMs": 5789.402,
+          "durationMs": 96.72000000000025,
+          "reading": "て",
+          "romaji": "te",
+          "en": "linking verb ending",
+          "zhHant": "連接動詞詞尾",
+          "showRuby": false
+        },
+        {
+          "text": "おり",
+          "offsetMs": 5886.123,
+          "durationMs": 773.7629999999999,
+          "reading": "おり",
+          "romaji": "ori",
+          "en": "opportunity; chance",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        },
+        {
+          "text": "政府",
+          "offsetMs": 6659.885,
+          "durationMs": 428.33299999999963,
+          "reading": "せいふ",
+          "romaji": "seifu",
+          "en": "government; administration",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "の",
+          "offsetMs": 7088.218,
+          "durationMs": 138.17199999999957,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "キャンペーン",
+          "offsetMs": 7226.39,
+          "durationMs": 566.5050000000001,
+          "reading": "きゃんぺーん",
+          "romaji": "kyanpeen",
+          "en": "promotion (e.g. sales, etc.); marketing campaign",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "に",
+          "offsetMs": 7792.895,
+          "durationMs": 179.6229999999996,
+          "reading": "に",
+          "romaji": "ni",
+          "en": "to; at; in",
+          "zhHant": "向；在；於",
+          "showRuby": false
+        },
+        {
+          "text": "屈し",
+          "offsetMs": 7972.518,
+          "durationMs": 317.7950000000001,
+          "reading": "くっし",
+          "romaji": "kusshi",
+          "en": "leading; foremost",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "て",
+          "offsetMs": 8290.314,
+          "durationMs": 96.71999999999935,
+          "reading": "て",
+          "romaji": "te",
+          "en": "linking verb ending",
+          "zhHant": "連接動詞詞尾",
+          "showRuby": false
+        },
+        {
+          "text": "いない",
+          "offsetMs": 8387.034,
+          "durationMs": 359.2470000000012,
+          "reading": "いない",
+          "romaji": "inai",
+          "en": "within; inside of",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        },
+        {
+          "text": "こと",
+          "offsetMs": 8746.281,
+          "durationMs": 276.34399999999914,
+          "reading": "こと",
+          "romaji": "koto",
+          "en": "thing; nominalizer",
+          "zhHant": "事情；名詞化",
+          "showRuby": false
+        },
+        {
+          "text": "が",
+          "offsetMs": 9022.625,
+          "durationMs": 151.98899999999958,
+          "reading": "が",
+          "romaji": "ga",
+          "en": "subject marker",
+          "zhHant": "主語助詞",
+          "showRuby": false
+        },
+        {
+          "text": "明らか",
+          "offsetMs": 9174.614,
+          "durationMs": 566.5049999999992,
+          "reading": "あきらか",
+          "romaji": "akiraka",
+          "en": "clear; obvious",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "です",
+          "offsetMs": 9741.119,
+          "durationMs": 386.8809999999994,
+          "reading": "です",
+          "romaji": "desu",
+          "en": "is; polite copula",
+          "zhHant": "是；禮貌判斷詞",
+          "showRuby": false
+        }
+      ],
       "audio": {
         "file": "../audio/7581-iran-hijab-rules-women-resist/KM-NEWS-7581-iran-hijab-rules-women-resist-sentence-03-ja-Nanami.mp3",
         "voice": "ja-JP-NanamiNeural",

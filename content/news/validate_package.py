@@ -8,6 +8,8 @@ import json
 import re
 from pathlib import Path
 
+from build_content_package import merge_timing_tokens
+
 
 ROOT = Path(__file__).resolve().parent
 
@@ -78,6 +80,19 @@ def main() -> None:
                     timings = json.loads(timing_path.read_text(encoding="utf-8"))
                     if not timings or any(not item.get("text") for item in timings):
                         errors.append(f"Empty/invalid timings: {timing_path}")
+                    timed_words = merge_timing_tokens(timings)
+                    tokens = sentence.get("tokens", [])
+                    if len(tokens) != len(timed_words):
+                        errors.append(
+                            f"Token/timing mismatch: {article['id']} {sentence['id']} "
+                            f"{len(tokens)} != {len(timed_words)}"
+                        )
+                    for token in tokens:
+                        required = ("text", "reading", "romaji", "en", "zhHant", "offsetMs", "durationMs")
+                        if any(token.get(field) in (None, "") for field in required):
+                            errors.append(
+                                f"Incomplete word token: {article['id']} {sentence['id']} {token.get('text')}"
+                            )
             source_audio = sentence.get("sourceAudio")
             if source_audio:
                 source_path = (article_path.parent / source_audio["file"]).resolve()

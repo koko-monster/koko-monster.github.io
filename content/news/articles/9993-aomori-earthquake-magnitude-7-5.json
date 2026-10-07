@@ -27,9 +27,23 @@
     "zhHant": "青森縣外海發生強烈地震，當局呼籲居民確認安全。"
   },
   "cover": {
-    "file": "../../../assets/news-covers/earthquake-preparedness.png",
+    "file": "../../../assets/news-covers/earthquake-preparedness.webp",
     "sourceUrl": null
   },
+  "inlineImages": [
+    {
+      "afterSentence": 2,
+      "file": "../../../assets/news-covers/aomori-earthquake-storyboard.webp",
+      "crop": "top",
+      "alt": "First supporting Kokomonster scene for this news story"
+    },
+    {
+      "afterSentence": 4,
+      "file": "../../../assets/news-covers/aomori-earthquake-storyboard.webp",
+      "crop": "bottom",
+      "alt": "Second supporting Kokomonster scene for this news story"
+    }
+  ],
   "sentences": [
     {
       "id": "s01",
@@ -37,7 +51,138 @@
       "en": "A strong magnitude 7.5 earthquake struck off Aomori Prefecture.",
       "zhHant": "青森縣外海發生7.5級強烈地震。",
       "speechJa": "あおもりけんの沖で、マグニチュードななてんごの強いじしんがありました。",
-      "tokens": [],
+      "tokens": [
+        {
+          "text": "青森",
+          "offsetMs": 100.0,
+          "durationMs": 402.036,
+          "reading": "あおもり",
+          "romaji": "aomori",
+          "en": "Aomori (city, prefecture)",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "県",
+          "offsetMs": 502.036,
+          "durationMs": 201.01799999999997,
+          "reading": "けん",
+          "romaji": "ken",
+          "en": "prefecture (Japan); county (China, Taiwan, Norway, etc.)",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "の",
+          "offsetMs": 703.055,
+          "durationMs": 201.01800000000003,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "沖",
+          "offsetMs": 904.073,
+          "durationMs": 201.01799999999992,
+          "reading": "おき",
+          "romaji": "oki",
+          "en": "open sea",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "で",
+          "offsetMs": 1105.091,
+          "durationMs": 201.01800000000003,
+          "reading": "で",
+          "romaji": "de",
+          "en": "at; by; with",
+          "zhHant": "在；以；用",
+          "showRuby": false
+        },
+        {
+          "text": "マグニチュード",
+          "offsetMs": 1356.364,
+          "durationMs": 1407.127,
+          "reading": "まぐにちゅーど",
+          "romaji": "magunichuudo",
+          "en": "magnitude",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "7",
+          "offsetMs": 2763.491,
+          "durationMs": 201.01800000000003,
+          "reading": "7",
+          "romaji": "7",
+          "en": "7",
+          "zhHant": "7",
+          "showRuby": false
+        },
+        {
+          "text": "5",
+          "offsetMs": 3165.527,
+          "durationMs": 201.01800000000003,
+          "reading": "5",
+          "romaji": "5",
+          "en": "5",
+          "zhHant": "5",
+          "showRuby": false
+        },
+        {
+          "text": "の",
+          "offsetMs": 3366.545,
+          "durationMs": 201.01800000000003,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "強い",
+          "offsetMs": 3567.564,
+          "durationMs": 402.03600000000006,
+          "reading": "つよい",
+          "romaji": "tsuyoi",
+          "en": "strong; potent",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "地震",
+          "offsetMs": 3969.6,
+          "durationMs": 402.0359999999996,
+          "reading": "じしん",
+          "romaji": "jishin",
+          "en": "earthquake",
+          "zhHant": "地震",
+          "showRuby": true
+        },
+        {
+          "text": "が",
+          "offsetMs": 4371.636,
+          "durationMs": 201.01800000000003,
+          "reading": "が",
+          "romaji": "ga",
+          "en": "subject marker",
+          "zhHant": "主語助詞",
+          "showRuby": false
+        },
+        {
+          "text": "ありました",
+          "offsetMs": 4572.655,
+          "durationMs": 1005.0900000000001,
+          "reading": "ありました",
+          "romaji": "arimashita",
+          "en": "to be; to exist",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        }
+      ],
       "audio": {
         "file": "../audio/9993-aomori-earthquake-magnitude-7-5/KM-NEWS-9993-aomori-earthquake-magnitude-7-5-sentence-01-ja-Nanami.mp3",
         "voice": "ja-JP-NanamiNeural",
@@ -50,7 +195,128 @@
       "en": "In coastal areas, residents evacuated to higher ground.",
       "zhHant": "沿岸地區居民疏散到較高地勢。",
       "speechJa": "海岸に近い地域では、住民が高い場所へひなんしました。",
-      "tokens": [],
+      "tokens": [
+        {
+          "text": "海岸",
+          "offsetMs": 100.0,
+          "durationMs": 437.78700000000003,
+          "reading": "かいがん",
+          "romaji": "kaigan",
+          "en": "coast; beach",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "に",
+          "offsetMs": 537.787,
+          "durationMs": 218.894,
+          "reading": "に",
+          "romaji": "ni",
+          "en": "to; at; in",
+          "zhHant": "向；在；於",
+          "showRuby": false
+        },
+        {
+          "text": "近い",
+          "offsetMs": 756.681,
+          "durationMs": 437.78700000000003,
+          "reading": "ちかい",
+          "romaji": "chikai",
+          "en": "near; close",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "地域",
+          "offsetMs": 1194.468,
+          "durationMs": 437.78700000000003,
+          "reading": "ちいき",
+          "romaji": "chiiki",
+          "en": "area; region",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "で",
+          "offsetMs": 1632.255,
+          "durationMs": 218.894,
+          "reading": "で",
+          "romaji": "de",
+          "en": "at; by; with",
+          "zhHant": "在；以；用",
+          "showRuby": false
+        },
+        {
+          "text": "は",
+          "offsetMs": 1851.149,
+          "durationMs": 218.89399999999978,
+          "reading": "は",
+          "romaji": "wa",
+          "en": "topic marker",
+          "zhHant": "主題助詞",
+          "showRuby": false
+        },
+        {
+          "text": "住民",
+          "offsetMs": 2124.766,
+          "durationMs": 437.7869999999998,
+          "reading": "じゅうみん",
+          "romaji": "juumin",
+          "en": "inhabitant; resident",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "が",
+          "offsetMs": 2562.553,
+          "durationMs": 218.89400000000023,
+          "reading": "が",
+          "romaji": "ga",
+          "en": "subject marker",
+          "zhHant": "主語助詞",
+          "showRuby": false
+        },
+        {
+          "text": "高い",
+          "offsetMs": 2781.447,
+          "durationMs": 437.7869999999998,
+          "reading": "たかい",
+          "romaji": "takai",
+          "en": "high; tall",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "場所",
+          "offsetMs": 3219.234,
+          "durationMs": 437.7869999999998,
+          "reading": "ばしょ",
+          "romaji": "basho",
+          "en": "place; location",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "へ",
+          "offsetMs": 3657.021,
+          "durationMs": 218.89399999999978,
+          "reading": "へ",
+          "romaji": "e",
+          "en": "toward; to",
+          "zhHant": "往；向",
+          "showRuby": false
+        },
+        {
+          "text": "避難しました",
+          "offsetMs": 3875.915,
+          "durationMs": 1313.362,
+          "reading": "ひなんしました",
+          "romaji": "hinanshimashita",
+          "en": "taking refuge; finding shelter",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        }
+      ],
       "audio": {
         "file": "../audio/9993-aomori-earthquake-magnitude-7-5/KM-NEWS-9993-aomori-earthquake-magnitude-7-5-sentence-02-ja-Nanami.mp3",
         "voice": "ja-JP-NanamiNeural",
@@ -63,7 +329,108 @@
       "en": "Local authorities are checking for injuries and damage to buildings.",
       "zhHant": "地方政府正確認傷者人數與建築物受損情況。",
       "speechJa": "じちたいは、けが人や建物のひがいを確認しています。",
-      "tokens": [],
+      "tokens": [
+        {
+          "text": "自治体",
+          "offsetMs": 100.0,
+          "durationMs": 667.535,
+          "reading": "じちたい",
+          "romaji": "jichitai",
+          "en": "local government",
+          "zhHant": "地方政府",
+          "showRuby": true
+        },
+        {
+          "text": "は",
+          "offsetMs": 767.535,
+          "durationMs": 222.51200000000006,
+          "reading": "は",
+          "romaji": "wa",
+          "en": "topic marker",
+          "zhHant": "主題助詞",
+          "showRuby": false
+        },
+        {
+          "text": "けが人",
+          "offsetMs": 1045.674,
+          "durationMs": 667.5349999999999,
+          "reading": "けがにん",
+          "romaji": "keganin",
+          "en": "wounded person; injured person",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "や",
+          "offsetMs": 1713.209,
+          "durationMs": 222.51199999999994,
+          "reading": "や",
+          "romaji": "ya",
+          "en": "and; such as",
+          "zhHant": "和；例如",
+          "showRuby": false
+        },
+        {
+          "text": "建物",
+          "offsetMs": 1935.721,
+          "durationMs": 445.02300000000014,
+          "reading": "たてもの",
+          "romaji": "tatemono",
+          "en": "building",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "の",
+          "offsetMs": 2380.744,
+          "durationMs": 222.51200000000017,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "被害",
+          "offsetMs": 2603.256,
+          "durationMs": 445.02300000000014,
+          "reading": "ひがい",
+          "romaji": "higai",
+          "en": "damage; harm",
+          "zhHant": "損害；災情",
+          "showRuby": true
+        },
+        {
+          "text": "を",
+          "offsetMs": 3048.279,
+          "durationMs": 222.51200000000017,
+          "reading": "を",
+          "romaji": "o",
+          "en": "object marker",
+          "zhHant": "受詞助詞",
+          "showRuby": false
+        },
+        {
+          "text": "確認",
+          "offsetMs": 3270.791,
+          "durationMs": 445.02300000000014,
+          "reading": "かくにん",
+          "romaji": "kakunin",
+          "en": "confirmation; verification",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "しています",
+          "offsetMs": 3715.814,
+          "durationMs": 1112.5580000000004,
+          "reading": "しています",
+          "romaji": "shiteimasu",
+          "en": "to do; to carry out",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        }
+      ],
       "audio": {
         "file": "../audio/9993-aomori-earthquake-magnitude-7-5/KM-NEWS-9993-aomori-earthquake-magnitude-7-5-sentence-03-ja-Nanami.mp3",
         "voice": "ja-JP-NanamiNeural",
@@ -76,7 +443,118 @@
       "en": "Some railway services were suspended while safety checks were carried out.",
       "zhHant": "部分鐵路服務暫停，以進行安全檢查。",
       "speechJa": "てつどうの一部は、安全を調べるため運転を見合わせました。",
-      "tokens": [],
+      "tokens": [
+        {
+          "text": "鉄道",
+          "offsetMs": 100.0,
+          "durationMs": 421.87799999999993,
+          "reading": "てつどう",
+          "romaji": "tetsudou",
+          "en": "railway",
+          "zhHant": "鐵路",
+          "showRuby": true
+        },
+        {
+          "text": "の",
+          "offsetMs": 521.878,
+          "durationMs": 210.93899999999996,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "一部",
+          "offsetMs": 732.816,
+          "durationMs": 421.87799999999993,
+          "reading": "いちぶ",
+          "romaji": "ichibu",
+          "en": "one part; one portion",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "は",
+          "offsetMs": 1154.694,
+          "durationMs": 210.93900000000008,
+          "reading": "は",
+          "romaji": "wa",
+          "en": "topic marker",
+          "zhHant": "主題助詞",
+          "showRuby": false
+        },
+        {
+          "text": "安全",
+          "offsetMs": 1418.367,
+          "durationMs": 421.87799999999993,
+          "reading": "あんぜん",
+          "romaji": "anzen",
+          "en": "safety; security",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "を",
+          "offsetMs": 1840.245,
+          "durationMs": 210.93899999999985,
+          "reading": "を",
+          "romaji": "o",
+          "en": "object marker",
+          "zhHant": "受詞助詞",
+          "showRuby": false
+        },
+        {
+          "text": "調べる",
+          "offsetMs": 2051.184,
+          "durationMs": 632.8159999999998,
+          "reading": "しらべる",
+          "romaji": "shiraberu",
+          "en": "to examine; to look up",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "ため",
+          "offsetMs": 2684.0,
+          "durationMs": 421.87800000000016,
+          "reading": "ため",
+          "romaji": "tame",
+          "en": "for; because of",
+          "zhHant": "為了；由於",
+          "showRuby": false
+        },
+        {
+          "text": "運転",
+          "offsetMs": 3105.878,
+          "durationMs": 421.87800000000016,
+          "reading": "うんてん",
+          "romaji": "unten",
+          "en": "operation (of a machine, etc.); operating",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "を",
+          "offsetMs": 3527.755,
+          "durationMs": 210.93899999999985,
+          "reading": "を",
+          "romaji": "o",
+          "en": "object marker",
+          "zhHant": "受詞助詞",
+          "showRuby": false
+        },
+        {
+          "text": "見合わせました",
+          "offsetMs": 3738.694,
+          "durationMs": 1476.5720000000006,
+          "reading": "みあわせました",
+          "romaji": "miawasemashita",
+          "en": "to exchange glances; to look at each other",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        }
+      ],
       "audio": {
         "file": "../audio/9993-aomori-earthquake-magnitude-7-5/KM-NEWS-9993-aomori-earthquake-magnitude-7-5-sentence-04-ja-Nanami.mp3",
         "voice": "ja-JP-NanamiNeural",
@@ -89,7 +567,138 @@
       "en": "Experts are urging people to remain alert for strong shaking for some time.",
       "zhHant": "專家呼籲民眾在未來一段時間繼續提防強烈震動。",
       "speechJa": "専門家は、しばらくの間、強いゆれに注意するよう呼びかけています。",
-      "tokens": [],
+      "tokens": [
+        {
+          "text": "専門",
+          "offsetMs": 100.0,
+          "durationMs": 410.353,
+          "reading": "せんもん",
+          "romaji": "senmon",
+          "en": "speciality; specialty",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "家",
+          "offsetMs": 510.353,
+          "durationMs": 205.176,
+          "reading": "いえ",
+          "romaji": "ie",
+          "en": "house; residence",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "は",
+          "offsetMs": 715.529,
+          "durationMs": 205.17599999999993,
+          "reading": "は",
+          "romaji": "wa",
+          "en": "topic marker",
+          "zhHant": "主題助詞",
+          "showRuby": false
+        },
+        {
+          "text": "しばらく",
+          "offsetMs": 972.0,
+          "durationMs": 820.7060000000001,
+          "reading": "しばらく",
+          "romaji": "shibaraku",
+          "en": "for a moment; for a minute",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        },
+        {
+          "text": "の",
+          "offsetMs": 1792.706,
+          "durationMs": 205.17599999999993,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "間",
+          "offsetMs": 1997.882,
+          "durationMs": 205.17599999999993,
+          "reading": "ま",
+          "romaji": "ma",
+          "en": "space (between); gap",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "強い",
+          "offsetMs": 2254.353,
+          "durationMs": 410.35300000000007,
+          "reading": "つよい",
+          "romaji": "tsuyoi",
+          "en": "strong; potent",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "揺れ",
+          "offsetMs": 2664.706,
+          "durationMs": 410.35300000000007,
+          "reading": "ゆれ",
+          "romaji": "yure",
+          "en": "shaking",
+          "zhHant": "震動",
+          "showRuby": true
+        },
+        {
+          "text": "に",
+          "offsetMs": 3075.059,
+          "durationMs": 205.17599999999993,
+          "reading": "に",
+          "romaji": "ni",
+          "en": "to; at; in",
+          "zhHant": "向；在；於",
+          "showRuby": false
+        },
+        {
+          "text": "注意",
+          "offsetMs": 3280.235,
+          "durationMs": 410.35300000000007,
+          "reading": "ちゅうい",
+          "romaji": "chuui",
+          "en": "caution; being careful",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "する",
+          "offsetMs": 3690.588,
+          "durationMs": 410.3529999999996,
+          "reading": "する",
+          "romaji": "suru",
+          "en": "to do",
+          "zhHant": "做；進行",
+          "showRuby": false
+        },
+        {
+          "text": "よう",
+          "offsetMs": 4100.941,
+          "durationMs": 410.35300000000007,
+          "reading": "よう",
+          "romaji": "you",
+          "en": "way; so that",
+          "zhHant": "方式；以便",
+          "showRuby": false
+        },
+        {
+          "text": "呼びかけています",
+          "offsetMs": 4511.294,
+          "durationMs": 1641.4120000000003,
+          "reading": "よびかけています",
+          "romaji": "yobikaketeimasu",
+          "en": "to call out to; to hail",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        }
+      ],
       "audio": {
         "file": "../audio/9993-aomori-earthquake-magnitude-7-5/KM-NEWS-9993-aomori-earthquake-magnitude-7-5-sentence-05-ja-Nanami.mp3",
         "voice": "ja-JP-NanamiNeural",
@@ -102,7 +711,138 @@
       "en": "Families are advised to confirm evacuation sites and ways to contact one another.",
       "zhHant": "家庭應預先確認避難地點與彼此聯絡的方法。",
       "speechJa": "家族でひなん場所とれんらくほうほうを確認することが大切です。",
-      "tokens": [],
+      "tokens": [
+        {
+          "text": "家族",
+          "offsetMs": 100.0,
+          "durationMs": 414.351,
+          "reading": "かぞく",
+          "romaji": "kazoku",
+          "en": "family; members of a family",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "で",
+          "offsetMs": 514.351,
+          "durationMs": 207.17500000000007,
+          "reading": "で",
+          "romaji": "de",
+          "en": "at; by; with",
+          "zhHant": "在；以；用",
+          "showRuby": false
+        },
+        {
+          "text": "避難",
+          "offsetMs": 721.526,
+          "durationMs": 414.351,
+          "reading": "ひなん",
+          "romaji": "hinan",
+          "en": "evacuation",
+          "zhHant": "疏散",
+          "showRuby": true
+        },
+        {
+          "text": "場所",
+          "offsetMs": 1135.876,
+          "durationMs": 414.3509999999999,
+          "reading": "ばしょ",
+          "romaji": "basho",
+          "en": "place; location",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "と",
+          "offsetMs": 1550.227,
+          "durationMs": 207.17499999999995,
+          "reading": "と",
+          "romaji": "to",
+          "en": "and; with; that",
+          "zhHant": "和；與；表示引用",
+          "showRuby": false
+        },
+        {
+          "text": "連絡方法",
+          "offsetMs": 1757.402,
+          "durationMs": 828.701,
+          "reading": "れんらくほうほう",
+          "romaji": "renrakuhouhou",
+          "en": "way to make contact",
+          "zhHant": "聯絡方式",
+          "showRuby": true
+        },
+        {
+          "text": "を",
+          "offsetMs": 2586.103,
+          "durationMs": 207.17500000000018,
+          "reading": "を",
+          "romaji": "o",
+          "en": "object marker",
+          "zhHant": "受詞助詞",
+          "showRuby": false
+        },
+        {
+          "text": "確認",
+          "offsetMs": 2793.278,
+          "durationMs": 414.3510000000001,
+          "reading": "かくにん",
+          "romaji": "kakunin",
+          "en": "confirmation; verification",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "する",
+          "offsetMs": 3207.629,
+          "durationMs": 414.3510000000001,
+          "reading": "する",
+          "romaji": "suru",
+          "en": "to do",
+          "zhHant": "做；進行",
+          "showRuby": false
+        },
+        {
+          "text": "こと",
+          "offsetMs": 3621.979,
+          "durationMs": 414.3510000000001,
+          "reading": "こと",
+          "romaji": "koto",
+          "en": "thing; nominalizer",
+          "zhHant": "事情；名詞化",
+          "showRuby": false
+        },
+        {
+          "text": "が",
+          "offsetMs": 4036.33,
+          "durationMs": 207.17500000000018,
+          "reading": "が",
+          "romaji": "ga",
+          "en": "subject marker",
+          "zhHant": "主語助詞",
+          "showRuby": false
+        },
+        {
+          "text": "大切",
+          "offsetMs": 4243.505,
+          "durationMs": 414.35099999999966,
+          "reading": "たいせつ",
+          "romaji": "taisetsu",
+          "en": "important; necessary",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "です",
+          "offsetMs": 4657.856,
+          "durationMs": 414.35099999999966,
+          "reading": "です",
+          "romaji": "desu",
+          "en": "is; polite copula",
+          "zhHant": "是；禮貌判斷詞",
+          "showRuby": false
+        }
+      ],
       "audio": {
         "file": "../audio/9993-aomori-earthquake-magnitude-7-5/KM-NEWS-9993-aomori-earthquake-magnitude-7-5-sentence-06-ja-Nanami.mp3",
         "voice": "ja-JP-NanamiNeural",

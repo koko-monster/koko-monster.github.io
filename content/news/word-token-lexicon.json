@@ -1,0 +1,4762 @@
+{
+  "以上": {
+    "reading": "いじょう",
+    "romaji": "ijou",
+    "en": "or more",
+    "zhHant": "以上",
+    "showRuby": true
+  },
+  "10月": {
+    "reading": "10つき",
+    "romaji": "10tsuki",
+    "en": "10 month",
+    "zhHant": "10月",
+    "showRuby": true
+  },
+  "1200戸": {
+    "reading": "せんにひゃくこ",
+    "romaji": "sennihyakuko",
+    "en": "1200 households",
+    "zhHant": "1200戶",
+    "showRuby": true
+  },
+  "1300人": {
+    "reading": "せんさんびゃくにん",
+    "romaji": "sensanbyakunin",
+    "en": "1300 people",
+    "zhHant": "1300人",
+    "showRuby": true
+  },
+  "13日": {
+    "reading": "じゅうさんにち",
+    "romaji": "juusannichi",
+    "en": "13th day; date",
+    "zhHant": "13日；日期",
+    "showRuby": true
+  },
+  "164": {
+    "reading": "ひゃくろくじゅうよん",
+    "romaji": "hyakurokujuuyon",
+    "en": "164",
+    "zhHant": "164",
+    "showRuby": false
+  },
+  "16人": {
+    "reading": "16にん",
+    "romaji": "16nin",
+    "en": "16 people",
+    "zhHant": "16人",
+    "showRuby": true
+  },
+  "177人": {
+    "reading": "ひゃくななじゅうななにん",
+    "romaji": "hyakunanajuunananin",
+    "en": "177 people",
+    "zhHant": "177人",
+    "showRuby": true
+  },
+  "18日": {
+    "reading": "じゅうはちにち",
+    "romaji": "juuhachinichi",
+    "en": "18th day; date",
+    "zhHant": "18日；日期",
+    "showRuby": true
+  },
+  "19日": {
+    "reading": "じゅうくにち",
+    "romaji": "juukunichi",
+    "en": "19th day; date",
+    "zhHant": "19日；日期",
+    "showRuby": true
+  },
+  "2022年": {
+    "reading": "にせんにじゅうにねん",
+    "romaji": "nisennijuuninen",
+    "en": "2022 year",
+    "zhHant": "2022年",
+    "showRuby": true
+  },
+  "21日": {
+    "reading": "にじゅういちにち",
+    "romaji": "nijuuichinichi",
+    "en": "21th day; date",
+    "zhHant": "21日；日期",
+    "showRuby": true
+  },
+  "23": {
+    "reading": "にじゅうさん",
+    "romaji": "nijuusan",
+    "en": "23",
+    "zhHant": "23",
+    "showRuby": false
+  },
+  "2498人": {
+    "reading": "にせんよんひゃくきゅうじゅうはちにん",
+    "romaji": "nisenyonhyakukyuujuuhachinin",
+    "en": "2498 people",
+    "zhHant": "2498人",
+    "showRuby": true
+  },
+  "261人": {
+    "reading": "にひゃくろくじゅういちにん",
+    "romaji": "nihyakurokujuuichinin",
+    "en": "261 people",
+    "zhHant": "261人",
+    "showRuby": true
+  },
+  "26日": {
+    "reading": "にじゅうろくにち",
+    "romaji": "nijuurokunichi",
+    "en": "26th day; date",
+    "zhHant": "26日；日期",
+    "showRuby": true
+  },
+  "280億": {
+    "reading": "にひゃくはちじゅうおく",
+    "romaji": "nihyakuhachijuuoku",
+    "en": "280 hundred million",
+    "zhHant": "280億",
+    "showRuby": true
+  },
+  "2人": {
+    "reading": "2にん",
+    "romaji": "2nin",
+    "en": "2 people",
+    "zhHant": "2人",
+    "showRuby": true
+  },
+  "31日": {
+    "reading": "さんじゅういちにち",
+    "romaji": "sanjuuichinichi",
+    "en": "31th day; date",
+    "zhHant": "31日；日期",
+    "showRuby": true
+  },
+  "320人": {
+    "reading": "さんびゃくにじゅうにん",
+    "romaji": "sanbyakunijuunin",
+    "en": "320 people",
+    "zhHant": "320人",
+    "showRuby": true
+  },
+  "33人": {
+    "reading": "さんじゅうさんにん",
+    "romaji": "sanjuusannin",
+    "en": "33 people",
+    "zhHant": "33人",
+    "showRuby": true
+  },
+  "37人": {
+    "reading": "さんじゅうななにん",
+    "romaji": "sanjuunananin",
+    "en": "37 people",
+    "zhHant": "37人",
+    "showRuby": true
+  },
+  "3月": {
+    "reading": "さんがつ",
+    "romaji": "sangatsu",
+    "en": "3 month",
+    "zhHant": "3月",
+    "showRuby": true
+  },
+  "4247人": {
+    "reading": "よんせんにひゃくよんじゅうななにん",
+    "romaji": "yonsennihyakuyonjuunananin",
+    "en": "4247 people",
+    "zhHant": "4247人",
+    "showRuby": true
+  },
+  "4800人": {
+    "reading": "よんせんはっぴゃくにん",
+    "romaji": "yonsenhappyakunin",
+    "en": "4800 people",
+    "zhHant": "4800人",
+    "showRuby": true
+  },
+  "4日": {
+    "reading": "よっか",
+    "romaji": "yokka",
+    "en": "4th day; date",
+    "zhHant": "4日；日期",
+    "showRuby": true
+  },
+  "5": {
+    "reading": "5",
+    "romaji": "5",
+    "en": "5",
+    "zhHant": "5",
+    "showRuby": false
+  },
+  "50％": {
+    "reading": "ごじゅっぱーせんと",
+    "romaji": "gojuppaasento",
+    "en": "50 percent",
+    "zhHant": "50%",
+    "showRuby": false
+  },
+  "546人": {
+    "reading": "ごひゃくよんじゅうろくにん",
+    "romaji": "gohyakuyonjuurokunin",
+    "en": "546 people",
+    "zhHant": "546人",
+    "showRuby": true
+  },
+  "675人": {
+    "reading": "ろっぴゃくななじゅうごにん",
+    "romaji": "roppyakunanajuugonin",
+    "en": "675 people",
+    "zhHant": "675人",
+    "showRuby": true
+  },
+  "7": {
+    "reading": "7",
+    "romaji": "7",
+    "en": "7",
+    "zhHant": "7",
+    "showRuby": false
+  },
+  "700人": {
+    "reading": "ななひゃくにん",
+    "romaji": "nanahyakunin",
+    "en": "700 people",
+    "zhHant": "700人",
+    "showRuby": true
+  },
+  "70万人": {
+    "reading": "ななじゅうまんにん",
+    "romaji": "nanajuumannin",
+    "en": "700,000 people",
+    "zhHant": "70萬人",
+    "showRuby": true
+  },
+  "7日": {
+    "reading": "なのか",
+    "romaji": "nanoka",
+    "en": "7th day; date",
+    "zhHant": "7日；日期",
+    "showRuby": true
+  },
+  "8月": {
+    "reading": "8つき",
+    "romaji": "8tsuki",
+    "en": "8 month",
+    "zhHant": "8月",
+    "showRuby": true
+  },
+  "900人": {
+    "reading": "きゅうひゃくにん",
+    "romaji": "kyuuhyakunin",
+    "en": "900 people",
+    "zhHant": "900人",
+    "showRuby": true
+  },
+  "903人": {
+    "reading": "きゅうひゃくさんにん",
+    "romaji": "kyuuhyakusannin",
+    "en": "903 people",
+    "zhHant": "903人",
+    "showRuby": true
+  },
+  "IC": {
+    "reading": "アイシー",
+    "romaji": "aishii",
+    "en": "integrated circuit; IC",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": false
+  },
+  "SNS": {
+    "reading": "エスエヌエス",
+    "romaji": "esuenuesu",
+    "en": "social networking service; SNS",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": false
+  },
+  "Suica": {
+    "reading": "スイカ",
+    "romaji": "suika",
+    "en": "Suica transit card",
+    "zhHant": "Suica交通卡",
+    "showRuby": false
+  },
+  "あたり": {
+    "reading": "あたり",
+    "romaji": "atari",
+    "en": "hit",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": false
+  },
+  "あった": {
+    "reading": "あった",
+    "romaji": "atta",
+    "en": "to be; to exist",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": false
+  },
+  "ありました": {
+    "reading": "ありました",
+    "romaji": "arimashita",
+    "en": "to be; to exist",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": false
+  },
+  "あります": {
+    "reading": "あります",
+    "romaji": "arimasu",
+    "en": "to be; to exist",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": false
+  },
+  "ある": {
+    "reading": "ある",
+    "romaji": "aru",
+    "en": "to be; to exist",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": false
+  },
+  "いう": {
+    "reading": "いう",
+    "romaji": "iu",
+    "en": "to do up (hair); to dress",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": false
+  },
+  "いけない": {
+    "reading": "いけない",
+    "romaji": "ikenai",
+    "en": "wrong; not good",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": false
+  },
+  "いた": {
+    "reading": "いた",
+    "romaji": "ita",
+    "en": "board; plank",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": false
+  },
+  "いちばん": {
+    "reading": "いちばん",
+    "romaji": "ichiban",
+    "en": "number one; first",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": false
+  },
+  "いない": {
+    "reading": "いない",
+    "romaji": "inai",
+    "en": "within; inside of",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": false
+  },
+  "います": {
+    "reading": "います",
+    "romaji": "imasu",
+    "en": "to be",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": false
+  },
+  "いる": {
+    "reading": "いる",
+    "romaji": "iru",
+    "en": "to be; to exist",
+    "zhHant": "在；存在",
+    "showRuby": false
+  },
+  "お": {
+    "reading": "お",
+    "romaji": "o",
+    "en": "cord; strap",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": false
+  },
+  "およそ": {
+    "reading": "およそ",
+    "romaji": "oyoso",
+    "en": "about; roughly",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": false
+  },
+  "おり": {
+    "reading": "おり",
+    "romaji": "ori",
+    "en": "opportunity; chance",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": false
+  },
+  "かつ": {
+    "reading": "かつ",
+    "romaji": "katsu",
+    "en": "and; moreover",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": false
+  },
+  "から": {
+    "reading": "から",
+    "romaji": "kara",
+    "en": "from; because",
+    "zhHant": "從；因為",
+    "showRuby": false
+  },
+  "が": {
+    "reading": "が",
+    "romaji": "ga",
+    "en": "subject marker",
+    "zhHant": "主語助詞",
+    "showRuby": false
+  },
+  "けが人": {
+    "reading": "けがにん",
+    "romaji": "keganin",
+    "en": "wounded person; injured person",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "こうした": {
+    "reading": "こうした",
+    "romaji": "koushita",
+    "en": "such",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": false
+  },
+  "こと": {
+    "reading": "こと",
+    "romaji": "koto",
+    "en": "thing; nominalizer",
+    "zhHant": "事情；名詞化",
+    "showRuby": false
+  },
+  "この": {
+    "reading": "この",
+    "romaji": "kono",
+    "en": "nine",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": false
+  },
+  "これ": {
+    "reading": "これ",
+    "romaji": "kore",
+    "en": "this; this one",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": false
+  },
+  "これから": {
+    "reading": "これから",
+    "romaji": "korekara",
+    "en": "from now on; after this",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": false
+  },
+  "これら": {
+    "reading": "これら",
+    "romaji": "korera",
+    "en": "these",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": false
+  },
+  "さ": {
+    "reading": "さ",
+    "romaji": "sa",
+    "en": "difference; variation",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": false
+  },
+  "さら": {
+    "reading": "さら",
+    "romaji": "sara",
+    "en": "plate; dish",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": false
+  },
+  "される": {
+    "reading": "される",
+    "romaji": "sareru",
+    "en": "to be done (to someone)",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": false
+  },
+  "し": {
+    "reading": "し",
+    "romaji": "shi",
+    "en": "do; verb stem",
+    "zhHant": "做；動詞詞幹",
+    "showRuby": false
+  },
+  "しかし": {
+    "reading": "しかし",
+    "romaji": "shikashi",
+    "en": "however; but",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": false
+  },
+  "しています": {
+    "reading": "しています",
+    "romaji": "shiteimasu",
+    "en": "to do; to carry out",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": false
+  },
+  "している": {
+    "reading": "している",
+    "romaji": "shiteiru",
+    "en": "to do; to carry out",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": false
+  },
+  "しない": {
+    "reading": "しない",
+    "romaji": "shinai",
+    "en": "(within a) city; local",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": false
+  },
+  "しばらく": {
+    "reading": "しばらく",
+    "romaji": "shibaraku",
+    "en": "for a moment; for a minute",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": false
+  },
+  "しました": {
+    "reading": "しました",
+    "romaji": "shimashita",
+    "en": "to do; to carry out",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": false
+  },
+  "します": {
+    "reading": "します",
+    "romaji": "shimasu",
+    "en": "to do; to carry out",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": false
+  },
+  "する": {
+    "reading": "する",
+    "romaji": "suru",
+    "en": "to do",
+    "zhHant": "做；進行",
+    "showRuby": false
+  },
+  "ず": {
+    "reading": "ず",
+    "romaji": "zu",
+    "en": "without; not",
+    "zhHant": "不；沒有",
+    "showRuby": false
+  },
+  "せ": {
+    "reading": "せ",
+    "romaji": "se",
+    "en": "shallows; shoal",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": false
+  },
+  "そして": {
+    "reading": "そして",
+    "romaji": "soshite",
+    "en": "and; and then",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": false
+  },
+  "その": {
+    "reading": "その",
+    "romaji": "sono",
+    "en": "that; the",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": false
+  },
+  "それぞれ": {
+    "reading": "それぞれ",
+    "romaji": "sorezore",
+    "en": "each; respectively",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": false
+  },
+  "たち": {
+    "reading": "たち",
+    "romaji": "tachi",
+    "en": "mansion; palace",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": false
+  },
+  "ため": {
+    "reading": "ため",
+    "romaji": "tame",
+    "en": "for; because of",
+    "zhHant": "為了；由於",
+    "showRuby": false
+  },
+  "だ": {
+    "reading": "だ",
+    "romaji": "da",
+    "en": "is; plain copula",
+    "zhHant": "是；普通體判斷詞",
+    "showRuby": false
+  },
+  "だが": {
+    "reading": "だが",
+    "romaji": "daga",
+    "en": "but; however",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": false
+  },
+  "て": {
+    "reading": "て",
+    "romaji": "te",
+    "en": "linking verb ending",
+    "zhHant": "連接動詞詞尾",
+    "showRuby": false
+  },
+  "で": {
+    "reading": "で",
+    "romaji": "de",
+    "en": "at; by; with",
+    "zhHant": "在；以；用",
+    "showRuby": false
+  },
+  "であると": {
+    "reading": "であると",
+    "romaji": "dearuto",
+    "en": "is; that",
+    "zhHant": "是；表示引用",
+    "showRuby": false
+  },
+  "できます": {
+    "reading": "できます",
+    "romaji": "dekimasu",
+    "en": "to be able (in a position) to do; to be up to the task",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": false
+  },
+  "です": {
+    "reading": "です",
+    "romaji": "desu",
+    "en": "is; polite copula",
+    "zhHant": "是；禮貌判斷詞",
+    "showRuby": false
+  },
+  "ではない": {
+    "reading": "ではない",
+    "romaji": "dehanai",
+    "en": "is not; am not",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": false
+  },
+  "と": {
+    "reading": "と",
+    "romaji": "to",
+    "en": "and; with; that",
+    "zhHant": "和；與；表示引用",
+    "showRuby": false
+  },
+  "として": {
+    "reading": "として",
+    "romaji": "toshite",
+    "en": "as (i.e. in the role of); for (i.e. from the viewpoint of)",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": false
+  },
+  "とりわけ": {
+    "reading": "とりわけ",
+    "romaji": "toriwake",
+    "en": "especially; above all",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": false
+  },
+  "な": {
+    "reading": "な",
+    "romaji": "na",
+    "en": "linking ending",
+    "zhHant": "連接詞尾",
+    "showRuby": false
+  },
+  "なっ": {
+    "reading": "なっ",
+    "romaji": "na",
+    "en": "became; verb stem",
+    "zhHant": "成為；動詞詞幹",
+    "showRuby": false
+  },
+  "なっています": {
+    "reading": "なっています",
+    "romaji": "natteimasu",
+    "en": "to become; to get",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": false
+  },
+  "など": {
+    "reading": "など",
+    "romaji": "nado",
+    "en": "and so on",
+    "zhHant": "等等",
+    "showRuby": false
+  },
+  "なりました": {
+    "reading": "なりました",
+    "romaji": "narimashita",
+    "en": "to become; to get",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": false
+  },
+  "なる": {
+    "reading": "なる",
+    "romaji": "naru",
+    "en": "to become; to get",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": false
+  },
+  "に": {
+    "reading": "に",
+    "romaji": "ni",
+    "en": "to; at; in",
+    "zhHant": "向；在；於",
+    "showRuby": false
+  },
+  "にした": {
+    "reading": "にした",
+    "romaji": "nishita",
+    "en": "load; baggage",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": false
+  },
+  "について": {
+    "reading": "について",
+    "romaji": "nitsuite",
+    "en": "concerning; regarding",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": false
+  },
+  "によって": {
+    "reading": "によって",
+    "romaji": "niyotte",
+    "en": "according to; by (means of)",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": false
+  },
+  "によれば": {
+    "reading": "によれば",
+    "romaji": "niyoreba",
+    "en": "according to (someone)",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": false
+  },
+  "の": {
+    "reading": "の",
+    "romaji": "no",
+    "en": "of; possessive marker",
+    "zhHant": "的；所有格助詞",
+    "showRuby": false
+  },
+  "のみ": {
+    "reading": "のみ",
+    "romaji": "nomi",
+    "en": "only; nothing but",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": false
+  },
+  "は": {
+    "reading": "は",
+    "romaji": "wa",
+    "en": "topic marker",
+    "zhHant": "主題助詞",
+    "showRuby": false
+  },
+  "はるか": {
+    "reading": "はるか",
+    "romaji": "haruka",
+    "en": "far; far away",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": false
+  },
+  "へ": {
+    "reading": "へ",
+    "romaji": "e",
+    "en": "toward; to",
+    "zhHant": "往；向",
+    "showRuby": false
+  },
+  "ほぼ": {
+    "reading": "ほぼ",
+    "romaji": "hobo",
+    "en": "almost; roughly",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": false
+  },
+  "また": {
+    "reading": "また",
+    "romaji": "mata",
+    "en": "crotch; crutch",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": false
+  },
+  "まだ": {
+    "reading": "まだ",
+    "romaji": "mada",
+    "en": "still; as yet",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": false
+  },
+  "まで": {
+    "reading": "まで",
+    "romaji": "made",
+    "en": "until; as far as",
+    "zhHant": "直到；至",
+    "showRuby": false
+  },
+  "も": {
+    "reading": "も",
+    "romaji": "mo",
+    "en": "also; too",
+    "zhHant": "也；亦",
+    "showRuby": false
+  },
+  "もの": {
+    "reading": "もの",
+    "romaji": "mono",
+    "en": "thing; person",
+    "zhHant": "事物；人",
+    "showRuby": false
+  },
+  "や": {
+    "reading": "や",
+    "romaji": "ya",
+    "en": "and; such as",
+    "zhHant": "和；例如",
+    "showRuby": false
+  },
+  "やすい": {
+    "reading": "やすい",
+    "romaji": "yasui",
+    "en": "cheap; inexpensive",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": false
+  },
+  "ゆがみ": {
+    "reading": "ゆがみ",
+    "romaji": "yugami",
+    "en": "distortion",
+    "zhHant": "失真；扭曲",
+    "showRuby": false
+  },
+  "よう": {
+    "reading": "よう",
+    "romaji": "you",
+    "en": "way; so that",
+    "zhHant": "方式；以便",
+    "showRuby": false
+  },
+  "より": {
+    "reading": "より",
+    "romaji": "yori",
+    "en": "than; from",
+    "zhHant": "比；從",
+    "showRuby": false
+  },
+  "よる": {
+    "reading": "よる",
+    "romaji": "yoru",
+    "en": "to be due to; to be caused by",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": false
+  },
+  "ら": {
+    "reading": "ら",
+    "romaji": "ra",
+    "en": "plural suffix",
+    "zhHant": "複數詞尾",
+    "showRuby": false
+  },
+  "られる": {
+    "reading": "られる",
+    "romaji": "rareru",
+    "en": "indicates passive voice (incl. the \"suffering passive\")",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": false
+  },
+  "る": {
+    "reading": "る",
+    "romaji": "ru",
+    "en": "exile",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": false
+  },
+  "れ": {
+    "reading": "れ",
+    "romaji": "re",
+    "en": "passive verb ending",
+    "zhHant": "被動動詞詞尾",
+    "showRuby": false
+  },
+  "れた": {
+    "reading": "れた",
+    "romaji": "reta",
+    "en": "indicates passive voice (incl. the \"suffering passive\")",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": false
+  },
+  "れています": {
+    "reading": "れています",
+    "romaji": "reteimasu",
+    "en": "indicates passive voice (incl. the \"suffering passive\")",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": false
+  },
+  "れている": {
+    "reading": "れている",
+    "romaji": "reteiru",
+    "en": "indicates passive voice (incl. the \"suffering passive\")",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": false
+  },
+  "れます": {
+    "reading": "れます",
+    "romaji": "remasu",
+    "en": "indicates passive voice (incl. the \"suffering passive\")",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": false
+  },
+  "わかりました": {
+    "reading": "わかりました",
+    "romaji": "wakarimashita",
+    "en": "to understand; to comprehend",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": false
+  },
+  "わたり": {
+    "reading": "わたり",
+    "romaji": "watari",
+    "en": "crossing; passage",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": false
+  },
+  "を": {
+    "reading": "を",
+    "romaji": "o",
+    "en": "object marker",
+    "zhHant": "受詞助詞",
+    "showRuby": false
+  },
+  "をしました": {
+    "reading": "をしました",
+    "romaji": "woshimashita",
+    "en": "indicates direct object of action",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": false
+  },
+  "アクセス": {
+    "reading": "あくせす",
+    "romaji": "akusesu",
+    "en": "access",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "アフリカ": {
+    "reading": "あふりか",
+    "romaji": "afurika",
+    "en": "Africa",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "アプリ": {
+    "reading": "あぷり",
+    "romaji": "apuri",
+    "en": "app; application",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "アメリカ": {
+    "reading": "あめりか",
+    "romaji": "amerika",
+    "en": "America",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "アース": {
+    "reading": "あーす",
+    "romaji": "aasu",
+    "en": "(electrical) earth; ground",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "アーチー": {
+    "reading": "あーちー",
+    "romaji": "aachii",
+    "en": "ARCHIE",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "イギリス": {
+    "reading": "いぎりす",
+    "romaji": "igirisu",
+    "en": "United Kingdom; Britain",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "イコール": {
+    "reading": "いこーる",
+    "romaji": "ikooru",
+    "en": "equal; equivalent",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "イスラエル": {
+    "reading": "いすらえる",
+    "romaji": "isuraeru",
+    "en": "Israel",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "イラン": {
+    "reading": "いらん",
+    "romaji": "iran",
+    "en": "Iran",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "インド": {
+    "reading": "いんど",
+    "romaji": "indo",
+    "en": "India",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "インドネシア": {
+    "reading": "いんどねしあ",
+    "romaji": "indoneshia",
+    "en": "Indonesia",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "インフラ": {
+    "reading": "いんふら",
+    "romaji": "infura",
+    "en": "infrastructure",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "ウィリアム": {
+    "reading": "うぃりあむ",
+    "romaji": "uiriamu",
+    "en": "William",
+    "zhHant": "威廉",
+    "showRuby": true
+  },
+  "ウェールズ公": {
+    "reading": "うぇーるずこう",
+    "romaji": "ueeruzukou",
+    "en": "Wales",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "ウクライナ": {
+    "reading": "うくらいな",
+    "romaji": "ukuraina",
+    "en": "Ukraine",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "エイ": {
+    "reading": "えい",
+    "romaji": "ei",
+    "en": "ray (any fish of superorder Batoidea)",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "エイブラハム": {
+    "reading": "えいぶらはむ",
+    "romaji": "eiburahamu",
+    "en": "Abraham",
+    "zhHant": "亞伯拉罕",
+    "showRuby": true
+  },
+  "エリザベス": {
+    "reading": "えりざべす",
+    "romaji": "erizabesu",
+    "en": "Elizabeth",
+    "zhHant": "伊利沙伯",
+    "showRuby": true
+  },
+  "オタワ": {
+    "reading": "おたわ",
+    "romaji": "otawa",
+    "en": "Ottawa",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "カナダ": {
+    "reading": "かなだ",
+    "romaji": "kanada",
+    "en": "Canada",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "カリフォルニア": {
+    "reading": "かりふぉるにあ",
+    "romaji": "kariforunia",
+    "en": "California",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "カード": {
+    "reading": "かーど",
+    "romaji": "kaado",
+    "en": "card (information, filing, etc.)",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "カーニー": {
+    "reading": "かーにー",
+    "romaji": "kaanii",
+    "en": "Carney",
+    "zhHant": "卡尼",
+    "showRuby": true
+  },
+  "カ国": {
+    "reading": "かこく",
+    "romaji": "kakoku",
+    "en": "counter for countries",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "キャラクター": {
+    "reading": "きゃらくたー",
+    "romaji": "kyarakutaa",
+    "en": "character; personality",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "キャンペーン": {
+    "reading": "きゃんぺーん",
+    "romaji": "kyanpeen",
+    "en": "promotion (e.g. sales, etc.); marketing campaign",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "キーウ": {
+    "reading": "きーう",
+    "romaji": "kiiu",
+    "en": "key (lock, keyboard, piano, clue, island, cay, etc.)",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "グリーン": {
+    "reading": "ぐりーん",
+    "romaji": "guriin",
+    "en": "green (colour)",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "コメント": {
+    "reading": "こめんと",
+    "romaji": "komento",
+    "en": "comment",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "コンゴ": {
+    "reading": "こんご",
+    "romaji": "kongo",
+    "en": "Congo",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "サセックス": {
+    "reading": "させっくす",
+    "romaji": "sasekkusu",
+    "en": "Sussex",
+    "zhHant": "薩塞克斯",
+    "showRuby": true
+  },
+  "シガツェ": {
+    "reading": "しがつぇ",
+    "romaji": "shigatsue",
+    "en": "Shigatse",
+    "zhHant": "日喀則",
+    "showRuby": true
+  },
+  "ジョージ": {
+    "reading": "じょーじ",
+    "romaji": "jooji",
+    "en": "George",
+    "zhHant": "喬治",
+    "showRuby": true
+  },
+  "ゼレンスキー": {
+    "reading": "ぜれんすきー",
+    "romaji": "zerensukii",
+    "en": "Zelenskyy",
+    "zhHant": "澤連斯基",
+    "showRuby": true
+  },
+  "チベット": {
+    "reading": "ちべっと",
+    "romaji": "chibetto",
+    "en": "Tibet",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "チャールズ": {
+    "reading": "ちゃーるず",
+    "romaji": "chaaruzu",
+    "en": "Charles",
+    "zhHant": "查理斯",
+    "showRuby": true
+  },
+  "ティ": {
+    "reading": "てぃ",
+    "romaji": "tei",
+    "en": "tea",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "テーマ": {
+    "reading": "てーま",
+    "romaji": "teema",
+    "en": "theme; topic",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "トカチェンコ": {
+    "reading": "とかちぇんこ",
+    "romaji": "tokachenko",
+    "en": "Tkachenko",
+    "zhHant": "特卡琴科",
+    "showRuby": true
+  },
+  "トップ": {
+    "reading": "とっぷ",
+    "romaji": "toppu",
+    "en": "top",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "ドル": {
+    "reading": "どる",
+    "romaji": "doru",
+    "en": "dollar",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "ドローン": {
+    "reading": "どろーん",
+    "romaji": "doroon",
+    "en": "drone; unmanned aircraft",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "ニワトリ": {
+    "reading": "にわとり",
+    "romaji": "niwatori",
+    "en": "chicken (Gallus gallus domesticus); domestic chicken",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "ネパール": {
+    "reading": "ねぱーる",
+    "romaji": "nepaaru",
+    "en": "Nepal",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "ハリー": {
+    "reading": "はりー",
+    "romaji": "harii",
+    "en": "Harry",
+    "zhHant": "哈里",
+    "showRuby": true
+  },
+  "バハマ": {
+    "reading": "ばはま",
+    "romaji": "bahama",
+    "en": "Bahamas",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "バーミンガム": {
+    "reading": "ばーみんがむ",
+    "romaji": "baamingamu",
+    "en": "Birmingham",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "パレスチナ": {
+    "reading": "ぱれすちな",
+    "romaji": "paresuchina",
+    "en": "Palestine",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "ヒジャブ": {
+    "reading": "ひじゃぶ",
+    "romaji": "hijabu",
+    "en": "hijab; Muslim head covering for women",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "フランス": {
+    "reading": "ふらんす",
+    "romaji": "furansu",
+    "en": "France",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "ブラジル": {
+    "reading": "ぶらじる",
+    "romaji": "burajiru",
+    "en": "Brazil",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "ブラハム": {
+    "reading": "ぶらはむ",
+    "romaji": "burahamu",
+    "en": "bra",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "プライベートジェット": {
+    "reading": "ぷらいべーとじぇっと",
+    "romaji": "puraibeetojietto",
+    "en": "private jet",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "プーラ": {
+    "reading": "ぷーら",
+    "romaji": "puura",
+    "en": "Pura",
+    "zhHant": "普拉",
+    "showRuby": true
+  },
+  "ヘンリー": {
+    "reading": "へんりー",
+    "romaji": "henrii",
+    "en": "Harry",
+    "zhHant": "哈里",
+    "showRuby": true
+  },
+  "ポスター": {
+    "reading": "ぽすたー",
+    "romaji": "posutaa",
+    "en": "poster",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "マグニチュード": {
+    "reading": "まぐにちゅーど",
+    "romaji": "magunichuudo",
+    "en": "magnitude",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "マラッカ": {
+    "reading": "まらっか",
+    "romaji": "marakka",
+    "en": "Malacca",
+    "zhHant": "馬六甲",
+    "showRuby": true
+  },
+  "マレーシア": {
+    "reading": "まれーしあ",
+    "romaji": "mareeshia",
+    "en": "Malaysia",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "ミア": {
+    "reading": "みあ",
+    "romaji": "mia",
+    "en": "Mia",
+    "zhHant": "米婭",
+    "showRuby": true
+  },
+  "ムール": {
+    "reading": "むーる",
+    "romaji": "muuru",
+    "en": "mussels",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "メガン": {
+    "reading": "めがん",
+    "romaji": "megan",
+    "en": "Meghan",
+    "zhHant": "梅根",
+    "showRuby": true
+  },
+  "メディア": {
+    "reading": "めでぃあ",
+    "romaji": "media",
+    "en": "media",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "メルカトル": {
+    "reading": "めるかとる",
+    "romaji": "merukatoru",
+    "en": "Mercator",
+    "zhHant": "麥卡托",
+    "showRuby": true
+  },
+  "メンバー": {
+    "reading": "めんばー",
+    "romaji": "menbaa",
+    "en": "member; participant",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "メーガン": {
+    "reading": "めーがん",
+    "romaji": "meegan",
+    "en": "Meghan",
+    "zhHant": "梅根",
+    "showRuby": true
+  },
+  "ヨルダン": {
+    "reading": "よるだん",
+    "romaji": "yorudan",
+    "en": "Jordan",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "ランド": {
+    "reading": "らんど",
+    "romaji": "rando",
+    "en": "land",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "リリベット": {
+    "reading": "りりべっと",
+    "romaji": "riribetto",
+    "en": "lily",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "リンカーン": {
+    "reading": "りんかーん",
+    "romaji": "rinkaan",
+    "en": "Lincoln",
+    "zhHant": "林肯",
+    "showRuby": true
+  },
+  "レベル": {
+    "reading": "れべる",
+    "romaji": "reberu",
+    "en": "level; standard",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "ロシア": {
+    "reading": "ろしあ",
+    "romaji": "roshia",
+    "en": "Russia",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "ワシントン": {
+    "reading": "わしんとん",
+    "romaji": "washinton",
+    "en": "Washington, DC (United States)",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "一": {
+    "reading": "いち",
+    "romaji": "ichi",
+    "en": "one",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "一つ": {
+    "reading": "ひとつ",
+    "romaji": "hitotsu",
+    "en": "one",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "一方": {
+    "reading": "いっぽう",
+    "romaji": "ippou",
+    "en": "one (esp. of two); the other",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "一緒": {
+    "reading": "いっしょ",
+    "romaji": "issho",
+    "en": "together",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "一般": {
+    "reading": "いっぱん",
+    "romaji": "ippan",
+    "en": "general; universal",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "一部": {
+    "reading": "いちぶ",
+    "romaji": "ichibu",
+    "en": "one part; one portion",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "不明": {
+    "reading": "ふめい",
+    "romaji": "fumei",
+    "en": "unclear; obscure",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "不明者": {
+    "reading": "ふめいしゃ",
+    "romaji": "fumeisha",
+    "en": "missing person",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "不満": {
+    "reading": "ふまん",
+    "romaji": "fuman",
+    "en": "dissatisfaction; discontent",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "与える": {
+    "reading": "あたえる",
+    "romaji": "ataeru",
+    "en": "to give (esp. to someone of lower status); to bestow",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "世代": {
+    "reading": "せだい",
+    "romaji": "sedai",
+    "en": "generation; the world",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "世界": {
+    "reading": "せかい",
+    "romaji": "sekai",
+    "en": "the world; society",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "両国": {
+    "reading": "りょうこく",
+    "romaji": "ryoukoku",
+    "en": "both countries",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "中": {
+    "reading": "なか",
+    "romaji": "naka",
+    "en": "inside; interior",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "中国": {
+    "reading": "ちゅうごく",
+    "romaji": "chuugoku",
+    "en": "China",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "中東": {
+    "reading": "ちゅうとう",
+    "romaji": "chuutou",
+    "en": "Middle East",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "主要": {
+    "reading": "しゅよう",
+    "romaji": "shuyou",
+    "en": "chief; main",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "乗組員": {
+    "reading": "のりくみいん",
+    "romaji": "norikumiin",
+    "en": "crew member",
+    "zhHant": "船員",
+    "showRuby": true
+  },
+  "予定": {
+    "reading": "よてい",
+    "romaji": "yotei",
+    "en": "plans; arrangement",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "予想": {
+    "reading": "よそう",
+    "romaji": "yosou",
+    "en": "expectation; anticipation",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "事実": {
+    "reading": "じじつ",
+    "romaji": "jijitsu",
+    "en": "fact; truth",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "事故": {
+    "reading": "じこ",
+    "romaji": "jiko",
+    "en": "accident; incident",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "二次": {
+    "reading": "にじ",
+    "romaji": "niji",
+    "en": "second",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "亡くなった": {
+    "reading": "なくなった",
+    "romaji": "nakunatta",
+    "en": "to die",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "亡くなり": {
+    "reading": "なくなり",
+    "romaji": "nakunari",
+    "en": "to die",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "交渉": {
+    "reading": "こうしょう",
+    "romaji": "koushou",
+    "en": "negotiations; discussions",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "交渉団": {
+    "reading": "こうしょうだん",
+    "romaji": "koushoudan",
+    "en": "negotiating team",
+    "zhHant": "談判代表團",
+    "showRuby": true
+  },
+  "交通": {
+    "reading": "こうつう",
+    "romaji": "koutsuu",
+    "en": "traffic; transportation",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "人": {
+    "reading": "ひと",
+    "romaji": "hito",
+    "en": "-ian (e.g. Italian); -ite (e.g. Tokyoite)",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "人々": {
+    "reading": "ひとびと",
+    "romaji": "hitobito",
+    "en": "people; men and women",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "今夜": {
+    "reading": "こんや",
+    "romaji": "konya",
+    "en": "this evening; tonight",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "今後": {
+    "reading": "こんご",
+    "romaji": "kongo",
+    "en": "from now on; hereafter",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "今晩": {
+    "reading": "こんばん",
+    "romaji": "konban",
+    "en": "tonight; this evening",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "今月": {
+    "reading": "こんげつ",
+    "romaji": "kongetsu",
+    "en": "this month",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "今週": {
+    "reading": "こんしゅう",
+    "romaji": "konshuu",
+    "en": "this week",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "他": {
+    "reading": "ほか",
+    "romaji": "hoka",
+    "en": "other (place, thing, person); the rest",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "代わる": {
+    "reading": "かわる",
+    "romaji": "kawaru",
+    "en": "to succeed; to relieve",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "以前": {
+    "reading": "いぜん",
+    "romaji": "izen",
+    "en": "ago; since",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "以来": {
+    "reading": "いらい",
+    "romaji": "irai",
+    "en": "since; henceforth",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "任務": {
+    "reading": "にんむ",
+    "romaji": "ninmu",
+    "en": "duty; function",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "企業": {
+    "reading": "きぎょう",
+    "romaji": "kigyou",
+    "en": "enterprise; business",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "伝え": {
+    "reading": "つたえ",
+    "romaji": "tsutae",
+    "en": "legend; tradition",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "位置づけ": {
+    "reading": "いちづけ",
+    "romaji": "ichizuke",
+    "en": "placement; fixed position",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "住ん": {
+    "reading": "すん",
+    "romaji": "sun",
+    "en": "to live (of humans); to reside",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "住宅": {
+    "reading": "じゅうたく",
+    "romaji": "juutaku",
+    "en": "residence; housing",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "住民": {
+    "reading": "じゅうみん",
+    "romaji": "juumin",
+    "en": "inhabitant; resident",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "体制": {
+    "reading": "たいせい",
+    "romaji": "taisei",
+    "en": "order; system",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "使い": {
+    "reading": "つかい",
+    "romaji": "tsukai",
+    "en": "errand; mission",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "使者": {
+    "reading": "ししゃ",
+    "romaji": "shisha",
+    "en": "messenger",
+    "zhHant": "使者",
+    "showRuby": true
+  },
+  "例えば": {
+    "reading": "たとえば",
+    "romaji": "tatoeba",
+    "en": "for example; for instance",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "侍従長": {
+    "reading": "じじゅうちょう",
+    "romaji": "jijuuchou",
+    "en": "grand chamberlain",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "保守派": {
+    "reading": "ほしゅは",
+    "romaji": "hoshuha",
+    "en": "conservatives",
+    "zhHant": "保守派",
+    "showRuby": true
+  },
+  "保管": {
+    "reading": "ほかん",
+    "romaji": "hokan",
+    "en": "charge; custody",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "倉庫": {
+    "reading": "そうこ",
+    "romaji": "souko",
+    "en": "warehouse",
+    "zhHant": "倉庫",
+    "showRuby": true
+  },
+  "候補": {
+    "reading": "こうほ",
+    "romaji": "kouho",
+    "en": "candidate",
+    "zhHant": "候選者",
+    "showRuby": true
+  },
+  "停止": {
+    "reading": "ていし",
+    "romaji": "teishi",
+    "en": "stoppage; coming to a stop",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "停止した": {
+    "reading": "ていしした",
+    "romaji": "teishishita",
+    "en": "stoppage; coming to a stop",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "側": {
+    "reading": "がわ",
+    "romaji": "gawa",
+    "en": "near; close",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "兄": {
+    "reading": "あに",
+    "romaji": "ani",
+    "en": "older brother; elder brother",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "先月末": {
+    "reading": "せんげつまつ",
+    "romaji": "sengetsumatsu",
+    "en": "last month",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "入学": {
+    "reading": "にゅうがく",
+    "romaji": "nyuugaku",
+    "en": "entry to school or university; matriculation",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "入札": {
+    "reading": "にゅうさつ",
+    "romaji": "nyuusatsu",
+    "en": "bidding; tender",
+    "zhHant": "招標",
+    "showRuby": true
+  },
+  "入植地": {
+    "reading": "にゅうしょくち",
+    "romaji": "nyuushokuchi",
+    "en": "settlement (of people on land)",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "入植者": {
+    "reading": "にゅうしょくしゃ",
+    "romaji": "nyuushokusha",
+    "en": "settler",
+    "zhHant": "定居者",
+    "showRuby": true
+  },
+  "公": {
+    "reading": "こう",
+    "romaji": "kou",
+    "en": "you; buddy",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "公務": {
+    "reading": "こうむ",
+    "romaji": "koumu",
+    "en": "official duties",
+    "zhHant": "公務",
+    "showRuby": true
+  },
+  "公平": {
+    "reading": "こうへい",
+    "romaji": "kouhei",
+    "en": "fair; equitable",
+    "zhHant": "公平",
+    "showRuby": true
+  },
+  "公式サイト": {
+    "reading": "こうしきサイト",
+    "romaji": "koushikisaito",
+    "en": "official website",
+    "zhHant": "官方網站",
+    "showRuby": true
+  },
+  "公然": {
+    "reading": "こうぜん",
+    "romaji": "kouzen",
+    "en": "open; public",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "公爵": {
+    "reading": "こうしゃく",
+    "romaji": "koushaku",
+    "en": "prince; duke",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "公開": {
+    "reading": "こうかい",
+    "romaji": "koukai",
+    "en": "opening to the public; making available to the public",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "共": {
+    "reading": "とも",
+    "romaji": "tomo",
+    "en": "first-person plural (or singular)",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "共和国": {
+    "reading": "きょうわこく",
+    "romaji": "kyouwakoku",
+    "en": "republic; commonwealth",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "兵器": {
+    "reading": "へいき",
+    "romaji": "heiki",
+    "en": "arms; weapon",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "具体的": {
+    "reading": "ぐたいてき",
+    "romaji": "gutaiteki",
+    "en": "specific; concrete",
+    "zhHant": "具體",
+    "showRuby": true
+  },
+  "内務省": {
+    "reading": "ないむしょう",
+    "romaji": "naimushou",
+    "en": "Home Ministry; Department of the Interior (US, etc.)",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "再": {
+    "reading": "さい",
+    "romaji": "sai",
+    "en": "re-; again",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "出さ": {
+    "reading": "ださ",
+    "romaji": "dasa",
+    "en": "to take out; to get out",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "初め": {
+    "reading": "はじめ",
+    "romaji": "hajime",
+    "en": "beginning; start",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "利用者": {
+    "reading": "りようしゃ",
+    "romaji": "riyousha",
+    "en": "user",
+    "zhHant": "使用者",
+    "showRuby": true
+  },
+  "到着": {
+    "reading": "とうちゃく",
+    "romaji": "touchaku",
+    "en": "arrival",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "労働者": {
+    "reading": "ろうどうしゃ",
+    "romaji": "roudousha",
+    "en": "worker",
+    "zhHant": "勞工",
+    "showRuby": true
+  },
+  "北米": {
+    "reading": "ほくべい",
+    "romaji": "hokubei",
+    "en": "North America",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "午前0時": {
+    "reading": "ごぜんれいじ",
+    "romaji": "gozenreiji",
+    "en": "morning; a.m.",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "占領した": {
+    "reading": "せんりょうした",
+    "romaji": "senryoushita",
+    "en": "occupying; having (an area) all to oneself",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "厳格": {
+    "reading": "げんかく",
+    "romaji": "genkaku",
+    "en": "strict; severe",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "反対した": {
+    "reading": "はんたいした",
+    "romaji": "hantaishita",
+    "en": "opposition; resistance",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "反映した": {
+    "reading": "はんえいした",
+    "romaji": "han'eishita",
+    "en": "reflection (light, image, situation, attitude, etc.); reflecting",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "反発": {
+    "reading": "はんぱつ",
+    "romaji": "hanpatsu",
+    "en": "opposition; backlash",
+    "zhHant": "反對；反彈",
+    "showRuby": true
+  },
+  "受け": {
+    "reading": "うけ",
+    "romaji": "uke",
+    "en": "popularity; favour",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "受けた": {
+    "reading": "うけた",
+    "romaji": "uketa",
+    "en": "to receive; to get",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "可決した": {
+    "reading": "かけつした",
+    "romaji": "kaketsushita",
+    "en": "approval; adoption (of a motion, bill, etc.)",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "可能性": {
+    "reading": "かのうせい",
+    "romaji": "kanousei",
+    "en": "potentiality; likelihood",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "各国": {
+    "reading": "かっこく",
+    "romaji": "kakkoku",
+    "en": "each nation",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "各地域": {
+    "reading": "かくちいき",
+    "romaji": "kakuchiiki",
+    "en": "each; every",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "各社": {
+    "reading": "かくしゃ",
+    "romaji": "kakusha",
+    "en": "all companies; each company",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "各種": {
+    "reading": "かくしゅ",
+    "romaji": "kakushu",
+    "en": "every kind; all sorts",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "合意": {
+    "reading": "ごうい",
+    "romaji": "goui",
+    "en": "agreement",
+    "zhHant": "協議；共識",
+    "showRuby": true
+  },
+  "同じ": {
+    "reading": "おなじ",
+    "romaji": "onaji",
+    "en": "same; identical",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "同等": {
+    "reading": "どうとう",
+    "romaji": "doutou",
+    "en": "equality; equal",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "同額": {
+    "reading": "どうがく",
+    "romaji": "dougaku",
+    "en": "the same amount",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "向かう": {
+    "reading": "むかう",
+    "romaji": "mukau",
+    "en": "to face",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "向かっている": {
+    "reading": "むかっている",
+    "romaji": "mukatteiru",
+    "en": "to face",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "向け": {
+    "reading": "むけ",
+    "romaji": "muke",
+    "en": "intended for ...; oriented towards ...",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "含ま": {
+    "reading": "ふくま",
+    "romaji": "fukuma",
+    "en": "to contain; to comprise",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "周知": {
+    "reading": "しゅうち",
+    "romaji": "shuuchi",
+    "en": "widely known",
+    "zhHant": "周知",
+    "showRuby": true
+  },
+  "呼びかけています": {
+    "reading": "よびかけています",
+    "romaji": "yobikaketeimasu",
+    "en": "to call out to; to hail",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "命": {
+    "reading": "いのち",
+    "romaji": "inochi",
+    "en": "life; life force",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "問題": {
+    "reading": "もんだい",
+    "romaji": "mondai",
+    "en": "question (e.g. on a test); problem",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "喜び": {
+    "reading": "よろこび",
+    "romaji": "yorokobi",
+    "en": "joy; delight",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "回": {
+    "reading": "かい",
+    "romaji": "kai",
+    "en": "counter for occurrences",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "回避": {
+    "reading": "かいひ",
+    "romaji": "kaihi",
+    "en": "avoidance; to avoid",
+    "zhHant": "避免",
+    "showRuby": true
+  },
+  "図法": {
+    "reading": "ずほう",
+    "romaji": "zuhou",
+    "en": "map projection",
+    "zhHant": "地圖投影法",
+    "showRuby": true
+  },
+  "国": {
+    "reading": "くに",
+    "romaji": "kuni",
+    "en": "country; state",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "国境": {
+    "reading": "こっきょう",
+    "romaji": "kokkyou",
+    "en": "border",
+    "zhHant": "邊境",
+    "showRuby": true
+  },
+  "国民": {
+    "reading": "こくみん",
+    "romaji": "kokumin",
+    "en": "people (of a country); nation",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "国王": {
+    "reading": "こくおう",
+    "romaji": "kokuou",
+    "en": "king",
+    "zhHant": "國王",
+    "showRuby": true
+  },
+  "国連": {
+    "reading": "こくれん",
+    "romaji": "kokuren",
+    "en": "United Nations; UN",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "国防省": {
+    "reading": "こくぼうしょう",
+    "romaji": "kokuboushou",
+    "en": "Department of Defense (USA); the Pentagon",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "国際法": {
+    "reading": "こくさいほう",
+    "romaji": "kokusaihou",
+    "en": "international law",
+    "zhHant": "國際法",
+    "showRuby": true
+  },
+  "土俵": {
+    "reading": "どひょう",
+    "romaji": "dohyou",
+    "en": "sumo ring",
+    "zhHant": "相撲土俵",
+    "showRuby": true
+  },
+  "土石": {
+    "reading": "どせき",
+    "romaji": "doseki",
+    "en": "earth and stones",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "土石流": {
+    "reading": "どせきりゅう",
+    "romaji": "dosekiryuu",
+    "en": "debris flow; landslide",
+    "zhHant": "山泥傾瀉；土石流",
+    "showRuby": true
+  },
+  "圧力": {
+    "reading": "あつりょく",
+    "romaji": "atsuryoku",
+    "en": "pressure",
+    "zhHant": "壓力",
+    "showRuby": true
+  },
+  "地位": {
+    "reading": "ちい",
+    "romaji": "chii",
+    "en": "(social) position; status",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "地元": {
+    "reading": "じもと",
+    "romaji": "jimoto",
+    "en": "home area; home town",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "地区": {
+    "reading": "ちく",
+    "romaji": "chiku",
+    "en": "district; section",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "地図": {
+    "reading": "ちず",
+    "romaji": "chizu",
+    "en": "map",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "地域": {
+    "reading": "ちいき",
+    "romaji": "chiiki",
+    "en": "area; region",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "地滑り": {
+    "reading": "じすべり",
+    "romaji": "jisuberi",
+    "en": "landslide",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "地震": {
+    "reading": "じしん",
+    "romaji": "jishin",
+    "en": "earthquake",
+    "zhHant": "地震",
+    "showRuby": true
+  },
+  "基づい": {
+    "reading": "もとづい",
+    "romaji": "motozui",
+    "en": "to be grounded on; to be based on",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "報じ": {
+    "reading": "ほうじ",
+    "romaji": "houji",
+    "en": "to inform; to report",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "報告": {
+    "reading": "ほうこく",
+    "romaji": "houkoku",
+    "en": "report; information",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "報道官": {
+    "reading": "ほうどうかん",
+    "romaji": "houdoukan",
+    "en": "press officer; press secretary",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "場所": {
+    "reading": "ばしょ",
+    "romaji": "basho",
+    "en": "place; location",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "増える": {
+    "reading": "ふえる",
+    "romaji": "fueru",
+    "en": "to increase; to multiply",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "壊滅的": {
+    "reading": "かいめつてき",
+    "romaji": "kaimetsuteki",
+    "en": "devastating; catastrophic",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "声明": {
+    "reading": "せいめい",
+    "romaji": "seimei",
+    "en": "declaration; statement",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "外国人": {
+    "reading": "がいこくじん",
+    "romaji": "gaikokujin",
+    "en": "foreign national",
+    "zhHant": "外國人",
+    "showRuby": true
+  },
+  "外相": {
+    "reading": "がいしょう",
+    "romaji": "gaishou",
+    "en": "Foreign Minister",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "多い": {
+    "reading": "おおい",
+    "romaji": "ooi",
+    "en": "many; numerous",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "多く": {
+    "reading": "おおく",
+    "romaji": "ooku",
+    "en": "many; much",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "夜間": {
+    "reading": "やかん",
+    "romaji": "yakan",
+    "en": "night; nighttime",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "大きく": {
+    "reading": "おおきく",
+    "romaji": "ookiku",
+    "en": "in a big way; on a grand scale",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "大きさ": {
+    "reading": "おおきさ",
+    "romaji": "ookisa",
+    "en": "size; dimensions",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "大きな": {
+    "reading": "おおきな",
+    "romaji": "ookina",
+    "en": "big; large",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "大の里": {
+    "reading": "おおのさと",
+    "romaji": "oonosato",
+    "en": "Ōnosato",
+    "zhHant": "大之里",
+    "showRuby": true
+  },
+  "大切": {
+    "reading": "たいせつ",
+    "romaji": "taisetsu",
+    "en": "important; necessary",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "大統領": {
+    "reading": "だいとうりょう",
+    "romaji": "daitouryou",
+    "en": "president (of a nation)",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "大規模": {
+    "reading": "だいきぼ",
+    "romaji": "daikibo",
+    "en": "large-scale",
+    "zhHant": "大規模",
+    "showRuby": true
+  },
+  "太平洋": {
+    "reading": "たいへいよう",
+    "romaji": "taiheiyou",
+    "en": "Pacific Ocean",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "夫妻": {
+    "reading": "ふさい",
+    "romaji": "fusai",
+    "en": "husband and wife; married couple",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "女性": {
+    "reading": "じょせい",
+    "romaji": "josei",
+    "en": "woman; female",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "女王": {
+    "reading": "じょおう",
+    "romaji": "joou",
+    "en": "queen",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "好き": {
+    "reading": "すき",
+    "romaji": "suki",
+    "en": "liked; well-liked",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "妃": {
+    "reading": "ひ",
+    "romaji": "hi",
+    "en": "princess; consort",
+    "zhHant": "王妃",
+    "showRuby": true
+  },
+  "妨げる": {
+    "reading": "さまたげる",
+    "romaji": "samatageru",
+    "en": "to disturb; to prevent",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "妻": {
+    "reading": "つま",
+    "romaji": "tsuma",
+    "en": "wife",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "始ま": {
+    "reading": "しま",
+    "romaji": "shima",
+    "en": "ti; si",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "始める": {
+    "reading": "はじめる",
+    "romaji": "hajimeru",
+    "en": "to start; to begin",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "存在": {
+    "reading": "そんざい",
+    "romaji": "sonzai",
+    "en": "existence; being",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "学校": {
+    "reading": "がっこう",
+    "romaji": "gakkou",
+    "en": "school",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "守る": {
+    "reading": "まもる",
+    "romaji": "mamoru",
+    "en": "to protect; to guard",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "安全": {
+    "reading": "あんぜん",
+    "romaji": "anzen",
+    "en": "safety; security",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "実施": {
+    "reading": "じっし",
+    "romaji": "jisshi",
+    "en": "enforcement; implementation",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "実際": {
+    "reading": "じっさい",
+    "romaji": "jissai",
+    "en": "reality; actuality",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "家": {
+    "reading": "いえ",
+    "romaji": "ie",
+    "en": "house; residence",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "家族": {
+    "reading": "かぞく",
+    "romaji": "kazoku",
+    "en": "family; members of a family",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "対し": {
+    "reading": "たいし",
+    "romaji": "taishi",
+    "en": "to face (each other); to be facing",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "対抗": {
+    "reading": "たいこう",
+    "romaji": "taikou",
+    "en": "opposition; rivalry",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "専門": {
+    "reading": "せんもん",
+    "romaji": "senmon",
+    "en": "speciality; specialty",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "尊重": {
+    "reading": "そんちょう",
+    "romaji": "sonchou",
+    "en": "respect; esteem",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "小さく": {
+    "reading": "ちいさく",
+    "romaji": "chiisaku",
+    "en": "small; little",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "少なく": {
+    "reading": "すくなく",
+    "romaji": "sukunaku",
+    "en": "few; a little",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "就かない": {
+    "reading": "つかない",
+    "romaji": "tsukanai",
+    "en": "does not take office",
+    "zhHant": "不就任；不擔任",
+    "showRuby": true
+  },
+  "屈し": {
+    "reading": "くっし",
+    "romaji": "kusshi",
+    "en": "leading; foremost",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "川": {
+    "reading": "かわ",
+    "romaji": "kawa",
+    "en": "river; stream",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "州": {
+    "reading": "しゅう",
+    "romaji": "shuu",
+    "en": "state (US, Australia, India, Germany, etc.); province (e.g. Canada)",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "市": {
+    "reading": "し",
+    "romaji": "shi",
+    "en": "market; fair",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "市民": {
+    "reading": "しみん",
+    "romaji": "shimin",
+    "en": "citizen; citizenry",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "帰国": {
+    "reading": "きこく",
+    "romaji": "kikoku",
+    "en": "return to one’s country",
+    "zhHant": "回國",
+    "showRuby": true
+  },
+  "帰国しました": {
+    "reading": "きこくしました",
+    "romaji": "kikokushimashita",
+    "en": "return to one's country",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "平和": {
+    "reading": "へいわ",
+    "romaji": "heiwa",
+    "en": "peace; harmony",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "広がっている": {
+    "reading": "ひろがっている",
+    "romaji": "hirogatteiru",
+    "en": "to spread (out); to extend",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "庫": {
+    "reading": "くら",
+    "romaji": "kura",
+    "en": "warehouse; storehouse",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "廃止": {
+    "reading": "はいし",
+    "romaji": "haishi",
+    "en": "abolition; discontinuation",
+    "zhHant": "廢止",
+    "showRuby": true
+  },
+  "建物": {
+    "reading": "たてもの",
+    "romaji": "tatemono",
+    "en": "building",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "建設": {
+    "reading": "けんせつ",
+    "romaji": "kensetsu",
+    "en": "construction; establishment",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "建設した": {
+    "reading": "けんせつした",
+    "romaji": "kensetsushita",
+    "en": "construction; establishment",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "引き下げ": {
+    "reading": "ひきさげ",
+    "romaji": "hikisage",
+    "en": "reduction; cut",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "引き起こした": {
+    "reading": "ひきおこした",
+    "romaji": "hikiokoshita",
+    "en": "to cause; to induce",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "強い": {
+    "reading": "つよい",
+    "romaji": "tsuyoi",
+    "en": "strong; potent",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "強く": {
+    "reading": "つよく",
+    "romaji": "tsuyoku",
+    "en": "strong; potent",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "強まる": {
+    "reading": "つよまる",
+    "romaji": "tsuyomaru",
+    "en": "to get strong; to gain strength",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "強調": {
+    "reading": "きょうちょう",
+    "romaji": "kyouchou",
+    "en": "emphasis; highlight",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "弾薬": {
+    "reading": "だんやく",
+    "romaji": "danyaku",
+    "en": "ammunition",
+    "zhHant": "彈藥",
+    "showRuby": true
+  },
+  "当局": {
+    "reading": "とうきょく",
+    "romaji": "toukyoku",
+    "en": "authorities",
+    "zhHant": "當局",
+    "showRuby": true
+  },
+  "影響": {
+    "reading": "えいきょう",
+    "romaji": "eikyou",
+    "en": "influence; effect",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "彼": {
+    "reading": "かれ",
+    "romaji": "kare",
+    "en": "that; that thing",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "彼ら": {
+    "reading": "かれら",
+    "romaji": "karera",
+    "en": "they; them",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "復帰": {
+    "reading": "ふっき",
+    "romaji": "fukki",
+    "en": "return; comeback",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "怪我": {
+    "reading": "けが",
+    "romaji": "kega",
+    "en": "injury (to animate object); hurt",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "悪化": {
+    "reading": "あっか",
+    "romaji": "akka",
+    "en": "(suffer) deterioration; growing worse",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "意向": {
+    "reading": "いこう",
+    "romaji": "ikou",
+    "en": "intention; idea",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "慈善": {
+    "reading": "じぜん",
+    "romaji": "jizen",
+    "en": "charity; philanthropy",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "懸念": {
+    "reading": "けねん",
+    "romaji": "kenen",
+    "en": "concern",
+    "zhHant": "關注；憂慮",
+    "showRuby": true
+  },
+  "我が国": {
+    "reading": "わがくに",
+    "romaji": "wagakuni",
+    "en": "our country; our land",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "戦争": {
+    "reading": "せんそう",
+    "romaji": "sensou",
+    "en": "war",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "戻った": {
+    "reading": "もどった",
+    "romaji": "modotta",
+    "en": "to turn back (e.g. half-way)",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "戻る": {
+    "reading": "もどる",
+    "romaji": "modoru",
+    "en": "to turn back (e.g. half-way)",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "所": {
+    "reading": "ところ",
+    "romaji": "tokoro",
+    "en": "place; spot",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "投票": {
+    "reading": "とうひょう",
+    "romaji": "touhyou",
+    "en": "vote; voting",
+    "zhHant": "投票",
+    "showRuby": true
+  },
+  "抗議": {
+    "reading": "こうぎ",
+    "romaji": "kougi",
+    "en": "protest",
+    "zhHant": "抗議",
+    "showRuby": true
+  },
+  "押し流されました": {
+    "reading": "おしながされました",
+    "romaji": "oshinagasaremashita",
+    "en": "to wash away",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "担う": {
+    "reading": "になう",
+    "romaji": "ninau",
+    "en": "to carry on one's shoulder; to shoulder",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "拍手": {
+    "reading": "はくしゅ",
+    "romaji": "hakushu",
+    "en": "clapping hands; applause",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "拠点": {
+    "reading": "きょてん",
+    "romaji": "kyoten",
+    "en": "position; location",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "持ち": {
+    "reading": "もち",
+    "romaji": "mochi",
+    "en": "having; holding",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "指示した": {
+    "reading": "しじした",
+    "romaji": "shijishita",
+    "en": "indication; denotation",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "採用": {
+    "reading": "さいよう",
+    "romaji": "saiyou",
+    "en": "adoption; to adopt",
+    "zhHant": "採用",
+    "showRuby": true
+  },
+  "採用した": {
+    "reading": "さいようした",
+    "romaji": "saiyoushita",
+    "en": "use; adoption",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "接する": {
+    "reading": "せっする",
+    "romaji": "sessuru",
+    "en": "to touch; to come in contact with",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "措置": {
+    "reading": "そち",
+    "romaji": "sochi",
+    "en": "measure; step",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "提出した": {
+    "reading": "ていしゅつした",
+    "romaji": "teishutsushita",
+    "en": "presentation (of documents); submission (of an application, report, etc.)",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "提案": {
+    "reading": "ていあん",
+    "romaji": "teian",
+    "en": "proposal; proposition",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "揺れ": {
+    "reading": "ゆれ",
+    "romaji": "yure",
+    "en": "shaking",
+    "zhHant": "震動",
+    "showRuby": true
+  },
+  "撮影": {
+    "reading": "さつえい",
+    "romaji": "satsuei",
+    "en": "photography (still or motion); photographing",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "攻撃": {
+    "reading": "こうげき",
+    "romaji": "kougeki",
+    "en": "attack; assault",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "政府": {
+    "reading": "せいふ",
+    "romaji": "seifu",
+    "en": "government; administration",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "政治的": {
+    "reading": "せいじてき",
+    "romaji": "seijiteki",
+    "en": "political",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "救われました": {
+    "reading": "すくわれました",
+    "romaji": "sukuwaremashita",
+    "en": "to rescue from; to help out of",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "救出": {
+    "reading": "きゅうしゅつ",
+    "romaji": "kyuushutsu",
+    "en": "rescue; extraction",
+    "zhHant": "救出",
+    "showRuby": true
+  },
+  "救出した": {
+    "reading": "きゅうしゅつした",
+    "romaji": "kyuushutsushita",
+    "en": "rescue; extricate",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "救助": {
+    "reading": "きゅうじょ",
+    "romaji": "kyuujo",
+    "en": "relief; aid",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "数": {
+    "reading": "すう",
+    "romaji": "suu",
+    "en": "often; again and again",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "新しい": {
+    "reading": "あたらしい",
+    "romaji": "atarashii",
+    "en": "new; novel",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "新た": {
+    "reading": "あらた",
+    "romaji": "arata",
+    "en": "new; fresh",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "方針": {
+    "reading": "ほうしん",
+    "romaji": "houshin",
+    "en": "policy; course",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "旅": {
+    "reading": "たび",
+    "romaji": "tabi",
+    "en": "travel; trip",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "日": {
+    "reading": "ひ",
+    "romaji": "hi",
+    "en": "day; days",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "日程": {
+    "reading": "にってい",
+    "romaji": "nittei",
+    "en": "schedule; program",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "昇進": {
+    "reading": "しょうしん",
+    "romaji": "shoushin",
+    "en": "promotion",
+    "zhHant": "晉升",
+    "showRuby": true
+  },
+  "明らか": {
+    "reading": "あきらか",
+    "romaji": "akiraka",
+    "en": "clear; obvious",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "明確化": {
+    "reading": "めいかくか",
+    "romaji": "meikakuka",
+    "en": "clarification; definition",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "明記": {
+    "reading": "めいき",
+    "romaji": "meiki",
+    "en": "clear writing; specification",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "映し": {
+    "reading": "うつし",
+    "romaji": "utsushi",
+    "en": "to project; to reflect",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "映っ": {
+    "reading": "うつっ",
+    "romaji": "utsutsu",
+    "en": "to be reflected; to harmonize with (harmonise)",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "映像": {
+    "reading": "えいぞう",
+    "romaji": "eizou",
+    "en": "image (on a screen); picture (e.g. on a TV)",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "時間": {
+    "reading": "じかん",
+    "romaji": "jikan",
+    "en": "time",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "書簡": {
+    "reading": "しょかん",
+    "romaji": "shokan",
+    "en": "written letter",
+    "zhHant": "書函",
+    "showRuby": true
+  },
+  "最も": {
+    "reading": "もっとも",
+    "romaji": "mottomo",
+    "en": "most; extremely",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "期限": {
+    "reading": "きげん",
+    "romaji": "kigen",
+    "en": "term; period",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "来ました": {
+    "reading": "きました",
+    "romaji": "kimashita",
+    "en": "to come (spatially or temporally); to approach",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "来月": {
+    "reading": "らいげつ",
+    "romaji": "raigetsu",
+    "en": "next month",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "東部": {
+    "reading": "とうぶ",
+    "romaji": "toubu",
+    "en": "eastern part; the east (of a region)",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "案": {
+    "reading": "あん",
+    "romaji": "an",
+    "en": "idea; plan",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "様子": {
+    "reading": "ようす",
+    "romaji": "yousu",
+    "en": "state; state of affairs",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "横綱": {
+    "reading": "よこづな",
+    "romaji": "yokozuna",
+    "en": "yokozuna; grand champion",
+    "zhHant": "橫綱",
+    "showRuby": true
+  },
+  "欧州": {
+    "reading": "おうしゅう",
+    "romaji": "oushuu",
+    "en": "Europe",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "正確": {
+    "reading": "せいかく",
+    "romaji": "seikaku",
+    "en": "accurate; correct",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "死亡": {
+    "reading": "しぼう",
+    "romaji": "shibou",
+    "en": "death; to die",
+    "zhHant": "死亡",
+    "showRuby": true
+  },
+  "死者": {
+    "reading": "ししゃ",
+    "romaji": "shisha",
+    "en": "dead person; (the) deceased",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "死者数": {
+    "reading": "ししゃすう",
+    "romaji": "shishasuu",
+    "en": "death toll; number of deaths",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "残し": {
+    "reading": "のこし",
+    "romaji": "nokoshi",
+    "en": "to leave (behind)",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "氏": {
+    "reading": "し",
+    "romaji": "shi",
+    "en": "family name; lineage",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "民主": {
+    "reading": "みんしゅ",
+    "romaji": "minshu",
+    "en": "democracy; popular sovereignty",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "水力": {
+    "reading": "すいりょく",
+    "romaji": "suiryoku",
+    "en": "hydraulic power; water power",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "決まる": {
+    "reading": "きまる",
+    "romaji": "kimaru",
+    "en": "to be decided; to be settled",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "決定": {
+    "reading": "けってい",
+    "romaji": "kettei",
+    "en": "decision; determination",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "決議": {
+    "reading": "けつぎ",
+    "romaji": "ketsugi",
+    "en": "resolution; vote",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "沖": {
+    "reading": "おき",
+    "romaji": "oki",
+    "en": "open sea",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "沿い": {
+    "reading": "そい",
+    "romaji": "soi",
+    "en": "along",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "注意": {
+    "reading": "ちゅうい",
+    "romaji": "chuui",
+    "en": "caution; being careful",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "注目": {
+    "reading": "ちゅうもく",
+    "romaji": "chuumoku",
+    "en": "notice; attention",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "洋": {
+    "reading": "よう",
+    "romaji": "you",
+    "en": "open sea",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "洪水": {
+    "reading": "こうずい",
+    "romaji": "kouzui",
+    "en": "flood",
+    "zhHant": "洪水",
+    "showRuby": true
+  },
+  "活動": {
+    "reading": "かつどう",
+    "romaji": "katsudou",
+    "en": "activity (of a person, organization, animal, volcano, etc.); action",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "活躍": {
+    "reading": "かつやく",
+    "romaji": "katsuyaku",
+    "en": "activity (esp. energetic); great efforts",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "派遣": {
+    "reading": "はけん",
+    "romaji": "haken",
+    "en": "deployment; dispatch",
+    "zhHant": "派遣",
+    "showRuby": true
+  },
+  "流": {
+    "reading": "りゅう",
+    "romaji": "ryuu",
+    "en": "fashion; way",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "浮上": {
+    "reading": "ふじょう",
+    "romaji": "fujou",
+    "en": "surfacing; rising to the surface",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "海": {
+    "reading": "うみ",
+    "romaji": "umi",
+    "en": "sea; ocean",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "海上": {
+    "reading": "かいじょう",
+    "romaji": "kaijou",
+    "en": "on the sea; surface of the sea",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "海岸": {
+    "reading": "かいがん",
+    "romaji": "kaigan",
+    "en": "coast; beach",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "海峡": {
+    "reading": "かいきょう",
+    "romaji": "kaikyou",
+    "en": "strait",
+    "zhHant": "海峽",
+    "showRuby": true
+  },
+  "深刻": {
+    "reading": "しんこく",
+    "romaji": "shinkoku",
+    "en": "serious; severe",
+    "zhHant": "嚴峻",
+    "showRuby": true
+  },
+  "混乱": {
+    "reading": "こんらん",
+    "romaji": "konran",
+    "en": "disorder; chaos",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "満たす": {
+    "reading": "みたす",
+    "romaji": "mitasu",
+    "en": "to satisfy (conditions, one's appetite, etc.); to meet (e.g. demands)",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "災害": {
+    "reading": "さいがい",
+    "romaji": "saigai",
+    "en": "disaster",
+    "zhHant": "災害",
+    "showRuby": true
+  },
+  "無視": {
+    "reading": "むし",
+    "romaji": "mushi",
+    "en": "disregarding; ignoring",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "爆発": {
+    "reading": "ばくはつ",
+    "romaji": "bakuhatsu",
+    "en": "explosion",
+    "zhHant": "爆炸",
+    "showRuby": true
+  },
+  "特": {
+    "reading": "とく",
+    "romaji": "toku",
+    "en": "especially",
+    "zhHant": "特別",
+    "showRuby": true
+  },
+  "犬": {
+    "reading": "いぬ",
+    "romaji": "inu",
+    "en": "dog (Canis (lupus) familiaris)",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "状態": {
+    "reading": "じょうたい",
+    "romaji": "joutai",
+    "en": "state; condition",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "状況": {
+    "reading": "じょうきょう",
+    "romaji": "joukyou",
+    "en": "state of affairs (around you); situation",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "王女": {
+    "reading": "おうじょ",
+    "romaji": "oujo",
+    "en": "princess",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "王子": {
+    "reading": "おうじ",
+    "romaji": "ouji",
+    "en": "prince",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "王室": {
+    "reading": "おうしつ",
+    "romaji": "oushitsu",
+    "en": "royal family",
+    "zhHant": "王室",
+    "showRuby": true
+  },
+  "王族": {
+    "reading": "おうぞく",
+    "romaji": "ouzoku",
+    "en": "royalty",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "現在": {
+    "reading": "げんざい",
+    "romaji": "genzai",
+    "en": "now; current",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "現地": {
+    "reading": "げんち",
+    "romaji": "genchi",
+    "en": "actual place; local",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "現状": {
+    "reading": "げんじょう",
+    "romaji": "genjou",
+    "en": "present condition; existing state",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "生徒": {
+    "reading": "せいと",
+    "romaji": "seito",
+    "en": "pupil; student",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "産品": {
+    "reading": "さんひん",
+    "romaji": "sanhin",
+    "en": "products",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "甲板": {
+    "reading": "かんぱん",
+    "romaji": "kanpan",
+    "en": "deck (of a ship)",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "発動": {
+    "reading": "はつどう",
+    "romaji": "hatsudou",
+    "en": "implementation; taking effect",
+    "zhHant": "啟動；生效",
+    "showRuby": true
+  },
+  "発生": {
+    "reading": "はっせい",
+    "romaji": "hassei",
+    "en": "outbreak; spring forth",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "発生しました": {
+    "reading": "はっせいしました",
+    "romaji": "hasseishimashita",
+    "en": "outbreak; spring forth",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "発表": {
+    "reading": "はっぴょう",
+    "romaji": "happyou",
+    "en": "announcement; publication",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "発表した": {
+    "reading": "はっぴょうした",
+    "romaji": "happyoushita",
+    "en": "announcement; publication",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "発表しました": {
+    "reading": "はっぴょうしました",
+    "romaji": "happyoushimashita",
+    "en": "announcement; publication",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "発電": {
+    "reading": "はつでん",
+    "romaji": "hatsuden",
+    "en": "generation (e.g. power)",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "登場": {
+    "reading": "とうじょう",
+    "romaji": "toujou",
+    "en": "entry (on stage); appearance (on screen)",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "百人": {
+    "reading": "ひゃくにん",
+    "romaji": "hyakunin",
+    "en": "100; hundred",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "皇太子": {
+    "reading": "こうたいし",
+    "romaji": "koutaishi",
+    "en": "crown prince",
+    "zhHant": "皇太子",
+    "showRuby": true
+  },
+  "目指している": {
+    "reading": "めざしている",
+    "romaji": "mezashiteiru",
+    "en": "to aim at (for, to do, to become); to try for",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "目標": {
+    "reading": "もくひょう",
+    "romaji": "mokuhyou",
+    "en": "mark (for quick identification or recognition); sign",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "直前": {
+    "reading": "ちょくぜん",
+    "romaji": "chokuzen",
+    "en": "just before",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "相対的": {
+    "reading": "そうたいてき",
+    "romaji": "soutaiteki",
+    "en": "relative",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "相当": {
+    "reading": "そうとう",
+    "romaji": "soutou",
+    "en": "equivalent to; worth",
+    "zhHant": "相當於",
+    "showRuby": true
+  },
+  "相撲": {
+    "reading": "すもう",
+    "romaji": "sumou",
+    "en": "sumo wrestling",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "県": {
+    "reading": "けん",
+    "romaji": "ken",
+    "en": "prefecture (Japan); county (China, Taiwan, Norway, etc.)",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "真夜中": {
+    "reading": "まよなか",
+    "romaji": "mayonaka",
+    "en": "dead of night; midnight",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "着用": {
+    "reading": "ちゃくよう",
+    "romaji": "chakuyou",
+    "en": "wearing",
+    "zhHant": "佩戴",
+    "showRuby": true
+  },
+  "確保": {
+    "reading": "かくほ",
+    "romaji": "kakuho",
+    "en": "securing; obtaining",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "確認": {
+    "reading": "かくにん",
+    "romaji": "kakunin",
+    "en": "confirmation; verification",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "示した": {
+    "reading": "しめした",
+    "romaji": "shimeshita",
+    "en": "to (take out and) show; to demonstrate",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "示しています": {
+    "reading": "しめしています",
+    "romaji": "shimeshiteimasu",
+    "en": "to (take out and) show; to demonstrate",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "示している": {
+    "reading": "しめしている",
+    "romaji": "shimeshiteiru",
+    "en": "to (take out and) show; to demonstrate",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "示しました": {
+    "reading": "しめしました",
+    "romaji": "shimeshimashita",
+    "en": "to (take out and) show; to demonstrate",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "社会": {
+    "reading": "しゃかい",
+    "romaji": "shakai",
+    "en": "society; public",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "私": {
+    "reading": "わたくし",
+    "romaji": "watakushi",
+    "en": "I; me",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "私有地": {
+    "reading": "しゆうち",
+    "romaji": "shiyuuchi",
+    "en": "private property",
+    "zhHant": "私人土地",
+    "showRuby": true
+  },
+  "私的": {
+    "reading": "してき",
+    "romaji": "shiteki",
+    "en": "private; personal",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "移住した": {
+    "reading": "いじゅうした",
+    "romaji": "ijuushita",
+    "en": "migration; immigration",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "空母": {
+    "reading": "くうぼ",
+    "romaji": "kuubo",
+    "en": "aircraft carrier",
+    "zhHant": "航空母艦",
+    "showRuby": true
+  },
+  "立場": {
+    "reading": "たちば",
+    "romaji": "tachiba",
+    "en": "position; status",
+    "zhHant": "身分；立場",
+    "showRuby": true
+  },
+  "答えました": {
+    "reading": "こたえました",
+    "romaji": "kotaemashita",
+    "en": "to answer; to reply",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "管理庁": {
+    "reading": "かんりちょう",
+    "romaji": "kanrichou",
+    "en": "control; management (e.g. of a business)",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "米": {
+    "reading": "べい",
+    "romaji": "bei",
+    "en": "metre; meter",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "米国": {
+    "reading": "べいこく",
+    "romaji": "beikoku",
+    "en": "(United States of) America; USA",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "米空母": {
+    "reading": "べいくうぼ",
+    "romaji": "beikuubo",
+    "en": "metre; meter",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "米軍": {
+    "reading": "べいぐん",
+    "romaji": "beigun",
+    "en": "US armed forces",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "精神": {
+    "reading": "せいしん",
+    "romaji": "seishin",
+    "en": "mind; spirit",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "系": {
+    "reading": "けい",
+    "romaji": "kei",
+    "en": "system; lineage",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "約": {
+    "reading": "やく",
+    "romaji": "yaku",
+    "en": "approximately; about",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "素早く": {
+    "reading": "すばやく",
+    "romaji": "subayaku",
+    "en": "quick; swift",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "経済": {
+    "reading": "けいざい",
+    "romaji": "keizai",
+    "en": "economy; economics",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "結ぶ": {
+    "reading": "むすぶ",
+    "romaji": "musubu",
+    "en": "to tie; to bind",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "結果": {
+    "reading": "けっか",
+    "romaji": "kekka",
+    "en": "result",
+    "zhHant": "結果",
+    "showRuby": true
+  },
+  "続い": {
+    "reading": "つづい",
+    "romaji": "tsuzui",
+    "en": "to continue; to last",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "続いています": {
+    "reading": "つづいています",
+    "romaji": "tsuzuiteimasu",
+    "en": "to continue; to last",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "緊張": {
+    "reading": "きんちょう",
+    "romaji": "kinchou",
+    "en": "tension",
+    "zhHant": "緊張局勢",
+    "showRuby": true
+  },
+  "総会": {
+    "reading": "そうかい",
+    "romaji": "soukai",
+    "en": "general meeting",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "総選挙": {
+    "reading": "そうせんきょ",
+    "romaji": "sousenkyo",
+    "en": "general election",
+    "zhHant": "大選",
+    "showRuby": true
+  },
+  "縮尺": {
+    "reading": "しゅくしゃく",
+    "romaji": "shukushaku",
+    "en": "map scale",
+    "zhHant": "比例尺",
+    "showRuby": true
+  },
+  "置き換える": {
+    "reading": "おきかえる",
+    "romaji": "okikaeru",
+    "en": "to replace; to move",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "置く": {
+    "reading": "おく",
+    "romaji": "oku",
+    "en": "to put; to place",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "考え": {
+    "reading": "かんがえ",
+    "romaji": "kangae",
+    "en": "thinking; thought",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "自治体": {
+    "reading": "じちたい",
+    "romaji": "jichitai",
+    "en": "local government",
+    "zhHant": "地方政府",
+    "showRuby": true
+  },
+  "自治区": {
+    "reading": "じちく",
+    "romaji": "jichiku",
+    "en": "territory; autonomous region",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "至らなかった": {
+    "reading": "いたらなかった",
+    "romaji": "itaranakatta",
+    "en": "to arrive at (e.g. a decision); to reach (a stage)",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "航海": {
+    "reading": "こうかい",
+    "romaji": "koukai",
+    "en": "(sea) voyage; navigation",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "航空": {
+    "reading": "こうくう",
+    "romaji": "koukuu",
+    "en": "aviation; flying",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "航空機": {
+    "reading": "こうくうき",
+    "romaji": "koukuuki",
+    "en": "aircraft",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "航行": {
+    "reading": "こうこう",
+    "romaji": "koukou",
+    "en": "navigation; to sail",
+    "zhHant": "航行",
+    "showRuby": true
+  },
+  "航行した": {
+    "reading": "こうこうした",
+    "romaji": "koukoushita",
+    "en": "cruise; navigation",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "若い": {
+    "reading": "わかい",
+    "romaji": "wakai",
+    "en": "young; youthful",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "英": {
+    "reading": "えい",
+    "romaji": "ei",
+    "en": "calyx; corolla",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "英国": {
+    "reading": "えいこく",
+    "romaji": "eikoku",
+    "en": "United Kingdom; Britain",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "葬儀": {
+    "reading": "そうぎ",
+    "romaji": "sougi",
+    "en": "funeral",
+    "zhHant": "葬禮",
+    "showRuby": true
+  },
+  "行きます": {
+    "reading": "いきます",
+    "romaji": "ikimasu",
+    "en": "to go; to move (in a direction or towards a specific location)",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "行く": {
+    "reading": "いく",
+    "romaji": "iku",
+    "en": "to go; to move (in a direction or towards a specific location)",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "行わ": {
+    "reading": "おこなわ",
+    "romaji": "okonawa",
+    "en": "to perform; to do",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "行われる": {
+    "reading": "おこなわれる",
+    "romaji": "okonawareru",
+    "en": "to be done; to be practiced",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "行動": {
+    "reading": "こうどう",
+    "romaji": "koudou",
+    "en": "action; conduct",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "行方": {
+    "reading": "ゆくえ",
+    "romaji": "yukue",
+    "en": "(one's) whereabouts",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "表明": {
+    "reading": "ひょうめい",
+    "romaji": "hyoumei",
+    "en": "declaration; to state",
+    "zhHant": "表明",
+    "showRuby": true
+  },
+  "表明した": {
+    "reading": "ひょうめいした",
+    "romaji": "hyoumeishita",
+    "en": "stated; announced",
+    "zhHant": "表示；宣布",
+    "showRuby": true
+  },
+  "表現": {
+    "reading": "ひょうげん",
+    "romaji": "hyougen",
+    "en": "expression; presentation",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "被害": {
+    "reading": "ひがい",
+    "romaji": "higai",
+    "en": "damage; harm",
+    "zhHant": "損害；災情",
+    "showRuby": true
+  },
+  "被災地": {
+    "reading": "ひさいち",
+    "romaji": "hisaichi",
+    "en": "disaster-affected area",
+    "zhHant": "災區",
+    "showRuby": true
+  },
+  "被災者": {
+    "reading": "ひさいしゃ",
+    "romaji": "hisaisha",
+    "en": "victim of (a disaster)",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "製品": {
+    "reading": "せいひん",
+    "romaji": "seihin",
+    "en": "manufactured goods; finished goods",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "西側": {
+    "reading": "にしがわ",
+    "romaji": "nishigawa",
+    "en": "west side; west bank",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "西岸": {
+    "reading": "せいがん",
+    "romaji": "seigan",
+    "en": "west coast; west bank",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "要望": {
+    "reading": "ようぼう",
+    "romaji": "youbou",
+    "en": "demand for; request",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "見える": {
+    "reading": "みえる",
+    "romaji": "mieru",
+    "en": "to be seen; to be in sight",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "見せている": {
+    "reading": "みせている",
+    "romaji": "miseteiru",
+    "en": "to show; to display",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "見合わせました": {
+    "reading": "みあわせました",
+    "romaji": "miawasemashita",
+    "en": "to exchange glances; to look at each other",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "規則": {
+    "reading": "きそく",
+    "romaji": "kisoku",
+    "en": "rule; regulation",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "観光局": {
+    "reading": "かんこうきょく",
+    "romaji": "kankoukyoku",
+    "en": "tourism board",
+    "zhHant": "旅遊局",
+    "showRuby": true
+  },
+  "言いました": {
+    "reading": "いいました",
+    "romaji": "iimashita",
+    "en": "to say; to utter",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "計画": {
+    "reading": "けいかく",
+    "romaji": "keikaku",
+    "en": "plan; project",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "訪れました": {
+    "reading": "おとずれました",
+    "romaji": "otozuremashita",
+    "en": "to visit; to call on",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "訪れる": {
+    "reading": "おとずれる",
+    "romaji": "otozureru",
+    "en": "to visit; to call on",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "訴訟": {
+    "reading": "そしょう",
+    "romaji": "soshou",
+    "en": "lawsuit",
+    "zhHant": "訴訟",
+    "showRuby": true
+  },
+  "話しました": {
+    "reading": "はなしました",
+    "romaji": "hanashimashita",
+    "en": "to talk; to speak",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "誓いました": {
+    "reading": "ちかいました",
+    "romaji": "chikaimashita",
+    "en": "to swear; to vow",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "説明しました": {
+    "reading": "せつめいしました",
+    "romaji": "setsumeishimashita",
+    "en": "explanation; exposition",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "課す": {
+    "reading": "かす",
+    "romaji": "kasu",
+    "en": "to impose",
+    "zhHant": "徵收；施加",
+    "showRuby": true
+  },
+  "調べる": {
+    "reading": "しらべる",
+    "romaji": "shiraberu",
+    "en": "to examine; to look up",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "調査": {
+    "reading": "ちょうさ",
+    "romaji": "chousa",
+    "en": "investigation",
+    "zhHant": "調查",
+    "showRuby": true
+  },
+  "講じる": {
+    "reading": "こうじる",
+    "romaji": "koujiru",
+    "en": "to take measures; to work out a plan",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "謹んで": {
+    "reading": "つつしんで",
+    "romaji": "tsutsushinde",
+    "en": "humbly; respectfully",
+    "zhHant": "謹慎地；恭敬地",
+    "showRuby": true
+  },
+  "警備": {
+    "reading": "けいび",
+    "romaji": "keibi",
+    "en": "security; protection",
+    "zhHant": "保安",
+    "showRuby": true
+  },
+  "警告": {
+    "reading": "けいこく",
+    "romaji": "keikoku",
+    "en": "warning; to warn",
+    "zhHant": "警告",
+    "showRuby": true
+  },
+  "議員": {
+    "reading": "ぎいん",
+    "romaji": "giin",
+    "en": "member of an assembly; member of the Diet",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "議論": {
+    "reading": "ぎろん",
+    "romaji": "giron",
+    "en": "argument; discussion",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "責任": {
+    "reading": "せきにん",
+    "romaji": "sekinin",
+    "en": "responsibility",
+    "zhHant": "責任",
+    "showRuby": true
+  },
+  "貿易": {
+    "reading": "ぼうえき",
+    "romaji": "boueki",
+    "en": "trade (foreign)",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "賛成": {
+    "reading": "さんせい",
+    "romaji": "sansei",
+    "en": "approval; agreement",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "起こしました": {
+    "reading": "おこしました",
+    "romaji": "okoshimashita",
+    "en": "to raise; to raise up",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "起こり": {
+    "reading": "おこり",
+    "romaji": "okori",
+    "en": "source; origin",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "超え": {
+    "reading": "こえ",
+    "romaji": "koe",
+    "en": "exceeding; more than",
+    "zhHant": "超過",
+    "showRuby": true
+  },
+  "超える": {
+    "reading": "こえる",
+    "romaji": "koeru",
+    "en": "to cross over; to cross",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "越え": {
+    "reading": "こえ",
+    "romaji": "koe",
+    "en": "to cross over; to cross",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "軍": {
+    "reading": "ぐん",
+    "romaji": "gun",
+    "en": "army; armed forces",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "転落した": {
+    "reading": "てんらくした",
+    "romaji": "tenrakushita",
+    "en": "fall; tumble",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "近い": {
+    "reading": "ちかい",
+    "romaji": "chikai",
+    "en": "near; close",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "近く": {
+    "reading": "ちかく",
+    "romaji": "chikaku",
+    "en": "near; neighbourhood",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "近郊": {
+    "reading": "きんこう",
+    "romaji": "kinkou",
+    "en": "outskirts; vicinity",
+    "zhHant": "近郊",
+    "showRuby": true
+  },
+  "述べた": {
+    "reading": "のべた",
+    "romaji": "nobeta",
+    "en": "stated; said",
+    "zhHant": "表示；說明",
+    "showRuby": true
+  },
+  "述べています": {
+    "reading": "のべています",
+    "romaji": "nobeteimasu",
+    "en": "to state; to express",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "述べました": {
+    "reading": "のべました",
+    "romaji": "nobemashita",
+    "en": "to state; to express",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "退い": {
+    "reading": "しりぞい",
+    "romaji": "shirizoi",
+    "en": "to step aside; to move (i.e. out of the way)",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "送りました": {
+    "reading": "おくりました",
+    "romaji": "okurimashita",
+    "en": "to send (a thing); to dispatch",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "送付": {
+    "reading": "そうふ",
+    "romaji": "soufu",
+    "en": "sending (esp. email attachments); forwarding",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "通じ": {
+    "reading": "つうじ",
+    "romaji": "tsuuji",
+    "en": "bowel movement; evacuation",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "通信": {
+    "reading": "つうしん",
+    "romaji": "tsuushin",
+    "en": "correspondence; communication",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "連れ": {
+    "reading": "つれ",
+    "romaji": "tsure",
+    "en": "companion; company",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "連合": {
+    "reading": "れんごう",
+    "romaji": "rengou",
+    "en": "union; alliance",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "連絡方法": {
+    "reading": "れんらくほうほう",
+    "romaji": "renrakuhouhou",
+    "en": "way to make contact",
+    "zhHant": "聯絡方式",
+    "showRuby": true
+  },
+  "進める": {
+    "reading": "すすめる",
+    "romaji": "susumeru",
+    "en": "to advance; to move forward",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "進展": {
+    "reading": "しんてん",
+    "romaji": "shinten",
+    "en": "progress; development",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "遂げ": {
+    "reading": "とげ",
+    "romaji": "toge",
+    "en": "to accomplish; to achieve",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "遅く": {
+    "reading": "おそく",
+    "romaji": "osoku",
+    "en": "late",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "運転": {
+    "reading": "うんてん",
+    "romaji": "unten",
+    "en": "operation (of a machine, etc.); operating",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "違法": {
+    "reading": "いほう",
+    "romaji": "ihou",
+    "en": "illegal",
+    "zhHant": "違法",
+    "showRuby": true
+  },
+  "適切": {
+    "reading": "てきせつ",
+    "romaji": "tekisetsu",
+    "en": "appropriate; suitable",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "選ば": {
+    "reading": "えらば",
+    "romaji": "eraba",
+    "en": "to choose; to select",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "避難": {
+    "reading": "ひなん",
+    "romaji": "hinan",
+    "en": "evacuation",
+    "zhHant": "疏散",
+    "showRuby": true
+  },
+  "避難しました": {
+    "reading": "ひなんしました",
+    "romaji": "hinanshimashita",
+    "en": "taking refuge; finding shelter",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "部屋": {
+    "reading": "へや",
+    "romaji": "heya",
+    "en": "room; chamber",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "重要": {
+    "reading": "じゅうよう",
+    "romaji": "juuyou",
+    "en": "important; momentous",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "量": {
+    "reading": "りょう",
+    "romaji": "ryou",
+    "en": "quantity; amount",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "鉄砲水": {
+    "reading": "てっぽうみず",
+    "romaji": "teppoumizu",
+    "en": "flash flood",
+    "zhHant": "山洪",
+    "showRuby": true
+  },
+  "鉄道": {
+    "reading": "てつどう",
+    "romaji": "tetsudou",
+    "en": "railway",
+    "zhHant": "鐵路",
+    "showRuby": true
+  },
+  "長期": {
+    "reading": "ちょうき",
+    "romaji": "chouki",
+    "en": "long-term",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "間": {
+    "reading": "ま",
+    "romaji": "ma",
+    "en": "space (between); gap",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "関する": {
+    "reading": "かんする",
+    "romaji": "kansuru",
+    "en": "to concern; to be related",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "関係者": {
+    "reading": "かんけいしゃ",
+    "romaji": "kankeisha",
+    "en": "person concerned; people involved (in an event)",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "関税": {
+    "reading": "かんぜい",
+    "romaji": "kanzei",
+    "en": "tariff",
+    "zhHant": "關稅",
+    "showRuby": true
+  },
+  "降る": {
+    "reading": "ふる",
+    "romaji": "furu",
+    "en": "to descend; to go down",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "集まります": {
+    "reading": "あつまります",
+    "romaji": "atsumarimasu",
+    "en": "to gather; to collect",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "難しく": {
+    "reading": "むずかしく",
+    "romaji": "muzukashiku",
+    "en": "difficult; hard",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "雨": {
+    "reading": "あめ",
+    "romaji": "ame",
+    "en": "rain",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "電車": {
+    "reading": "でんしゃ",
+    "romaji": "densha",
+    "en": "train; electric train",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "青森": {
+    "reading": "あおもり",
+    "romaji": "aomori",
+    "en": "Aomori (city, prefecture)",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "非常": {
+    "reading": "ひじょう",
+    "romaji": "hijou",
+    "en": "emergency",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "非難しました": {
+    "reading": "ひなんしました",
+    "romaji": "hinanshimashita",
+    "en": "criticism; blame",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "面積": {
+    "reading": "めんせき",
+    "romaji": "menseki",
+    "en": "square measure; size (e.g. of land)",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "飛び立つ": {
+    "reading": "とびたつ",
+    "romaji": "tobitatsu",
+    "en": "to jump up; to start up",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "飼っ": {
+    "reading": "かっ",
+    "romaji": "katsu",
+    "en": "to keep (a pet or other animal); to have",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "首相": {
+    "reading": "しゅしょう",
+    "romaji": "shushou",
+    "en": "prime minister; chancellor (Germany, Austria, etc.)",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "首都": {
+    "reading": "しゅと",
+    "romaji": "shuto",
+    "en": "capital city",
+    "zhHant": "首都",
+    "showRuby": true
+  },
+  "駅": {
+    "reading": "えき",
+    "romaji": "eki",
+    "en": "railway station; train station",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "高い": {
+    "reading": "たかい",
+    "romaji": "takai",
+    "en": "high; tall",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "高める": {
+    "reading": "たかめる",
+    "romaji": "takameru",
+    "en": "to raise; to lift",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  },
+  "高官": {
+    "reading": "こうかん",
+    "romaji": "koukan",
+    "en": "high official",
+    "zhHant": "參閱句子翻譯",
+    "showRuby": true
+  }
+}

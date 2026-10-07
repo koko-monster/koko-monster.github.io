@@ -1,7 +1,9 @@
-(()=>{
+(()=>{const start=()=>{
   const $=(selector,root=document)=>root.querySelector(selector);
   const $$=(selector,root=document)=>[...root.querySelectorAll(selector)];
   const isNewsIndex=document.body?.dataset.newsPage==='index';
+  const isNewsReader=document.body?.dataset.newsPage==='reader';
+  const storyRoutes={7648:'/ja/news/Global/king-charles-clarifies-harry-meghan-royal-status-7648',9991:'/ja/news/Sports/onosato-promoted-to-yokozuna-9991',9992:'/ja/news/Business/suica-mascot-public-vote-9992',9993:'/ja/news/Environment/aomori-earthquake-magnitude-7-5-9993',7642:'/ja/news/Global/un-adopts-equal-earth-world-map-7642',7611:'/ja/news/Global/nepal-china-border-landslides-7611',7606:'/ja/news/Global/russian-drone-attack-near-kyiv-7606',7605:'/ja/news/Environment/nepal-tibet-landslides-7605',7596:'/ja/news/Global/nepal-china-border-flash-flood-7596',7594:'/ja/news/Global/prince-harry-family-returns-to-britain-7594',7581:'/ja/news/Global/iran-hijab-rules-women-resist-7581',7567:'/ja/news/Business/canada-pauses-us-trade-talks-7567',7561:'/ja/news/Global/israel-west-bank-settlement-homes-7561',7542:'/ja/news/Global/uss-george-washington-malacca-strait-7542'};
   let languageCode='en';
   try{const saved=window.localStorage.getItem('kkm-language');if(saved==='en'||saved==='zh')languageCode=saved;}catch(error){}
   const t=(en,zh)=>languageCode==='zh'?zh:en;
@@ -42,6 +44,7 @@
   const leadCard=$('[data-news-lead]');
   const gridCards=$$('.news-grid [data-news-card]');
   const allCards=gridCards;
+  gridCards.forEach(card=>{const link=$('a',card);if(link&&storyRoutes[card.dataset.storyId])link.href=storyRoutes[card.dataset.storyId];});
   const preview=$('[data-news-preview]');
   const previewFurigana=$('[data-preview-furigana]');
   const previewTranslation=$('[data-preview-translation]');
@@ -118,6 +121,7 @@
   const updateLead=card=>{
     if(!card||!leadCard)return;
     currentFeatured=card;
+    const leadLink=$('[data-lead-link]',leadCard);if(leadLink&&storyRoutes[card.dataset.storyId])leadLink.href=storyRoutes[card.dataset.storyId];
     leadCard.dataset.storyId=card.dataset.storyId;leadCard.dataset.topic=card.dataset.topic;leadCard.dataset.level=card.dataset.level;
     const image=$('[data-lead-image]',leadCard);if(image){image.src=card.dataset.image;image.alt=languageCode==='zh'?'新聞封面插圖':card.dataset.alt||'';}
     const badge=$('[data-lead-badge]',leadCard);if(badge)badge.textContent=t(`TOP STORY · ${topicName(card.dataset.topic).toUpperCase()}`,`精選新聞 · ${topicName(card.dataset.topic)}`);
@@ -208,16 +212,46 @@
   const furigana=$('[data-reader-furigana]');
   const translation=$('[data-reader-translation]');
   const language=$('[data-reader-language]');
+  const mode=$('[data-reader-mode]');
   const size=$('[data-reader-size]');
   const play=$('[data-reader-play]');
   const speed=$('[data-reader-speed]');
   const interfaceLanguage=$('.news-language');
-  let fontLarge=false;
+  let readerLanguage='en';
+  let textSizeIndex=1;
   let speedRate=1;
   let timer=0;
   let tokenIndex=0;
   const tokens=$$('[data-karaoke]');
-  const updateTranslations=()=>{$$('[data-translation-en]').forEach(item=>item.hidden=languageCode!=='en');$$('[data-translation-zh]').forEach(item=>item.hidden=languageCode!=='zh');};
+  const timedWordTokens=$$('.reader-token[data-token-start]');
+  const paragraphTokens=$$('.reader-paragraph-token[data-token-start]');
+  const wordModeParagraphs=[
+    [['チャールズ国王','ちゃーるずこくおう','chaaruzu kokuou'],['は','は','wa'],['7日','なのか','nanoka'],['ヘンリー王子','へんりーおうじ','henrii ouji'],['と','と','to'],['メーガン妃','めーがんひ','meegan hi'],['について','について','ni tsuite'],['公務','こうむ','koumu'],['に就かない','につかない','ni tsukanai'],['王族','おうぞく','ouzoku'],['であると','であると','de aru to'],['表明しました','ひょうめいしました','hyoumei shimashita']],
+    [['侍従長','じじゅうちょう','jijuuchou'],['は','は','wa'],['書簡','しょかん','shokan'],['で','で','de'],['公爵夫妻','こうしゃくふさい','koushaku fusai'],['が','が','ga'],['王室','おうしつ','oushitsu'],['の公務','のこうむ','no koumu'],['を担う','をになう','o ninau'],['メンバーではない','めんばーではない','menbaa dewa nai'],['ことが','ことが','koto ga'],['周知の事実','しゅうちのじじつ','shuuchi no jijitsu'],['であると述べました','であるとのべました','de aru to nobemashita']],
+    [['この','この','kono'],['立場','たちば','tachiba'],['は','は','wa'],['今後も','こんごも','kongo mo'],['尊重される','そんちょうされる','sonchou sareru'],['と','と','to'],['強調されています','きょうちょうされています','kyouchou sareteimasu'],['書簡','しょかん','shokan'],['は','は','wa'],['政府や軍の高官','せいふやぐんのこうかん','seifu ya gun no koukan'],['夫妻の関係者','ふさいのかんけいしゃ','fusai no kankeisha'],['に送付されました','にそうふされました','ni soufu saremashita']],
+    [['ヘンリー王子','へんりーおうじ','henrii ouji'],['と','と','to'],['メーガン妃','めーがんひ','meegan hi'],['は','は','wa'],['王室の公務','おうしつのこうむ','oushitsu no koumu'],['から退いて','からしりぞいて','kara shirizoite'],['北米','ほくべい','hokubei'],['に移住し','にいじゅうし','ni ijuu shi'],['慈善活動','じぜんかつどう','jizen katsudou'],['を続けています','をつづけています','o tsuzuketeimasu']]
+  ];
+  const wordGlosses={
+    'チャールズ国王':['King Charles','查理斯國王'],'は':['topic marker','主題助詞'],'7日':['the 7th','7日'],'ヘンリー王子':['Prince Harry','哈里王子'],'と':['and / that','和／表示'],'メーガン妃':['Meghan','梅根王妃'],'について':['about','關於'],'公務':['official duties','公務'],'に就かない':['does not undertake','不履行'],'王族':['royal family member','王室成員'],'であると':['is / are','是'],'表明しました':['stated','表示'],
+    '侍従長':['private secretary','侍從長'],'書簡':['written letter','書函'],'で':['in / by','在／以'],'公爵夫妻':['the Duke and Duchess','公爵夫婦'],'が':['subject marker','主語助詞'],'王室':['royal household','王室'],'の公務':['official duties','公務'],'を担う':['undertake','承擔'],'メンバーではない':['are not members','並非成員'],'ことが':['the fact that','這項事實'],'周知の事実':['widely known fact','廣為人知的事實'],'であると述べました':['said that it is','指出這是'],
+    'この':['this','這個'],'立場':['position / status','立場／身分'],'今後も':['from now on','今後仍會'],'尊重される':['will be respected','獲得尊重'],'強調されています':['is emphasized','獲得強調'],'政府や軍の高官':['senior officials','政府與軍方高官'],'夫妻の関係者':['people connected to the couple','夫婦的相關人士'],'に送付されました':['was sent to','已送交'],
+    '王室の公務':['official royal duties','王室公務'],'から退いて':['stepped back from','退出'],'北米':['North America','北美'],'に移住し':['moved to','移居'],'慈善活動':['charitable work','慈善工作'],'を続けています':['continue','繼續進行'],'に':['to / in','向／在']
+  };
+  if(article)$$('section',article).forEach((section,index)=>{
+    if($('.reader-word-mode',section))return;
+    const words=wordModeParagraphs[index];if(!words)return;
+    const panel=document.createElement('div');panel.className='reader-word-mode';panel.lang='ja';panel.hidden=true;
+    panel.innerHTML=words.map(([term,kana,romaji])=>{const [en,zh]=wordGlosses[term]||[term,term];const annotated=/[一-龯々ァ-ヶー]/.test(term);const display=annotated?`<ruby>${term}<rt>${kana}</rt></ruby>`:term;return `<button type="button" class="reader-token" data-token-speech="${term}" aria-label="Play ${term}"><b>${display}</b><i>${romaji}</i><em data-en="${en}" data-zh="${zh}">${en}</em></button>`;}).join('');
+    $('.reader-japanese',section)?.insertAdjacentElement('afterend',panel);
+  });
+  const updateTranslations=()=>{
+    const activeLanguage=isNewsIndex?languageCode:readerLanguage;
+    $$('[data-translation-en],[data-reader-title-en]').forEach(item=>item.hidden=activeLanguage!=='en');
+    $$('[data-translation-zh],[data-reader-title-zh]').forEach(item=>item.hidden=activeLanguage!=='zh');
+    $$('[data-keyword] strong').forEach(item=>{item.textContent=activeLanguage==='zh'?item.dataset.zh:item.dataset.en;});
+    $$('.reader-token em').forEach(item=>{item.textContent=activeLanguage==='zh'?item.dataset.zh:item.dataset.en;});
+    if(language){language.textContent=activeLanguage==='zh'?'EN':'繁';language.setAttribute('aria-label',activeLanguage==='zh'?'Switch reader translation to English':'Switch reader translation to Traditional Chinese');}
+  };
   furigana?.addEventListener('click',()=>{const hidden=article.classList.toggle('hide-furigana');furigana.classList.toggle('active',!hidden);furigana.setAttribute('aria-pressed',String(!hidden));furigana.setAttribute('aria-label',hidden?t('Show furigana','顯示振假名'):t('Hide furigana','隱藏振假名'));});
   translation?.addEventListener('click',()=>{const hidden=article.classList.toggle('hide-translation');translation.classList.toggle('active',!hidden);translation.setAttribute('aria-pressed',String(!hidden));translation.setAttribute('aria-label',hidden?t('Show translation','顯示翻譯'):t('Hide translation','隱藏翻譯'));});
   const setText=(selector,en,zh)=>$$(selector).forEach(item=>{item.textContent=t(en,zh);});
@@ -292,23 +326,130 @@
     closeMenu();
     updateFeed();
   };
+  const applyReaderLanguage=()=>{
+    if(!isNewsReader)return;
+    document.documentElement.lang=languageCode==='zh'?'zh-Hant':'en';
+    const copy=[
+      ['.news-nav a[href="news.html"]','Easy News','簡易新聞'],['.news-nav a[href="story.html"]','Books','書籍'],['.news-nav a[href="chat.html"]','Guided Chat','AI 對話'],['.news-nav a[href*="store.kokomonster"]','Shop','商店'],['.news-nav a[href*="apps.apple"]','App','應用程式'],['.news-login','Login','登入'],
+      ['.reader-back','← Back to Easy News','← 返回簡易新聞'],['.reader-toolbar>div:first-child span','READ · LISTEN · UNDERSTAND','閱讀 · 聆聽 · 理解'],['.reader-toolbar>div:first-child strong','2 min · 7 keywords','2 分鐘 · 7 個關鍵字'],['.reader-word-card__head>span','KEYWORDS IN THIS STORY','本篇新聞關鍵字'],['.reader-word-card>p','Play a word or save it to your library.','播放單字，或儲存至你的單字庫。'],
+      ['.reader-progress>span','YOUR DAILY PROGRESS','你的每日進度'],['.reader-progress__heading small','Daily goal · 3 stories','每日目標 · 3 篇新聞'],['.reader-chat-card__copy>small','AFTER READING','閱讀之後'],['.reader-chat-card__copy>strong','Use today’s words with Boombear.','和 Boombear 練習今天的單字。'],['.reader-chat-card__copy>em','Start a guided chat →','開始 AI 對話 →'],
+      ['.reader-next .news-kicker','KEEP READING','繼續閱讀'],['.reader-next h2','More current stories, at your level.','更多符合你程度的時事新聞。'],['.login-modal .news-kicker','YOUR KOKOMONSTER ACCOUNT','你的 KOKOMONSTER 帳號'],['#login-title','Log in to save this word.','登入以儲存這個單字。'],['.login-modal__dialog>p:not(.news-kicker)','Your saved words stay with your reading history and can be used later in Guided Chat.','儲存的單字會保留在閱讀紀錄中，之後亦可用於 AI 對話。'],['.login-modal__later','Not now','暫時不要']
+    ];
+    copy.forEach(([selector,en,zh])=>setText(selector,en,zh));
+    setHtml('.login-modal__dialog>a','Continue to login <b>→</b>','前往登入 <b>→</b>');
+    const demo=$('[data-demo-login]');const demoLabel=$('b',demo);if(demoLabel)demoLabel.textContent=demo.getAttribute('aria-pressed')==='true'?t('Signed-in demo','已登入示範'):t('Signed-out demo','未登入示範');
+    const progress=$('[data-reader-progress]');const count=Number(progress?.dataset.count||1);const remaining=Math.max(0,3-count);
+    const countLabel=$('[data-story-count]',progress);if(countLabel)countLabel.textContent=t(`${count} ${count===1?'story':'stories'} today`, `今天已讀 ${count} 篇`);
+    const message=$('[data-progress-message]',progress);if(message)message.textContent=count>=3?t('Daily goal complete — badge earned!','已完成每日目標，獲得徽章！'):t(`${remaining} more ${remaining===1?'story':'stories'} to earn today’s reading badge.`,`再讀 ${remaining} 篇即可獲得今日閱讀徽章。`);
+    $$('.reader-next__grid em').forEach(item=>{const match=item.textContent.match(/(\d+)\s*min\s*·\s*(\d+)\s*keywords/i);if(match)item.textContent=t(`${match[1]} min · ${match[2]} keywords`,`${match[1]} 分鐘 · ${match[2]} 個關鍵字`);});
+    nav?.setAttribute('aria-label',t('Main navigation','主導覽'));menuScrim?.setAttribute('aria-label',t('Close menu','關閉選單'));$('.login-modal__close')?.setAttribute('aria-label',t('Close login prompt','關閉登入提示'));
+    mode?.setAttribute('aria-label',article?.classList.contains('word-by-word')?t('Switch to paragraph mode','切換至段落模式'):t('Switch to word-by-word mode','切換至逐詞模式'));size?.setAttribute('aria-label',t('Change text size','調整文字大小'));speed?.setAttribute('aria-label',t('Change reading speed','調整朗讀速度'));closeMenu();
+  };
   const updateLanguage=()=>{
-    if(language){language.textContent=languageCode==='zh'?'EN':'繁';language.setAttribute('aria-label',t('Switch translation to Traditional Chinese','切換翻譯為英文'));}
     if(interfaceLanguage){interfaceLanguage.textContent=languageCode==='zh'?'EN':'繁';interfaceLanguage.setAttribute('aria-label',t('Language: English. Switch to Traditional Chinese','語言：繁體中文。切換至英文'));}
     try{window.localStorage.setItem('kkm-language',languageCode);}catch(error){}
-    updateTranslations();applyIndexLanguage();applyFooterLanguage();
+    if(isNewsIndex)updateTranslations();
+    applyIndexLanguage();applyReaderLanguage();applyFooterLanguage();
   };
-  language?.addEventListener('click',()=>{languageCode=languageCode==='en'?'zh':'en';updateLanguage();});
+  language?.addEventListener('click',()=>{readerLanguage=readerLanguage==='en'?'zh':'en';updateTranslations();});
   interfaceLanguage?.addEventListener('click',()=>{languageCode=languageCode==='en'?'zh':'en';updateLanguage();});
-  updateLanguage();
-  size?.addEventListener('click',()=>{fontLarge=!fontLarge;article.classList.toggle('large-text',fontLarge);size.classList.toggle('active',fontLarge);});
+  updateLanguage();updateTranslations();
+  mode?.addEventListener('click',()=>{const enabled=article.classList.toggle('word-by-word');mode.classList.toggle('active',enabled);mode.setAttribute('aria-pressed',String(enabled));mode.textContent=enabled?'文':'語';mode.setAttribute('aria-label',enabled?t('Switch to paragraph mode','切換至段落模式'):t('Switch to word-by-word mode','切換至逐詞模式'));$$('.reader-word-mode',article).forEach(panel=>panel.hidden=!enabled);});
+  size?.addEventListener('click',()=>{textSizeIndex=(textSizeIndex+1)%3;article.classList.toggle('text-medium',textSizeIndex===1);article.classList.toggle('text-large',textSizeIndex===2);size.classList.toggle('active',textSizeIndex>0);size.textContent=['A−','Aa','A+'][textSizeIndex];size.setAttribute('aria-label',t(`Text size: ${['small','medium','large'][textSizeIndex]}. Activate for next size`,`文字大小：${['小','中','大'][textSizeIndex]}。按下切換至下一級`));});
   speed?.addEventListener('click',()=>{speedRate=speedRate===1?.75:speedRate===.75?1.25:1;speed.textContent=`${speedRate}×`;});
-  const stop=()=>{window.clearTimeout(timer);tokens.forEach(item=>item.classList.remove('playing'));tokenIndex=0;if(play){play.textContent='▶';play.setAttribute('aria-pressed','false');play.setAttribute('aria-label',t('Play article','播放文章'));}};
-  const step=()=>{tokens.forEach((item,index)=>item.classList.toggle('playing',index===tokenIndex));if(tokenIndex>=tokens.length){stop();return;}tokenIndex+=1;timer=window.setTimeout(step,Math.round(760/speedRate));};
+  let articleAudio=null;
+  let tokenAudio=null;
+  let activeWordToken=null;
+  let activeParagraphToken=null;
+  const clearWordTracking=()=>{timedWordTokens.forEach(item=>item.classList.remove('playing'));paragraphTokens.forEach(item=>item.classList.remove('playing'));activeWordToken=null;activeParagraphToken=null;};
+  const syncWordTracking=(sentenceIndex,currentTime)=>{
+    const currentMs=currentTime*1000;
+    const matches=item=>Number(item.dataset.sentenceIndex)===sentenceIndex&&currentMs>=Number(item.dataset.tokenStart)&&currentMs<Number(item.dataset.tokenEnd);
+    const match=timedWordTokens.find(matches);const paragraphMatch=paragraphTokens.find(matches);
+    if(match===activeWordToken&&paragraphMatch===activeParagraphToken)return;
+    clearWordTracking();
+    if(match){match.classList.add('playing');activeWordToken=match;}
+    if(paragraphMatch){paragraphMatch.classList.add('playing');activeParagraphToken=paragraphMatch;}
+  };
+  const stopTokenAudio=()=>{if(tokenAudio){tokenAudio.pause();tokenAudio.removeAttribute('src');tokenAudio.load();}tokenAudio=null;clearWordTracking();};
+  const stop=()=>{window.clearTimeout(timer);articleAudio?.pause();if(articleAudio)articleAudio.currentTime=0;articleAudio=null;stopTokenAudio();tokens.forEach(item=>item.classList.remove('sentence-playing'));tokenIndex=0;if(play){play.textContent='▶';play.setAttribute('aria-pressed','false');play.setAttribute('aria-label',t('Play article','播放文章'));}};
+  const step=async()=>{if(tokenIndex>=tokens.length){stop();return;}clearWordTracking();tokens.forEach((item,index)=>item.classList.toggle('sentence-playing',index===tokenIndex));const sentenceIndex=tokenIndex;const token=tokens[tokenIndex++];const source=token.dataset.audio;if(!source){timer=window.setTimeout(step,Math.round(760/speedRate));return;}const audio=new Audio(versionedAudio(source));articleAudio=audio;audio.playbackRate=speedRate;audio.addEventListener('timeupdate',()=>{if(articleAudio===audio)syncWordTracking(sentenceIndex,audio.currentTime);});audio.addEventListener('ended',()=>{if(articleAudio!==audio)return;clearWordTracking();step();},{once:true});audio.addEventListener('error',()=>{if(articleAudio!==audio)return;clearWordTracking();step();},{once:true});try{await audio.play();}catch(error){if(articleAudio!==audio)return;clearWordTracking();timer=window.setTimeout(step,Math.round(760/speedRate));}};
+  const playFromSentence=sentenceIndex=>{
+    if(!Number.isInteger(sentenceIndex)||sentenceIndex<0||sentenceIndex>=tokens.length)return;
+    window.clearTimeout(timer);articleAudio?.pause();articleAudio=null;stopTokenAudio();tokens.forEach(item=>item.classList.remove('sentence-playing'));
+    tokenIndex=sentenceIndex;if(play){play.textContent='Ⅱ';play.setAttribute('aria-pressed','true');play.setAttribute('aria-label',t('Pause article','暫停文章'));}step();
+  };
   play?.addEventListener('click',()=>{if(play.getAttribute('aria-pressed')==='true'){stop();return;}play.textContent='Ⅱ';play.setAttribute('aria-pressed','true');play.setAttribute('aria-label',t('Pause article','暫停文章'));step();});
+  article?.addEventListener('click',event=>{
+    const token=event.target.closest('.reader-token[data-token-audio]');
+    if(!token){
+      const paragraph=event.target.closest('[data-play-sentence]');if(!paragraph||event.target.closest('[data-word]'))return;
+      const sentence=paragraph.querySelector('[data-karaoke]');playFromSentence(Number(sentence?.dataset.sentenceIndex));return;
+    }
+    event.preventDefault();
+    window.clearTimeout(timer);articleAudio?.pause();articleAudio=null;tokens.forEach(item=>item.classList.remove('sentence-playing'));tokenIndex=0;if(play){play.textContent='▶';play.setAttribute('aria-pressed','false');}
+    if(activeWordToken===token&&tokenAudio){stopTokenAudio();return;}
+    stopTokenAudio();
+    const start=Number(token.dataset.tokenStart)/1000;const end=Number(token.dataset.tokenEnd)/1000;
+    const audio=new Audio(versionedAudio(token.dataset.tokenAudio));tokenAudio=audio;audio.playbackRate=speedRate;syncWordTracking(Number(token.dataset.sentenceIndex),(start+.001));
+    const finish=()=>{if(tokenAudio!==audio)return;audio.pause();tokenAudio=null;clearWordTracking();};
+    audio.addEventListener('timeupdate',()=>{if(audio.currentTime>=end)finish();});
+    audio.addEventListener('ended',finish,{once:true});audio.addEventListener('error',finish,{once:true});
+    audio.addEventListener('loadedmetadata',async()=>{if(tokenAudio!==audio)return;audio.currentTime=Math.min(start,Math.max(0,audio.duration-.05));try{await audio.play();}catch(error){finish();}},{once:true});
+    audio.load();
+  });
+  article?.addEventListener('keydown',event=>{
+    if(event.key!=='Enter'&&event.key!==' ')return;
+    const paragraph=event.target.closest('[data-play-sentence]');if(!paragraph)return;
+    event.preventDefault();const sentence=paragraph.querySelector('[data-karaoke]');playFromSentence(Number(sentence?.dataset.sentenceIndex));
+  });
 
   const wordCard=$('[data-word-card]');
-  $$('[data-word]').forEach(word=>word.addEventListener('click',()=>{if(!wordCard)return;wordCard.querySelector('b').textContent=word.dataset.word;wordCard.querySelector('i').textContent=word.dataset.reading;wordCard.querySelector('strong').textContent=languageCode==='zh'?word.dataset.zh:word.dataset.en;wordCard.scrollIntoView({block:'nearest',behavior:'smooth'});}));
+  $$('[data-word]').forEach(word=>word.addEventListener('click',()=>{
+    if(!wordCard)return;
+    const rows=$$('[data-keyword]',wordCard);
+    const match=rows.find(row=>$('b',row)?.textContent.trim()===word.dataset.word);
+    rows.forEach(row=>row.classList.remove('is-flashing'));
+    if(match){match.classList.add('is-flashing');match.scrollIntoView({block:'nearest',behavior:'smooth'});window.setTimeout(()=>match.classList.remove('is-flashing'),900);const audioButton=$('[data-keyword-play]',match);if(audioButton)playKeyword(audioButton);}
+  }));
+
+  let keywordAudio=null;
+  let keywordButton=null;
+  const playKeyword=async button=>{
+    if(keywordAudio){keywordAudio.pause();keywordAudio.currentTime=0;}
+    keywordButton?.classList.remove('playing');keywordButton?.setAttribute('aria-pressed','false');
+    if(keywordButton===button){keywordAudio=null;keywordButton=null;return;}
+    keywordButton=button;keywordAudio=new Audio(versionedAudio(button.dataset.audio));
+    const finish=()=>{button.classList.remove('playing');button.setAttribute('aria-pressed','false');keywordAudio=null;keywordButton=null;};
+    keywordAudio.addEventListener('ended',finish,{once:true});keywordAudio.addEventListener('error',finish,{once:true});
+    button.classList.add('playing');button.setAttribute('aria-pressed','true');
+    try{await keywordAudio.play();}catch(error){finish();}
+  };
+  $$('[data-keyword-play]').forEach(button=>button.addEventListener('click',()=>playKeyword(button)));
+
+  let demoSignedIn=false;
+  const demoLogin=$('[data-demo-login]');
+  demoLogin?.addEventListener('click',()=>{demoSignedIn=!demoSignedIn;demoLogin.setAttribute('aria-pressed',String(demoSignedIn));demoLogin.classList.toggle('active',demoSignedIn);const label=$('b',demoLogin);if(label)label.textContent=demoSignedIn?t('Signed-in demo','已登入示範'):t('Signed-out demo','未登入示範');});
+  $$('[data-keyword-save]').forEach(button=>button.addEventListener('click',event=>{event.preventDefault();if(!demoSignedIn){openLogin(button);return;}const saved=button.getAttribute('aria-pressed')!=='true';button.setAttribute('aria-pressed',String(saved));button.textContent=saved?'':'＋';const term=$('b',button.closest('[data-keyword]'))?.textContent||'word';button.setAttribute('aria-label',`${saved?'Remove':'Save'} ${term}`);}));
+
+  const progress=$('[data-reader-progress]');
+  if(progress){
+    const storyId=document.body.dataset.storyId||location.pathname;
+    let stories=[];
+    try{stories=JSON.parse(window.sessionStorage.getItem('kkm-news-session-stories')||'[]');if(!Array.isArray(stories))stories=[];}catch(error){stories=[];}
+    if(!stories.includes(storyId))stories.push(storyId);
+    try{window.sessionStorage.setItem('kkm-news-session-stories',JSON.stringify(stories));}catch(error){}
+    const count=Math.min(stories.length,3);
+    progress.dataset.count=String(count);
+    const complete=count>=3;
+    const countLabel=$('[data-story-count]',progress);if(countLabel)countLabel.textContent=`${count} ${count===1?'story':'stories'} today`;
+    const badgeCount=$('[data-badge-count]',progress);if(badgeCount)badgeCount.textContent=`${count}/3`;
+    const fill=$('[data-progress-fill]',progress);if(fill)fill.style.width=`${count/3*100}%`;
+    $$('.reader-progress__steps span',progress).forEach((step,index)=>step.classList.toggle('complete',index<count));
+    const badge=$('[data-goal-badge]',progress);badge?.classList.toggle('earned',complete);
+    const message=$('[data-progress-message]',progress);if(message)message.textContent=complete?'Daily goal complete — badge earned!':`${3-count} more ${3-count===1?'story':'stories'} to earn today’s reading badge.`;
+    applyReaderLanguage();
+  }
 
   let wordAudio=null;
   wordPlay?.addEventListener('click',async()=>{
@@ -327,4 +468,4 @@
     wordPlay.classList.add('playing');wordPlay.setAttribute('aria-pressed','true');
     try{await wordAudio.play();}catch(error){finish();}
   });
-})();
+};if(document.body?.dataset.newsPage==='reader'&&window.kkmReaderReady)window.kkmReaderReady.finally(start);else start();})();

@@ -26,9 +26,23 @@
     "zhHant": "尼泊爾與中國邊境發生山洪，造成177人死亡，超過1,300人失蹤。"
   },
   "cover": {
-    "file": "../../../assets/news-covers/border-flash-flood.png",
+    "file": "../../../assets/news-covers/border-flash-flood.webp",
     "sourceUrl": "https://api.kokomonster.com/file/resources/crawled-raw-news/2026-08-28/9798/1787891494322.jpg"
   },
+  "inlineImages": [
+    {
+      "afterSentence": 3,
+      "file": "../../../assets/news-covers/border-flash-flood-storyboard.webp",
+      "crop": "top",
+      "alt": "First supporting Kokomonster scene for this news story"
+    },
+    {
+      "afterSentence": 6,
+      "file": "../../../assets/news-covers/border-flash-flood-storyboard.webp",
+      "crop": "bottom",
+      "alt": "Second supporting Kokomonster scene for this news story"
+    }
+  ],
   "sentences": [
     {
       "id": "s01",
@@ -38,7 +52,118 @@
       "speechJa": "ネパールと中国の国境で、にじゅうろくにちにてっぽうみずが発生しました。",
       "en": "Flash floods occurred on the 26th along the border between Nepal and China.",
       "zhHant": "尼泊爾與中國邊境於26日發生山洪。",
-      "tokens": [],
+      "tokens": [
+        {
+          "text": "ネパール",
+          "offsetMs": 57.111,
+          "durationMs": 642.5,
+          "reading": "ねぱーる",
+          "romaji": "nepaaru",
+          "en": "Nepal",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "と",
+          "offsetMs": 699.611,
+          "durationMs": 171.33299999999997,
+          "reading": "と",
+          "romaji": "to",
+          "en": "and; with; that",
+          "zhHant": "和；與；表示引用",
+          "showRuby": false
+        },
+        {
+          "text": "中国",
+          "offsetMs": 870.944,
+          "durationMs": 613.944,
+          "reading": "ちゅうごく",
+          "romaji": "chuugoku",
+          "en": "China",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "の",
+          "offsetMs": 1484.889,
+          "durationMs": 142.77800000000002,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "国境",
+          "offsetMs": 1627.667,
+          "durationMs": 528.2779999999998,
+          "reading": "こっきょう",
+          "romaji": "kokkyou",
+          "en": "border",
+          "zhHant": "邊境",
+          "showRuby": true
+        },
+        {
+          "text": "で",
+          "offsetMs": 2155.944,
+          "durationMs": 585.3890000000001,
+          "reading": "で",
+          "romaji": "de",
+          "en": "at; by; with",
+          "zhHant": "在；以；用",
+          "showRuby": false
+        },
+        {
+          "text": "26日",
+          "offsetMs": 2741.333,
+          "durationMs": 956.6109999999999,
+          "reading": "にじゅうろくにち",
+          "romaji": "nijuurokunichi",
+          "en": "26th day; date",
+          "zhHant": "26日；日期",
+          "showRuby": true
+        },
+        {
+          "text": "に",
+          "offsetMs": 3697.944,
+          "durationMs": 257.0,
+          "reading": "に",
+          "romaji": "ni",
+          "en": "to; at; in",
+          "zhHant": "向；在；於",
+          "showRuby": false
+        },
+        {
+          "text": "鉄砲水",
+          "offsetMs": 3954.944,
+          "durationMs": 756.7220000000002,
+          "reading": "てっぽうみず",
+          "romaji": "teppoumizu",
+          "en": "flash flood",
+          "zhHant": "山洪",
+          "showRuby": true
+        },
+        {
+          "text": "が",
+          "offsetMs": 4711.667,
+          "durationMs": 142.77800000000025,
+          "reading": "が",
+          "romaji": "ga",
+          "en": "subject marker",
+          "zhHant": "主語助詞",
+          "showRuby": false
+        },
+        {
+          "text": "発生しました",
+          "offsetMs": 4854.444,
+          "durationMs": 1313.5559999999996,
+          "reading": "はっせいしました",
+          "romaji": "hasseishimashita",
+          "en": "outbreak; spring forth",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        }
+      ],
       "audio": {
         "file": "../audio/7596-nepal-china-border-flash-flood/KM-NEWS-7596-nepal-china-border-flash-flood-sentence-01-ja-Nanami.mp3",
         "voice": "ja-JP-NanamiNeural",
@@ -116,7 +241,138 @@
       "speechJa": "この災害により、177人が亡くなり、1300人以上が行方不明です。",
       "en": "The disaster killed 177 people, while more than 1,300 are missing.",
       "zhHant": "災害造成177人死亡，超過1,300人失蹤。",
-      "tokens": [],
+      "tokens": [
+        {
+          "text": "この",
+          "offsetMs": 58.709,
+          "durationMs": 366.932,
+          "reading": "この",
+          "romaji": "kono",
+          "en": "nine",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        },
+        {
+          "text": "災害",
+          "offsetMs": 425.641,
+          "durationMs": 557.7369999999999,
+          "reading": "さいがい",
+          "romaji": "saigai",
+          "en": "disaster",
+          "zhHant": "災害",
+          "showRuby": true
+        },
+        {
+          "text": "に",
+          "offsetMs": 983.378,
+          "durationMs": 132.09600000000012,
+          "reading": "に",
+          "romaji": "ni",
+          "en": "to; at; in",
+          "zhHant": "向；在；於",
+          "showRuby": false
+        },
+        {
+          "text": "より",
+          "offsetMs": 1115.474,
+          "durationMs": 660.4779999999998,
+          "reading": "より",
+          "romaji": "yori",
+          "en": "than; from",
+          "zhHant": "比；從",
+          "showRuby": false
+        },
+        {
+          "text": "177人",
+          "offsetMs": 1775.952,
+          "durationMs": 1409.0199999999998,
+          "reading": "ひゃくななじゅうななにん",
+          "romaji": "hyakunanajuunananin",
+          "en": "177 people",
+          "zhHant": "177人",
+          "showRuby": true
+        },
+        {
+          "text": "が",
+          "offsetMs": 3184.972,
+          "durationMs": 161.44999999999982,
+          "reading": "が",
+          "romaji": "ga",
+          "en": "subject marker",
+          "zhHant": "主語助詞",
+          "showRuby": false
+        },
+        {
+          "text": "亡くなり",
+          "offsetMs": 3346.422,
+          "durationMs": 1056.7649999999999,
+          "reading": "なくなり",
+          "romaji": "nakunari",
+          "en": "to die",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "1300人",
+          "offsetMs": 4403.187,
+          "durationMs": 1100.7970000000005,
+          "reading": "せんさんびゃくにん",
+          "romaji": "sensanbyakunin",
+          "en": "1300 people",
+          "zhHant": "1300人",
+          "showRuby": true
+        },
+        {
+          "text": "以上",
+          "offsetMs": 5503.984,
+          "durationMs": 381.6099999999997,
+          "reading": "いじょう",
+          "romaji": "ijou",
+          "en": "or more",
+          "zhHant": "以上",
+          "showRuby": true
+        },
+        {
+          "text": "が",
+          "offsetMs": 5885.594,
+          "durationMs": 161.44999999999982,
+          "reading": "が",
+          "romaji": "ga",
+          "en": "subject marker",
+          "zhHant": "主語助詞",
+          "showRuby": false
+        },
+        {
+          "text": "行方",
+          "offsetMs": 6047.044,
+          "durationMs": 469.6729999999998,
+          "reading": "ゆくえ",
+          "romaji": "yukue",
+          "en": "(one's) whereabouts",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "不明",
+          "offsetMs": 6516.717,
+          "durationMs": 440.3190000000004,
+          "reading": "ふめい",
+          "romaji": "fumei",
+          "en": "unclear; obscure",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "です",
+          "offsetMs": 6957.036,
+          "durationMs": 410.96399999999994,
+          "reading": "です",
+          "romaji": "desu",
+          "en": "is; polite copula",
+          "zhHant": "是；禮貌判斷詞",
+          "showRuby": false
+        }
+      ],
       "audio": {
         "file": "../audio/7596-nepal-china-border-flash-flood/KM-NEWS-7596-nepal-china-border-flash-flood-sentence-02-ja-Nanami.mp3",
         "voice": "ja-JP-NanamiNeural",
@@ -160,7 +416,7 @@
             "offsetMs": 3750
           },
           {
-            "text": "0人以上",
+            "text": "以上",
             "offsetMs": 4687.5
           },
           {
@@ -190,7 +446,158 @@
       "speechJa": "当局によると、行方不明者には700人を超える外国人も含まれています。",
       "en": "Authorities say the missing include more than 700 foreign nationals.",
       "zhHant": "當局表示，失蹤者中包括超過700名外國人。",
-      "tokens": [],
+      "tokens": [
+        {
+          "text": "当局",
+          "offsetMs": 58.398,
+          "durationMs": 598.582,
+          "reading": "とうきょく",
+          "romaji": "toukyoku",
+          "en": "authorities",
+          "zhHant": "當局",
+          "showRuby": true
+        },
+        {
+          "text": "に",
+          "offsetMs": 656.98,
+          "durationMs": 116.79600000000005,
+          "reading": "に",
+          "romaji": "ni",
+          "en": "to; at; in",
+          "zhHant": "向；在；於",
+          "showRuby": false
+        },
+        {
+          "text": "よる",
+          "offsetMs": 773.777,
+          "durationMs": 291.991,
+          "reading": "よる",
+          "romaji": "yoru",
+          "en": "to be due to; to be caused by",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        },
+        {
+          "text": "と",
+          "offsetMs": 1065.768,
+          "durationMs": 554.7829999999999,
+          "reading": "と",
+          "romaji": "to",
+          "en": "and; with; that",
+          "zhHant": "和；與；表示引用",
+          "showRuby": false
+        },
+        {
+          "text": "行方",
+          "offsetMs": 1620.551,
+          "durationMs": 452.5859999999998,
+          "reading": "ゆくえ",
+          "romaji": "yukue",
+          "en": "(one's) whereabouts",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "不明者",
+          "offsetMs": 2073.138,
+          "durationMs": 569.3829999999998,
+          "reading": "ふめいしゃ",
+          "romaji": "fumeisha",
+          "en": "missing person",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "に",
+          "offsetMs": 2642.521,
+          "durationMs": 145.9960000000001,
+          "reading": "に",
+          "romaji": "ni",
+          "en": "to; at; in",
+          "zhHant": "向；在；於",
+          "showRuby": false
+        },
+        {
+          "text": "は",
+          "offsetMs": 2788.516,
+          "durationMs": 233.59299999999985,
+          "reading": "は",
+          "romaji": "wa",
+          "en": "topic marker",
+          "zhHant": "主題助詞",
+          "showRuby": false
+        },
+        {
+          "text": "700人",
+          "offsetMs": 3022.109,
+          "durationMs": 846.7750000000001,
+          "reading": "ななひゃくにん",
+          "romaji": "nanahyakunin",
+          "en": "700 people",
+          "zhHant": "700人",
+          "showRuby": true
+        },
+        {
+          "text": "を",
+          "offsetMs": 3868.884,
+          "durationMs": 175.19500000000016,
+          "reading": "を",
+          "romaji": "o",
+          "en": "object marker",
+          "zhHant": "受詞助詞",
+          "showRuby": false
+        },
+        {
+          "text": "超える",
+          "offsetMs": 4044.079,
+          "durationMs": 467.18600000000015,
+          "reading": "こえる",
+          "romaji": "koeru",
+          "en": "to cross over; to cross",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "外国人",
+          "offsetMs": 4511.265,
+          "durationMs": 788.3760000000002,
+          "reading": "がいこくじん",
+          "romaji": "gaikokujin",
+          "en": "foreign national",
+          "zhHant": "外國人",
+          "showRuby": true
+        },
+        {
+          "text": "も",
+          "offsetMs": 5299.641,
+          "durationMs": 175.1949999999997,
+          "reading": "も",
+          "romaji": "mo",
+          "en": "also; too",
+          "zhHant": "也；亦",
+          "showRuby": false
+        },
+        {
+          "text": "含ま",
+          "offsetMs": 5474.836,
+          "durationMs": 423.3869999999997,
+          "reading": "ふくま",
+          "romaji": "fukuma",
+          "en": "to contain; to comprise",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "れています",
+          "offsetMs": 5898.223,
+          "durationMs": 773.777,
+          "reading": "れています",
+          "romaji": "reteimasu",
+          "en": "indicates passive voice (incl. the \"suffering passive\")",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        }
+      ],
       "audio": {
         "file": "../audio/7596-nepal-china-border-flash-flood/KM-NEWS-7596-nepal-china-border-flash-flood-sentence-03-ja-Nanami.mp3",
         "voice": "ja-JP-NanamiNeural",
@@ -284,7 +691,138 @@
       "speechJa": "救助活動が行われていますが、こうずいによって重要なインフラが押し流されました。",
       "en": "Rescue work is under way, but the floods have swept away important infrastructure.",
       "zhHant": "救援工作正在進行，但洪水已沖毀重要基礎設施。",
-      "tokens": [],
+      "tokens": [
+        {
+          "text": "救助",
+          "offsetMs": 54.169,
+          "durationMs": 528.145,
+          "reading": "きゅうじょ",
+          "romaji": "kyuujo",
+          "en": "relief; aid",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "活動",
+          "offsetMs": 582.313,
+          "durationMs": 473.976,
+          "reading": "かつどう",
+          "romaji": "katsudou",
+          "en": "activity (of a person, organization, animal, volcano, etc.); action",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "が",
+          "offsetMs": 1056.289,
+          "durationMs": 108.33699999999999,
+          "reading": "が",
+          "romaji": "ga",
+          "en": "subject marker",
+          "zhHant": "主語助詞",
+          "showRuby": false
+        },
+        {
+          "text": "行わ",
+          "offsetMs": 1164.627,
+          "durationMs": 541.6869999999999,
+          "reading": "おこなわ",
+          "romaji": "okonawa",
+          "en": "to perform; to do",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "れています",
+          "offsetMs": 1706.313,
+          "durationMs": 622.9399999999996,
+          "reading": "れています",
+          "romaji": "reteimasu",
+          "en": "indicates passive voice (incl. the \"suffering passive\")",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        },
+        {
+          "text": "が",
+          "offsetMs": 2329.253,
+          "durationMs": 568.7710000000002,
+          "reading": "が",
+          "romaji": "ga",
+          "en": "subject marker",
+          "zhHant": "主語助詞",
+          "showRuby": false
+        },
+        {
+          "text": "洪水",
+          "offsetMs": 2898.024,
+          "durationMs": 514.6019999999999,
+          "reading": "こうずい",
+          "romaji": "kouzui",
+          "en": "flood",
+          "zhHant": "洪水",
+          "showRuby": true
+        },
+        {
+          "text": "によって",
+          "offsetMs": 3412.627,
+          "durationMs": 650.0239999999999,
+          "reading": "によって",
+          "romaji": "niyotte",
+          "en": "according to; by (means of)",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        },
+        {
+          "text": "重要",
+          "offsetMs": 4062.651,
+          "durationMs": 514.6019999999999,
+          "reading": "じゅうよう",
+          "romaji": "juuyou",
+          "en": "important; momentous",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "な",
+          "offsetMs": 4577.253,
+          "durationMs": 121.88000000000011,
+          "reading": "な",
+          "romaji": "na",
+          "en": "linking ending",
+          "zhHant": "連接詞尾",
+          "showRuby": false
+        },
+        {
+          "text": "インフラ",
+          "offsetMs": 4699.133,
+          "durationMs": 487.51800000000003,
+          "reading": "いんふら",
+          "romaji": "infura",
+          "en": "infrastructure",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "が",
+          "offsetMs": 5186.651,
+          "durationMs": 121.88000000000011,
+          "reading": "が",
+          "romaji": "ga",
+          "en": "subject marker",
+          "zhHant": "主語助詞",
+          "showRuby": false
+        },
+        {
+          "text": "押し流されました",
+          "offsetMs": 5308.53,
+          "durationMs": 1435.4700000000003,
+          "reading": "おしながされました",
+          "romaji": "oshinagasaremashita",
+          "en": "to wash away",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        }
+      ],
       "audio": {
         "file": "../audio/7596-nepal-china-border-flash-flood/KM-NEWS-7596-nepal-china-border-flash-flood-sentence-04-ja-Nanami.mp3",
         "voice": "ja-JP-NanamiNeural",
@@ -390,7 +928,158 @@
       "speechJa": "そのため、ひさいちへのアクセスや被災者の救助が難しくなっています。",
       "en": "This has made it difficult to reach the affected areas and rescue survivors.",
       "zhHant": "因此，救援人員難以進入災區並營救受災者。",
-      "tokens": [],
+      "tokens": [
+        {
+          "text": "その",
+          "offsetMs": 62.845,
+          "durationMs": 439.918,
+          "reading": "その",
+          "romaji": "sono",
+          "en": "that; the",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        },
+        {
+          "text": "ため",
+          "offsetMs": 502.763,
+          "durationMs": 675.588,
+          "reading": "ため",
+          "romaji": "tame",
+          "en": "for; because of",
+          "zhHant": "為了；由於",
+          "showRuby": false
+        },
+        {
+          "text": "被災地",
+          "offsetMs": 1178.351,
+          "durationMs": 628.454,
+          "reading": "ひさいち",
+          "romaji": "hisaichi",
+          "en": "disaster-affected area",
+          "zhHant": "災區",
+          "showRuby": true
+        },
+        {
+          "text": "へ",
+          "offsetMs": 1806.804,
+          "durationMs": 125.69100000000003,
+          "reading": "へ",
+          "romaji": "e",
+          "en": "toward; to",
+          "zhHant": "往；向",
+          "showRuby": false
+        },
+        {
+          "text": "の",
+          "offsetMs": 1932.495,
+          "durationMs": 141.40200000000004,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "アクセス",
+          "offsetMs": 2073.897,
+          "durationMs": 612.7420000000002,
+          "reading": "あくせす",
+          "romaji": "akusesu",
+          "en": "access",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "や",
+          "offsetMs": 2686.639,
+          "durationMs": 282.8040000000001,
+          "reading": "や",
+          "romaji": "ya",
+          "en": "and; such as",
+          "zhHant": "和；例如",
+          "showRuby": false
+        },
+        {
+          "text": "被災者",
+          "offsetMs": 2969.443,
+          "durationMs": 691.299,
+          "reading": "ひさいしゃ",
+          "romaji": "hisaisha",
+          "en": "victim of (a disaster)",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "の",
+          "offsetMs": 3660.742,
+          "durationMs": 172.82499999999982,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "救助",
+          "offsetMs": 3833.567,
+          "durationMs": 502.7629999999999,
+          "reading": "きゅうじょ",
+          "romaji": "kyuujo",
+          "en": "relief; aid",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "が",
+          "offsetMs": 4336.33,
+          "durationMs": 204.2470000000003,
+          "reading": "が",
+          "romaji": "ga",
+          "en": "subject marker",
+          "zhHant": "主語助詞",
+          "showRuby": false
+        },
+        {
+          "text": "難しく",
+          "offsetMs": 4540.577,
+          "durationMs": 754.1440000000002,
+          "reading": "むずかしく",
+          "romaji": "muzukashiku",
+          "en": "difficult; hard",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "なっ",
+          "offsetMs": 5294.722,
+          "durationMs": 235.67000000000007,
+          "reading": "なっ",
+          "romaji": "na",
+          "en": "became; verb stem",
+          "zhHant": "成為；動詞詞幹",
+          "showRuby": false
+        },
+        {
+          "text": "て",
+          "offsetMs": 5530.392,
+          "durationMs": 125.6909999999998,
+          "reading": "て",
+          "romaji": "te",
+          "en": "linking verb ending",
+          "zhHant": "連接動詞詞尾",
+          "showRuby": false
+        },
+        {
+          "text": "います",
+          "offsetMs": 5656.082,
+          "durationMs": 439.91799999999967,
+          "reading": "います",
+          "romaji": "imasu",
+          "en": "to be",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        }
+      ],
       "audio": {
         "file": "../audio/7596-nepal-china-border-flash-flood/KM-NEWS-7596-nepal-china-border-flash-flood-sentence-05-ja-Nanami.mp3",
         "voice": "ja-JP-NanamiNeural",
@@ -472,7 +1161,98 @@
       "speechJa": "中国はにじさいがいの可能性をけいこくしています。",
       "en": "China has warned of the possibility of further disasters.",
       "zhHant": "中國已警告，當地可能出現次生災害。",
-      "tokens": [],
+      "tokens": [
+        {
+          "text": "中国",
+          "offsetMs": 63.095,
+          "durationMs": 709.823,
+          "reading": "ちゅうごく",
+          "romaji": "chuugoku",
+          "en": "China",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "は",
+          "offsetMs": 772.919,
+          "durationMs": 268.1550000000001,
+          "reading": "は",
+          "romaji": "wa",
+          "en": "topic marker",
+          "zhHant": "主題助詞",
+          "showRuby": false
+        },
+        {
+          "text": "二次",
+          "offsetMs": 1041.074,
+          "durationMs": 410.1199999999999,
+          "reading": "にじ",
+          "romaji": "niji",
+          "en": "second",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "災害",
+          "offsetMs": 1451.194,
+          "durationMs": 552.085,
+          "reading": "さいがい",
+          "romaji": "saigai",
+          "en": "disaster",
+          "zhHant": "災害",
+          "showRuby": true
+        },
+        {
+          "text": "の",
+          "offsetMs": 2003.279,
+          "durationMs": 173.51200000000017,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "可能性",
+          "offsetMs": 2176.792,
+          "durationMs": 662.502,
+          "reading": "かのうせい",
+          "romaji": "kanousei",
+          "en": "potentiality; likelihood",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "を",
+          "offsetMs": 2839.293,
+          "durationMs": 189.28600000000006,
+          "reading": "を",
+          "romaji": "o",
+          "en": "object marker",
+          "zhHant": "受詞助詞",
+          "showRuby": false
+        },
+        {
+          "text": "警告",
+          "offsetMs": 3028.58,
+          "durationMs": 615.1799999999998,
+          "reading": "けいこく",
+          "romaji": "keikoku",
+          "en": "warning; to warn",
+          "zhHant": "警告",
+          "showRuby": true
+        },
+        {
+          "text": "しています",
+          "offsetMs": 3643.76,
+          "durationMs": 820.2399999999998,
+          "reading": "しています",
+          "romaji": "shiteimasu",
+          "en": "to do; to carry out",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        }
+      ],
       "audio": {
         "file": "../audio/7596-nepal-china-border-flash-flood/KM-NEWS-7596-nepal-china-border-flash-flood-sentence-06-ja-Nanami.mp3",
         "voice": "ja-JP-NanamiNeural",
@@ -542,7 +1322,208 @@
       "speechJa": "今週、ネパールと国境を接するチベット自治区のシガツェしでは、さらに雨が降る予想です。",
       "en": "More rain is forecast this week for Shigatse in the Tibet Autonomous Region, which borders Nepal.",
       "zhHant": "與尼泊爾接壤的西藏自治區日喀則市，本周預料仍會有更多降雨。",
-      "tokens": [],
+      "tokens": [
+        {
+          "text": "今週",
+          "offsetMs": 57.273,
+          "durationMs": 844.773,
+          "reading": "こんしゅう",
+          "romaji": "konshuu",
+          "en": "this week",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "ネパール",
+          "offsetMs": 902.045,
+          "durationMs": 529.773,
+          "reading": "ねぱーる",
+          "romaji": "nepaaru",
+          "en": "Nepal",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "と",
+          "offsetMs": 1431.818,
+          "durationMs": 200.45499999999993,
+          "reading": "と",
+          "romaji": "to",
+          "en": "and; with; that",
+          "zhHant": "和；與；表示引用",
+          "showRuby": false
+        },
+        {
+          "text": "国境",
+          "offsetMs": 1632.273,
+          "durationMs": 529.7729999999999,
+          "reading": "こっきょう",
+          "romaji": "kokkyou",
+          "en": "border",
+          "zhHant": "邊境",
+          "showRuby": true
+        },
+        {
+          "text": "を",
+          "offsetMs": 2162.045,
+          "durationMs": 128.86400000000003,
+          "reading": "を",
+          "romaji": "o",
+          "en": "object marker",
+          "zhHant": "受詞助詞",
+          "showRuby": false
+        },
+        {
+          "text": "接する",
+          "offsetMs": 2290.909,
+          "durationMs": 601.364,
+          "reading": "せっする",
+          "romaji": "sessuru",
+          "en": "to touch; to come in contact with",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "チベット",
+          "offsetMs": 2892.273,
+          "durationMs": 558.4090000000001,
+          "reading": "ちべっと",
+          "romaji": "chibetto",
+          "en": "Tibet",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "自治区",
+          "offsetMs": 3450.682,
+          "durationMs": 415.22699999999986,
+          "reading": "じちく",
+          "romaji": "jichiku",
+          "en": "territory; autonomous region",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "の",
+          "offsetMs": 3865.909,
+          "durationMs": 143.1819999999998,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "シガツェ",
+          "offsetMs": 4009.091,
+          "durationMs": 515.4550000000004,
+          "reading": "しがつぇ",
+          "romaji": "shigatsue",
+          "en": "Shigatse",
+          "zhHant": "日喀則",
+          "showRuby": true
+        },
+        {
+          "text": "市",
+          "offsetMs": 4524.545,
+          "durationMs": 157.5,
+          "reading": "し",
+          "romaji": "shi",
+          "en": "market; fair",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "で",
+          "offsetMs": 4682.045,
+          "durationMs": 114.54500000000007,
+          "reading": "で",
+          "romaji": "de",
+          "en": "at; by; with",
+          "zhHant": "在；以；用",
+          "showRuby": false
+        },
+        {
+          "text": "は",
+          "offsetMs": 4796.591,
+          "durationMs": 701.5910000000003,
+          "reading": "は",
+          "romaji": "wa",
+          "en": "topic marker",
+          "zhHant": "主題助詞",
+          "showRuby": false
+        },
+        {
+          "text": "さら",
+          "offsetMs": 5498.182,
+          "durationMs": 300.6819999999998,
+          "reading": "さら",
+          "romaji": "sara",
+          "en": "plate; dish",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        },
+        {
+          "text": "に",
+          "offsetMs": 5798.864,
+          "durationMs": 186.13600000000042,
+          "reading": "に",
+          "romaji": "ni",
+          "en": "to; at; in",
+          "zhHant": "向；在；於",
+          "showRuby": false
+        },
+        {
+          "text": "雨",
+          "offsetMs": 5985.0,
+          "durationMs": 286.3639999999996,
+          "reading": "あめ",
+          "romaji": "ame",
+          "en": "rain",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "が",
+          "offsetMs": 6271.364,
+          "durationMs": 157.5,
+          "reading": "が",
+          "romaji": "ga",
+          "en": "subject marker",
+          "zhHant": "主語助詞",
+          "showRuby": false
+        },
+        {
+          "text": "降る",
+          "offsetMs": 6428.864,
+          "durationMs": 300.6819999999998,
+          "reading": "ふる",
+          "romaji": "furu",
+          "en": "to descend; to go down",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "予想",
+          "offsetMs": 6729.545,
+          "durationMs": 429.5450000000001,
+          "reading": "よそう",
+          "romaji": "yosou",
+          "en": "expectation; anticipation",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "です",
+          "offsetMs": 7159.091,
+          "durationMs": 400.90899999999965,
+          "reading": "です",
+          "romaji": "desu",
+          "en": "is; polite copula",
+          "zhHant": "是；禮貌判斷詞",
+          "showRuby": false
+        }
+      ],
       "audio": {
         "file": "../audio/7596-nepal-china-border-flash-flood/KM-NEWS-7596-nepal-china-border-flash-flood-sentence-07-ja-Nanami.mp3",
         "voice": "ja-JP-NanamiNeural",
@@ -644,7 +1625,148 @@
       "speechJa": "この地域は、地滑りや土石流、てっぽうみずが発生しやすい場所です。",
       "en": "The area is prone to landslides, debris flows and flash floods.",
       "zhHant": "該地區容易發生山泥傾瀉、土石流及山洪。",
-      "tokens": [],
+      "tokens": [
+        {
+          "text": "この",
+          "offsetMs": 61.748,
+          "durationMs": 370.485,
+          "reading": "この",
+          "romaji": "kono",
+          "en": "nine",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        },
+        {
+          "text": "地域",
+          "offsetMs": 432.233,
+          "durationMs": 540.2910000000002,
+          "reading": "ちいき",
+          "romaji": "chiiki",
+          "en": "area; region",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "は",
+          "offsetMs": 972.524,
+          "durationMs": 571.1649999999998,
+          "reading": "は",
+          "romaji": "wa",
+          "en": "topic marker",
+          "zhHant": "主題助詞",
+          "showRuby": false
+        },
+        {
+          "text": "地滑り",
+          "offsetMs": 1543.689,
+          "durationMs": 663.7859999999998,
+          "reading": "じすべり",
+          "romaji": "jisuberi",
+          "en": "landslide",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "や",
+          "offsetMs": 2207.476,
+          "durationMs": 216.1170000000002,
+          "reading": "や",
+          "romaji": "ya",
+          "en": "and; such as",
+          "zhHant": "和；例如",
+          "showRuby": false
+        },
+        {
+          "text": "土石",
+          "offsetMs": 2423.592,
+          "durationMs": 509.4169999999999,
+          "reading": "どせき",
+          "romaji": "doseki",
+          "en": "earth and stones",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "流",
+          "offsetMs": 2933.01,
+          "durationMs": 493.98099999999977,
+          "reading": "りゅう",
+          "romaji": "ryuu",
+          "en": "fashion; way",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "鉄砲水",
+          "offsetMs": 3426.99,
+          "durationMs": 818.1549999999997,
+          "reading": "てっぽうみず",
+          "romaji": "teppoumizu",
+          "en": "flash flood",
+          "zhHant": "山洪",
+          "showRuby": true
+        },
+        {
+          "text": "が",
+          "offsetMs": 4245.146,
+          "durationMs": 154.3689999999997,
+          "reading": "が",
+          "romaji": "ga",
+          "en": "subject marker",
+          "zhHant": "主語助詞",
+          "showRuby": false
+        },
+        {
+          "text": "発生",
+          "offsetMs": 4399.515,
+          "durationMs": 602.0389999999998,
+          "reading": "はっせい",
+          "romaji": "hassei",
+          "en": "outbreak; spring forth",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "し",
+          "offsetMs": 5001.553,
+          "durationMs": 169.80599999999959,
+          "reading": "し",
+          "romaji": "shi",
+          "en": "do; verb stem",
+          "zhHant": "做；動詞詞幹",
+          "showRuby": false
+        },
+        {
+          "text": "やすい",
+          "offsetMs": 5171.359,
+          "durationMs": 432.2330000000002,
+          "reading": "やすい",
+          "romaji": "yasui",
+          "en": "cheap; inexpensive",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        },
+        {
+          "text": "場所",
+          "offsetMs": 5603.592,
+          "durationMs": 324.1750000000002,
+          "reading": "ばしょ",
+          "romaji": "basho",
+          "en": "place; location",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "です",
+          "offsetMs": 5927.767,
+          "durationMs": 432.2330000000002,
+          "reading": "です",
+          "romaji": "desu",
+          "en": "is; polite copula",
+          "zhHant": "是；禮貌判斷詞",
+          "showRuby": false
+        }
+      ],
       "audio": {
         "file": "../audio/7596-nepal-china-border-flash-flood/KM-NEWS-7596-nepal-china-border-flash-flood-sentence-08-ja-Nanami.mp3",
         "voice": "ja-JP-NanamiNeural",
@@ -722,7 +1844,178 @@
       "speechJa": "通信各社は、壊滅的なこうずいの影響を受けた現地の状況を伝えています。",
       "en": "News organisations are reporting on conditions in areas affected by the devastating floods.",
       "zhHant": "多家新聞機構正報道遭受嚴重洪災地區的最新情況。",
-      "tokens": [],
+      "tokens": [
+        {
+          "text": "通信",
+          "offsetMs": 58.009,
+          "durationMs": 638.094,
+          "reading": "つうしん",
+          "romaji": "tsuushin",
+          "en": "correspondence; communication",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "各社",
+          "offsetMs": 696.102,
+          "durationMs": 449.5659999999999,
+          "reading": "かくしゃ",
+          "romaji": "kakusha",
+          "en": "all companies; each company",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "は",
+          "offsetMs": 1145.668,
+          "durationMs": 638.094,
+          "reading": "は",
+          "romaji": "wa",
+          "en": "topic marker",
+          "zhHant": "主題助詞",
+          "showRuby": false
+        },
+        {
+          "text": "壊滅的",
+          "offsetMs": 1783.762,
+          "durationMs": 812.1189999999999,
+          "reading": "かいめつてき",
+          "romaji": "kaimetsuteki",
+          "en": "devastating; catastrophic",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "な",
+          "offsetMs": 2595.881,
+          "durationMs": 174.02599999999984,
+          "reading": "な",
+          "romaji": "na",
+          "en": "linking ending",
+          "zhHant": "連接詞尾",
+          "showRuby": false
+        },
+        {
+          "text": "洪水",
+          "offsetMs": 2769.906,
+          "durationMs": 536.5789999999997,
+          "reading": "こうずい",
+          "romaji": "kouzui",
+          "en": "flood",
+          "zhHant": "洪水",
+          "showRuby": true
+        },
+        {
+          "text": "の",
+          "offsetMs": 3306.485,
+          "durationMs": 130.51899999999978,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "影響",
+          "offsetMs": 3437.004,
+          "durationMs": 507.57400000000007,
+          "reading": "えいきょう",
+          "romaji": "eikyou",
+          "en": "influence; effect",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "を",
+          "offsetMs": 3944.579,
+          "durationMs": 116.01699999999983,
+          "reading": "を",
+          "romaji": "o",
+          "en": "object marker",
+          "zhHant": "受詞助詞",
+          "showRuby": false
+        },
+        {
+          "text": "受けた",
+          "offsetMs": 4060.596,
+          "durationMs": 507.57400000000007,
+          "reading": "うけた",
+          "romaji": "uketa",
+          "en": "to receive; to get",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "現地",
+          "offsetMs": 4568.17,
+          "durationMs": 464.0680000000002,
+          "reading": "げんち",
+          "romaji": "genchi",
+          "en": "actual place; local",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "の",
+          "offsetMs": 5032.238,
+          "durationMs": 145.02099999999973,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "状況",
+          "offsetMs": 5177.26,
+          "durationMs": 551.0810000000001,
+          "reading": "じょうきょう",
+          "romaji": "joukyou",
+          "en": "state of affairs (around you); situation",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "を",
+          "offsetMs": 5728.34,
+          "durationMs": 145.02099999999973,
+          "reading": "を",
+          "romaji": "o",
+          "en": "object marker",
+          "zhHant": "受詞助詞",
+          "showRuby": false
+        },
+        {
+          "text": "伝え",
+          "offsetMs": 5873.362,
+          "durationMs": 406.0600000000004,
+          "reading": "つたえ",
+          "romaji": "tsutae",
+          "en": "legend; tradition",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "て",
+          "offsetMs": 6279.421,
+          "durationMs": 130.51900000000023,
+          "reading": "て",
+          "romaji": "te",
+          "en": "linking verb ending",
+          "zhHant": "連接動詞詞尾",
+          "showRuby": false
+        },
+        {
+          "text": "います",
+          "offsetMs": 6409.94,
+          "durationMs": 406.0600000000004,
+          "reading": "います",
+          "romaji": "imasu",
+          "en": "to be",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        }
+      ],
       "audio": {
         "file": "../audio/7596-nepal-china-border-flash-flood/KM-NEWS-7596-nepal-china-border-flash-flood-sentence-09-ja-Nanami.mp3",
         "voice": "ja-JP-NanamiNeural",

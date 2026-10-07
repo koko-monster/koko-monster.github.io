@@ -375,7 +375,7 @@ if(guidedChatSection){
 const interfaceLanguageButton=$('[data-interface-language]');
 if(interfaceLanguageButton){
   const landingZh=new Map(Object.entries({
-    'Easy News':'簡易新聞','Books':'書籍','Guided Chat':'AI 對話','Shop':'商店','App':'應用程式','Find your level':'測出你的程度',
+    'Easy News':'簡易新聞','Books':'書籍','Guided Chat':'AI 對話','Shop':'商店','App':'應用程式','Login':'登入','Find your level':'測出你的程度',
     'JAPANESE FOR REAL LIFE':'實用生活日語','Japanese you can':'你真正能用上的','actually use.':'日語。',
     'Read a story. Hear every sentence. Meet useful words in context. Then try them in a real conversation.':'讀一個故事，聽懂每一句，在情境中掌握實用詞彙，再把它們帶進真實對話。','Find your starting level':'找到適合你的起點',
     'TAP · LISTEN · UNDERSTAND':'點選 · 聆聽 · 理解','TRY THE READER':'試用閱讀器','A real page.':'真實頁面。','Help':'支援','when you need it.':'需要時即時出現。',

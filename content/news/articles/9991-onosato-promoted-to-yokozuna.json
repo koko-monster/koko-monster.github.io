@@ -27,9 +27,23 @@
     "zhHant": "大之里晉升為相撲最高級別「橫綱」。"
   },
   "cover": {
-    "file": "../../../assets/news-covers/sumo-yokozuna.png",
+    "file": "../../../assets/news-covers/sumo-yokozuna.webp",
     "sourceUrl": null
   },
+  "inlineImages": [
+    {
+      "afterSentence": 2,
+      "file": "../../../assets/news-covers/onosato-storyboard.webp",
+      "crop": "top",
+      "alt": "First supporting Kokomonster scene for this news story"
+    },
+    {
+      "afterSentence": 4,
+      "file": "../../../assets/news-covers/onosato-storyboard.webp",
+      "crop": "bottom",
+      "alt": "Second supporting Kokomonster scene for this news story"
+    }
+  ],
   "sentences": [
     {
       "id": "s01",
@@ -37,7 +51,108 @@
       "en": "Ōnosato has reached yokozuna, the highest rank in sumo.",
       "zhHant": "大之里晉升為相撲最高級別「橫綱」。",
       "speechJa": "おおのさとは、相撲でいちばん高い地位、よこづなになりました。",
-      "tokens": [],
+      "tokens": [
+        {
+          "text": "大の里",
+          "offsetMs": 100.0,
+          "durationMs": 631.579,
+          "reading": "おおのさと",
+          "romaji": "oonosato",
+          "en": "Ōnosato",
+          "zhHant": "大之里",
+          "showRuby": true
+        },
+        {
+          "text": "は",
+          "offsetMs": 731.579,
+          "durationMs": 210.52600000000007,
+          "reading": "は",
+          "romaji": "wa",
+          "en": "topic marker",
+          "zhHant": "主題助詞",
+          "showRuby": false
+        },
+        {
+          "text": "相撲",
+          "offsetMs": 994.737,
+          "durationMs": 421.053,
+          "reading": "すもう",
+          "romaji": "sumou",
+          "en": "sumo wrestling",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "で",
+          "offsetMs": 1415.789,
+          "durationMs": 210.52600000000007,
+          "reading": "で",
+          "romaji": "de",
+          "en": "at; by; with",
+          "zhHant": "在；以；用",
+          "showRuby": false
+        },
+        {
+          "text": "いちばん",
+          "offsetMs": 1626.316,
+          "durationMs": 842.1050000000002,
+          "reading": "いちばん",
+          "romaji": "ichiban",
+          "en": "number one; first",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        },
+        {
+          "text": "高い",
+          "offsetMs": 2468.421,
+          "durationMs": 421.0529999999999,
+          "reading": "たかい",
+          "romaji": "takai",
+          "en": "high; tall",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "地位",
+          "offsetMs": 2889.474,
+          "durationMs": 421.0529999999999,
+          "reading": "ちい",
+          "romaji": "chii",
+          "en": "(social) position; status",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "横綱",
+          "offsetMs": 3363.158,
+          "durationMs": 421.0529999999999,
+          "reading": "よこづな",
+          "romaji": "yokozuna",
+          "en": "yokozuna; grand champion",
+          "zhHant": "橫綱",
+          "showRuby": true
+        },
+        {
+          "text": "に",
+          "offsetMs": 3784.211,
+          "durationMs": 210.52599999999984,
+          "reading": "に",
+          "romaji": "ni",
+          "en": "to; at; in",
+          "zhHant": "向；在；於",
+          "showRuby": false
+        },
+        {
+          "text": "なりました",
+          "offsetMs": 3994.737,
+          "durationMs": 1052.6309999999994,
+          "reading": "なりました",
+          "romaji": "narimashita",
+          "en": "to become; to get",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        }
+      ],
       "audio": {
         "file": "../audio/9991-onosato-promoted-to-yokozuna/KM-NEWS-9991-onosato-promoted-to-yokozuna-sentence-01-ja-Nanami.mp3",
         "voice": "ja-JP-NanamiNeural",
@@ -50,7 +165,128 @@
       "en": "After the promotion was decided, messengers visited his sumo stable.",
       "zhHant": "晉升決定後，使者到訪其相撲部屋。",
       "speechJa": "よこづなになることが決まると、ししゃが部屋を訪れました。",
-      "tokens": [],
+      "tokens": [
+        {
+          "text": "横綱",
+          "offsetMs": 100.0,
+          "durationMs": 407.149,
+          "reading": "よこづな",
+          "romaji": "yokozuna",
+          "en": "yokozuna; grand champion",
+          "zhHant": "橫綱",
+          "showRuby": true
+        },
+        {
+          "text": "に",
+          "offsetMs": 507.149,
+          "durationMs": 203.57399999999996,
+          "reading": "に",
+          "romaji": "ni",
+          "en": "to; at; in",
+          "zhHant": "向；在；於",
+          "showRuby": false
+        },
+        {
+          "text": "なる",
+          "offsetMs": 710.723,
+          "durationMs": 407.1489999999999,
+          "reading": "なる",
+          "romaji": "naru",
+          "en": "to become; to get",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        },
+        {
+          "text": "こと",
+          "offsetMs": 1117.872,
+          "durationMs": 407.1490000000001,
+          "reading": "こと",
+          "romaji": "koto",
+          "en": "thing; nominalizer",
+          "zhHant": "事情；名詞化",
+          "showRuby": false
+        },
+        {
+          "text": "が",
+          "offsetMs": 1525.021,
+          "durationMs": 203.57400000000007,
+          "reading": "が",
+          "romaji": "ga",
+          "en": "subject marker",
+          "zhHant": "主語助詞",
+          "showRuby": false
+        },
+        {
+          "text": "決まる",
+          "offsetMs": 1728.596,
+          "durationMs": 610.723,
+          "reading": "きまる",
+          "romaji": "kimaru",
+          "en": "to be decided; to be settled",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "と",
+          "offsetMs": 2339.319,
+          "durationMs": 203.57400000000007,
+          "reading": "と",
+          "romaji": "to",
+          "en": "and; with; that",
+          "zhHant": "和；與；表示引用",
+          "showRuby": false
+        },
+        {
+          "text": "使者",
+          "offsetMs": 2593.787,
+          "durationMs": 407.1489999999999,
+          "reading": "ししゃ",
+          "romaji": "shisha",
+          "en": "messenger",
+          "zhHant": "使者",
+          "showRuby": true
+        },
+        {
+          "text": "が",
+          "offsetMs": 3000.936,
+          "durationMs": 203.57400000000007,
+          "reading": "が",
+          "romaji": "ga",
+          "en": "subject marker",
+          "zhHant": "主語助詞",
+          "showRuby": false
+        },
+        {
+          "text": "部屋",
+          "offsetMs": 3204.511,
+          "durationMs": 407.1489999999999,
+          "reading": "へや",
+          "romaji": "heya",
+          "en": "room; chamber",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "を",
+          "offsetMs": 3611.66,
+          "durationMs": 203.57400000000007,
+          "reading": "を",
+          "romaji": "o",
+          "en": "object marker",
+          "zhHant": "受詞助詞",
+          "showRuby": false
+        },
+        {
+          "text": "訪れました",
+          "offsetMs": 3815.234,
+          "durationMs": 1017.8719999999998,
+          "reading": "おとずれました",
+          "romaji": "otozuremashita",
+          "en": "to visit; to call on",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        }
+      ],
       "audio": {
         "file": "../audio/9991-onosato-promoted-to-yokozuna/KM-NEWS-9991-onosato-promoted-to-yokozuna-sentence-02-ja-Nanami.mp3",
         "voice": "ja-JP-NanamiNeural",
@@ -63,7 +299,88 @@
       "en": "Ōnosato replied, “I humbly accept.”",
       "zhHant": "大之里回應道：「我謹此接受。」",
       "speechJa": "おおのさとは、つつしんでお受けしますと答えました。",
-      "tokens": [],
+      "tokens": [
+        {
+          "text": "大の里",
+          "offsetMs": 100.0,
+          "durationMs": 647.385,
+          "reading": "おおのさと",
+          "romaji": "oonosato",
+          "en": "Ōnosato",
+          "zhHant": "大之里",
+          "showRuby": true
+        },
+        {
+          "text": "は",
+          "offsetMs": 747.385,
+          "durationMs": 215.79499999999996,
+          "reading": "は",
+          "romaji": "wa",
+          "en": "topic marker",
+          "zhHant": "主題助詞",
+          "showRuby": false
+        },
+        {
+          "text": "謹んで",
+          "offsetMs": 1017.128,
+          "durationMs": 647.3849999999999,
+          "reading": "つつしんで",
+          "romaji": "tsutsushinde",
+          "en": "humbly; respectfully",
+          "zhHant": "謹慎地；恭敬地",
+          "showRuby": true
+        },
+        {
+          "text": "お",
+          "offsetMs": 1664.513,
+          "durationMs": 215.79500000000007,
+          "reading": "お",
+          "romaji": "o",
+          "en": "cord; strap",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        },
+        {
+          "text": "受け",
+          "offsetMs": 1880.308,
+          "durationMs": 431.59000000000015,
+          "reading": "うけ",
+          "romaji": "uke",
+          "en": "popularity; favour",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "します",
+          "offsetMs": 2311.897,
+          "durationMs": 647.3850000000002,
+          "reading": "します",
+          "romaji": "shimasu",
+          "en": "to do; to carry out",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        },
+        {
+          "text": "と",
+          "offsetMs": 2959.282,
+          "durationMs": 215.79500000000007,
+          "reading": "と",
+          "romaji": "to",
+          "en": "and; with; that",
+          "zhHant": "和；與；表示引用",
+          "showRuby": false
+        },
+        {
+          "text": "答えました",
+          "offsetMs": 3175.077,
+          "durationMs": 1078.9739999999993,
+          "reading": "こたえました",
+          "romaji": "kotaemashita",
+          "en": "to answer; to reply",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        }
+      ],
       "audio": {
         "file": "../audio/9991-onosato-promoted-to-yokozuna/KM-NEWS-9991-onosato-promoted-to-yokozuna-sentence-03-ja-Nanami.mp3",
         "voice": "ja-JP-NanamiNeural",
@@ -76,7 +393,108 @@
       "en": "He then pledged to act responsibly as a yokozuna.",
       "zhHant": "他並承諾，將以橫綱身分負責任地行事。",
       "speechJa": "そして、よこづなとしてせきにんある行動をすると誓いました。",
-      "tokens": [],
+      "tokens": [
+        {
+          "text": "そして",
+          "offsetMs": 100.0,
+          "durationMs": 644.426,
+          "reading": "そして",
+          "romaji": "soshite",
+          "en": "and; and then",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        },
+        {
+          "text": "横綱",
+          "offsetMs": 798.128,
+          "durationMs": 429.6170000000001,
+          "reading": "よこづな",
+          "romaji": "yokozuna",
+          "en": "yokozuna; grand champion",
+          "zhHant": "橫綱",
+          "showRuby": true
+        },
+        {
+          "text": "として",
+          "offsetMs": 1227.745,
+          "durationMs": 644.4259999999999,
+          "reading": "として",
+          "romaji": "toshite",
+          "en": "as (i.e. in the role of); for (i.e. from the viewpoint of)",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        },
+        {
+          "text": "責任",
+          "offsetMs": 1872.17,
+          "durationMs": 429.6170000000002,
+          "reading": "せきにん",
+          "romaji": "sekinin",
+          "en": "responsibility",
+          "zhHant": "責任",
+          "showRuby": true
+        },
+        {
+          "text": "ある",
+          "offsetMs": 2301.787,
+          "durationMs": 429.6170000000002,
+          "reading": "ある",
+          "romaji": "aru",
+          "en": "to be; to exist",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        },
+        {
+          "text": "行動",
+          "offsetMs": 2731.404,
+          "durationMs": 429.6170000000002,
+          "reading": "こうどう",
+          "romaji": "koudou",
+          "en": "action; conduct",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "を",
+          "offsetMs": 3161.021,
+          "durationMs": 214.8090000000002,
+          "reading": "を",
+          "romaji": "o",
+          "en": "object marker",
+          "zhHant": "受詞助詞",
+          "showRuby": false
+        },
+        {
+          "text": "する",
+          "offsetMs": 3375.83,
+          "durationMs": 429.6170000000002,
+          "reading": "する",
+          "romaji": "suru",
+          "en": "to do",
+          "zhHant": "做；進行",
+          "showRuby": false
+        },
+        {
+          "text": "と",
+          "offsetMs": 3805.447,
+          "durationMs": 214.8090000000002,
+          "reading": "と",
+          "romaji": "to",
+          "en": "and; with; that",
+          "zhHant": "和；與；表示引用",
+          "showRuby": false
+        },
+        {
+          "text": "誓いました",
+          "offsetMs": 4020.255,
+          "durationMs": 1074.0429999999997,
+          "reading": "ちかいました",
+          "romaji": "chikaimashita",
+          "en": "to swear; to vow",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        }
+      ],
       "audio": {
         "file": "../audio/9991-onosato-promoted-to-yokozuna/KM-NEWS-9991-onosato-promoted-to-yokozuna-sentence-04-ja-Nanami.mp3",
         "voice": "ja-JP-NanamiNeural",
@@ -89,7 +507,128 @@
       "en": "People in his home region celebrated the promotion with loud applause.",
       "zhHant": "家鄉民眾為他的晉升喝采，送上熱烈掌聲。",
       "speechJa": "地元の人たちは、しょうしんを喜び、大きな拍手を送りました。",
-      "tokens": [],
+      "tokens": [
+        {
+          "text": "地元",
+          "offsetMs": 100.0,
+          "durationMs": 479.663,
+          "reading": "じもと",
+          "romaji": "jimoto",
+          "en": "home area; home town",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "の",
+          "offsetMs": 579.663,
+          "durationMs": 239.832,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "人",
+          "offsetMs": 819.495,
+          "durationMs": 239.832,
+          "reading": "ひと",
+          "romaji": "hito",
+          "en": "-ian (e.g. Italian); -ite (e.g. Tokyoite)",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "たち",
+          "offsetMs": 1059.326,
+          "durationMs": 479.663,
+          "reading": "たち",
+          "romaji": "tachi",
+          "en": "mansion; palace",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        },
+        {
+          "text": "は",
+          "offsetMs": 1538.989,
+          "durationMs": 239.83199999999988,
+          "reading": "は",
+          "romaji": "wa",
+          "en": "topic marker",
+          "zhHant": "主題助詞",
+          "showRuby": false
+        },
+        {
+          "text": "昇進",
+          "offsetMs": 1838.779,
+          "durationMs": 479.663,
+          "reading": "しょうしん",
+          "romaji": "shoushin",
+          "en": "promotion",
+          "zhHant": "晉升",
+          "showRuby": true
+        },
+        {
+          "text": "を",
+          "offsetMs": 2318.442,
+          "durationMs": 239.83199999999988,
+          "reading": "を",
+          "romaji": "o",
+          "en": "object marker",
+          "zhHant": "受詞助詞",
+          "showRuby": false
+        },
+        {
+          "text": "喜び",
+          "offsetMs": 2558.274,
+          "durationMs": 479.663,
+          "reading": "よろこび",
+          "romaji": "yorokobi",
+          "en": "joy; delight",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "大きな",
+          "offsetMs": 3097.895,
+          "durationMs": 719.4949999999999,
+          "reading": "おおきな",
+          "romaji": "ookina",
+          "en": "big; large",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "拍手",
+          "offsetMs": 3817.389,
+          "durationMs": 479.66299999999956,
+          "reading": "はくしゅ",
+          "romaji": "hakushu",
+          "en": "clapping hands; applause",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "を",
+          "offsetMs": 4297.053,
+          "durationMs": 239.83200000000033,
+          "reading": "を",
+          "romaji": "o",
+          "en": "object marker",
+          "zhHant": "受詞助詞",
+          "showRuby": false
+        },
+        {
+          "text": "送りました",
+          "offsetMs": 4536.884,
+          "durationMs": 1199.1590000000006,
+          "reading": "おくりました",
+          "romaji": "okurimashita",
+          "en": "to send (a thing); to dispatch",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        }
+      ],
       "audio": {
         "file": "../audio/9991-onosato-promoted-to-yokozuna/KM-NEWS-9991-onosato-promoted-to-yokozuna-sentence-05-ja-Nanami.mp3",
         "voice": "ja-JP-NanamiNeural",
@@ -102,7 +641,108 @@
       "en": "Attention now turns to how he will perform in the ring.",
       "zhHant": "外界正期待他今後在土俵上的表現。",
       "speechJa": "これからのどひょうでの活躍に、注目が集まります。",
-      "tokens": [],
+      "tokens": [
+        {
+          "text": "これから",
+          "offsetMs": 100.0,
+          "durationMs": 858.537,
+          "reading": "これから",
+          "romaji": "korekara",
+          "en": "from now on; after this",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        },
+        {
+          "text": "の",
+          "offsetMs": 958.537,
+          "durationMs": 214.63400000000001,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "土俵",
+          "offsetMs": 1173.171,
+          "durationMs": 429.26800000000003,
+          "reading": "どひょう",
+          "romaji": "dohyou",
+          "en": "sumo ring",
+          "zhHant": "相撲土俵",
+          "showRuby": true
+        },
+        {
+          "text": "で",
+          "offsetMs": 1602.439,
+          "durationMs": 214.63400000000001,
+          "reading": "で",
+          "romaji": "de",
+          "en": "at; by; with",
+          "zhHant": "在；以；用",
+          "showRuby": false
+        },
+        {
+          "text": "の",
+          "offsetMs": 1817.073,
+          "durationMs": 214.63400000000001,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "活躍",
+          "offsetMs": 2031.707,
+          "durationMs": 429.2679999999998,
+          "reading": "かつやく",
+          "romaji": "katsuyaku",
+          "en": "activity (esp. energetic); great efforts",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "に",
+          "offsetMs": 2460.976,
+          "durationMs": 214.63400000000001,
+          "reading": "に",
+          "romaji": "ni",
+          "en": "to; at; in",
+          "zhHant": "向；在；於",
+          "showRuby": false
+        },
+        {
+          "text": "注目",
+          "offsetMs": 2729.268,
+          "durationMs": 429.26800000000003,
+          "reading": "ちゅうもく",
+          "romaji": "chuumoku",
+          "en": "notice; attention",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "が",
+          "offsetMs": 3158.537,
+          "durationMs": 214.63400000000001,
+          "reading": "が",
+          "romaji": "ga",
+          "en": "subject marker",
+          "zhHant": "主語助詞",
+          "showRuby": false
+        },
+        {
+          "text": "集まります",
+          "offsetMs": 3373.171,
+          "durationMs": 1073.1699999999996,
+          "reading": "あつまります",
+          "romaji": "atsumarimasu",
+          "en": "to gather; to collect",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        }
+      ],
       "audio": {
         "file": "../audio/9991-onosato-promoted-to-yokozuna/KM-NEWS-9991-onosato-promoted-to-yokozuna-sentence-06-ja-Nanami.mp3",
         "voice": "ja-JP-NanamiNeural",

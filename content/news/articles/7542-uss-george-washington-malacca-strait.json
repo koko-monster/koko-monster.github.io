@@ -26,9 +26,23 @@
     "zhHant": "美國海軍發布片段，顯示航空母艦喬治・華盛頓號航經馬六甲海峽並進行飛行任務。"
   },
   "cover": {
-    "file": "../../../assets/news-covers/aircraft-carrier.png",
+    "file": "../../../assets/news-covers/aircraft-carrier.webp",
     "sourceUrl": "https://api.kokomonster.com/file/resources/crawled-raw-news/2026-08-19/9710/1787135535379.jpg"
   },
+  "inlineImages": [
+    {
+      "afterSentence": 3,
+      "file": "../../../assets/news-covers/aircraft-carrier-storyboard.webp",
+      "crop": "top",
+      "alt": "First supporting Kokomonster scene for this news story"
+    },
+    {
+      "afterSentence": 6,
+      "file": "../../../assets/news-covers/aircraft-carrier-storyboard.webp",
+      "crop": "bottom",
+      "alt": "Second supporting Kokomonster scene for this news story"
+    }
+  ],
   "sentences": [
     {
       "id": "s01",
@@ -38,7 +52,158 @@
       "speechJa": "べいぐんは、くうぼジョージ・ワシントンがマレーシアとインドネシアを結ぶマラッカかいきょうをこうこうした。",
       "en": "The US military said the aircraft carrier USS George Washington sailed through the Strait of Malacca between Malaysia and Indonesia.",
       "zhHant": "美軍表示，航空母艦喬治・華盛頓號航經連接馬來西亞與印度尼西亞的馬六甲海峽。",
-      "tokens": [],
+      "tokens": [
+        {
+          "text": "米軍",
+          "offsetMs": 54.93,
+          "durationMs": 590.503,
+          "reading": "べいぐん",
+          "romaji": "beigun",
+          "en": "US armed forces",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "は",
+          "offsetMs": 645.433,
+          "durationMs": 521.8400000000001,
+          "reading": "は",
+          "romaji": "wa",
+          "en": "topic marker",
+          "zhHant": "主題助詞",
+          "showRuby": false
+        },
+        {
+          "text": "空母",
+          "offsetMs": 1167.273,
+          "durationMs": 439.44399999999996,
+          "reading": "くうぼ",
+          "romaji": "kuubo",
+          "en": "aircraft carrier",
+          "zhHant": "航空母艦",
+          "showRuby": true
+        },
+        {
+          "text": "ジョージ",
+          "offsetMs": 1606.717,
+          "durationMs": 659.1660000000002,
+          "reading": "じょーじ",
+          "romaji": "jooji",
+          "en": "George",
+          "zhHant": "喬治",
+          "showRuby": true
+        },
+        {
+          "text": "ワシントン",
+          "offsetMs": 2375.743,
+          "durationMs": 672.8980000000001,
+          "reading": "わしんとん",
+          "romaji": "washinton",
+          "en": "Washington, DC (United States)",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "が",
+          "offsetMs": 3048.642,
+          "durationMs": 164.79100000000017,
+          "reading": "が",
+          "romaji": "ga",
+          "en": "subject marker",
+          "zhHant": "主語助詞",
+          "showRuby": false
+        },
+        {
+          "text": "マレーシア",
+          "offsetMs": 3213.433,
+          "durationMs": 631.701,
+          "reading": "まれーしあ",
+          "romaji": "mareeshia",
+          "en": "Malaysia",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "と",
+          "offsetMs": 3845.134,
+          "durationMs": 219.7220000000002,
+          "reading": "と",
+          "romaji": "to",
+          "en": "and; with; that",
+          "zhHant": "和；與；表示引用",
+          "showRuby": false
+        },
+        {
+          "text": "インドネシア",
+          "offsetMs": 4064.856,
+          "durationMs": 782.7589999999996,
+          "reading": "いんどねしあ",
+          "romaji": "indoneshia",
+          "en": "Indonesia",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "を",
+          "offsetMs": 4847.615,
+          "durationMs": 164.79100000000017,
+          "reading": "を",
+          "romaji": "o",
+          "en": "object marker",
+          "zhHant": "受詞助詞",
+          "showRuby": false
+        },
+        {
+          "text": "結ぶ",
+          "offsetMs": 5012.406,
+          "durationMs": 535.5720000000001,
+          "reading": "むすぶ",
+          "romaji": "musubu",
+          "en": "to tie; to bind",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "マラッカ",
+          "offsetMs": 5547.979,
+          "durationMs": 494.3739999999998,
+          "reading": "まらっか",
+          "romaji": "marakka",
+          "en": "Malacca",
+          "zhHant": "馬六甲",
+          "showRuby": true
+        },
+        {
+          "text": "海峡",
+          "offsetMs": 6042.353,
+          "durationMs": 494.3739999999998,
+          "reading": "かいきょう",
+          "romaji": "kaikyou",
+          "en": "strait",
+          "zhHant": "海峽",
+          "showRuby": true
+        },
+        {
+          "text": "を",
+          "offsetMs": 6536.727,
+          "durationMs": 137.32600000000002,
+          "reading": "を",
+          "romaji": "o",
+          "en": "object marker",
+          "zhHant": "受詞助詞",
+          "showRuby": false
+        },
+        {
+          "text": "航行した",
+          "offsetMs": 6674.053,
+          "durationMs": 1029.9470000000001,
+          "reading": "こうこうした",
+          "romaji": "koukoushita",
+          "en": "cruise; navigation",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        }
+      ],
       "audio": {
         "file": "../audio/7542-uss-george-washington-malacca-strait/KM-NEWS-7542-uss-george-washington-malacca-strait-sentence-01-ja-Nanami.mp3",
         "voice": "ja-JP-NanamiNeural",
@@ -132,7 +297,138 @@
       "speechJa": "インド洋で航空任務を実施する様子も公開された。",
       "en": "It also released footage of flight operations in the Indian Ocean.",
       "zhHant": "美軍亦發布艦載機在印度洋執行飛行任務的片段。",
-      "tokens": [],
+      "tokens": [
+        {
+          "text": "インド",
+          "offsetMs": 60.923,
+          "durationMs": 487.385,
+          "reading": "いんど",
+          "romaji": "indo",
+          "en": "India",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "洋",
+          "offsetMs": 548.308,
+          "durationMs": 304.615,
+          "reading": "よう",
+          "romaji": "you",
+          "en": "open sea",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "で",
+          "offsetMs": 852.923,
+          "durationMs": 182.769,
+          "reading": "で",
+          "romaji": "de",
+          "en": "at; by; with",
+          "zhHant": "在；以；用",
+          "showRuby": false
+        },
+        {
+          "text": "航空",
+          "offsetMs": 1035.692,
+          "durationMs": 594.0,
+          "reading": "こうくう",
+          "romaji": "koukuu",
+          "en": "aviation; flying",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "任務",
+          "offsetMs": 1629.692,
+          "durationMs": 380.769,
+          "reading": "にんむ",
+          "romaji": "ninmu",
+          "en": "duty; function",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "を",
+          "offsetMs": 2010.462,
+          "durationMs": 182.76899999999978,
+          "reading": "を",
+          "romaji": "o",
+          "en": "object marker",
+          "zhHant": "受詞助詞",
+          "showRuby": false
+        },
+        {
+          "text": "実施",
+          "offsetMs": 2193.231,
+          "durationMs": 411.2310000000002,
+          "reading": "じっし",
+          "romaji": "jisshi",
+          "en": "enforcement; implementation",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "する",
+          "offsetMs": 2604.462,
+          "durationMs": 304.61500000000024,
+          "reading": "する",
+          "romaji": "suru",
+          "en": "to do",
+          "zhHant": "做；進行",
+          "showRuby": false
+        },
+        {
+          "text": "様子",
+          "offsetMs": 2909.077,
+          "durationMs": 441.692,
+          "reading": "ようす",
+          "romaji": "yousu",
+          "en": "state; state of affairs",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "も",
+          "offsetMs": 3350.769,
+          "durationMs": 182.76899999999978,
+          "reading": "も",
+          "romaji": "mo",
+          "en": "also; too",
+          "zhHant": "也；亦",
+          "showRuby": false
+        },
+        {
+          "text": "公開",
+          "offsetMs": 3533.538,
+          "durationMs": 502.61500000000024,
+          "reading": "こうかい",
+          "romaji": "koukai",
+          "en": "opening to the public; making available to the public",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "さ",
+          "offsetMs": 4036.154,
+          "durationMs": 167.538,
+          "reading": "さ",
+          "romaji": "sa",
+          "en": "difference; variation",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        },
+        {
+          "text": "れた",
+          "offsetMs": 4203.692,
+          "durationMs": 548.308,
+          "reading": "れた",
+          "romaji": "reta",
+          "en": "indicates passive voice (incl. the \"suffering passive\")",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        }
+      ],
       "audio": {
         "file": "../audio/7542-uss-george-washington-malacca-strait/KM-NEWS-7542-uss-george-washington-malacca-strait-sentence-02-ja-Nanami.mp3",
         "voice": "ja-JP-NanamiNeural",
@@ -210,7 +506,288 @@
       "speechJa": "映像ははちがつじゅうさんにちに撮影され、世界で最も交通量の多いかいきょうの一つをこうこうするくうぼの甲板が映し出されている。",
       "en": "The footage, filmed on 13 August, shows the carrier’s deck as it moves through one of the world’s busiest waterways.",
       "zhHant": "片段攝於8月13日，可見航母甲板，以及艦隻駛過全球最繁忙航道之一的情況。",
-      "tokens": [],
+      "tokens": [
+        {
+          "text": "映像",
+          "offsetMs": 56.722,
+          "durationMs": 567.217,
+          "reading": "えいぞう",
+          "romaji": "eizou",
+          "en": "image (on a screen); picture (e.g. on a TV)",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "は",
+          "offsetMs": 623.939,
+          "durationMs": 226.88700000000006,
+          "reading": "は",
+          "romaji": "wa",
+          "en": "topic marker",
+          "zhHant": "主題助詞",
+          "showRuby": false
+        },
+        {
+          "text": "8月",
+          "offsetMs": 850.826,
+          "durationMs": 666.48,
+          "reading": "8つき",
+          "romaji": "8tsuki",
+          "en": "8 month",
+          "zhHant": "8月",
+          "showRuby": true
+        },
+        {
+          "text": "13日",
+          "offsetMs": 1517.306,
+          "durationMs": 779.924,
+          "reading": "じゅうさんにち",
+          "romaji": "juusannichi",
+          "en": "13th day; date",
+          "zhHant": "13日；日期",
+          "showRuby": true
+        },
+        {
+          "text": "に",
+          "offsetMs": 2297.23,
+          "durationMs": 141.8040000000001,
+          "reading": "に",
+          "romaji": "ni",
+          "en": "to; at; in",
+          "zhHant": "向；在；於",
+          "showRuby": false
+        },
+        {
+          "text": "撮影",
+          "offsetMs": 2439.034,
+          "durationMs": 538.8560000000002,
+          "reading": "さつえい",
+          "romaji": "satsuei",
+          "en": "photography (still or motion); photographing",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "さ",
+          "offsetMs": 2977.891,
+          "durationMs": 170.16499999999996,
+          "reading": "さ",
+          "romaji": "sa",
+          "en": "difference; variation",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        },
+        {
+          "text": "れ",
+          "offsetMs": 3148.056,
+          "durationMs": 652.2999999999997,
+          "reading": "れ",
+          "romaji": "re",
+          "en": "passive verb ending",
+          "zhHant": "被動動詞詞尾",
+          "showRuby": false
+        },
+        {
+          "text": "世界",
+          "offsetMs": 3800.356,
+          "durationMs": 439.5930000000003,
+          "reading": "せかい",
+          "romaji": "sekai",
+          "en": "the world; society",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "で",
+          "offsetMs": 4239.949,
+          "durationMs": 184.34600000000046,
+          "reading": "で",
+          "romaji": "de",
+          "en": "at; by; with",
+          "zhHant": "在；以；用",
+          "showRuby": false
+        },
+        {
+          "text": "最も",
+          "offsetMs": 4424.295,
+          "durationMs": 581.3980000000001,
+          "reading": "もっとも",
+          "romaji": "mottomo",
+          "en": "most; extremely",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "交通",
+          "offsetMs": 5005.693,
+          "durationMs": 524.6760000000004,
+          "reading": "こうつう",
+          "romaji": "koutsuu",
+          "en": "traffic; transportation",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "量",
+          "offsetMs": 5530.368,
+          "durationMs": 269.4279999999999,
+          "reading": "りょう",
+          "romaji": "ryou",
+          "en": "quantity; amount",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "の",
+          "offsetMs": 5799.797,
+          "durationMs": 113.44300000000021,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "多い",
+          "offsetMs": 5913.24,
+          "durationMs": 439.59299999999985,
+          "reading": "おおい",
+          "romaji": "ooi",
+          "en": "many; numerous",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "海峡",
+          "offsetMs": 6352.834,
+          "durationMs": 524.6760000000004,
+          "reading": "かいきょう",
+          "romaji": "kaikyou",
+          "en": "strait",
+          "zhHant": "海峽",
+          "showRuby": true
+        },
+        {
+          "text": "の",
+          "offsetMs": 6877.51,
+          "durationMs": 127.6239999999998,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "一つ",
+          "offsetMs": 7005.133,
+          "durationMs": 467.9539999999997,
+          "reading": "ひとつ",
+          "romaji": "hitotsu",
+          "en": "one",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "を",
+          "offsetMs": 7473.088,
+          "durationMs": 155.98499999999967,
+          "reading": "を",
+          "romaji": "o",
+          "en": "object marker",
+          "zhHant": "受詞助詞",
+          "showRuby": false
+        },
+        {
+          "text": "航行",
+          "offsetMs": 7629.072,
+          "durationMs": 524.6760000000004,
+          "reading": "こうこう",
+          "romaji": "koukou",
+          "en": "navigation; to sail",
+          "zhHant": "航行",
+          "showRuby": true
+        },
+        {
+          "text": "する",
+          "offsetMs": 8153.748,
+          "durationMs": 354.5110000000004,
+          "reading": "する",
+          "romaji": "suru",
+          "en": "to do",
+          "zhHant": "做；進行",
+          "showRuby": false
+        },
+        {
+          "text": "空母",
+          "offsetMs": 8508.259,
+          "durationMs": 382.8719999999994,
+          "reading": "くうぼ",
+          "romaji": "kuubo",
+          "en": "aircraft carrier",
+          "zhHant": "航空母艦",
+          "showRuby": true
+        },
+        {
+          "text": "の",
+          "offsetMs": 8891.131,
+          "durationMs": 198.52599999999984,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "甲板",
+          "offsetMs": 9089.657,
+          "durationMs": 553.0370000000003,
+          "reading": "かんぱん",
+          "romaji": "kanpan",
+          "en": "deck (of a ship)",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "が",
+          "offsetMs": 9642.694,
+          "durationMs": 155.98500000000058,
+          "reading": "が",
+          "romaji": "ga",
+          "en": "subject marker",
+          "zhHant": "主語助詞",
+          "showRuby": false
+        },
+        {
+          "text": "映し",
+          "offsetMs": 9798.679,
+          "durationMs": 453.77399999999943,
+          "reading": "うつし",
+          "romaji": "utsushi",
+          "en": "to project; to reflect",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "出さ",
+          "offsetMs": 10252.452,
+          "durationMs": 269.4279999999999,
+          "reading": "ださ",
+          "romaji": "dasa",
+          "en": "to take out; to get out",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "れている",
+          "offsetMs": 10521.881,
+          "durationMs": 638.1190000000006,
+          "reading": "れている",
+          "romaji": "reteiru",
+          "en": "indicates passive voice (incl. the \"suffering passive\")",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        }
+      ],
       "audio": {
         "file": "../audio/7542-uss-george-washington-malacca-strait/KM-NEWS-7542-uss-george-washington-malacca-strait-sentence-03-ja-Nanami.mp3",
         "voice": "ja-JP-NanamiNeural",
@@ -352,7 +929,128 @@
       "speechJa": "ジョージ・ワシントンはエイブラハム・リンカーンに代わるため中東へ向かっている。",
       "en": "The George Washington is heading to the Middle East to replace the Abraham Lincoln.",
       "zhHant": "喬治・華盛頓號正前往中東，接替林肯號航空母艦。",
-      "tokens": [],
+      "tokens": [
+        {
+          "text": "ジョージ",
+          "offsetMs": 60.253,
+          "durationMs": 828.478,
+          "reading": "じょーじ",
+          "romaji": "jooji",
+          "en": "George",
+          "zhHant": "喬治",
+          "showRuby": true
+        },
+        {
+          "text": "ワシントン",
+          "offsetMs": 1054.426,
+          "durationMs": 753.162,
+          "reading": "わしんとん",
+          "romaji": "washinton",
+          "en": "Washington, DC (United States)",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "は",
+          "offsetMs": 1807.588,
+          "durationMs": 195.8219999999999,
+          "reading": "は",
+          "romaji": "wa",
+          "en": "topic marker",
+          "zhHant": "主題助詞",
+          "showRuby": false
+        },
+        {
+          "text": "エイ",
+          "offsetMs": 2003.41,
+          "durationMs": 271.13800000000015,
+          "reading": "えい",
+          "romaji": "ei",
+          "en": "ray (any fish of superorder Batoidea)",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "ブラハム",
+          "offsetMs": 2274.548,
+          "durationMs": 813.415,
+          "reading": "ぶらはむ",
+          "romaji": "burahamu",
+          "en": "bra",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "リンカーン",
+          "offsetMs": 3148.215,
+          "durationMs": 587.4659999999999,
+          "reading": "りんかーん",
+          "romaji": "rinkaan",
+          "en": "Lincoln",
+          "zhHant": "林肯",
+          "showRuby": true
+        },
+        {
+          "text": "に",
+          "offsetMs": 3735.681,
+          "durationMs": 210.88499999999976,
+          "reading": "に",
+          "romaji": "ni",
+          "en": "to; at; in",
+          "zhHant": "向；在；於",
+          "showRuby": false
+        },
+        {
+          "text": "代わる",
+          "offsetMs": 3946.567,
+          "durationMs": 436.83399999999983,
+          "reading": "かわる",
+          "romaji": "kawaru",
+          "en": "to succeed; to relieve",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "ため",
+          "offsetMs": 4383.4,
+          "durationMs": 316.3279999999995,
+          "reading": "ため",
+          "romaji": "tame",
+          "en": "for; because of",
+          "zhHant": "為了；由於",
+          "showRuby": false
+        },
+        {
+          "text": "中東",
+          "offsetMs": 4699.728,
+          "durationMs": 617.5929999999998,
+          "reading": "ちゅうとう",
+          "romaji": "chuutou",
+          "en": "Middle East",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "へ",
+          "offsetMs": 5317.321,
+          "durationMs": 120.50600000000031,
+          "reading": "へ",
+          "romaji": "e",
+          "en": "toward; to",
+          "zhHant": "往；向",
+          "showRuby": false
+        },
+        {
+          "text": "向かっている",
+          "offsetMs": 5437.827,
+          "durationMs": 994.1729999999998,
+          "reading": "むかっている",
+          "romaji": "mukatteiru",
+          "en": "to face",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        }
+      ],
       "audio": {
         "file": "../audio/7542-uss-george-washington-malacca-strait/KM-NEWS-7542-uss-george-washington-malacca-strait-sentence-04-ja-Nanami.mp3",
         "voice": "ja-JP-NanamiNeural",
@@ -438,7 +1136,178 @@
       "speechJa": "エイブラハム・リンカーンはイランとの戦争の影響で長期にわたり海上にいる。",
       "en": "The Abraham Lincoln has remained at sea for an extended period because of the effects of the war with Iran.",
       "zhHant": "受與伊朗戰事影響，林肯號已長時間留在海上。",
-      "tokens": [],
+      "tokens": [
+        {
+          "text": "エイ",
+          "offsetMs": 59.439,
+          "durationMs": 326.913,
+          "reading": "えい",
+          "romaji": "ei",
+          "en": "ray (any fish of superorder Batoidea)",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "ブラハム",
+          "offsetMs": 386.352,
+          "durationMs": 832.1429999999999,
+          "reading": "ぶらはむ",
+          "romaji": "burahamu",
+          "en": "bra",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "リンカーン",
+          "offsetMs": 1263.073,
+          "durationMs": 638.9669999999999,
+          "reading": "りんかーん",
+          "romaji": "rinkaan",
+          "en": "Lincoln",
+          "zhHant": "林肯",
+          "showRuby": true
+        },
+        {
+          "text": "は",
+          "offsetMs": 1902.04,
+          "durationMs": 326.913,
+          "reading": "は",
+          "romaji": "wa",
+          "en": "topic marker",
+          "zhHant": "主題助詞",
+          "showRuby": false
+        },
+        {
+          "text": "イラン",
+          "offsetMs": 2228.953,
+          "durationMs": 371.4920000000002,
+          "reading": "いらん",
+          "romaji": "iran",
+          "en": "Iran",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "と",
+          "offsetMs": 2600.445,
+          "durationMs": 148.5970000000002,
+          "reading": "と",
+          "romaji": "to",
+          "en": "and; with; that",
+          "zhHant": "和；與；表示引用",
+          "showRuby": false
+        },
+        {
+          "text": "の",
+          "offsetMs": 2749.042,
+          "durationMs": 178.3159999999998,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "戦争",
+          "offsetMs": 2927.359,
+          "durationMs": 609.2469999999998,
+          "reading": "せんそう",
+          "romaji": "sensou",
+          "en": "war",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "の",
+          "offsetMs": 3536.606,
+          "durationMs": 118.87800000000016,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "影響",
+          "offsetMs": 3655.483,
+          "durationMs": 564.6679999999997,
+          "reading": "えいきょう",
+          "romaji": "eikyou",
+          "en": "influence; effect",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "で",
+          "offsetMs": 4220.151,
+          "durationMs": 222.89500000000044,
+          "reading": "で",
+          "romaji": "de",
+          "en": "at; by; with",
+          "zhHant": "在；以；用",
+          "showRuby": false
+        },
+        {
+          "text": "長期",
+          "offsetMs": 4443.047,
+          "durationMs": 505.22900000000027,
+          "reading": "ちょうき",
+          "romaji": "chouki",
+          "en": "long-term",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "に",
+          "offsetMs": 4948.276,
+          "durationMs": 148.59699999999975,
+          "reading": "に",
+          "romaji": "ni",
+          "en": "to; at; in",
+          "zhHant": "向；在；於",
+          "showRuby": false
+        },
+        {
+          "text": "わたり",
+          "offsetMs": 5096.873,
+          "durationMs": 460.64999999999964,
+          "reading": "わたり",
+          "romaji": "watari",
+          "en": "crossing; passage",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        },
+        {
+          "text": "海上",
+          "offsetMs": 5557.523,
+          "durationMs": 564.6679999999997,
+          "reading": "かいじょう",
+          "romaji": "kaijou",
+          "en": "on the sea; surface of the sea",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "に",
+          "offsetMs": 6122.192,
+          "durationMs": 133.73700000000008,
+          "reading": "に",
+          "romaji": "ni",
+          "en": "to; at; in",
+          "zhHant": "向；在；於",
+          "showRuby": false
+        },
+        {
+          "text": "いる",
+          "offsetMs": 6255.929,
+          "durationMs": 416.0709999999999,
+          "reading": "いる",
+          "romaji": "iru",
+          "en": "to be; to exist",
+          "zhHant": "在；存在",
+          "showRuby": false
+        }
+      ],
       "audio": {
         "file": "../audio/7542-uss-george-washington-malacca-strait/KM-NEWS-7542-uss-george-washington-malacca-strait-sentence-05-ja-Nanami.mp3",
         "voice": "ja-JP-NanamiNeural",
@@ -532,7 +1401,158 @@
       "speechJa": "そのため、議員や軍の関係者の家族の間で懸念が広がっている。",
       "en": "This has caused concern among lawmakers and the families of military personnel.",
       "zhHant": "情況引起國會議員及軍人家屬憂慮。",
-      "tokens": [],
+      "tokens": [
+        {
+          "text": "その",
+          "offsetMs": 57.555,
+          "durationMs": 402.885,
+          "reading": "その",
+          "romaji": "sono",
+          "en": "that; the",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        },
+        {
+          "text": "ため",
+          "offsetMs": 460.44,
+          "durationMs": 719.4379999999999,
+          "reading": "ため",
+          "romaji": "tame",
+          "en": "for; because of",
+          "zhHant": "為了；由於",
+          "showRuby": false
+        },
+        {
+          "text": "議員",
+          "offsetMs": 1179.878,
+          "durationMs": 417.2740000000001,
+          "reading": "ぎいん",
+          "romaji": "giin",
+          "en": "member of an assembly; member of the Diet",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "や",
+          "offsetMs": 1597.152,
+          "durationMs": 273.38599999999997,
+          "reading": "や",
+          "romaji": "ya",
+          "en": "and; such as",
+          "zhHant": "和；例如",
+          "showRuby": false
+        },
+        {
+          "text": "軍",
+          "offsetMs": 1870.539,
+          "durationMs": 316.5530000000001,
+          "reading": "ぐん",
+          "romaji": "gun",
+          "en": "army; armed forces",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "の",
+          "offsetMs": 2187.091,
+          "durationMs": 187.0540000000001,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "関係者",
+          "offsetMs": 2374.145,
+          "durationMs": 661.8830000000003,
+          "reading": "かんけいしゃ",
+          "romaji": "kankeisha",
+          "en": "person concerned; people involved (in an event)",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "の",
+          "offsetMs": 3036.028,
+          "durationMs": 201.4430000000002,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "家族",
+          "offsetMs": 3237.471,
+          "durationMs": 446.05200000000013,
+          "reading": "かぞく",
+          "romaji": "kazoku",
+          "en": "family; members of a family",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "の",
+          "offsetMs": 3683.522,
+          "durationMs": 115.11000000000013,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "間",
+          "offsetMs": 3798.632,
+          "durationMs": 417.2739999999999,
+          "reading": "ま",
+          "romaji": "ma",
+          "en": "space (between); gap",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "で",
+          "offsetMs": 4215.906,
+          "durationMs": 273.3860000000004,
+          "reading": "で",
+          "romaji": "de",
+          "en": "at; by; with",
+          "zhHant": "在；以；用",
+          "showRuby": false
+        },
+        {
+          "text": "懸念",
+          "offsetMs": 4489.293,
+          "durationMs": 431.66300000000047,
+          "reading": "けねん",
+          "romaji": "kenen",
+          "en": "concern",
+          "zhHant": "關注；憂慮",
+          "showRuby": true
+        },
+        {
+          "text": "が",
+          "offsetMs": 4920.956,
+          "durationMs": 129.4989999999998,
+          "reading": "が",
+          "romaji": "ga",
+          "en": "subject marker",
+          "zhHant": "主語助詞",
+          "showRuby": false
+        },
+        {
+          "text": "広がっている",
+          "offsetMs": 5050.454,
+          "durationMs": 1093.5460000000003,
+          "reading": "ひろがっている",
+          "romaji": "hirogatteiru",
+          "en": "to spread (out); to extend",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        }
+      ],
       "audio": {
         "file": "../audio/7542-uss-george-washington-malacca-strait/KM-NEWS-7542-uss-george-washington-malacca-strait-sentence-06-ja-Nanami.mp3",
         "voice": "ja-JP-NanamiNeural",
@@ -622,7 +1642,108 @@
       "speechJa": "今月初め、エイブラハム・リンカーンからのりくみいんが海に転落した。",
       "en": "Earlier this month, a crew member fell overboard from the Abraham Lincoln.",
       "zhHant": "本月初，林肯號一名船員墮海。",
-      "tokens": [],
+      "tokens": [
+        {
+          "text": "今月",
+          "offsetMs": 61.818,
+          "durationMs": 664.545,
+          "reading": "こんげつ",
+          "romaji": "kongetsu",
+          "en": "this month",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "初め",
+          "offsetMs": 726.364,
+          "durationMs": 757.2730000000001,
+          "reading": "はじめ",
+          "romaji": "hajime",
+          "en": "beginning; start",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "エイブラハム",
+          "offsetMs": 1483.636,
+          "durationMs": 1035.455,
+          "reading": "えいぶらはむ",
+          "romaji": "eiburahamu",
+          "en": "Abraham",
+          "zhHant": "亞伯拉罕",
+          "showRuby": true
+        },
+        {
+          "text": "リンカーン",
+          "offsetMs": 2550.0,
+          "durationMs": 618.1819999999998,
+          "reading": "りんかーん",
+          "romaji": "rinkaan",
+          "en": "Lincoln",
+          "zhHant": "林肯",
+          "showRuby": true
+        },
+        {
+          "text": "から",
+          "offsetMs": 3168.182,
+          "durationMs": 340.0,
+          "reading": "から",
+          "romaji": "kara",
+          "en": "from; because",
+          "zhHant": "從；因為",
+          "showRuby": false
+        },
+        {
+          "text": "乗組員",
+          "offsetMs": 3508.182,
+          "durationMs": 803.6359999999995,
+          "reading": "のりくみいん",
+          "romaji": "norikumiin",
+          "en": "crew member",
+          "zhHant": "船員",
+          "showRuby": true
+        },
+        {
+          "text": "が",
+          "offsetMs": 4311.818,
+          "durationMs": 170.0,
+          "reading": "が",
+          "romaji": "ga",
+          "en": "subject marker",
+          "zhHant": "主語助詞",
+          "showRuby": false
+        },
+        {
+          "text": "海",
+          "offsetMs": 4481.818,
+          "durationMs": 309.09100000000035,
+          "reading": "うみ",
+          "romaji": "umi",
+          "en": "sea; ocean",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "に",
+          "offsetMs": 4790.909,
+          "durationMs": 200.90899999999965,
+          "reading": "に",
+          "romaji": "ni",
+          "en": "to; at; in",
+          "zhHant": "向；在；於",
+          "showRuby": false
+        },
+        {
+          "text": "転落した",
+          "offsetMs": 4991.818,
+          "durationMs": 1128.1819999999998,
+          "reading": "てんらくした",
+          "romaji": "tenrakushita",
+          "en": "fall; tumble",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        }
+      ],
       "audio": {
         "file": "../audio/7542-uss-george-washington-malacca-strait/KM-NEWS-7542-uss-george-washington-malacca-strait-sentence-07-ja-Nanami.mp3",
         "voice": "ja-JP-NanamiNeural",
@@ -696,7 +1817,118 @@
       "speechJa": "また、のりくみいんの精神状態の悪化が報じられている。",
       "en": "There have also been reports of worsening mental health among the crew.",
       "zhHant": "另有報道指，船員的精神健康狀況正在惡化。",
-      "tokens": [],
+      "tokens": [
+        {
+          "text": "また",
+          "offsetMs": 61.325,
+          "durationMs": 827.893,
+          "reading": "また",
+          "romaji": "mata",
+          "en": "crotch; crutch",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        },
+        {
+          "text": "乗組員",
+          "offsetMs": 889.218,
+          "durationMs": 812.561,
+          "reading": "のりくみいん",
+          "romaji": "norikumiin",
+          "en": "crew member",
+          "zhHant": "船員",
+          "showRuby": true
+        },
+        {
+          "text": "の",
+          "offsetMs": 1701.779,
+          "durationMs": 214.63900000000012,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "精神",
+          "offsetMs": 1916.418,
+          "durationMs": 613.2540000000001,
+          "reading": "せいしん",
+          "romaji": "seishin",
+          "en": "mind; spirit",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "状態",
+          "offsetMs": 2529.672,
+          "durationMs": 490.60300000000007,
+          "reading": "じょうたい",
+          "romaji": "joutai",
+          "en": "state; condition",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "の",
+          "offsetMs": 3020.275,
+          "durationMs": 122.65099999999984,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "悪化",
+          "offsetMs": 3142.925,
+          "durationMs": 459.94000000000005,
+          "reading": "あっか",
+          "romaji": "akka",
+          "en": "(suffer) deterioration; growing worse",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "が",
+          "offsetMs": 3602.866,
+          "durationMs": 168.64499999999998,
+          "reading": "が",
+          "romaji": "ga",
+          "en": "subject marker",
+          "zhHant": "主語助詞",
+          "showRuby": false
+        },
+        {
+          "text": "報じ",
+          "offsetMs": 3771.51,
+          "durationMs": 490.60300000000007,
+          "reading": "ほうじ",
+          "romaji": "houji",
+          "en": "to inform; to report",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "ら",
+          "offsetMs": 4262.113,
+          "durationMs": 137.98199999999997,
+          "reading": "ら",
+          "romaji": "ra",
+          "en": "plural suffix",
+          "zhHant": "複數詞尾",
+          "showRuby": false
+        },
+        {
+          "text": "れている",
+          "offsetMs": 4400.096,
+          "durationMs": 735.9040000000005,
+          "reading": "れている",
+          "romaji": "reteiru",
+          "en": "indicates passive voice (incl. the \"suffering passive\")",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        }
+      ],
       "audio": {
         "file": "../audio/7542-uss-george-washington-malacca-strait/KM-NEWS-7542-uss-george-washington-malacca-strait-sentence-08-ja-Nanami.mp3",
         "voice": "ja-JP-NanamiNeural",
@@ -770,7 +2002,258 @@
       "speechJa": "さらに公開された映像には、じゅうはちにちにジョージ・ワシントンから航空機が夜間の任務に飛び立つ様子が映っていた。",
       "en": "Other released footage showed aircraft taking off from the George Washington on a night mission on the 18th.",
       "zhHant": "另一段公開片段顯示，飛機於18日從喬治・華盛頓號起飛，執行夜間任務。",
-      "tokens": [],
+      "tokens": [
+        {
+          "text": "さら",
+          "offsetMs": 55.586,
+          "durationMs": 375.207,
+          "reading": "さら",
+          "romaji": "sara",
+          "en": "plate; dish",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        },
+        {
+          "text": "に",
+          "offsetMs": 430.793,
+          "durationMs": 194.55200000000002,
+          "reading": "に",
+          "romaji": "ni",
+          "en": "to; at; in",
+          "zhHant": "向；在；於",
+          "showRuby": false
+        },
+        {
+          "text": "公開",
+          "offsetMs": 625.345,
+          "durationMs": 486.37900000000013,
+          "reading": "こうかい",
+          "romaji": "koukai",
+          "en": "opening to the public; making available to the public",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "さ",
+          "offsetMs": 1111.724,
+          "durationMs": 152.86200000000008,
+          "reading": "さ",
+          "romaji": "sa",
+          "en": "difference; variation",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        },
+        {
+          "text": "れた",
+          "offsetMs": 1264.586,
+          "durationMs": 250.1389999999999,
+          "reading": "れた",
+          "romaji": "reta",
+          "en": "indicates passive voice (incl. the \"suffering passive\")",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        },
+        {
+          "text": "映像",
+          "offsetMs": 1514.724,
+          "durationMs": 514.172,
+          "reading": "えいぞう",
+          "romaji": "eizou",
+          "en": "image (on a screen); picture (e.g. on a TV)",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "に",
+          "offsetMs": 2028.897,
+          "durationMs": 111.17200000000003,
+          "reading": "に",
+          "romaji": "ni",
+          "en": "to; at; in",
+          "zhHant": "向；在；於",
+          "showRuby": false
+        },
+        {
+          "text": "は",
+          "offsetMs": 2140.069,
+          "durationMs": 514.172,
+          "reading": "は",
+          "romaji": "wa",
+          "en": "topic marker",
+          "zhHant": "主題助詞",
+          "showRuby": false
+        },
+        {
+          "text": "18日",
+          "offsetMs": 2654.241,
+          "durationMs": 889.3789999999999,
+          "reading": "じゅうはちにち",
+          "romaji": "juuhachinichi",
+          "en": "18th day; date",
+          "zhHant": "18日；日期",
+          "showRuby": true
+        },
+        {
+          "text": "に",
+          "offsetMs": 3543.621,
+          "durationMs": 180.6550000000002,
+          "reading": "に",
+          "romaji": "ni",
+          "en": "to; at; in",
+          "zhHant": "向；在；於",
+          "showRuby": false
+        },
+        {
+          "text": "ジョージ",
+          "offsetMs": 3724.276,
+          "durationMs": 639.241,
+          "reading": "じょーじ",
+          "romaji": "jooji",
+          "en": "George",
+          "zhHant": "喬治",
+          "showRuby": true
+        },
+        {
+          "text": "ワシントン",
+          "offsetMs": 4488.586,
+          "durationMs": 639.241,
+          "reading": "わしんとん",
+          "romaji": "washinton",
+          "en": "Washington, DC (United States)",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "から",
+          "offsetMs": 5127.828,
+          "durationMs": 333.5169999999998,
+          "reading": "から",
+          "romaji": "kara",
+          "en": "from; because",
+          "zhHant": "從；因為",
+          "showRuby": false
+        },
+        {
+          "text": "航空機",
+          "offsetMs": 5461.345,
+          "durationMs": 653.1379999999999,
+          "reading": "こうくうき",
+          "romaji": "koukuuki",
+          "en": "aircraft",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "が",
+          "offsetMs": 6114.483,
+          "durationMs": 208.44800000000032,
+          "reading": "が",
+          "romaji": "ga",
+          "en": "subject marker",
+          "zhHant": "主語助詞",
+          "showRuby": false
+        },
+        {
+          "text": "夜間",
+          "offsetMs": 6322.931,
+          "durationMs": 444.6899999999996,
+          "reading": "やかん",
+          "romaji": "yakan",
+          "en": "night; nighttime",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "の",
+          "offsetMs": 6767.621,
+          "durationMs": 152.86200000000008,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "任務",
+          "offsetMs": 6920.483,
+          "durationMs": 403.0,
+          "reading": "にんむ",
+          "romaji": "ninmu",
+          "en": "duty; function",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "に",
+          "offsetMs": 7323.483,
+          "durationMs": 194.55199999999968,
+          "reading": "に",
+          "romaji": "ni",
+          "en": "to; at; in",
+          "zhHant": "向；在；於",
+          "showRuby": false
+        },
+        {
+          "text": "飛び立つ",
+          "offsetMs": 7518.034,
+          "durationMs": 583.6549999999997,
+          "reading": "とびたつ",
+          "romaji": "tobitatsu",
+          "en": "to jump up; to start up",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "様子",
+          "offsetMs": 8101.69,
+          "durationMs": 416.89699999999993,
+          "reading": "ようす",
+          "romaji": "yousu",
+          "en": "state; state of affairs",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "が",
+          "offsetMs": 8518.586,
+          "durationMs": 125.0689999999995,
+          "reading": "が",
+          "romaji": "ga",
+          "en": "subject marker",
+          "zhHant": "主語助詞",
+          "showRuby": false
+        },
+        {
+          "text": "映っ",
+          "offsetMs": 8643.655,
+          "durationMs": 389.10299999999916,
+          "reading": "うつっ",
+          "romaji": "utsutsu",
+          "en": "to be reflected; to harmonize with (harmonise)",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "て",
+          "offsetMs": 9032.759,
+          "durationMs": 111.17200000000048,
+          "reading": "て",
+          "romaji": "te",
+          "en": "linking verb ending",
+          "zhHant": "連接動詞詞尾",
+          "showRuby": false
+        },
+        {
+          "text": "いた",
+          "offsetMs": 9143.931,
+          "durationMs": 528.0689999999995,
+          "reading": "いた",
+          "romaji": "ita",
+          "en": "board; plank",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        }
+      ],
       "audio": {
         "file": "../audio/7542-uss-george-washington-malacca-strait/KM-NEWS-7542-uss-george-washington-malacca-strait-sentence-09-ja-Nanami.mp3",
         "voice": "ja-JP-NanamiNeural",
@@ -904,7 +2387,158 @@
       "speechJa": "ジョージ・ワシントンのはけんにより、現状で太平洋にはべいくうぼが存在しない。",
       "en": "With the George Washington deployed, there is currently no US aircraft carrier in the Pacific.",
       "zhHant": "隨着喬治・華盛頓號調派離開，目前太平洋並無美國航空母艦駐守。",
-      "tokens": [],
+      "tokens": [
+        {
+          "text": "ジョージ",
+          "offsetMs": 58.169,
+          "durationMs": 785.288,
+          "reading": "じょーじ",
+          "romaji": "jooji",
+          "en": "George",
+          "zhHant": "喬治",
+          "showRuby": true
+        },
+        {
+          "text": "ワシントン",
+          "offsetMs": 988.881,
+          "durationMs": 712.5759999999999,
+          "reading": "わしんとん",
+          "romaji": "washinton",
+          "en": "Washington, DC (United States)",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "の",
+          "offsetMs": 1701.458,
+          "durationMs": 145.42399999999998,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "派遣",
+          "offsetMs": 1846.881,
+          "durationMs": 421.72900000000004,
+          "reading": "はけん",
+          "romaji": "haken",
+          "en": "deployment; dispatch",
+          "zhHant": "派遣",
+          "showRuby": true
+        },
+        {
+          "text": "に",
+          "offsetMs": 2268.61,
+          "durationMs": 159.9659999999999,
+          "reading": "に",
+          "romaji": "ni",
+          "en": "to; at; in",
+          "zhHant": "向；在；於",
+          "showRuby": false
+        },
+        {
+          "text": "より",
+          "offsetMs": 2428.576,
+          "durationMs": 610.7799999999997,
+          "reading": "より",
+          "romaji": "yori",
+          "en": "than; from",
+          "zhHant": "比；從",
+          "showRuby": false
+        },
+        {
+          "text": "現状",
+          "offsetMs": 3039.356,
+          "durationMs": 552.6100000000001,
+          "reading": "げんじょう",
+          "romaji": "genjou",
+          "en": "present condition; existing state",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "で",
+          "offsetMs": 3591.966,
+          "durationMs": 174.5079999999998,
+          "reading": "で",
+          "romaji": "de",
+          "en": "at; by; with",
+          "zhHant": "在；以；用",
+          "showRuby": false
+        },
+        {
+          "text": "太平洋",
+          "offsetMs": 3766.475,
+          "durationMs": 727.1190000000001,
+          "reading": "たいへいよう",
+          "romaji": "taiheiyou",
+          "en": "Pacific Ocean",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "に",
+          "offsetMs": 4493.593,
+          "durationMs": 116.33899999999994,
+          "reading": "に",
+          "romaji": "ni",
+          "en": "to; at; in",
+          "zhHant": "向；在；於",
+          "showRuby": false
+        },
+        {
+          "text": "は",
+          "offsetMs": 4609.932,
+          "durationMs": 276.3050000000003,
+          "reading": "は",
+          "romaji": "wa",
+          "en": "topic marker",
+          "zhHant": "主題助詞",
+          "showRuby": false
+        },
+        {
+          "text": "米空母",
+          "offsetMs": 4886.237,
+          "durationMs": 668.9489999999996,
+          "reading": "べいくうぼ",
+          "romaji": "beikuubo",
+          "en": "metre; meter",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "が",
+          "offsetMs": 5555.186,
+          "durationMs": 174.5079999999998,
+          "reading": "が",
+          "romaji": "ga",
+          "en": "subject marker",
+          "zhHant": "主語助詞",
+          "showRuby": false
+        },
+        {
+          "text": "存在",
+          "offsetMs": 5729.695,
+          "durationMs": 538.0680000000002,
+          "reading": "そんざい",
+          "romaji": "sonzai",
+          "en": "existence; being",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "しない",
+          "offsetMs": 6267.763,
+          "durationMs": 596.2370000000001,
+          "reading": "しない",
+          "romaji": "shinai",
+          "en": "(within a) city; local",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        }
+      ],
       "audio": {
         "file": "../audio/7542-uss-george-washington-malacca-strait/KM-NEWS-7542-uss-george-washington-malacca-strait-sentence-10-ja-Nanami.mp3",
         "voice": "ja-JP-NanamiNeural",

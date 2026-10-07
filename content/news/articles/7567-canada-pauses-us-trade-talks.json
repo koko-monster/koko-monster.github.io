@@ -26,9 +26,23 @@
     "zhHant": "加國總理宣布暫停貿易談判；由於雙方未能達成協議，加拿大準備採取對等關稅措施。"
   },
   "cover": {
-    "file": "../../../assets/news-covers/trade-talks.png",
+    "file": "../../../assets/news-covers/trade-talks.webp",
     "sourceUrl": "https://api.kokomonster.com/file/resources/crawled-raw-news/2026-08-23/9743/1787445001578.jpg"
   },
+  "inlineImages": [
+    {
+      "afterSentence": 2,
+      "file": "../../../assets/news-covers/trade-talks-storyboard.webp",
+      "crop": "top",
+      "alt": "First supporting Kokomonster scene for this news story"
+    },
+    {
+      "afterSentence": 4,
+      "file": "../../../assets/news-covers/trade-talks-storyboard.webp",
+      "crop": "bottom",
+      "alt": "Second supporting Kokomonster scene for this news story"
+    }
+  ],
   "sentences": [
     {
       "id": "s01",
@@ -38,7 +52,148 @@
       "speechJa": "カナダのカーニー首相はにじゅういちにち遅く、べいこくとのぼうえきこうしょうを停止した。",
       "en": "Late on the 21st, Canadian Prime Minister Carney suspended trade talks with the United States.",
       "zhHant": "加拿大總理卡尼於21日深夜宣布，暫停與美國的貿易談判。",
-      "tokens": [],
+      "tokens": [
+        {
+          "text": "カナダ",
+          "offsetMs": 57.162,
+          "durationMs": 471.585,
+          "reading": "かなだ",
+          "romaji": "kanada",
+          "en": "Canada",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "の",
+          "offsetMs": 528.747,
+          "durationMs": 185.77599999999995,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "カーニー",
+          "offsetMs": 714.523,
+          "durationMs": 557.3280000000001,
+          "reading": "かーにー",
+          "romaji": "kaanii",
+          "en": "Carney",
+          "zhHant": "卡尼",
+          "showRuby": true
+        },
+        {
+          "text": "首相",
+          "offsetMs": 1271.851,
+          "durationMs": 457.2950000000001,
+          "reading": "しゅしょう",
+          "romaji": "shushou",
+          "en": "prime minister; chancellor (Germany, Austria, etc.)",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "は",
+          "offsetMs": 1729.145,
+          "durationMs": 257.22800000000007,
+          "reading": "は",
+          "romaji": "wa",
+          "en": "topic marker",
+          "zhHant": "主題助詞",
+          "showRuby": false
+        },
+        {
+          "text": "21日",
+          "offsetMs": 1986.373,
+          "durationMs": 1014.6219999999998,
+          "reading": "にじゅういちにち",
+          "romaji": "nijuuichinichi",
+          "en": "21th day; date",
+          "zhHant": "21日；日期",
+          "showRuby": true
+        },
+        {
+          "text": "遅く",
+          "offsetMs": 3000.996,
+          "durationMs": 886.0079999999998,
+          "reading": "おそく",
+          "romaji": "osoku",
+          "en": "late",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "米国",
+          "offsetMs": 3887.004,
+          "durationMs": 500.16600000000017,
+          "reading": "べいこく",
+          "romaji": "beikoku",
+          "en": "(United States of) America; USA",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "と",
+          "offsetMs": 4387.17,
+          "durationMs": 128.61399999999958,
+          "reading": "と",
+          "romaji": "to",
+          "en": "and; with; that",
+          "zhHant": "和；與；表示引用",
+          "showRuby": false
+        },
+        {
+          "text": "の",
+          "offsetMs": 4515.784,
+          "durationMs": 185.77599999999984,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "貿易",
+          "offsetMs": 4701.56,
+          "durationMs": 571.6180000000004,
+          "reading": "ぼうえき",
+          "romaji": "boueki",
+          "en": "trade (foreign)",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "交渉",
+          "offsetMs": 5273.178,
+          "durationMs": 514.4560000000001,
+          "reading": "こうしょう",
+          "romaji": "koushou",
+          "en": "negotiations; discussions",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "を",
+          "offsetMs": 5787.635,
+          "durationMs": 157.1949999999997,
+          "reading": "を",
+          "romaji": "o",
+          "en": "object marker",
+          "zhHant": "受詞助詞",
+          "showRuby": false
+        },
+        {
+          "text": "停止した",
+          "offsetMs": 5944.83,
+          "durationMs": 943.1700000000001,
+          "reading": "ていしした",
+          "romaji": "teishishita",
+          "en": "stoppage; coming to a stop",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        }
+      ],
       "audio": {
         "file": "../audio/7567-canada-pauses-us-trade-talks/KM-NEWS-7567-canada-pauses-us-trade-talks-sentence-01-ja-Nanami.mp3",
         "voice": "ja-JP-NanamiNeural",
@@ -124,7 +279,208 @@
       "speechJa": "べいこくがごぜんれいじにはつどうするかんぜいに対抗して、同額のたいこうそちを講じる方針も示した。",
       "en": "He also said Canada would take matching countermeasures against US tariffs due to take effect at midnight.",
       "zhHant": "他亦表示，將針對美國午夜生效的關稅，採取同等規模的反制措施。",
-      "tokens": [],
+      "tokens": [
+        {
+          "text": "米国",
+          "offsetMs": 53.369,
+          "durationMs": 600.401,
+          "reading": "べいこく",
+          "romaji": "beikoku",
+          "en": "(United States of) America; USA",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "が",
+          "offsetMs": 653.77,
+          "durationMs": 213.476,
+          "reading": "が",
+          "romaji": "ga",
+          "en": "subject marker",
+          "zhHant": "主語助詞",
+          "showRuby": false
+        },
+        {
+          "text": "午前0時",
+          "offsetMs": 867.245,
+          "durationMs": 787.1919999999999,
+          "reading": "ごぜんれいじ",
+          "romaji": "gozenreiji",
+          "en": "morning; a.m.",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "に",
+          "offsetMs": 1654.437,
+          "durationMs": 120.07999999999993,
+          "reading": "に",
+          "romaji": "ni",
+          "en": "to; at; in",
+          "zhHant": "向；在；於",
+          "showRuby": false
+        },
+        {
+          "text": "発動",
+          "offsetMs": 1774.518,
+          "durationMs": 507.0050000000001,
+          "reading": "はつどう",
+          "romaji": "hatsudou",
+          "en": "implementation; taking effect",
+          "zhHant": "啟動；生效",
+          "showRuby": true
+        },
+        {
+          "text": "する",
+          "offsetMs": 2281.523,
+          "durationMs": 266.84500000000025,
+          "reading": "する",
+          "romaji": "suru",
+          "en": "to do",
+          "zhHant": "做；進行",
+          "showRuby": false
+        },
+        {
+          "text": "関税",
+          "offsetMs": 2548.367,
+          "durationMs": 480.3209999999999,
+          "reading": "かんぜい",
+          "romaji": "kanzei",
+          "en": "tariff",
+          "zhHant": "關稅",
+          "showRuby": true
+        },
+        {
+          "text": "に",
+          "offsetMs": 3028.688,
+          "durationMs": 160.10699999999997,
+          "reading": "に",
+          "romaji": "ni",
+          "en": "to; at; in",
+          "zhHant": "向；在；於",
+          "showRuby": false
+        },
+        {
+          "text": "対抗",
+          "offsetMs": 3188.795,
+          "durationMs": 453.63599999999997,
+          "reading": "たいこう",
+          "romaji": "taikou",
+          "en": "opposition; rivalry",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "し",
+          "offsetMs": 3642.431,
+          "durationMs": 120.07999999999993,
+          "reading": "し",
+          "romaji": "shi",
+          "en": "do; verb stem",
+          "zhHant": "做；動詞詞幹",
+          "showRuby": false
+        },
+        {
+          "text": "て",
+          "offsetMs": 3762.511,
+          "durationMs": 627.0849999999996,
+          "reading": "て",
+          "romaji": "te",
+          "en": "linking verb ending",
+          "zhHant": "連接動詞詞尾",
+          "showRuby": false
+        },
+        {
+          "text": "同額",
+          "offsetMs": 4389.596,
+          "durationMs": 507.0050000000001,
+          "reading": "どうがく",
+          "romaji": "dougaku",
+          "en": "the same amount",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "の",
+          "offsetMs": 4896.601,
+          "durationMs": 160.10699999999997,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "対抗",
+          "offsetMs": 5056.708,
+          "durationMs": 480.3209999999999,
+          "reading": "たいこう",
+          "romaji": "taikou",
+          "en": "opposition; rivalry",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "措置",
+          "offsetMs": 5537.028,
+          "durationMs": 306.8710000000001,
+          "reading": "そち",
+          "romaji": "sochi",
+          "en": "measure; step",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "を",
+          "offsetMs": 5843.9,
+          "durationMs": 160.10699999999997,
+          "reading": "を",
+          "romaji": "o",
+          "en": "object marker",
+          "zhHant": "受詞助詞",
+          "showRuby": false
+        },
+        {
+          "text": "講じる",
+          "offsetMs": 6004.007,
+          "durationMs": 533.6890000000003,
+          "reading": "こうじる",
+          "romaji": "koujiru",
+          "en": "to take measures; to work out a plan",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "方針",
+          "offsetMs": 6537.696,
+          "durationMs": 520.3469999999998,
+          "reading": "ほうしん",
+          "romaji": "houshin",
+          "en": "policy; course",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "も",
+          "offsetMs": 7058.043,
+          "durationMs": 133.42199999999957,
+          "reading": "も",
+          "romaji": "mo",
+          "en": "also; too",
+          "zhHant": "也；亦",
+          "showRuby": false
+        },
+        {
+          "text": "示した",
+          "offsetMs": 7191.466,
+          "durationMs": 800.5339999999997,
+          "reading": "しめした",
+          "romaji": "shimeshita",
+          "en": "to (take out and) show; to demonstrate",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        }
+      ],
       "audio": {
         "file": "../audio/7567-canada-pauses-us-trade-talks/KM-NEWS-7567-canada-pauses-us-trade-talks-sentence-02-ja-Nanami.mp3",
         "voice": "ja-JP-NanamiNeural",
@@ -230,7 +586,388 @@
       "speechJa": "カーニー氏の声明によれば、両国はべいとうぶじかんごぜんれいじに予定される各種カナダ産品へのごじゅっぱーせんとのかんぜいはつどうをかいひするため、ごういに向けて「重要な進展」を遂げていた。",
       "en": "According to Carney, the two countries had made “important progress” toward an agreement to avoid a 50% tariff on various Canadian goods.",
       "zhHant": "卡尼表示，兩國曾為避免美方對多項加拿大貨品徵收50%關稅，在協議上取得「重要進展」。",
-      "tokens": [],
+      "tokens": [
+        {
+          "text": "カーニー",
+          "offsetMs": 53.515,
+          "durationMs": 535.153,
+          "reading": "かーにー",
+          "romaji": "kaanii",
+          "en": "Carney",
+          "zhHant": "卡尼",
+          "showRuby": true
+        },
+        {
+          "text": "氏",
+          "offsetMs": 588.668,
+          "durationMs": 147.16700000000003,
+          "reading": "し",
+          "romaji": "shi",
+          "en": "family name; lineage",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "の",
+          "offsetMs": 735.835,
+          "durationMs": 147.16700000000003,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "声明",
+          "offsetMs": 883.002,
+          "durationMs": 508.395,
+          "reading": "せいめい",
+          "romaji": "seimei",
+          "en": "declaration; statement",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "によれば",
+          "offsetMs": 1391.397,
+          "durationMs": 1016.79,
+          "reading": "によれば",
+          "romaji": "niyoreba",
+          "en": "according to (someone)",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        },
+        {
+          "text": "両国",
+          "offsetMs": 2408.187,
+          "durationMs": 535.1530000000002,
+          "reading": "りょうこく",
+          "romaji": "ryoukoku",
+          "en": "both countries",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "は",
+          "offsetMs": 2943.339,
+          "durationMs": 254.19700000000012,
+          "reading": "は",
+          "romaji": "wa",
+          "en": "topic marker",
+          "zhHant": "主題助詞",
+          "showRuby": false
+        },
+        {
+          "text": "米",
+          "offsetMs": 3197.537,
+          "durationMs": 307.7130000000002,
+          "reading": "べい",
+          "romaji": "bei",
+          "en": "metre; meter",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "東部",
+          "offsetMs": 3505.25,
+          "durationMs": 387.9859999999999,
+          "reading": "とうぶ",
+          "romaji": "toubu",
+          "en": "eastern part; the east (of a region)",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "時間",
+          "offsetMs": 3893.235,
+          "durationMs": 401.36400000000003,
+          "reading": "じかん",
+          "romaji": "jikan",
+          "en": "time",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "午前0時",
+          "offsetMs": 4294.6,
+          "durationMs": 802.7290000000003,
+          "reading": "ごぜんれいじ",
+          "romaji": "gozenreiji",
+          "en": "morning; a.m.",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "に",
+          "offsetMs": 5097.329,
+          "durationMs": 120.40899999999965,
+          "reading": "に",
+          "romaji": "ni",
+          "en": "to; at; in",
+          "zhHant": "向；在；於",
+          "showRuby": false
+        },
+        {
+          "text": "予定",
+          "offsetMs": 5217.738,
+          "durationMs": 361.22800000000007,
+          "reading": "よてい",
+          "romaji": "yotei",
+          "en": "plans; arrangement",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "される",
+          "offsetMs": 5578.966,
+          "durationMs": 535.1519999999991,
+          "reading": "される",
+          "romaji": "sareru",
+          "en": "to be done (to someone)",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        },
+        {
+          "text": "各種",
+          "offsetMs": 6114.118,
+          "durationMs": 468.259,
+          "reading": "かくしゅ",
+          "romaji": "kakushu",
+          "en": "every kind; all sorts",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "カナダ",
+          "offsetMs": 6582.377,
+          "durationMs": 374.60699999999997,
+          "reading": "かなだ",
+          "romaji": "kanada",
+          "en": "Canada",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "産品",
+          "offsetMs": 6956.984,
+          "durationMs": 495.0159999999996,
+          "reading": "さんひん",
+          "romaji": "sanhin",
+          "en": "products",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "へ",
+          "offsetMs": 7452.0,
+          "durationMs": 133.78800000000047,
+          "reading": "へ",
+          "romaji": "e",
+          "en": "toward; to",
+          "zhHant": "往；向",
+          "showRuby": false
+        },
+        {
+          "text": "の",
+          "offsetMs": 7585.788,
+          "durationMs": 240.81900000000041,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "50％",
+          "offsetMs": 7826.607,
+          "durationMs": 1030.1689999999999,
+          "reading": "ごじゅっぱーせんと",
+          "romaji": "gojuppaasento",
+          "en": "50 percent",
+          "zhHant": "50%",
+          "showRuby": false
+        },
+        {
+          "text": "の",
+          "offsetMs": 8856.776,
+          "durationMs": 173.92499999999927,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "関税",
+          "offsetMs": 9030.7,
+          "durationMs": 508.39500000000044,
+          "reading": "かんぜい",
+          "romaji": "kanzei",
+          "en": "tariff",
+          "zhHant": "關稅",
+          "showRuby": true
+        },
+        {
+          "text": "発動",
+          "offsetMs": 9539.095,
+          "durationMs": 481.6370000000006,
+          "reading": "はつどう",
+          "romaji": "hatsudou",
+          "en": "implementation; taking effect",
+          "zhHant": "啟動；生效",
+          "showRuby": true
+        },
+        {
+          "text": "を",
+          "offsetMs": 10020.732,
+          "durationMs": 133.78800000000047,
+          "reading": "を",
+          "romaji": "o",
+          "en": "object marker",
+          "zhHant": "受詞助詞",
+          "showRuby": false
+        },
+        {
+          "text": "回避",
+          "offsetMs": 10154.521,
+          "durationMs": 387.9860000000008,
+          "reading": "かいひ",
+          "romaji": "kaihi",
+          "en": "avoidance; to avoid",
+          "zhHant": "避免",
+          "showRuby": true
+        },
+        {
+          "text": "する",
+          "offsetMs": 10542.506,
+          "durationMs": 280.9549999999999,
+          "reading": "する",
+          "romaji": "suru",
+          "en": "to do",
+          "zhHant": "做；進行",
+          "showRuby": false
+        },
+        {
+          "text": "ため",
+          "offsetMs": 10823.461,
+          "durationMs": 588.6679999999997,
+          "reading": "ため",
+          "romaji": "tame",
+          "en": "for; because of",
+          "zhHant": "為了；由於",
+          "showRuby": false
+        },
+        {
+          "text": "合意",
+          "offsetMs": 11412.129,
+          "durationMs": 387.9860000000008,
+          "reading": "ごうい",
+          "romaji": "goui",
+          "en": "agreement",
+          "zhHant": "協議；共識",
+          "showRuby": true
+        },
+        {
+          "text": "に",
+          "offsetMs": 11800.115,
+          "durationMs": 120.40899999999965,
+          "reading": "に",
+          "romaji": "ni",
+          "en": "to; at; in",
+          "zhHant": "向；在；於",
+          "showRuby": false
+        },
+        {
+          "text": "向け",
+          "offsetMs": 11920.524,
+          "durationMs": 267.5759999999991,
+          "reading": "むけ",
+          "romaji": "muke",
+          "en": "intended for ...; oriented towards ...",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "て",
+          "offsetMs": 12188.101,
+          "durationMs": 387.9860000000008,
+          "reading": "て",
+          "romaji": "te",
+          "en": "linking verb ending",
+          "zhHant": "連接動詞詞尾",
+          "showRuby": false
+        },
+        {
+          "text": "重要",
+          "offsetMs": 12696.496,
+          "durationMs": 495.0159999999996,
+          "reading": "じゅうよう",
+          "romaji": "juuyou",
+          "en": "important; momentous",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "な",
+          "offsetMs": 13191.512,
+          "durationMs": 120.40899999999965,
+          "reading": "な",
+          "romaji": "na",
+          "en": "linking ending",
+          "zhHant": "連接詞尾",
+          "showRuby": false
+        },
+        {
+          "text": "進展",
+          "offsetMs": 13311.921,
+          "durationMs": 548.5310000000009,
+          "reading": "しんてん",
+          "romaji": "shinten",
+          "en": "progress; development",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "を",
+          "offsetMs": 13873.831,
+          "durationMs": 133.78800000000047,
+          "reading": "を",
+          "romaji": "o",
+          "en": "object marker",
+          "zhHant": "受詞助詞",
+          "showRuby": false
+        },
+        {
+          "text": "遂げ",
+          "offsetMs": 14007.619,
+          "durationMs": 267.5759999999991,
+          "reading": "とげ",
+          "romaji": "toge",
+          "en": "to accomplish; to achieve",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "て",
+          "offsetMs": 14275.196,
+          "durationMs": 107.03100000000086,
+          "reading": "て",
+          "romaji": "te",
+          "en": "linking verb ending",
+          "zhHant": "連接動詞詞尾",
+          "showRuby": false
+        },
+        {
+          "text": "いた",
+          "offsetMs": 14382.226,
+          "durationMs": 521.7739999999994,
+          "reading": "いた",
+          "romaji": "ita",
+          "en": "board; plank",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        }
+      ],
       "audio": {
         "file": "../audio/7567-canada-pauses-us-trade-talks/KM-NEWS-7567-canada-pauses-us-trade-talks-sentence-03-ja-Nanami.mp3",
         "voice": "ja-JP-NanamiNeural",
@@ -428,7 +1165,138 @@
       "speechJa": "だが、「カナダ国民の目標を満たす」ごういには至らなかったという。",
       "en": "However, they did not reach an agreement that would “meet the goals of Canadians.”",
       "zhHant": "然而，雙方最終未能達成一份「符合加拿大國民目標」的協議。",
-      "tokens": [],
+      "tokens": [
+        {
+          "text": "だが",
+          "offsetMs": 58.597,
+          "durationMs": 952.208,
+          "reading": "だが",
+          "romaji": "daga",
+          "en": "but; however",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        },
+        {
+          "text": "カナダ",
+          "offsetMs": 1010.805,
+          "durationMs": 468.7789999999999,
+          "reading": "かなだ",
+          "romaji": "kanada",
+          "en": "Canada",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "国民",
+          "offsetMs": 1479.584,
+          "durationMs": 542.0260000000001,
+          "reading": "こくみん",
+          "romaji": "kokumin",
+          "en": "people (of a country); nation",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "の",
+          "offsetMs": 2021.61,
+          "durationMs": 146.49399999999991,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "目標",
+          "offsetMs": 2168.104,
+          "durationMs": 527.377,
+          "reading": "もくひょう",
+          "romaji": "mokuhyou",
+          "en": "mark (for quick identification or recognition); sign",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "を",
+          "offsetMs": 2695.481,
+          "durationMs": 131.84400000000005,
+          "reading": "を",
+          "romaji": "o",
+          "en": "object marker",
+          "zhHant": "受詞助詞",
+          "showRuby": false
+        },
+        {
+          "text": "満たす",
+          "offsetMs": 2827.325,
+          "durationMs": 571.3249999999998,
+          "reading": "みたす",
+          "romaji": "mitasu",
+          "en": "to satisfy (conditions, one's appetite, etc.); to meet (e.g. demands)",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "合意",
+          "offsetMs": 3413.299,
+          "durationMs": 410.1819999999998,
+          "reading": "ごうい",
+          "romaji": "goui",
+          "en": "agreement",
+          "zhHant": "協議；共識",
+          "showRuby": true
+        },
+        {
+          "text": "に",
+          "offsetMs": 3823.481,
+          "durationMs": 131.84400000000005,
+          "reading": "に",
+          "romaji": "ni",
+          "en": "to; at; in",
+          "zhHant": "向；在；於",
+          "showRuby": false
+        },
+        {
+          "text": "は",
+          "offsetMs": 3955.325,
+          "durationMs": 234.39000000000033,
+          "reading": "は",
+          "romaji": "wa",
+          "en": "topic marker",
+          "zhHant": "主題助詞",
+          "showRuby": false
+        },
+        {
+          "text": "至らなかった",
+          "offsetMs": 4189.714,
+          "durationMs": 908.2609999999995,
+          "reading": "いたらなかった",
+          "romaji": "itaranakatta",
+          "en": "to arrive at (e.g. a decision); to reach (a stage)",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "と",
+          "offsetMs": 5097.974,
+          "durationMs": 131.84400000000005,
+          "reading": "と",
+          "romaji": "to",
+          "en": "and; with; that",
+          "zhHant": "和；與；表示引用",
+          "showRuby": false
+        },
+        {
+          "text": "いう",
+          "offsetMs": 5229.818,
+          "durationMs": 410.1819999999998,
+          "reading": "いう",
+          "romaji": "iu",
+          "en": "to do up (hair); to dress",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        }
+      ],
       "audio": {
         "file": "../audio/7567-canada-pauses-us-trade-talks/KM-NEWS-7567-canada-pauses-us-trade-talks-sentence-04-ja-Nanami.mp3",
         "voice": "ja-JP-NanamiNeural",
@@ -518,7 +1386,308 @@
       "speechJa": "カーニー氏は「この結果、私は今夜、べいこくとのぼうえきこうしょうの停止を決定し、カナダのこうしょうだんに対しオタワへ戻るよう指示した」と発表した。",
       "en": "Carney said he had therefore decided that night to suspend talks and instructed Canada’s negotiating team to return to Ottawa.",
       "zhHant": "卡尼表示，因此決定當晚暫停談判，並指示加拿大談判代表團返回渥太華。",
-      "tokens": [],
+      "tokens": [
+        {
+          "text": "カーニー",
+          "offsetMs": 52.547,
+          "durationMs": 551.747,
+          "reading": "かーにー",
+          "romaji": "kaanii",
+          "en": "Carney",
+          "zhHant": "卡尼",
+          "showRuby": true
+        },
+        {
+          "text": "氏",
+          "offsetMs": 604.295,
+          "durationMs": 183.91600000000005,
+          "reading": "し",
+          "romaji": "shi",
+          "en": "family name; lineage",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "は",
+          "offsetMs": 788.211,
+          "durationMs": 394.105,
+          "reading": "は",
+          "romaji": "wa",
+          "en": "topic marker",
+          "zhHant": "主題助詞",
+          "showRuby": false
+        },
+        {
+          "text": "この",
+          "offsetMs": 1326.821,
+          "durationMs": 315.2840000000001,
+          "reading": "この",
+          "romaji": "kono",
+          "en": "nine",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        },
+        {
+          "text": "結果",
+          "offsetMs": 1642.105,
+          "durationMs": 853.895,
+          "reading": "けっか",
+          "romaji": "kekka",
+          "en": "result",
+          "zhHant": "結果",
+          "showRuby": true
+        },
+        {
+          "text": "私",
+          "offsetMs": 2496.0,
+          "durationMs": 394.105,
+          "reading": "わたくし",
+          "romaji": "watakushi",
+          "en": "I; me",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "は",
+          "offsetMs": 2890.105,
+          "durationMs": 183.91600000000017,
+          "reading": "は",
+          "romaji": "wa",
+          "en": "topic marker",
+          "zhHant": "主題助詞",
+          "showRuby": false
+        },
+        {
+          "text": "今夜",
+          "offsetMs": 3074.021,
+          "durationMs": 748.7999999999997,
+          "reading": "こんや",
+          "romaji": "konya",
+          "en": "this evening; tonight",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "米国",
+          "offsetMs": 3822.821,
+          "durationMs": 459.78899999999976,
+          "reading": "べいこく",
+          "romaji": "beikoku",
+          "en": "(United States of) America; USA",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "と",
+          "offsetMs": 4282.611,
+          "durationMs": 118.23199999999997,
+          "reading": "と",
+          "romaji": "to",
+          "en": "and; with; that",
+          "zhHant": "和；與；表示引用",
+          "showRuby": false
+        },
+        {
+          "text": "の",
+          "offsetMs": 4400.842,
+          "durationMs": 170.77899999999954,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "貿易",
+          "offsetMs": 4571.621,
+          "durationMs": 525.4740000000002,
+          "reading": "ぼうえき",
+          "romaji": "boueki",
+          "en": "trade (foreign)",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "交渉",
+          "offsetMs": 5097.095,
+          "durationMs": 472.9260000000004,
+          "reading": "こうしょう",
+          "romaji": "koushou",
+          "en": "negotiations; discussions",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "の",
+          "offsetMs": 5570.021,
+          "durationMs": 157.64199999999983,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "停止",
+          "offsetMs": 5727.663,
+          "durationMs": 394.1050000000005,
+          "reading": "ていし",
+          "romaji": "teishi",
+          "en": "stoppage; coming to a stop",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "を",
+          "offsetMs": 6121.768,
+          "durationMs": 131.3680000000004,
+          "reading": "を",
+          "romaji": "o",
+          "en": "object marker",
+          "zhHant": "受詞助詞",
+          "showRuby": false
+        },
+        {
+          "text": "決定",
+          "offsetMs": 6253.137,
+          "durationMs": 499.1999999999998,
+          "reading": "けってい",
+          "romaji": "kettei",
+          "en": "decision; determination",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "し",
+          "offsetMs": 6752.337,
+          "durationMs": 630.5680000000002,
+          "reading": "し",
+          "romaji": "shi",
+          "en": "do; verb stem",
+          "zhHant": "做；動詞詞幹",
+          "showRuby": false
+        },
+        {
+          "text": "カナダ",
+          "offsetMs": 7382.905,
+          "durationMs": 394.1050000000005,
+          "reading": "かなだ",
+          "romaji": "kanada",
+          "en": "Canada",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "の",
+          "offsetMs": 7777.011,
+          "durationMs": 170.77900000000045,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "交渉団",
+          "offsetMs": 7947.789,
+          "durationMs": 683.1159999999991,
+          "reading": "こうしょうだん",
+          "romaji": "koushoudan",
+          "en": "negotiating team",
+          "zhHant": "談判代表團",
+          "showRuby": true
+        },
+        {
+          "text": "に",
+          "offsetMs": 8630.905,
+          "durationMs": 197.05299999999988,
+          "reading": "に",
+          "romaji": "ni",
+          "en": "to; at; in",
+          "zhHant": "向；在；於",
+          "showRuby": false
+        },
+        {
+          "text": "対し",
+          "offsetMs": 8827.958,
+          "durationMs": 420.3790000000008,
+          "reading": "たいし",
+          "romaji": "taishi",
+          "en": "to face (each other); to be facing",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "オタワ",
+          "offsetMs": 9248.337,
+          "durationMs": 394.10499999999956,
+          "reading": "おたわ",
+          "romaji": "otawa",
+          "en": "Ottawa",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "へ",
+          "offsetMs": 9642.442,
+          "durationMs": 131.3680000000004,
+          "reading": "へ",
+          "romaji": "e",
+          "en": "toward; to",
+          "zhHant": "往；向",
+          "showRuby": false
+        },
+        {
+          "text": "戻る",
+          "offsetMs": 9773.811,
+          "durationMs": 380.96800000000076,
+          "reading": "もどる",
+          "romaji": "modoru",
+          "en": "to turn back (e.g. half-way)",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "よう",
+          "offsetMs": 10154.779,
+          "durationMs": 236.46299999999974,
+          "reading": "よう",
+          "romaji": "you",
+          "en": "way; so that",
+          "zhHant": "方式；以便",
+          "showRuby": false
+        },
+        {
+          "text": "指示した",
+          "offsetMs": 10391.242,
+          "durationMs": 709.3889999999992,
+          "reading": "しじした",
+          "romaji": "shijishita",
+          "en": "indication; denotation",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "と",
+          "offsetMs": 11323.958,
+          "durationMs": 144.5049999999992,
+          "reading": "と",
+          "romaji": "to",
+          "en": "and; with; that",
+          "zhHant": "和；與；表示引用",
+          "showRuby": false
+        },
+        {
+          "text": "発表した",
+          "offsetMs": 11468.463,
+          "durationMs": 1011.5370000000003,
+          "reading": "はっぴょうした",
+          "romaji": "happyoushita",
+          "en": "announcement; publication",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        }
+      ],
       "audio": {
         "file": "../audio/7567-canada-pauses-us-trade-talks/KM-NEWS-7567-canada-pauses-us-trade-talks-sentence-05-ja-Nanami.mp3",
         "voice": "ja-JP-NanamiNeural",
@@ -684,7 +1853,218 @@
       "speechJa": "「べいこくは今晩の真夜中、およそ280億ドルそうとうのカナダ製品にごじゅっぱーせんとのかんぜいをかす意向を示している。",
       "en": "He said the United States intended to impose a 50% tariff at midnight on about 28 billion dollars’ worth of Canadian products.",
       "zhHant": "他說，美國擬於當晚午夜起，對約280億美元的加拿大產品徵收50%關稅。",
-      "tokens": [],
+      "tokens": [
+        {
+          "text": "米国",
+          "offsetMs": 112.49,
+          "durationMs": 576.511,
+          "reading": "べいこく",
+          "romaji": "beikoku",
+          "en": "(United States of) America; USA",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "は",
+          "offsetMs": 689.001,
+          "durationMs": 253.10300000000007,
+          "reading": "は",
+          "romaji": "wa",
+          "en": "topic marker",
+          "zhHant": "主題助詞",
+          "showRuby": false
+        },
+        {
+          "text": "今晩",
+          "offsetMs": 942.104,
+          "durationMs": 548.3889999999999,
+          "reading": "こんばん",
+          "romaji": "konban",
+          "en": "tonight; this evening",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "の",
+          "offsetMs": 1490.493,
+          "durationMs": 154.67399999999998,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "真夜中",
+          "offsetMs": 1645.166,
+          "durationMs": 1096.778,
+          "reading": "まよなか",
+          "romaji": "mayonaka",
+          "en": "dead of night; midnight",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "およそ",
+          "offsetMs": 2741.944,
+          "durationMs": 576.511,
+          "reading": "およそ",
+          "romaji": "oyoso",
+          "en": "about; roughly",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        },
+        {
+          "text": "280億",
+          "offsetMs": 3318.455,
+          "durationMs": 1307.696,
+          "reading": "にひゃくはちじゅうおく",
+          "romaji": "nihyakuhachijuuoku",
+          "en": "280 hundred million",
+          "zhHant": "280億",
+          "showRuby": true
+        },
+        {
+          "text": "ドル",
+          "offsetMs": 4626.152,
+          "durationMs": 295.28600000000006,
+          "reading": "どる",
+          "romaji": "doru",
+          "en": "dollar",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "相当",
+          "offsetMs": 4921.438,
+          "durationMs": 534.3279999999995,
+          "reading": "そうとう",
+          "romaji": "soutou",
+          "en": "equivalent to; worth",
+          "zhHant": "相當於",
+          "showRuby": true
+        },
+        {
+          "text": "の",
+          "offsetMs": 5455.766,
+          "durationMs": 168.73499999999967,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "カナダ",
+          "offsetMs": 5624.501,
+          "durationMs": 407.77599999999984,
+          "reading": "かなだ",
+          "romaji": "kanada",
+          "en": "Canada",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "製品",
+          "offsetMs": 6032.277,
+          "durationMs": 506.2049999999999,
+          "reading": "せいひん",
+          "romaji": "seihin",
+          "en": "manufactured goods; finished goods",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "に",
+          "offsetMs": 6538.482,
+          "durationMs": 323.40899999999965,
+          "reading": "に",
+          "romaji": "ni",
+          "en": "to; at; in",
+          "zhHant": "向；在；於",
+          "showRuby": false
+        },
+        {
+          "text": "50％",
+          "offsetMs": 6861.891,
+          "durationMs": 1054.594,
+          "reading": "ごじゅっぱーせんと",
+          "romaji": "gojuppaasento",
+          "en": "50 percent",
+          "zhHant": "50%",
+          "showRuby": false
+        },
+        {
+          "text": "の",
+          "offsetMs": 7916.485,
+          "durationMs": 168.73499999999967,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "関税",
+          "offsetMs": 8085.22,
+          "durationMs": 520.2660000000005,
+          "reading": "かんぜい",
+          "romaji": "kanzei",
+          "en": "tariff",
+          "zhHant": "關稅",
+          "showRuby": true
+        },
+        {
+          "text": "を",
+          "offsetMs": 8605.486,
+          "durationMs": 168.73500000000058,
+          "reading": "を",
+          "romaji": "o",
+          "en": "object marker",
+          "zhHant": "受詞助詞",
+          "showRuby": false
+        },
+        {
+          "text": "課す",
+          "offsetMs": 8774.221,
+          "durationMs": 323.40899999999965,
+          "reading": "かす",
+          "romaji": "kasu",
+          "en": "to impose",
+          "zhHant": "徵收；施加",
+          "showRuby": true
+        },
+        {
+          "text": "意向",
+          "offsetMs": 9097.63,
+          "durationMs": 379.65400000000045,
+          "reading": "いこう",
+          "romaji": "ikou",
+          "en": "intention; idea",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "を",
+          "offsetMs": 9477.284,
+          "durationMs": 140.61299999999937,
+          "reading": "を",
+          "romaji": "o",
+          "en": "object marker",
+          "zhHant": "受詞助詞",
+          "showRuby": false
+        },
+        {
+          "text": "示している",
+          "offsetMs": 9617.896,
+          "durationMs": 942.1039999999994,
+          "reading": "しめしている",
+          "romaji": "shimeshiteiru",
+          "en": "to (take out and) show; to demonstrate",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        }
+      ],
       "audio": {
         "file": "../audio/7567-canada-pauses-us-trade-talks/KM-NEWS-7567-canada-pauses-us-trade-talks-sentence-06-ja-Nanami.mp3",
         "voice": "ja-JP-NanamiNeural",
@@ -802,7 +2182,208 @@
       "speechJa": "カナダは我が国のろうどうしゃと企業を守るため、同額のかんぜいをかす方針だ」と明らかにした。",
       "en": "Canada will impose matching tariffs to protect its workers and businesses, he said.",
       "zhHant": "他表示，加拿大將徵收同等關稅，以保障本國勞工與企業。",
-      "tokens": [],
+      "tokens": [
+        {
+          "text": "カナダ",
+          "offsetMs": 54.041,
+          "durationMs": 459.3469999999999,
+          "reading": "かなだ",
+          "romaji": "kanada",
+          "en": "Canada",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "は",
+          "offsetMs": 513.388,
+          "durationMs": 229.673,
+          "reading": "は",
+          "romaji": "wa",
+          "en": "topic marker",
+          "zhHant": "主題助詞",
+          "showRuby": false
+        },
+        {
+          "text": "我が国",
+          "offsetMs": 743.061,
+          "durationMs": 540.408,
+          "reading": "わがくに",
+          "romaji": "wagakuni",
+          "en": "our country; our land",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "の",
+          "offsetMs": 1283.469,
+          "durationMs": 148.61200000000008,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "労働者",
+          "offsetMs": 1432.082,
+          "durationMs": 607.9590000000001,
+          "reading": "ろうどうしゃ",
+          "romaji": "roudousha",
+          "en": "worker",
+          "zhHant": "勞工",
+          "showRuby": true
+        },
+        {
+          "text": "と",
+          "offsetMs": 2040.041,
+          "durationMs": 162.12200000000007,
+          "reading": "と",
+          "romaji": "to",
+          "en": "and; with; that",
+          "zhHant": "和；與；表示引用",
+          "showRuby": false
+        },
+        {
+          "text": "企業",
+          "offsetMs": 2202.163,
+          "durationMs": 432.32699999999977,
+          "reading": "きぎょう",
+          "romaji": "kigyou",
+          "en": "enterprise; business",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "を",
+          "offsetMs": 2634.49,
+          "durationMs": 121.5920000000001,
+          "reading": "を",
+          "romaji": "o",
+          "en": "object marker",
+          "zhHant": "受詞助詞",
+          "showRuby": false
+        },
+        {
+          "text": "守る",
+          "offsetMs": 2756.082,
+          "durationMs": 432.32699999999977,
+          "reading": "まもる",
+          "romaji": "mamoru",
+          "en": "to protect; to guard",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "ため",
+          "offsetMs": 3188.408,
+          "durationMs": 716.0410000000002,
+          "reading": "ため",
+          "romaji": "tame",
+          "en": "for; because of",
+          "zhHant": "為了；由於",
+          "showRuby": false
+        },
+        {
+          "text": "同額",
+          "offsetMs": 3904.449,
+          "durationMs": 499.87800000000016,
+          "reading": "どうがく",
+          "romaji": "dougaku",
+          "en": "the same amount",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "の",
+          "offsetMs": 4404.327,
+          "durationMs": 148.61200000000008,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "関税",
+          "offsetMs": 4552.939,
+          "durationMs": 486.3670000000002,
+          "reading": "かんぜい",
+          "romaji": "kanzei",
+          "en": "tariff",
+          "zhHant": "關稅",
+          "showRuby": true
+        },
+        {
+          "text": "を",
+          "offsetMs": 5039.306,
+          "durationMs": 162.1220000000003,
+          "reading": "を",
+          "romaji": "o",
+          "en": "object marker",
+          "zhHant": "受詞助詞",
+          "showRuby": false
+        },
+        {
+          "text": "課す",
+          "offsetMs": 5201.429,
+          "durationMs": 310.7349999999997,
+          "reading": "かす",
+          "romaji": "kasu",
+          "en": "to impose",
+          "zhHant": "徵收；施加",
+          "showRuby": true
+        },
+        {
+          "text": "方針",
+          "offsetMs": 5512.163,
+          "durationMs": 513.3879999999999,
+          "reading": "ほうしん",
+          "romaji": "houshin",
+          "en": "policy; course",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "だ",
+          "offsetMs": 6025.551,
+          "durationMs": 337.7550000000001,
+          "reading": "だ",
+          "romaji": "da",
+          "en": "is; plain copula",
+          "zhHant": "是；普通體判斷詞",
+          "showRuby": false
+        },
+        {
+          "text": "と",
+          "offsetMs": 6552.449,
+          "durationMs": 162.1220000000003,
+          "reading": "と",
+          "romaji": "to",
+          "en": "and; with; that",
+          "zhHant": "和；與；表示引用",
+          "showRuby": false
+        },
+        {
+          "text": "明らか",
+          "offsetMs": 6714.571,
+          "durationMs": 580.9390000000003,
+          "reading": "あきらか",
+          "romaji": "akiraka",
+          "en": "clear; obvious",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "にした",
+          "offsetMs": 7295.51,
+          "durationMs": 648.4899999999998,
+          "reading": "にした",
+          "romaji": "nishita",
+          "en": "load; baggage",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        }
+      ],
       "audio": {
         "file": "../audio/7567-canada-pauses-us-trade-talks/KM-NEWS-7567-canada-pauses-us-trade-talks-sentence-07-ja-Nanami.mp3",
         "voice": "ja-JP-NanamiNeural",

@@ -9,6 +9,7 @@ from __future__ import annotations
 
 import html
 import json
+import re
 from pathlib import Path
 from urllib.parse import quote
 
@@ -18,6 +19,11 @@ SITE_ROOT = ROOT.parent.parent
 ARTICLE_ROOT = ROOT / "articles"
 SCRIPT_ROOT = ROOT / "scripts"
 AUDIO_ROOT = ROOT / "audio"
+TOKEN_PUNCTUATION = re.compile(r"^[、。！？,.!?「」『』（）()：:；;・…]+$")
+TOKEN_MERGE_PATTERNS = sorted((
+    ("に", "つい", "て"), ("に", "よっ", "て"), ("に", "よれ", "ば"),
+    ("と", "して"), ("で", "ある", "と"), ("で", "は", "ない"),
+), key=len, reverse=True)
 
 BASE_URL = "https://kokomonster.com"
 VOICE = "ja-JP-NanamiNeural"
@@ -51,21 +57,74 @@ CATEGORY_LABELS = {
 }
 
 COVERS = {
-    7648: "royal-letter.png",
-    9991: "sumo-yokozuna.png",
-    9992: "suica-mascot-vote.png",
-    9993: "earthquake-preparedness.png",
-    7642: "un-world-map.png",
-    7611: "mountain-landslide.png",
-    7606: "ukraine-response.png",
-    7605: "tibet-landslide.png",
-    7596: "border-flash-flood.png",
-    7594: "royal-return.png",
-    7581: "iran-women.png",
-    7567: "trade-talks.png",
-    7561: "housing-construction.png",
-    7542: "aircraft-carrier.png",
+    7648: "royal-letter.webp",
+    9991: "sumo-yokozuna.webp",
+    9992: "suica-mascot-vote.webp",
+    9993: "earthquake-preparedness.webp",
+    7642: "un-world-map.webp",
+    7611: "mountain-landslide.webp",
+    7606: "ukraine-response.webp",
+    7605: "tibet-landslide.webp",
+    7596: "border-flash-flood.webp",
+    7594: "royal-return.webp",
+    7581: "iran-women.webp",
+    7567: "trade-talks.webp",
+    7561: "housing-construction.webp",
+    7542: "aircraft-carrier.webp",
 }
+
+INLINE_IMAGES = {
+    7648: [
+        {
+            "afterSentence": 2,
+            "file": "../../../assets/news-covers/royal-letter-newsroom.webp",
+            "alt": "Koko and Gohanko examine the official royal letter at a newsroom desk",
+        },
+        {
+            "afterSentence": 6,
+            "file": "../../../assets/news-covers/royal-status-explainer.webp",
+            "alt": "Boombear and Rabbit explain royal duties and the move to North America",
+        },
+    ],
+}
+
+STORYBOARDS = {
+    9991: "onosato-storyboard.webp",
+    9992: "suica-mascot-storyboard.webp",
+    9993: "aomori-earthquake-storyboard.webp",
+    7642: "un-world-map-storyboard.webp",
+    7611: "nepal-china-landslide-storyboard.webp",
+    7606: "ukraine-response-storyboard.webp",
+    7605: "nepal-tibet-landslide-storyboard.webp",
+    7596: "border-flash-flood-storyboard.webp",
+    7594: "royal-return-storyboard.webp",
+    7581: "iran-women-storyboard.webp",
+    7567: "trade-talks-storyboard.webp",
+    7561: "housing-construction-storyboard.webp",
+    7542: "aircraft-carrier-storyboard.webp",
+}
+
+
+def inline_images(article_id: int, sentence_count: int) -> list[dict]:
+    if article_id in INLINE_IMAGES:
+        return INLINE_IMAGES[article_id]
+    filename = STORYBOARDS[article_id]
+    first = max(1, sentence_count // 3)
+    second = max(first + 1, (sentence_count * 2) // 3)
+    return [
+        {
+            "afterSentence": first,
+            "file": f"../../../assets/news-covers/{filename}",
+            "crop": "top",
+            "alt": "First supporting Kokomonster scene for this news story",
+        },
+        {
+            "afterSentence": second,
+            "file": f"../../../assets/news-covers/{filename}",
+            "crop": "bottom",
+            "alt": "Second supporting Kokomonster scene for this news story",
+        },
+    ]
 
 # Speech-only substitutions. Display copy remains untouched; these strings are
 # passed to Nanami so product names, initials and decimal magnitudes are read
@@ -211,6 +270,7 @@ def build_source_article(raw: dict, overlay: dict, keyword_expansions: dict) -> 
             "file": local_cover(article_id),
             "sourceUrl": raw["cover"]["fileUrl"],
         },
+        "inlineImages": inline_images(article_id, len(sentences)),
         "sentences": sentences,
         "vocabulary": add_vocab_audio(article_id, slug, vocabulary),
         "readingMinutes": READING_MINUTES[article_id],
@@ -235,6 +295,59 @@ def add_vocab_audio(article_id: int, slug: str, vocabulary: list[dict]) -> list[
             },
         })
     return enriched
+
+
+def add_word_tokens(article: dict, lexicon: dict[str, dict]) -> None:
+    """Attach stable display metadata to each timed narration word."""
+    article_path = ARTICLE_ROOT / f"{article['id']}-{article['slug']}.json"
+    for sentence in article["sentences"]:
+        timing_path = (article_path.parent / sentence["audio"]["timings"]).resolve()
+        timings = merge_timing_tokens(read_json(timing_path)) if timing_path.exists() else []
+        sentence["tokens"] = [
+            {
+                "text": timing["text"],
+                "offsetMs": timing["offsetMs"],
+                "durationMs": timing["durationMs"],
+                **lexicon.get(timing["text"], {
+                    "reading": "",
+                    "romaji": "",
+                    "en": "see sentence translation",
+                    "zhHant": "參閱句子翻譯",
+                    "showRuby": False,
+                }),
+            }
+            for timing in timings
+        ]
+
+
+def merge_timing_tokens(items: list[dict]) -> list[dict]:
+    words = [item for item in items if not TOKEN_PUNCTUATION.fullmatch(item["text"])]
+    merged = []
+    index = 0
+    while index < len(words):
+        match_length = 0
+        for pattern in TOKEN_MERGE_PATTERNS:
+            if tuple(item["text"] for item in words[index:index + len(pattern)]) == pattern:
+                match_length = len(pattern)
+                break
+        if not match_length:
+            following = [item["text"] for item in words[index + 1:index + 4]]
+            if following[:3] in (["し", "まし", "た"], ["れ", "まし", "た"], ["て", "い", "ます"]):
+                match_length = 4
+            elif following[:2] in (["まし", "た"], ["なかっ", "た"], ["て", "いる"], ["し", "た"]):
+                match_length = 3
+            elif following[:1] in (["ます"], ["ない"], ["れる"], ["た"]):
+                match_length = 2
+        group = words[index:index + match_length] if match_length else [words[index]]
+        start = float(group[0]["offsetMs"])
+        end = float(group[-1]["offsetMs"]) + float(group[-1]["durationMs"])
+        merged.append({
+            "text": "".join(item["text"] for item in group),
+            "offsetMs": start,
+            "durationMs": end - start,
+        })
+        index += match_length or 1
+    return merged
 
 
 def build_demo_article(raw: dict, keyword_expansions: dict) -> dict:
@@ -276,6 +389,7 @@ def build_demo_article(raw: dict, keyword_expansions: dict) -> dict:
         "title": raw["title"],
         "summary": raw["summary"],
         "cover": {"file": raw["cover"], "sourceUrl": None},
+        "inlineImages": inline_images(article_id, len(sentences)),
         "sentences": sentences,
         "vocabulary": add_vocab_audio(article_id, slug, vocabulary),
         "readingMinutes": READING_MINUTES[article_id],
@@ -301,6 +415,7 @@ def main() -> None:
 
     overlays = read_json(ROOT / "localization-overlay.json")
     keyword_expansions = read_json(ROOT / "keyword-expansions.json")
+    token_lexicon = read_json(ROOT / "word-token-lexicon.json")
     sources = source_articles()
     if set(SOURCE_IDS) - set(sources):
         raise ValueError(f"Missing source IDs: {sorted(set(SOURCE_IDS) - set(sources))}")
@@ -359,6 +474,7 @@ def main() -> None:
     write_json(ROOT / "manifest.json", manifest)
 
     for article in articles:
+        add_word_tokens(article, token_lexicon)
         write_json(ARTICLE_ROOT / f"{article['id']}-{article['slug']}.json", article)
         write_scripts(article)
         (AUDIO_ROOT / f"{article['id']}-{article['slug']}").mkdir(parents=True, exist_ok=True)

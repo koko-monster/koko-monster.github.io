@@ -26,9 +26,23 @@
     "zhHant": "尼泊爾與西藏邊境發生大型山泥傾瀉，造成嚴重傷亡，並波及多國旅客。"
   },
   "cover": {
-    "file": "../../../assets/news-covers/tibet-landslide.png",
+    "file": "../../../assets/news-covers/tibet-landslide.webp",
     "sourceUrl": "https://api.kokomonster.com/file/resources/crawled-raw-news/2026-08-30/9812/1788064074968.jpg"
   },
+  "inlineImages": [
+    {
+      "afterSentence": 3,
+      "file": "../../../assets/news-covers/nepal-tibet-landslide-storyboard.webp",
+      "crop": "top",
+      "alt": "First supporting Kokomonster scene for this news story"
+    },
+    {
+      "afterSentence": 6,
+      "file": "../../../assets/news-covers/nepal-tibet-landslide-storyboard.webp",
+      "crop": "bottom",
+      "alt": "Second supporting Kokomonster scene for this news story"
+    }
+  ],
   "sentences": [
     {
       "id": "s01",
@@ -38,7 +52,138 @@
       "speechJa": "ネパールと中国・チベットのこっきょうでだいきぼな土石流が発生しました。",
       "en": "A major landslide occurred along the border between Nepal and China’s Tibet region.",
       "zhHant": "尼泊爾與中國西藏地區邊境發生大型山泥傾瀉。",
-      "tokens": [],
+      "tokens": [
+        {
+          "text": "ネパール",
+          "offsetMs": 57.379,
+          "durationMs": 631.172,
+          "reading": "ねぱーる",
+          "romaji": "nepaaru",
+          "en": "Nepal",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "と",
+          "offsetMs": 688.552,
+          "durationMs": 129.10299999999995,
+          "reading": "と",
+          "romaji": "to",
+          "en": "and; with; that",
+          "zhHant": "和；與；表示引用",
+          "showRuby": false
+        },
+        {
+          "text": "中国",
+          "offsetMs": 817.655,
+          "durationMs": 918.069,
+          "reading": "ちゅうごく",
+          "romaji": "chuugoku",
+          "en": "China",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "チベット",
+          "offsetMs": 1850.483,
+          "durationMs": 573.7929999999999,
+          "reading": "ちべっと",
+          "romaji": "chibetto",
+          "en": "Tibet",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "の",
+          "offsetMs": 2424.276,
+          "durationMs": 172.13799999999992,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "国境",
+          "offsetMs": 2596.414,
+          "durationMs": 530.759,
+          "reading": "こっきょう",
+          "romaji": "kokkyou",
+          "en": "border",
+          "zhHant": "邊境",
+          "showRuby": true
+        },
+        {
+          "text": "で",
+          "offsetMs": 3127.172,
+          "durationMs": 243.86200000000008,
+          "reading": "で",
+          "romaji": "de",
+          "en": "at; by; with",
+          "zhHant": "在；以；用",
+          "showRuby": false
+        },
+        {
+          "text": "大規模",
+          "offsetMs": 3371.034,
+          "durationMs": 559.4479999999999,
+          "reading": "だいきぼ",
+          "romaji": "daikibo",
+          "en": "large-scale",
+          "zhHant": "大規模",
+          "showRuby": true
+        },
+        {
+          "text": "な",
+          "offsetMs": 3930.483,
+          "durationMs": 172.13799999999992,
+          "reading": "な",
+          "romaji": "na",
+          "en": "linking ending",
+          "zhHant": "連接詞尾",
+          "showRuby": false
+        },
+        {
+          "text": "土石",
+          "offsetMs": 4102.621,
+          "durationMs": 444.6899999999996,
+          "reading": "どせき",
+          "romaji": "doseki",
+          "en": "earth and stones",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "流",
+          "offsetMs": 4547.31,
+          "durationMs": 229.51699999999983,
+          "reading": "りゅう",
+          "romaji": "ryuu",
+          "en": "fashion; way",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "が",
+          "offsetMs": 4776.828,
+          "durationMs": 129.10300000000007,
+          "reading": "が",
+          "romaji": "ga",
+          "en": "subject marker",
+          "zhHant": "主語助詞",
+          "showRuby": false
+        },
+        {
+          "text": "発生しました",
+          "offsetMs": 4905.931,
+          "durationMs": 1334.0690000000004,
+          "reading": "はっせいしました",
+          "romaji": "hasseishimashita",
+          "en": "outbreak; spring forth",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        }
+      ],
       "audio": {
         "file": "../audio/7605-nepal-tibet-landslides/KM-NEWS-7605-nepal-tibet-landslides-sentence-01-ja-Nanami.mp3",
         "voice": "ja-JP-NanamiNeural",
@@ -128,7 +273,178 @@
       "speechJa": "この土石流により、ネパール側で675人がしぼうし、2498人がゆくえふめいとなっています。",
       "en": "In Nepal, 675 people were killed and 2,498 are missing.",
       "zhHant": "尼泊爾一側有675人死亡，另有2,498人失蹤。",
-      "tokens": [],
+      "tokens": [
+        {
+          "text": "この",
+          "offsetMs": 55.506,
+          "durationMs": 360.79200000000003,
+          "reading": "この",
+          "romaji": "kono",
+          "en": "nine",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        },
+        {
+          "text": "土石流",
+          "offsetMs": 416.298,
+          "durationMs": 652.201,
+          "reading": "どせきりゅう",
+          "romaji": "dosekiryuu",
+          "en": "debris flow; landslide",
+          "zhHant": "山泥傾瀉；土石流",
+          "showRuby": true
+        },
+        {
+          "text": "に",
+          "offsetMs": 1068.499,
+          "durationMs": 124.8900000000001,
+          "reading": "に",
+          "romaji": "ni",
+          "en": "to; at; in",
+          "zhHant": "向；在；於",
+          "showRuby": false
+        },
+        {
+          "text": "より",
+          "offsetMs": 1193.389,
+          "durationMs": 693.8309999999999,
+          "reading": "より",
+          "romaji": "yori",
+          "en": "than; from",
+          "zhHant": "比；從",
+          "showRuby": false
+        },
+        {
+          "text": "ネパール",
+          "offsetMs": 1887.22,
+          "durationMs": 485.6809999999998,
+          "reading": "ねぱーる",
+          "romaji": "nepaaru",
+          "en": "Nepal",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "側",
+          "offsetMs": 2372.901,
+          "durationMs": 263.65599999999995,
+          "reading": "がわ",
+          "romaji": "gawa",
+          "en": "near; close",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "で",
+          "offsetMs": 2636.557,
+          "durationMs": 222.02599999999984,
+          "reading": "で",
+          "romaji": "de",
+          "en": "at; by; with",
+          "zhHant": "在；以；用",
+          "showRuby": false
+        },
+        {
+          "text": "675人",
+          "offsetMs": 2858.582,
+          "durationMs": 1470.9209999999998,
+          "reading": "ろっぴゃくななじゅうごにん",
+          "romaji": "roppyakunanajuugonin",
+          "en": "675 people",
+          "zhHant": "675人",
+          "showRuby": true
+        },
+        {
+          "text": "が",
+          "offsetMs": 4329.504,
+          "durationMs": 152.64300000000003,
+          "reading": "が",
+          "romaji": "ga",
+          "en": "subject marker",
+          "zhHant": "主語助詞",
+          "showRuby": false
+        },
+        {
+          "text": "死亡",
+          "offsetMs": 4482.146,
+          "durationMs": 430.1750000000002,
+          "reading": "しぼう",
+          "romaji": "shibou",
+          "en": "death; to die",
+          "zhHant": "死亡",
+          "showRuby": true
+        },
+        {
+          "text": "し",
+          "offsetMs": 4912.321,
+          "durationMs": 582.8180000000002,
+          "reading": "し",
+          "romaji": "shi",
+          "en": "do; verb stem",
+          "zhHant": "做；動詞詞幹",
+          "showRuby": false
+        },
+        {
+          "text": "2498人",
+          "offsetMs": 5495.139,
+          "durationMs": 2136.999,
+          "reading": "にせんよんひゃくきゅうじゅうはちにん",
+          "romaji": "nisenyonhyakukyuujuuhachinin",
+          "en": "2498 people",
+          "zhHant": "2498人",
+          "showRuby": true
+        },
+        {
+          "text": "が",
+          "offsetMs": 7632.138,
+          "durationMs": 235.90200000000004,
+          "reading": "が",
+          "romaji": "ga",
+          "en": "subject marker",
+          "zhHant": "主語助詞",
+          "showRuby": false
+        },
+        {
+          "text": "行方",
+          "offsetMs": 7868.04,
+          "durationMs": 430.1750000000002,
+          "reading": "ゆくえ",
+          "romaji": "yukue",
+          "en": "(one's) whereabouts",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "不明",
+          "offsetMs": 8298.215,
+          "durationMs": 402.4220000000005,
+          "reading": "ふめい",
+          "romaji": "fumei",
+          "en": "unclear; obscure",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "と",
+          "offsetMs": 8700.637,
+          "durationMs": 111.01300000000083,
+          "reading": "と",
+          "romaji": "to",
+          "en": "and; with; that",
+          "zhHant": "和；與；表示引用",
+          "showRuby": false
+        },
+        {
+          "text": "なっています",
+          "offsetMs": 8811.65,
+          "durationMs": 860.3500000000004,
+          "reading": "なっています",
+          "romaji": "natteimasu",
+          "en": "to become; to get",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        }
+      ],
       "audio": {
         "file": "../audio/7605-nepal-tibet-landslides/KM-NEWS-7605-nepal-tibet-landslides-sentence-02-ja-Nanami.mp3",
         "voice": "ja-JP-NanamiNeural",
@@ -230,7 +546,218 @@
       "speechJa": "中国のメディアによると、チベット自治区でも16人がしぼうしており、546人がゆくえふめいです。",
       "en": "Chinese media reported that 16 people had also died in the Tibet Autonomous Region and 546 were missing.",
       "zhHant": "中國傳媒報道，西藏自治區亦有16人死亡、546人失蹤。",
-      "tokens": [],
+      "tokens": [
+        {
+          "text": "中国",
+          "offsetMs": 56.341,
+          "durationMs": 619.751,
+          "reading": "ちゅうごく",
+          "romaji": "chuugoku",
+          "en": "China",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "の",
+          "offsetMs": 676.092,
+          "durationMs": 126.76699999999994,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "メディア",
+          "offsetMs": 802.859,
+          "durationMs": 394.38700000000006,
+          "reading": "めでぃあ",
+          "romaji": "media",
+          "en": "media",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "に",
+          "offsetMs": 1197.246,
+          "durationMs": 140.8520000000001,
+          "reading": "に",
+          "romaji": "ni",
+          "en": "to; at; in",
+          "zhHant": "向；在；於",
+          "showRuby": false
+        },
+        {
+          "text": "よる",
+          "offsetMs": 1338.098,
+          "durationMs": 267.6199999999999,
+          "reading": "よる",
+          "romaji": "yoru",
+          "en": "to be due to; to be caused by",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        },
+        {
+          "text": "と",
+          "offsetMs": 1605.718,
+          "durationMs": 605.6659999999999,
+          "reading": "と",
+          "romaji": "to",
+          "en": "and; with; that",
+          "zhHant": "和；與；表示引用",
+          "showRuby": false
+        },
+        {
+          "text": "チベット",
+          "offsetMs": 2211.384,
+          "durationMs": 563.4099999999999,
+          "reading": "ちべっと",
+          "romaji": "chibetto",
+          "en": "Tibet",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "自治区",
+          "offsetMs": 2774.793,
+          "durationMs": 408.4720000000002,
+          "reading": "じちく",
+          "romaji": "jichiku",
+          "en": "territory; autonomous region",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "で",
+          "offsetMs": 3183.266,
+          "durationMs": 98.59700000000021,
+          "reading": "で",
+          "romaji": "de",
+          "en": "at; by; with",
+          "zhHant": "在；以；用",
+          "showRuby": false
+        },
+        {
+          "text": "も",
+          "offsetMs": 3281.862,
+          "durationMs": 253.5340000000001,
+          "reading": "も",
+          "romaji": "mo",
+          "en": "also; too",
+          "zhHant": "也；亦",
+          "showRuby": false
+        },
+        {
+          "text": "16人",
+          "offsetMs": 3535.397,
+          "durationMs": 760.6030000000001,
+          "reading": "16にん",
+          "romaji": "16nin",
+          "en": "16 people",
+          "zhHant": "16人",
+          "showRuby": true
+        },
+        {
+          "text": "が",
+          "offsetMs": 4296.0,
+          "durationMs": 154.9380000000001,
+          "reading": "が",
+          "romaji": "ga",
+          "en": "subject marker",
+          "zhHant": "主語助詞",
+          "showRuby": false
+        },
+        {
+          "text": "死亡",
+          "offsetMs": 4450.938,
+          "durationMs": 422.5569999999998,
+          "reading": "しぼう",
+          "romaji": "shibou",
+          "en": "death; to die",
+          "zhHant": "死亡",
+          "showRuby": true
+        },
+        {
+          "text": "し",
+          "offsetMs": 4873.495,
+          "durationMs": 112.68199999999979,
+          "reading": "し",
+          "romaji": "shi",
+          "en": "do; verb stem",
+          "zhHant": "做；動詞詞幹",
+          "showRuby": false
+        },
+        {
+          "text": "て",
+          "offsetMs": 4986.177,
+          "durationMs": 98.59699999999975,
+          "reading": "て",
+          "romaji": "te",
+          "en": "linking verb ending",
+          "zhHant": "連接動詞詞尾",
+          "showRuby": false
+        },
+        {
+          "text": "おり",
+          "offsetMs": 5084.774,
+          "durationMs": 591.5799999999999,
+          "reading": "おり",
+          "romaji": "ori",
+          "en": "opportunity; chance",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        },
+        {
+          "text": "546人",
+          "offsetMs": 5676.354,
+          "durationMs": 1478.951,
+          "reading": "ごひゃくよんじゅうろくにん",
+          "romaji": "gohyakuyonjuurokunin",
+          "en": "546 people",
+          "zhHant": "546人",
+          "showRuby": true
+        },
+        {
+          "text": "が",
+          "offsetMs": 7155.305,
+          "durationMs": 169.02300000000014,
+          "reading": "が",
+          "romaji": "ga",
+          "en": "subject marker",
+          "zhHant": "主語助詞",
+          "showRuby": false
+        },
+        {
+          "text": "行方",
+          "offsetMs": 7324.328,
+          "durationMs": 450.72800000000007,
+          "reading": "ゆくえ",
+          "romaji": "yukue",
+          "en": "(one's) whereabouts",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "不明",
+          "offsetMs": 7775.056,
+          "durationMs": 422.5569999999998,
+          "reading": "ふめい",
+          "romaji": "fumei",
+          "en": "unclear; obscure",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "です",
+          "offsetMs": 8197.613,
+          "durationMs": 394.3870000000006,
+          "reading": "です",
+          "romaji": "desu",
+          "en": "is; polite copula",
+          "zhHant": "是；禮貌判斷詞",
+          "showRuby": false
+        }
+      ],
       "audio": {
         "file": "../audio/7605-nepal-tibet-landslides/KM-NEWS-7605-nepal-tibet-landslides-sentence-03-ja-Nanami.mp3",
         "voice": "ja-JP-NanamiNeural",
@@ -336,7 +863,98 @@
       "speechJa": "ネパールかんこうきょくは、がいこくじん261人をきゅうしゅつしたと発表しました。",
       "en": "The Nepal Tourism Board said 261 foreign nationals had been rescued.",
       "zhHant": "尼泊爾旅遊局表示，已有261名外國人獲救。",
-      "tokens": [],
+      "tokens": [
+        {
+          "text": "ネパール",
+          "offsetMs": 57.166,
+          "durationMs": 643.1210000000001,
+          "reading": "ねぱーる",
+          "romaji": "nepaaru",
+          "en": "Nepal",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "観光局",
+          "offsetMs": 700.287,
+          "durationMs": 786.037,
+          "reading": "かんこうきょく",
+          "romaji": "kankoukyoku",
+          "en": "tourism board",
+          "zhHant": "旅遊局",
+          "showRuby": true
+        },
+        {
+          "text": "は",
+          "offsetMs": 1486.324,
+          "durationMs": 614.538,
+          "reading": "は",
+          "romaji": "wa",
+          "en": "topic marker",
+          "zhHant": "主題助詞",
+          "showRuby": false
+        },
+        {
+          "text": "外国人",
+          "offsetMs": 2100.862,
+          "durationMs": 857.4949999999999,
+          "reading": "がいこくじん",
+          "romaji": "gaikokujin",
+          "en": "foreign national",
+          "zhHant": "外國人",
+          "showRuby": true
+        },
+        {
+          "text": "261人",
+          "offsetMs": 2958.357,
+          "durationMs": 1557.7820000000002,
+          "reading": "にひゃくろくじゅういちにん",
+          "romaji": "nihyakurokujuuichinin",
+          "en": "261 people",
+          "zhHant": "261人",
+          "showRuby": true
+        },
+        {
+          "text": "を",
+          "offsetMs": 4516.14,
+          "durationMs": 171.4989999999998,
+          "reading": "を",
+          "romaji": "o",
+          "en": "object marker",
+          "zhHant": "受詞助詞",
+          "showRuby": false
+        },
+        {
+          "text": "救出した",
+          "offsetMs": 4687.639,
+          "durationMs": 786.0360000000001,
+          "reading": "きゅうしゅつした",
+          "romaji": "kyuushutsushita",
+          "en": "rescue; extricate",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "と",
+          "offsetMs": 5473.676,
+          "durationMs": 142.91600000000017,
+          "reading": "と",
+          "romaji": "to",
+          "en": "and; with; that",
+          "zhHant": "和；與；表示引用",
+          "showRuby": false
+        },
+        {
+          "text": "発表しました",
+          "offsetMs": 5616.591,
+          "durationMs": 1343.4089999999997,
+          "reading": "はっぴょうしました",
+          "romaji": "happyoushimashita",
+          "en": "announcement; publication",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        }
+      ],
       "audio": {
         "file": "../audio/7605-nepal-tibet-landslides/KM-NEWS-7605-nepal-tibet-landslides-sentence-04-ja-Nanami.mp3",
         "voice": "ja-JP-NanamiNeural",
@@ -414,7 +1032,78 @@
       "speechJa": "しかし、まだ320人がゆくえふめいです。",
       "en": "However, 320 people remain missing.",
       "zhHant": "不過，仍有320人下落不明。",
-      "tokens": [],
+      "tokens": [
+        {
+          "text": "しかし",
+          "offsetMs": 66.0,
+          "durationMs": 940.5,
+          "reading": "しかし",
+          "romaji": "shikashi",
+          "en": "however; but",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        },
+        {
+          "text": "まだ",
+          "offsetMs": 1006.5,
+          "durationMs": 363.0,
+          "reading": "まだ",
+          "romaji": "mada",
+          "en": "still; as yet",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        },
+        {
+          "text": "320人",
+          "offsetMs": 1369.5,
+          "durationMs": 1468.5,
+          "reading": "さんびゃくにじゅうにん",
+          "romaji": "sanbyakunijuunin",
+          "en": "320 people",
+          "zhHant": "320人",
+          "showRuby": true
+        },
+        {
+          "text": "が",
+          "offsetMs": 2838.0,
+          "durationMs": 181.5,
+          "reading": "が",
+          "romaji": "ga",
+          "en": "subject marker",
+          "zhHant": "主語助詞",
+          "showRuby": false
+        },
+        {
+          "text": "行方",
+          "offsetMs": 3019.5,
+          "durationMs": 511.5,
+          "reading": "ゆくえ",
+          "romaji": "yukue",
+          "en": "(one's) whereabouts",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "不明",
+          "offsetMs": 3531.0,
+          "durationMs": 495.0,
+          "reading": "ふめい",
+          "romaji": "fumei",
+          "en": "unclear; obscure",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "です",
+          "offsetMs": 4026.0,
+          "durationMs": 462.0,
+          "reading": "です",
+          "romaji": "desu",
+          "en": "is; polite copula",
+          "zhHant": "是；禮貌判斷詞",
+          "showRuby": false
+        }
+      ],
       "audio": {
         "file": "../audio/7605-nepal-tibet-landslides/KM-NEWS-7605-nepal-tibet-landslides-sentence-05-ja-Nanami.mp3",
         "voice": "ja-JP-NanamiNeural",
@@ -464,7 +1153,208 @@
       "speechJa": "中国側の報告によると、ゆくえふめい者の中には23カ国のがいこくじんが含まれています。",
       "en": "According to reports from China, the missing include foreign nationals from 23 countries.",
       "zhHant": "根據中方報道，失蹤者包括來自23個國家的外國人。",
-      "tokens": [],
+      "tokens": [
+        {
+          "text": "中国",
+          "offsetMs": 56.199,
+          "durationMs": 660.342,
+          "reading": "ちゅうごく",
+          "romaji": "chuugoku",
+          "en": "China",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "側",
+          "offsetMs": 716.541,
+          "durationMs": 252.89700000000005,
+          "reading": "がわ",
+          "romaji": "gawa",
+          "en": "near; close",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "の",
+          "offsetMs": 969.438,
+          "durationMs": 154.5479999999999,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "報告",
+          "offsetMs": 1123.986,
+          "durationMs": 547.943,
+          "reading": "ほうこく",
+          "romaji": "houkoku",
+          "en": "report; information",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "に",
+          "offsetMs": 1671.929,
+          "durationMs": 126.44800000000009,
+          "reading": "に",
+          "romaji": "ni",
+          "en": "to; at; in",
+          "zhHant": "向；在；於",
+          "showRuby": false
+        },
+        {
+          "text": "よる",
+          "offsetMs": 1798.377,
+          "durationMs": 280.9960000000001,
+          "reading": "よる",
+          "romaji": "yoru",
+          "en": "to be due to; to be caused by",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        },
+        {
+          "text": "と",
+          "offsetMs": 2079.374,
+          "durationMs": 590.0929999999998,
+          "reading": "と",
+          "romaji": "to",
+          "en": "and; with; that",
+          "zhHant": "和；與；表示引用",
+          "showRuby": false
+        },
+        {
+          "text": "行方",
+          "offsetMs": 2669.466,
+          "durationMs": 435.54399999999987,
+          "reading": "ゆくえ",
+          "romaji": "yukue",
+          "en": "(one's) whereabouts",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "不明者",
+          "offsetMs": 3105.011,
+          "durationMs": 561.9929999999999,
+          "reading": "ふめいしゃ",
+          "romaji": "fumeisha",
+          "en": "missing person",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "の",
+          "offsetMs": 3667.004,
+          "durationMs": 140.49800000000005,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "中",
+          "offsetMs": 3807.502,
+          "durationMs": 266.9470000000001,
+          "reading": "なか",
+          "romaji": "naka",
+          "en": "inside; interior",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "に",
+          "offsetMs": 4074.448,
+          "durationMs": 140.49800000000005,
+          "reading": "に",
+          "romaji": "ni",
+          "en": "to; at; in",
+          "zhHant": "向；在；於",
+          "showRuby": false
+        },
+        {
+          "text": "は",
+          "offsetMs": 4214.947,
+          "durationMs": 280.9960000000001,
+          "reading": "は",
+          "romaji": "wa",
+          "en": "topic marker",
+          "zhHant": "主題助詞",
+          "showRuby": false
+        },
+        {
+          "text": "23",
+          "offsetMs": 4495.943,
+          "durationMs": 744.6409999999996,
+          "reading": "にじゅうさん",
+          "romaji": "nijuusan",
+          "en": "23",
+          "zhHant": "23",
+          "showRuby": false
+        },
+        {
+          "text": "カ国",
+          "offsetMs": 5240.584,
+          "durationMs": 421.4949999999999,
+          "reading": "かこく",
+          "romaji": "kakoku",
+          "en": "counter for countries",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "の",
+          "offsetMs": 5662.078,
+          "durationMs": 154.54799999999977,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "外国人",
+          "offsetMs": 5816.626,
+          "durationMs": 772.7399999999998,
+          "reading": "がいこくじん",
+          "romaji": "gaikokujin",
+          "en": "foreign national",
+          "zhHant": "外國人",
+          "showRuby": true
+        },
+        {
+          "text": "が",
+          "offsetMs": 6589.367,
+          "durationMs": 154.54799999999977,
+          "reading": "が",
+          "romaji": "ga",
+          "en": "subject marker",
+          "zhHant": "主語助詞",
+          "showRuby": false
+        },
+        {
+          "text": "含ま",
+          "offsetMs": 6743.915,
+          "durationMs": 407.4449999999997,
+          "reading": "ふくま",
+          "romaji": "fukuma",
+          "en": "to contain; to comprise",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "れています",
+          "offsetMs": 7151.359,
+          "durationMs": 744.6409999999996,
+          "reading": "れています",
+          "romaji": "reteimasu",
+          "en": "indicates passive voice (incl. the \"suffering passive\")",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        }
+      ],
       "audio": {
         "file": "../audio/7605-nepal-tibet-landslides/KM-NEWS-7605-nepal-tibet-landslides-sentence-06-ja-Nanami.mp3",
         "voice": "ja-JP-NanamiNeural",
@@ -578,7 +1468,188 @@
       "speechJa": "ぐたいてきには、マレーシア人やインド人、アメリカ人など多くの国の人々がいます。",
       "en": "They include people from Malaysia, India and the United States, among many other countries.",
       "zhHant": "當中包括馬來西亞、印度、美國等多國人士。",
-      "tokens": [],
+      "tokens": [
+        {
+          "text": "具体的",
+          "offsetMs": 56.414,
+          "durationMs": 775.697,
+          "reading": "ぐたいてき",
+          "romaji": "gutaiteki",
+          "en": "specific; concrete",
+          "zhHant": "具體",
+          "showRuby": true
+        },
+        {
+          "text": "に",
+          "offsetMs": 832.112,
+          "durationMs": 126.93200000000002,
+          "reading": "に",
+          "romaji": "ni",
+          "en": "to; at; in",
+          "zhHant": "向；在；於",
+          "showRuby": false
+        },
+        {
+          "text": "は",
+          "offsetMs": 959.044,
+          "durationMs": 550.0399999999998,
+          "reading": "は",
+          "romaji": "wa",
+          "en": "topic marker",
+          "zhHant": "主題助詞",
+          "showRuby": false
+        },
+        {
+          "text": "マレーシア",
+          "offsetMs": 1509.084,
+          "durationMs": 691.0759999999998,
+          "reading": "まれーしあ",
+          "romaji": "mareeshia",
+          "en": "Malaysia",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "人",
+          "offsetMs": 2200.159,
+          "durationMs": 253.86500000000024,
+          "reading": "ひと",
+          "romaji": "hito",
+          "en": "-ian (e.g. Italian); -ite (e.g. Tokyoite)",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "や",
+          "offsetMs": 2454.024,
+          "durationMs": 225.65700000000015,
+          "reading": "や",
+          "romaji": "ya",
+          "en": "and; such as",
+          "zhHant": "和；例如",
+          "showRuby": false
+        },
+        {
+          "text": "インド",
+          "offsetMs": 2679.681,
+          "durationMs": 423.1080000000002,
+          "reading": "いんど",
+          "romaji": "indo",
+          "en": "India",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "人",
+          "offsetMs": 3102.789,
+          "durationMs": 676.9720000000002,
+          "reading": "ひと",
+          "romaji": "hito",
+          "en": "-ian (e.g. Italian); -ite (e.g. Tokyoite)",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "アメリカ",
+          "offsetMs": 3779.761,
+          "durationMs": 564.1430000000005,
+          "reading": "あめりか",
+          "romaji": "amerika",
+          "en": "America",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "人",
+          "offsetMs": 4343.904,
+          "durationMs": 253.86499999999978,
+          "reading": "ひと",
+          "romaji": "hito",
+          "en": "-ian (e.g. Italian); -ite (e.g. Tokyoite)",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "など",
+          "offsetMs": 4597.769,
+          "durationMs": 338.4859999999999,
+          "reading": "など",
+          "romaji": "nado",
+          "en": "and so on",
+          "zhHant": "等等",
+          "showRuby": false
+        },
+        {
+          "text": "多く",
+          "offsetMs": 4936.255,
+          "durationMs": 437.21100000000024,
+          "reading": "おおく",
+          "romaji": "ooku",
+          "en": "many; much",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "の",
+          "offsetMs": 5373.466,
+          "durationMs": 155.13900000000012,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "国",
+          "offsetMs": 5528.606,
+          "durationMs": 267.96799999999985,
+          "reading": "くに",
+          "romaji": "kuni",
+          "en": "country; state",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "の",
+          "offsetMs": 5796.574,
+          "durationMs": 126.93199999999979,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "人々",
+          "offsetMs": 5923.506,
+          "durationMs": 507.72900000000027,
+          "reading": "ひとびと",
+          "romaji": "hitobito",
+          "en": "people; men and women",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "が",
+          "offsetMs": 6431.235,
+          "durationMs": 126.93199999999979,
+          "reading": "が",
+          "romaji": "ga",
+          "en": "subject marker",
+          "zhHant": "主語助詞",
+          "showRuby": false
+        },
+        {
+          "text": "います",
+          "offsetMs": 6558.167,
+          "durationMs": 521.8329999999996,
+          "reading": "います",
+          "romaji": "imasu",
+          "en": "to be",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        }
+      ],
       "audio": {
         "file": "../audio/7605-nepal-tibet-landslides/KM-NEWS-7605-nepal-tibet-landslides-sentence-07-ja-Nanami.mp3",
         "voice": "ja-JP-NanamiNeural",
@@ -676,7 +1747,158 @@
       "speechJa": "また、ネパールとうきょくはイギリス人33人がゆくえふめいであることを発表しました。",
       "en": "Nepalese authorities also announced that 33 British nationals were missing.",
       "zhHant": "尼泊爾當局亦公布，有33名英國人失蹤。",
-      "tokens": [],
+      "tokens": [
+        {
+          "text": "また",
+          "offsetMs": 57.224,
+          "durationMs": 815.435,
+          "reading": "また",
+          "romaji": "mata",
+          "en": "crotch; crutch",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        },
+        {
+          "text": "ネパール",
+          "offsetMs": 872.659,
+          "durationMs": 529.3179999999999,
+          "reading": "ねぱーる",
+          "romaji": "nepaaru",
+          "en": "Nepal",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "当局",
+          "offsetMs": 1401.976,
+          "durationMs": 515.012,
+          "reading": "とうきょく",
+          "romaji": "toukyoku",
+          "en": "authorities",
+          "zhHant": "當局",
+          "showRuby": true
+        },
+        {
+          "text": "は",
+          "offsetMs": 1916.988,
+          "durationMs": 300.4240000000002,
+          "reading": "は",
+          "romaji": "wa",
+          "en": "topic marker",
+          "zhHant": "主題助詞",
+          "showRuby": false
+        },
+        {
+          "text": "イギリス",
+          "offsetMs": 2217.412,
+          "durationMs": 557.9290000000001,
+          "reading": "いぎりす",
+          "romaji": "igirisu",
+          "en": "United Kingdom; Britain",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "人",
+          "offsetMs": 2775.341,
+          "durationMs": 271.8119999999999,
+          "reading": "ひと",
+          "romaji": "hito",
+          "en": "-ian (e.g. Italian); -ite (e.g. Tokyoite)",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "33人",
+          "offsetMs": 3047.153,
+          "durationMs": 1115.859,
+          "reading": "さんじゅうさんにん",
+          "romaji": "sanjuusannin",
+          "en": "33 people",
+          "zhHant": "33人",
+          "showRuby": true
+        },
+        {
+          "text": "が",
+          "offsetMs": 4163.012,
+          "durationMs": 228.89400000000023,
+          "reading": "が",
+          "romaji": "ga",
+          "en": "subject marker",
+          "zhHant": "主語助詞",
+          "showRuby": false
+        },
+        {
+          "text": "行方",
+          "offsetMs": 4391.906,
+          "durationMs": 443.48199999999997,
+          "reading": "ゆくえ",
+          "romaji": "yukue",
+          "en": "(one's) whereabouts",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "不明",
+          "offsetMs": 4835.388,
+          "durationMs": 400.5649999999996,
+          "reading": "ふめい",
+          "romaji": "fumei",
+          "en": "unclear; obscure",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "で",
+          "offsetMs": 5235.953,
+          "durationMs": 114.44700000000012,
+          "reading": "で",
+          "romaji": "de",
+          "en": "at; by; with",
+          "zhHant": "在；以；用",
+          "showRuby": false
+        },
+        {
+          "text": "ある",
+          "offsetMs": 5350.4,
+          "durationMs": 243.19999999999982,
+          "reading": "ある",
+          "romaji": "aru",
+          "en": "to be; to exist",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        },
+        {
+          "text": "こと",
+          "offsetMs": 5593.6,
+          "durationMs": 271.8119999999999,
+          "reading": "こと",
+          "romaji": "koto",
+          "en": "thing; nominalizer",
+          "zhHant": "事情；名詞化",
+          "showRuby": false
+        },
+        {
+          "text": "を",
+          "offsetMs": 5865.412,
+          "durationMs": 114.44700000000012,
+          "reading": "を",
+          "romaji": "o",
+          "en": "object marker",
+          "zhHant": "受詞助詞",
+          "showRuby": false
+        },
+        {
+          "text": "発表しました",
+          "offsetMs": 5979.859,
+          "durationMs": 1316.1409999999996,
+          "reading": "はっぴょうしました",
+          "romaji": "happyoushimashita",
+          "en": "announcement; publication",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        }
+      ],
       "audio": {
         "file": "../audio/7605-nepal-tibet-landslides/KM-NEWS-7605-nepal-tibet-landslides-sentence-08-ja-Nanami.mp3",
         "voice": "ja-JP-NanamiNeural",
@@ -770,7 +1992,228 @@
       "speechJa": "一部のイギリス人はチベットへ向かうためにこっきょうを越えようとしていたとのことです。",
       "en": "Some of the British travellers were reportedly trying to cross the border on their way to Tibet.",
       "zhHant": "據報，部分英國旅客當時正準備越境前往西藏。",
-      "tokens": [],
+      "tokens": [
+        {
+          "text": "一部",
+          "offsetMs": 59.918,
+          "durationMs": 509.303,
+          "reading": "いちぶ",
+          "romaji": "ichibu",
+          "en": "one part; one portion",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "の",
+          "offsetMs": 569.221,
+          "durationMs": 179.75400000000002,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "イギリス",
+          "offsetMs": 748.975,
+          "durationMs": 599.18,
+          "reading": "いぎりす",
+          "romaji": "igirisu",
+          "en": "United Kingdom; Britain",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "人",
+          "offsetMs": 1348.155,
+          "durationMs": 269.6310000000001,
+          "reading": "ひと",
+          "romaji": "hito",
+          "en": "-ian (e.g. Italian); -ite (e.g. Tokyoite)",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "は",
+          "offsetMs": 1617.786,
+          "durationMs": 344.528,
+          "reading": "は",
+          "romaji": "wa",
+          "en": "topic marker",
+          "zhHant": "主題助詞",
+          "showRuby": false
+        },
+        {
+          "text": "チベット",
+          "offsetMs": 1962.314,
+          "durationMs": 614.1589999999999,
+          "reading": "ちべっと",
+          "romaji": "chibetto",
+          "en": "Tibet",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "へ",
+          "offsetMs": 2576.474,
+          "durationMs": 149.79500000000007,
+          "reading": "へ",
+          "romaji": "e",
+          "en": "toward; to",
+          "zhHant": "往；向",
+          "showRuby": false
+        },
+        {
+          "text": "向かう",
+          "offsetMs": 2726.269,
+          "durationMs": 434.4050000000002,
+          "reading": "むかう",
+          "romaji": "mukau",
+          "en": "to face",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "ため",
+          "offsetMs": 3160.674,
+          "durationMs": 269.63099999999986,
+          "reading": "ため",
+          "romaji": "tame",
+          "en": "for; because of",
+          "zhHant": "為了；由於",
+          "showRuby": false
+        },
+        {
+          "text": "に",
+          "offsetMs": 3430.305,
+          "durationMs": 269.63099999999986,
+          "reading": "に",
+          "romaji": "ni",
+          "en": "to; at; in",
+          "zhHant": "向；在；於",
+          "showRuby": false
+        },
+        {
+          "text": "国境",
+          "offsetMs": 3699.936,
+          "durationMs": 539.2620000000002,
+          "reading": "こっきょう",
+          "romaji": "kokkyou",
+          "en": "border",
+          "zhHant": "邊境",
+          "showRuby": true
+        },
+        {
+          "text": "を",
+          "offsetMs": 4239.198,
+          "durationMs": 149.79500000000007,
+          "reading": "を",
+          "romaji": "o",
+          "en": "object marker",
+          "zhHant": "受詞助詞",
+          "showRuby": false
+        },
+        {
+          "text": "越え",
+          "offsetMs": 4388.993,
+          "durationMs": 284.6099999999997,
+          "reading": "こえ",
+          "romaji": "koe",
+          "en": "to cross over; to cross",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "よう",
+          "offsetMs": 4673.604,
+          "durationMs": 284.6099999999997,
+          "reading": "よう",
+          "romaji": "you",
+          "en": "way; so that",
+          "zhHant": "方式；以便",
+          "showRuby": false
+        },
+        {
+          "text": "と",
+          "offsetMs": 4958.214,
+          "durationMs": 134.8149999999996,
+          "reading": "と",
+          "romaji": "to",
+          "en": "and; with; that",
+          "zhHant": "和；與；表示引用",
+          "showRuby": false
+        },
+        {
+          "text": "し",
+          "offsetMs": 5093.03,
+          "durationMs": 119.83600000000024,
+          "reading": "し",
+          "romaji": "shi",
+          "en": "do; verb stem",
+          "zhHant": "做；動詞詞幹",
+          "showRuby": false
+        },
+        {
+          "text": "て",
+          "offsetMs": 5212.866,
+          "durationMs": 104.85599999999977,
+          "reading": "て",
+          "romaji": "te",
+          "en": "linking verb ending",
+          "zhHant": "連接動詞詞尾",
+          "showRuby": false
+        },
+        {
+          "text": "いた",
+          "offsetMs": 5317.722,
+          "durationMs": 269.6309999999994,
+          "reading": "いた",
+          "romaji": "ita",
+          "en": "board; plank",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        },
+        {
+          "text": "と",
+          "offsetMs": 5587.353,
+          "durationMs": 134.8149999999996,
+          "reading": "と",
+          "romaji": "to",
+          "en": "and; with; that",
+          "zhHant": "和；與；表示引用",
+          "showRuby": false
+        },
+        {
+          "text": "の",
+          "offsetMs": 5722.169,
+          "durationMs": 149.79500000000007,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "こと",
+          "offsetMs": 5871.964,
+          "durationMs": 284.6099999999997,
+          "reading": "こと",
+          "romaji": "koto",
+          "en": "thing; nominalizer",
+          "zhHant": "事情；名詞化",
+          "showRuby": false
+        },
+        {
+          "text": "です",
+          "offsetMs": 6156.574,
+          "durationMs": 419.4260000000004,
+          "reading": "です",
+          "romaji": "desu",
+          "en": "is; polite copula",
+          "zhHant": "是；禮貌判斷詞",
+          "showRuby": false
+        }
+      ],
       "audio": {
         "file": "../audio/7605-nepal-tibet-landslides/KM-NEWS-7605-nepal-tibet-landslides-sentence-09-ja-Nanami.mp3",
         "voice": "ja-JP-NanamiNeural",
@@ -884,7 +2327,108 @@
       "speechJa": "状況は非常にしんこくで、救助活動が続いています。",
       "en": "The situation remains extremely serious, and rescue operations are continuing.",
       "zhHant": "當地情況仍然十分嚴峻，救援工作持續進行。",
-      "tokens": [],
+      "tokens": [
+        {
+          "text": "状況",
+          "offsetMs": 62.066,
+          "durationMs": 698.248,
+          "reading": "じょうきょう",
+          "romaji": "joukyou",
+          "en": "state of affairs (around you); situation",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "は",
+          "offsetMs": 760.314,
+          "durationMs": 232.74900000000002,
+          "reading": "は",
+          "romaji": "wa",
+          "en": "topic marker",
+          "zhHant": "主題助詞",
+          "showRuby": false
+        },
+        {
+          "text": "非常",
+          "offsetMs": 993.063,
+          "durationMs": 543.082,
+          "reading": "ひじょう",
+          "romaji": "hijou",
+          "en": "emergency",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "に",
+          "offsetMs": 1536.145,
+          "durationMs": 139.6500000000001,
+          "reading": "に",
+          "romaji": "ni",
+          "en": "to; at; in",
+          "zhHant": "向；在；於",
+          "showRuby": false
+        },
+        {
+          "text": "深刻",
+          "offsetMs": 1675.795,
+          "durationMs": 605.1480000000001,
+          "reading": "しんこく",
+          "romaji": "shinkoku",
+          "en": "serious; severe",
+          "zhHant": "嚴峻",
+          "showRuby": true
+        },
+        {
+          "text": "で",
+          "offsetMs": 2280.943,
+          "durationMs": 465.49800000000005,
+          "reading": "で",
+          "romaji": "de",
+          "en": "at; by; with",
+          "zhHant": "在；以；用",
+          "showRuby": false
+        },
+        {
+          "text": "救助",
+          "offsetMs": 2746.441,
+          "durationMs": 512.0479999999998,
+          "reading": "きゅうじょ",
+          "romaji": "kyuujo",
+          "en": "relief; aid",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "活動",
+          "offsetMs": 3258.489,
+          "durationMs": 543.0819999999999,
+          "reading": "かつどう",
+          "romaji": "katsudou",
+          "en": "activity (of a person, organization, animal, volcano, etc.); action",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "が",
+          "offsetMs": 3801.571,
+          "durationMs": 155.16600000000017,
+          "reading": "が",
+          "romaji": "ga",
+          "en": "subject marker",
+          "zhHant": "主語助詞",
+          "showRuby": false
+        },
+        {
+          "text": "続いています",
+          "offsetMs": 3956.737,
+          "durationMs": 1179.263,
+          "reading": "つづいています",
+          "romaji": "tsuzuiteimasu",
+          "en": "to continue; to last",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        }
+      ],
       "audio": {
         "file": "../audio/7605-nepal-tibet-landslides/KM-NEWS-7605-nepal-tibet-landslides-sentence-10-ja-Nanami.mp3",
         "voice": "ja-JP-NanamiNeural",

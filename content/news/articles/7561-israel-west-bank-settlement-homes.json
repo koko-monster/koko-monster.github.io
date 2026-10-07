@@ -26,9 +26,23 @@
     "zhHant": "以色列宣布計劃在被佔領的約旦河西岸興建1,200個定居者住宅，引發國際批評。"
   },
   "cover": {
-    "file": "../../../assets/news-covers/housing-construction.png",
+    "file": "../../../assets/news-covers/housing-construction.webp",
     "sourceUrl": "https://api.kokomonster.com/file/resources/crawled-raw-news/2026-08-21/9734/1787286592209.jpg"
   },
+  "inlineImages": [
+    {
+      "afterSentence": 3,
+      "file": "../../../assets/news-covers/housing-construction-storyboard.webp",
+      "crop": "top",
+      "alt": "First supporting Kokomonster scene for this news story"
+    },
+    {
+      "afterSentence": 6,
+      "file": "../../../assets/news-covers/housing-construction-storyboard.webp",
+      "crop": "bottom",
+      "alt": "Second supporting Kokomonster scene for this news story"
+    }
+  ],
   "sentences": [
     {
       "id": "s01",
@@ -38,7 +52,218 @@
       "speechJa": "イスラエルは、せんりょうしたパレスチナのヨルダンがわせいがんちくで、にゅうしょくしゃ向けの住宅1200戸を建設する計画を発表しました。",
       "en": "Israel announced plans to build 1,200 homes for settlers in the occupied Palestinian West Bank.",
       "zhHant": "以色列宣布，計劃在被佔領的巴勒斯坦約旦河西岸興建1,200個定居者住宅。",
-      "tokens": [],
+      "tokens": [
+        {
+          "text": "イスラエル",
+          "offsetMs": 53.795,
+          "durationMs": 672.441,
+          "reading": "いすらえる",
+          "romaji": "isuraeru",
+          "en": "Israel",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "は",
+          "offsetMs": 726.236,
+          "durationMs": 564.85,
+          "reading": "は",
+          "romaji": "wa",
+          "en": "topic marker",
+          "zhHant": "主題助詞",
+          "showRuby": false
+        },
+        {
+          "text": "占領した",
+          "offsetMs": 1291.087,
+          "durationMs": 780.031,
+          "reading": "せんりょうした",
+          "romaji": "senryoushita",
+          "en": "occupying; having (an area) all to oneself",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "パレスチナ",
+          "offsetMs": 2071.118,
+          "durationMs": 605.1970000000001,
+          "reading": "ぱれすちな",
+          "romaji": "paresuchina",
+          "en": "Palestine",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "の",
+          "offsetMs": 2676.315,
+          "durationMs": 201.73199999999997,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "ヨルダン",
+          "offsetMs": 2878.047,
+          "durationMs": 537.953,
+          "reading": "よるだん",
+          "romaji": "yorudan",
+          "en": "Jordan",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "川",
+          "offsetMs": 3416.0,
+          "durationMs": 268.9760000000001,
+          "reading": "かわ",
+          "romaji": "kawa",
+          "en": "river; stream",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "西岸",
+          "offsetMs": 3684.976,
+          "durationMs": 470.7090000000003,
+          "reading": "せいがん",
+          "romaji": "seigan",
+          "en": "west coast; west bank",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "地区",
+          "offsetMs": 4155.685,
+          "durationMs": 268.97599999999966,
+          "reading": "ちく",
+          "romaji": "chiku",
+          "en": "district; section",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "で",
+          "offsetMs": 4424.661,
+          "durationMs": 605.1970000000001,
+          "reading": "で",
+          "romaji": "de",
+          "en": "at; by; with",
+          "zhHant": "在；以；用",
+          "showRuby": false
+        },
+        {
+          "text": "入植者",
+          "offsetMs": 5029.858,
+          "durationMs": 632.094,
+          "reading": "にゅうしょくしゃ",
+          "romaji": "nyuushokusha",
+          "en": "settler",
+          "zhHant": "定居者",
+          "showRuby": true
+        },
+        {
+          "text": "向け",
+          "offsetMs": 5661.953,
+          "durationMs": 268.97599999999966,
+          "reading": "むけ",
+          "romaji": "muke",
+          "en": "intended for ...; oriented towards ...",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "の",
+          "offsetMs": 5930.929,
+          "durationMs": 201.73199999999997,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "住宅",
+          "offsetMs": 6132.661,
+          "durationMs": 484.15700000000015,
+          "reading": "じゅうたく",
+          "romaji": "juutaku",
+          "en": "residence; housing",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "1200戸",
+          "offsetMs": 6616.819,
+          "durationMs": 780.031,
+          "reading": "せんにひゃくこ",
+          "romaji": "sennihyakuko",
+          "en": "1200 households",
+          "zhHant": "1200戶",
+          "showRuby": true
+        },
+        {
+          "text": "を",
+          "offsetMs": 7396.85,
+          "durationMs": 134.48800000000028,
+          "reading": "を",
+          "romaji": "o",
+          "en": "object marker",
+          "zhHant": "受詞助詞",
+          "showRuby": false
+        },
+        {
+          "text": "建設",
+          "offsetMs": 7531.339,
+          "durationMs": 537.9529999999995,
+          "reading": "けんせつ",
+          "romaji": "kensetsu",
+          "en": "construction; establishment",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "する",
+          "offsetMs": 8069.291,
+          "durationMs": 268.97599999999966,
+          "reading": "する",
+          "romaji": "suru",
+          "en": "to do",
+          "zhHant": "做；進行",
+          "showRuby": false
+        },
+        {
+          "text": "計画",
+          "offsetMs": 8338.268,
+          "durationMs": 484.15699999999924,
+          "reading": "けいかく",
+          "romaji": "keikaku",
+          "en": "plan; project",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "を",
+          "offsetMs": 8822.425,
+          "durationMs": 134.48799999999937,
+          "reading": "を",
+          "romaji": "o",
+          "en": "object marker",
+          "zhHant": "受詞助詞",
+          "showRuby": false
+        },
+        {
+          "text": "発表しました",
+          "offsetMs": 8956.913,
+          "durationMs": 1291.0869999999995,
+          "reading": "はっぴょうしました",
+          "romaji": "happyoushimashita",
+          "en": "announcement; publication",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        }
+      ],
       "audio": {
         "file": "../audio/7561-israel-west-bank-settlement-homes/KM-NEWS-7561-israel-west-bank-settlement-homes-sentence-01-ja-Nanami.mp3",
         "voice": "ja-JP-NanamiNeural",
@@ -164,7 +389,128 @@
       "speechJa": "この発表に対して、西側の主要国は強くひなんしました。",
       "en": "Major Western countries strongly condemned the announcement.",
       "zhHant": "多個主要西方國家強烈譴責有關宣布。",
-      "tokens": [],
+      "tokens": [
+        {
+          "text": "この",
+          "offsetMs": 60.74,
+          "durationMs": 364.44,
+          "reading": "この",
+          "romaji": "kono",
+          "en": "nine",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        },
+        {
+          "text": "発表",
+          "offsetMs": 425.18,
+          "durationMs": 561.845,
+          "reading": "はっぴょう",
+          "romaji": "happyou",
+          "en": "announcement; publication",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "に",
+          "offsetMs": 987.024,
+          "durationMs": 167.03499999999997,
+          "reading": "に",
+          "romaji": "ni",
+          "en": "to; at; in",
+          "zhHant": "向；在；於",
+          "showRuby": false
+        },
+        {
+          "text": "対し",
+          "offsetMs": 1154.059,
+          "durationMs": 364.44000000000005,
+          "reading": "たいし",
+          "romaji": "taishi",
+          "en": "to face (each other); to be facing",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "て",
+          "offsetMs": 1518.499,
+          "durationMs": 531.4750000000001,
+          "reading": "て",
+          "romaji": "te",
+          "en": "linking verb ending",
+          "zhHant": "連接動詞詞尾",
+          "showRuby": false
+        },
+        {
+          "text": "西側",
+          "offsetMs": 2049.973,
+          "durationMs": 592.2139999999999,
+          "reading": "にしがわ",
+          "romaji": "nishigawa",
+          "en": "west side; west bank",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "の",
+          "offsetMs": 2642.188,
+          "durationMs": 167.03499999999985,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "主要",
+          "offsetMs": 2809.223,
+          "durationMs": 501.105,
+          "reading": "しゅよう",
+          "romaji": "shuyou",
+          "en": "chief; main",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "国",
+          "offsetMs": 3310.327,
+          "durationMs": 303.6999999999998,
+          "reading": "くに",
+          "romaji": "kuni",
+          "en": "country; state",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "は",
+          "offsetMs": 3614.027,
+          "durationMs": 212.59000000000015,
+          "reading": "は",
+          "romaji": "wa",
+          "en": "topic marker",
+          "zhHant": "主題助詞",
+          "showRuby": false
+        },
+        {
+          "text": "強く",
+          "offsetMs": 3826.617,
+          "durationMs": 501.10499999999956,
+          "reading": "つよく",
+          "romaji": "tsuyoku",
+          "en": "strong; potent",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "非難しました",
+          "offsetMs": 4327.721,
+          "durationMs": 1336.2790000000005,
+          "reading": "ひなんしました",
+          "romaji": "hinanshimashita",
+          "en": "criticism; blame",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        }
+      ],
       "audio": {
         "file": "../audio/7561-israel-west-bank-settlement-homes/KM-NEWS-7561-israel-west-bank-settlement-homes-sentence-02-ja-Nanami.mp3",
         "voice": "ja-JP-NanamiNeural",
@@ -246,7 +592,98 @@
       "speechJa": "こくさいほうでは、入植地はいほうとされています。",
       "en": "Settlements are considered illegal under international law.",
       "zhHant": "根據國際法，這些定居點被視為非法。",
-      "tokens": [],
+      "tokens": [
+        {
+          "text": "国際法",
+          "offsetMs": 62.836,
+          "durationMs": 958.255,
+          "reading": "こくさいほう",
+          "romaji": "kokusaihou",
+          "en": "international law",
+          "zhHant": "國際法",
+          "showRuby": true
+        },
+        {
+          "text": "で",
+          "offsetMs": 1021.091,
+          "durationMs": 125.67300000000012,
+          "reading": "で",
+          "romaji": "de",
+          "en": "at; by; with",
+          "zhHant": "在；以；用",
+          "showRuby": false
+        },
+        {
+          "text": "は",
+          "offsetMs": 1146.764,
+          "durationMs": 581.2360000000001,
+          "reading": "は",
+          "romaji": "wa",
+          "en": "topic marker",
+          "zhHant": "主題助詞",
+          "showRuby": false
+        },
+        {
+          "text": "入植地",
+          "offsetMs": 1728.0,
+          "durationMs": 754.0360000000001,
+          "reading": "にゅうしょくち",
+          "romaji": "nyuushokuchi",
+          "en": "settlement (of people on land)",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "は",
+          "offsetMs": 2482.036,
+          "durationMs": 235.63599999999997,
+          "reading": "は",
+          "romaji": "wa",
+          "en": "topic marker",
+          "zhHant": "主題助詞",
+          "showRuby": false
+        },
+        {
+          "text": "違法",
+          "offsetMs": 2717.673,
+          "durationMs": 455.56399999999985,
+          "reading": "いほう",
+          "romaji": "ihou",
+          "en": "illegal",
+          "zhHant": "違法",
+          "showRuby": true
+        },
+        {
+          "text": "と",
+          "offsetMs": 3173.236,
+          "durationMs": 125.67299999999977,
+          "reading": "と",
+          "romaji": "to",
+          "en": "and; with; that",
+          "zhHant": "和；與；表示引用",
+          "showRuby": false
+        },
+        {
+          "text": "さ",
+          "offsetMs": 3298.909,
+          "durationMs": 172.80000000000018,
+          "reading": "さ",
+          "romaji": "sa",
+          "en": "difference; variation",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        },
+        {
+          "text": "れています",
+          "offsetMs": 3471.709,
+          "durationMs": 848.2910000000002,
+          "reading": "れています",
+          "romaji": "reteimasu",
+          "en": "indicates passive voice (incl. the \"suffering passive\")",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        }
+      ],
       "audio": {
         "file": "../audio/7561-israel-west-bank-settlement-homes/KM-NEWS-7561-israel-west-bank-settlement-homes-sentence-03-ja-Nanami.mp3",
         "voice": "ja-JP-NanamiNeural",
@@ -316,7 +753,118 @@
       "speechJa": "イスラエルの計画は、平和を妨げるものとされています。",
       "en": "Israel’s plan is regarded as an obstacle to peace.",
       "zhHant": "以色列的計劃被視為妨礙和平進程。",
-      "tokens": [],
+      "tokens": [
+        {
+          "text": "イスラエル",
+          "offsetMs": 63.086,
+          "durationMs": 757.029,
+          "reading": "いすらえる",
+          "romaji": "isuraeru",
+          "en": "Israel",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "の",
+          "offsetMs": 820.114,
+          "durationMs": 173.486,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "計画",
+          "offsetMs": 993.6,
+          "durationMs": 615.0860000000001,
+          "reading": "けいかく",
+          "romaji": "keikaku",
+          "en": "plan; project",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "は",
+          "offsetMs": 1608.686,
+          "durationMs": 536.229,
+          "reading": "は",
+          "romaji": "wa",
+          "en": "topic marker",
+          "zhHant": "主題助詞",
+          "showRuby": false
+        },
+        {
+          "text": "平和",
+          "offsetMs": 2144.914,
+          "durationMs": 425.8290000000002,
+          "reading": "へいわ",
+          "romaji": "heiwa",
+          "en": "peace; harmony",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "を",
+          "offsetMs": 2570.743,
+          "durationMs": 189.25700000000006,
+          "reading": "を",
+          "romaji": "o",
+          "en": "object marker",
+          "zhHant": "受詞助詞",
+          "showRuby": false
+        },
+        {
+          "text": "妨げる",
+          "offsetMs": 2760.0,
+          "durationMs": 741.2570000000001,
+          "reading": "さまたげる",
+          "romaji": "samatageru",
+          "en": "to disturb; to prevent",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "もの",
+          "offsetMs": 3501.257,
+          "durationMs": 283.88599999999997,
+          "reading": "もの",
+          "romaji": "mono",
+          "en": "thing; person",
+          "zhHant": "事物；人",
+          "showRuby": false
+        },
+        {
+          "text": "と",
+          "offsetMs": 3785.143,
+          "durationMs": 157.71399999999994,
+          "reading": "と",
+          "romaji": "to",
+          "en": "and; with; that",
+          "zhHant": "和；與；表示引用",
+          "showRuby": false
+        },
+        {
+          "text": "さ",
+          "offsetMs": 3942.857,
+          "durationMs": 173.48599999999988,
+          "reading": "さ",
+          "romaji": "sa",
+          "en": "difference; variation",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        },
+        {
+          "text": "れています",
+          "offsetMs": 4116.343,
+          "durationMs": 851.6570000000002,
+          "reading": "れています",
+          "romaji": "reteimasu",
+          "en": "indicates passive voice (incl. the \"suffering passive\")",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        }
+      ],
       "audio": {
         "file": "../audio/7561-israel-west-bank-settlement-homes/KM-NEWS-7561-israel-west-bank-settlement-homes-sentence-04-ja-Nanami.mp3",
         "voice": "ja-JP-NanamiNeural",
@@ -394,7 +942,158 @@
       "speechJa": "多くの国は、この計画が中東のきんちょうを高めると警告しています。",
       "en": "Many countries warn that it could heighten tensions in the Middle East.",
       "zhHant": "多國警告，計劃可能令中東局勢進一步緊張。",
-      "tokens": [],
+      "tokens": [
+        {
+          "text": "多く",
+          "offsetMs": 60.585,
+          "durationMs": 484.6770000000001,
+          "reading": "おおく",
+          "romaji": "ooku",
+          "en": "many; much",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "の",
+          "offsetMs": 545.262,
+          "durationMs": 166.60799999999995,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "国",
+          "offsetMs": 711.87,
+          "durationMs": 287.77699999999993,
+          "reading": "くに",
+          "romaji": "kuni",
+          "en": "country; state",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "は",
+          "offsetMs": 999.647,
+          "durationMs": 681.5779999999999,
+          "reading": "は",
+          "romaji": "wa",
+          "en": "topic marker",
+          "zhHant": "主題助詞",
+          "showRuby": false
+        },
+        {
+          "text": "この",
+          "offsetMs": 1681.225,
+          "durationMs": 348.3620000000001,
+          "reading": "この",
+          "romaji": "kono",
+          "en": "nine",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        },
+        {
+          "text": "計画",
+          "offsetMs": 2029.587,
+          "durationMs": 590.701,
+          "reading": "けいかく",
+          "romaji": "keikaku",
+          "en": "plan; project",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "が",
+          "offsetMs": 2620.288,
+          "durationMs": 212.04599999999982,
+          "reading": "が",
+          "romaji": "ga",
+          "en": "subject marker",
+          "zhHant": "主語助詞",
+          "showRuby": false
+        },
+        {
+          "text": "中東",
+          "offsetMs": 2832.334,
+          "durationMs": 605.8469999999998,
+          "reading": "ちゅうとう",
+          "romaji": "chuutou",
+          "en": "Middle East",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "の",
+          "offsetMs": 3438.181,
+          "durationMs": 151.462,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "緊張",
+          "offsetMs": 3589.643,
+          "durationMs": 605.8469999999998,
+          "reading": "きんちょう",
+          "romaji": "kinchou",
+          "en": "tension",
+          "zhHant": "緊張局勢",
+          "showRuby": true
+        },
+        {
+          "text": "を",
+          "offsetMs": 4195.49,
+          "durationMs": 151.46199999999953,
+          "reading": "を",
+          "romaji": "o",
+          "en": "object marker",
+          "zhHant": "受詞助詞",
+          "showRuby": false
+        },
+        {
+          "text": "高める",
+          "offsetMs": 4346.951,
+          "durationMs": 575.5550000000003,
+          "reading": "たかめる",
+          "romaji": "takameru",
+          "en": "to raise; to lift",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "と",
+          "offsetMs": 4922.506,
+          "durationMs": 212.04600000000028,
+          "reading": "と",
+          "romaji": "to",
+          "en": "and; with; that",
+          "zhHant": "和；與；表示引用",
+          "showRuby": false
+        },
+        {
+          "text": "警告",
+          "offsetMs": 5134.552,
+          "durationMs": 605.8469999999998,
+          "reading": "けいこく",
+          "romaji": "keikoku",
+          "en": "warning; to warn",
+          "zhHant": "警告",
+          "showRuby": true
+        },
+        {
+          "text": "しています",
+          "offsetMs": 5740.399,
+          "durationMs": 787.6009999999997,
+          "reading": "しています",
+          "romaji": "shiteimasu",
+          "en": "to do; to carry out",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        }
+      ],
       "audio": {
         "file": "../audio/7561-israel-west-bank-settlement-homes/KM-NEWS-7561-israel-west-bank-settlement-homes-sentence-05-ja-Nanami.mp3",
         "voice": "ja-JP-NanamiNeural",
@@ -488,7 +1187,148 @@
       "speechJa": "イスラエルは、これにはんぱつしており、計画を進める意向を示しています。",
       "en": "Israel rejects the criticism and says it intends to proceed.",
       "zhHant": "以色列反駁有關批評，並表明將繼續推進計劃。",
-      "tokens": [],
+      "tokens": [
+        {
+          "text": "イスラエル",
+          "offsetMs": 61.321,
+          "durationMs": 766.507,
+          "reading": "いすらえる",
+          "romaji": "isuraeru",
+          "en": "Israel",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "は",
+          "offsetMs": 827.828,
+          "durationMs": 613.2060000000001,
+          "reading": "は",
+          "romaji": "wa",
+          "en": "topic marker",
+          "zhHant": "主題助詞",
+          "showRuby": false
+        },
+        {
+          "text": "これ",
+          "offsetMs": 1441.033,
+          "durationMs": 306.60300000000007,
+          "reading": "これ",
+          "romaji": "kore",
+          "en": "this; this one",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        },
+        {
+          "text": "に",
+          "offsetMs": 1747.636,
+          "durationMs": 168.63200000000006,
+          "reading": "に",
+          "romaji": "ni",
+          "en": "to; at; in",
+          "zhHant": "向；在；於",
+          "showRuby": false
+        },
+        {
+          "text": "反発",
+          "offsetMs": 1916.268,
+          "durationMs": 613.2060000000001,
+          "reading": "はんぱつ",
+          "romaji": "hanpatsu",
+          "en": "opposition; backlash",
+          "zhHant": "反對；反彈",
+          "showRuby": true
+        },
+        {
+          "text": "し",
+          "offsetMs": 2529.474,
+          "durationMs": 122.64100000000008,
+          "reading": "し",
+          "romaji": "shi",
+          "en": "do; verb stem",
+          "zhHant": "做；動詞詞幹",
+          "showRuby": false
+        },
+        {
+          "text": "て",
+          "offsetMs": 2652.115,
+          "durationMs": 107.31100000000015,
+          "reading": "て",
+          "romaji": "te",
+          "en": "linking verb ending",
+          "zhHant": "連接動詞詞尾",
+          "showRuby": false
+        },
+        {
+          "text": "おり",
+          "offsetMs": 2759.426,
+          "durationMs": 643.866,
+          "reading": "おり",
+          "romaji": "ori",
+          "en": "opportunity; chance",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        },
+        {
+          "text": "計画",
+          "offsetMs": 3403.292,
+          "durationMs": 582.5450000000001,
+          "reading": "けいかく",
+          "romaji": "keikaku",
+          "en": "plan; project",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "を",
+          "offsetMs": 3985.837,
+          "durationMs": 153.30099999999993,
+          "reading": "を",
+          "romaji": "o",
+          "en": "object marker",
+          "zhHant": "受詞助詞",
+          "showRuby": false
+        },
+        {
+          "text": "進める",
+          "offsetMs": 4139.139,
+          "durationMs": 613.2060000000001,
+          "reading": "すすめる",
+          "romaji": "susumeru",
+          "en": "to advance; to move forward",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "意向",
+          "offsetMs": 4752.344,
+          "durationMs": 398.58399999999983,
+          "reading": "いこう",
+          "romaji": "ikou",
+          "en": "intention; idea",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "を",
+          "offsetMs": 5150.928,
+          "durationMs": 137.97099999999955,
+          "reading": "を",
+          "romaji": "o",
+          "en": "object marker",
+          "zhHant": "受詞助詞",
+          "showRuby": false
+        },
+        {
+          "text": "示しています",
+          "offsetMs": 5288.9,
+          "durationMs": 1119.1000000000004,
+          "reading": "しめしています",
+          "romaji": "shimeshiteimasu",
+          "en": "to (take out and) show; to demonstrate",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        }
+      ],
       "audio": {
         "file": "../audio/7561-israel-west-bank-settlement-homes/KM-NEWS-7561-israel-west-bank-settlement-homes-sentence-06-ja-Nanami.mp3",
         "voice": "ja-JP-NanamiNeural",
@@ -578,7 +1418,198 @@
       "speechJa": "にゅうしょくしゃ向け住宅は、これらの地域の経済や社会に影響を与えると考えられています。",
       "en": "The new housing is expected to affect the economy and society of the area.",
       "zhHant": "定居者住宅預料會對當地經濟與社會造成影響。",
-      "tokens": [],
+      "tokens": [
+        {
+          "text": "入植者",
+          "offsetMs": 55.337,
+          "durationMs": 747.05,
+          "reading": "にゅうしょくしゃ",
+          "romaji": "nyuushokusha",
+          "en": "settler",
+          "zhHant": "定居者",
+          "showRuby": true
+        },
+        {
+          "text": "向け",
+          "offsetMs": 802.387,
+          "durationMs": 332.02199999999993,
+          "reading": "むけ",
+          "romaji": "muke",
+          "en": "intended for ...; oriented towards ...",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "住宅",
+          "offsetMs": 1134.409,
+          "durationMs": 525.702,
+          "reading": "じゅうたく",
+          "romaji": "juutaku",
+          "en": "residence; housing",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "は",
+          "offsetMs": 1660.11,
+          "durationMs": 608.7070000000001,
+          "reading": "は",
+          "romaji": "wa",
+          "en": "topic marker",
+          "zhHant": "主題助詞",
+          "showRuby": false
+        },
+        {
+          "text": "これら",
+          "offsetMs": 2268.818,
+          "durationMs": 401.1930000000002,
+          "reading": "これら",
+          "romaji": "korera",
+          "en": "these",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        },
+        {
+          "text": "の",
+          "offsetMs": 2670.011,
+          "durationMs": 152.17700000000013,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "地域",
+          "offsetMs": 2822.188,
+          "durationMs": 456.52999999999975,
+          "reading": "ちいき",
+          "romaji": "chiiki",
+          "en": "area; region",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "の",
+          "offsetMs": 3278.718,
+          "durationMs": 166.01099999999997,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "経済",
+          "offsetMs": 3444.729,
+          "durationMs": 539.5360000000001,
+          "reading": "けいざい",
+          "romaji": "keizai",
+          "en": "economy; economics",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "や",
+          "offsetMs": 3984.265,
+          "durationMs": 276.68499999999995,
+          "reading": "や",
+          "romaji": "ya",
+          "en": "and; such as",
+          "zhHant": "和；例如",
+          "showRuby": false
+        },
+        {
+          "text": "社会",
+          "offsetMs": 4260.95,
+          "durationMs": 442.6959999999999,
+          "reading": "しゃかい",
+          "romaji": "shakai",
+          "en": "society; public",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "に",
+          "offsetMs": 4703.646,
+          "durationMs": 193.6800000000003,
+          "reading": "に",
+          "romaji": "ni",
+          "en": "to; at; in",
+          "zhHant": "向；在；於",
+          "showRuby": false
+        },
+        {
+          "text": "影響",
+          "offsetMs": 4897.326,
+          "durationMs": 470.3649999999998,
+          "reading": "えいきょう",
+          "romaji": "eikyou",
+          "en": "influence; effect",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "を",
+          "offsetMs": 5367.691,
+          "durationMs": 96.84000000000015,
+          "reading": "を",
+          "romaji": "o",
+          "en": "object marker",
+          "zhHant": "受詞助詞",
+          "showRuby": false
+        },
+        {
+          "text": "与える",
+          "offsetMs": 5464.53,
+          "durationMs": 484.1989999999996,
+          "reading": "あたえる",
+          "romaji": "ataeru",
+          "en": "to give (esp. to someone of lower status); to bestow",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "と",
+          "offsetMs": 5948.729,
+          "durationMs": 193.6800000000003,
+          "reading": "と",
+          "romaji": "to",
+          "en": "and; with; that",
+          "zhHant": "和；與；表示引用",
+          "showRuby": false
+        },
+        {
+          "text": "考え",
+          "offsetMs": 6142.409,
+          "durationMs": 484.1989999999996,
+          "reading": "かんがえ",
+          "romaji": "kangae",
+          "en": "thinking; thought",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "ら",
+          "offsetMs": 6626.608,
+          "durationMs": 124.50799999999981,
+          "reading": "ら",
+          "romaji": "ra",
+          "en": "plural suffix",
+          "zhHant": "複數詞尾",
+          "showRuby": false
+        },
+        {
+          "text": "れています",
+          "offsetMs": 6751.116,
+          "durationMs": 760.884,
+          "reading": "れています",
+          "romaji": "reteimasu",
+          "en": "indicates passive voice (incl. the \"suffering passive\")",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        }
+      ],
       "audio": {
         "file": "../audio/7561-israel-west-bank-settlement-homes/KM-NEWS-7561-israel-west-bank-settlement-homes-sentence-07-ja-Nanami.mp3",
         "voice": "ja-JP-NanamiNeural",
@@ -688,7 +1719,138 @@
       "speechJa": "にゅうさつの期限はじゅうがつじゅうくにちで、イスラエルのそうせんきょの直前です。",
       "en": "The tender closes on 19 October, shortly before Israel’s general election.",
       "zhHant": "項目投標將於10月19日截止，時間接近以色列大選。",
-      "tokens": [],
+      "tokens": [
+        {
+          "text": "入札",
+          "offsetMs": 59.713,
+          "durationMs": 716.555,
+          "reading": "にゅうさつ",
+          "romaji": "nyuusatsu",
+          "en": "bidding; tender",
+          "zhHant": "招標",
+          "showRuby": true
+        },
+        {
+          "text": "の",
+          "offsetMs": 776.268,
+          "durationMs": 149.28200000000004,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "期限",
+          "offsetMs": 925.55,
+          "durationMs": 447.847,
+          "reading": "きげん",
+          "romaji": "kigen",
+          "en": "term; period",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "は",
+          "offsetMs": 1373.397,
+          "durationMs": 313.49299999999994,
+          "reading": "は",
+          "romaji": "wa",
+          "en": "topic marker",
+          "zhHant": "主題助詞",
+          "showRuby": false
+        },
+        {
+          "text": "10月",
+          "offsetMs": 1686.89,
+          "durationMs": 656.8419999999999,
+          "reading": "10つき",
+          "romaji": "10tsuki",
+          "en": "10 month",
+          "zhHant": "10月",
+          "showRuby": true
+        },
+        {
+          "text": "19日",
+          "offsetMs": 2343.732,
+          "durationMs": 716.5549999999998,
+          "reading": "じゅうくにち",
+          "romaji": "juukunichi",
+          "en": "19th day; date",
+          "zhHant": "19日；日期",
+          "showRuby": true
+        },
+        {
+          "text": "で",
+          "offsetMs": 3060.287,
+          "durationMs": 477.703,
+          "reading": "で",
+          "romaji": "de",
+          "en": "at; by; with",
+          "zhHant": "在；以；用",
+          "showRuby": false
+        },
+        {
+          "text": "イスラエル",
+          "offsetMs": 3537.99,
+          "durationMs": 626.9859999999999,
+          "reading": "いすらえる",
+          "romaji": "isuraeru",
+          "en": "Israel",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "の",
+          "offsetMs": 4164.976,
+          "durationMs": 179.13900000000012,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "総選挙",
+          "offsetMs": 4344.115,
+          "durationMs": 776.268,
+          "reading": "そうせんきょ",
+          "romaji": "sousenkyo",
+          "en": "general election",
+          "zhHant": "大選",
+          "showRuby": true
+        },
+        {
+          "text": "の",
+          "offsetMs": 5120.383,
+          "durationMs": 149.28200000000015,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "直前",
+          "offsetMs": 5269.665,
+          "durationMs": 552.344,
+          "reading": "ちょくぜん",
+          "romaji": "chokuzen",
+          "en": "just before",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "です",
+          "offsetMs": 5822.01,
+          "durationMs": 417.9899999999998,
+          "reading": "です",
+          "romaji": "desu",
+          "en": "is; polite copula",
+          "zhHant": "是；禮貌判斷詞",
+          "showRuby": false
+        }
+      ],
       "audio": {
         "file": "../audio/7561-israel-west-bank-settlement-homes/KM-NEWS-7561-israel-west-bank-settlement-homes-sentence-08-ja-Nanami.mp3",
         "voice": "ja-JP-NanamiNeural",
@@ -762,7 +1924,118 @@
       "speechJa": "国連もこの計画に対してけねんを表明しています。",
       "en": "The United Nations has also expressed concern over the plan.",
       "zhHant": "聯合國亦對計劃表示關注。",
-      "tokens": [],
+      "tokens": [
+        {
+          "text": "国連",
+          "offsetMs": 61.669,
+          "durationMs": 632.106,
+          "reading": "こくれん",
+          "romaji": "kokuren",
+          "en": "United Nations; UN",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "も",
+          "offsetMs": 693.775,
+          "durationMs": 246.67500000000007,
+          "reading": "も",
+          "romaji": "mo",
+          "en": "also; too",
+          "zhHant": "也；亦",
+          "showRuby": false
+        },
+        {
+          "text": "この",
+          "offsetMs": 940.45,
+          "durationMs": 339.17899999999986,
+          "reading": "この",
+          "romaji": "kono",
+          "en": "nine",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        },
+        {
+          "text": "計画",
+          "offsetMs": 1279.629,
+          "durationMs": 570.4369999999999,
+          "reading": "けいかく",
+          "romaji": "keikaku",
+          "en": "plan; project",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "に",
+          "offsetMs": 1850.066,
+          "durationMs": 169.58899999999994,
+          "reading": "に",
+          "romaji": "ni",
+          "en": "to; at; in",
+          "zhHant": "向；在；於",
+          "showRuby": false
+        },
+        {
+          "text": "対し",
+          "offsetMs": 2019.656,
+          "durationMs": 370.0129999999999,
+          "reading": "たいし",
+          "romaji": "taishi",
+          "en": "to face (each other); to be facing",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "て",
+          "offsetMs": 2389.669,
+          "durationMs": 308.34400000000005,
+          "reading": "て",
+          "romaji": "te",
+          "en": "linking verb ending",
+          "zhHant": "連接動詞詞尾",
+          "showRuby": false
+        },
+        {
+          "text": "懸念",
+          "offsetMs": 2698.013,
+          "durationMs": 462.5169999999998,
+          "reading": "けねん",
+          "romaji": "kenen",
+          "en": "concern",
+          "zhHant": "關注；憂慮",
+          "showRuby": true
+        },
+        {
+          "text": "を",
+          "offsetMs": 3160.53,
+          "durationMs": 138.7550000000001,
+          "reading": "を",
+          "romaji": "o",
+          "en": "object marker",
+          "zhHant": "受詞助詞",
+          "showRuby": false
+        },
+        {
+          "text": "表明",
+          "offsetMs": 3299.285,
+          "durationMs": 555.02,
+          "reading": "ひょうめい",
+          "romaji": "hyoumei",
+          "en": "declaration; to state",
+          "zhHant": "表明",
+          "showRuby": true
+        },
+        {
+          "text": "しています",
+          "offsetMs": 3854.305,
+          "durationMs": 801.6950000000002,
+          "reading": "しています",
+          "romaji": "shiteimasu",
+          "en": "to do; to carry out",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        }
+      ],
       "audio": {
         "file": "../audio/7561-israel-west-bank-settlement-homes/KM-NEWS-7561-israel-west-bank-settlement-homes-sentence-09-ja-Nanami.mp3",
         "voice": "ja-JP-NanamiNeural",
@@ -840,7 +2113,188 @@
       "speechJa": "イスラエルがこれまでに建設した入植地には約70万人のイスラエル人が住んでいます。",
       "en": "Around 700,000 Israelis live in settlements built by Israel to date.",
       "zhHant": "以色列歷來興建的定居點，現時約有70萬名以色列人居住。",
-      "tokens": [],
+      "tokens": [
+        {
+          "text": "イスラエル",
+          "offsetMs": 52.26,
+          "durationMs": 640.189,
+          "reading": "いすらえる",
+          "romaji": "isuraeru",
+          "en": "Israel",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "が",
+          "offsetMs": 692.45,
+          "durationMs": 169.846,
+          "reading": "が",
+          "romaji": "ga",
+          "en": "subject marker",
+          "zhHant": "主語助詞",
+          "showRuby": false
+        },
+        {
+          "text": "これ",
+          "offsetMs": 862.296,
+          "durationMs": 248.23700000000008,
+          "reading": "これ",
+          "romaji": "kore",
+          "en": "this; this one",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        },
+        {
+          "text": "まで",
+          "offsetMs": 1110.533,
+          "durationMs": 235.17200000000003,
+          "reading": "まで",
+          "romaji": "made",
+          "en": "until; as far as",
+          "zhHant": "直到；至",
+          "showRuby": false
+        },
+        {
+          "text": "に",
+          "offsetMs": 1345.704,
+          "durationMs": 195.97599999999989,
+          "reading": "に",
+          "romaji": "ni",
+          "en": "to; at; in",
+          "zhHant": "向；在；於",
+          "showRuby": false
+        },
+        {
+          "text": "建設した",
+          "offsetMs": 1541.68,
+          "durationMs": 783.9059999999997,
+          "reading": "けんせつした",
+          "romaji": "kensetsushita",
+          "en": "construction; establishment",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "入植地",
+          "offsetMs": 2325.586,
+          "durationMs": 640.1889999999999,
+          "reading": "にゅうしょくち",
+          "romaji": "nyuushokuchi",
+          "en": "settlement (of people on land)",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "に",
+          "offsetMs": 2965.775,
+          "durationMs": 117.58599999999979,
+          "reading": "に",
+          "romaji": "ni",
+          "en": "to; at; in",
+          "zhHant": "向；在；於",
+          "showRuby": false
+        },
+        {
+          "text": "は",
+          "offsetMs": 3083.361,
+          "durationMs": 261.30200000000013,
+          "reading": "は",
+          "romaji": "wa",
+          "en": "topic marker",
+          "zhHant": "主題助詞",
+          "showRuby": false
+        },
+        {
+          "text": "約",
+          "offsetMs": 3344.663,
+          "durationMs": 313.5619999999999,
+          "reading": "やく",
+          "romaji": "yaku",
+          "en": "approximately; about",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "70万人",
+          "offsetMs": 3658.225,
+          "durationMs": 979.8820000000001,
+          "reading": "ななじゅうまんにん",
+          "romaji": "nanajuumannin",
+          "en": "700,000 people",
+          "zhHant": "70萬人",
+          "showRuby": true
+        },
+        {
+          "text": "の",
+          "offsetMs": 4638.107,
+          "durationMs": 156.78099999999995,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "イスラエル",
+          "offsetMs": 4794.888,
+          "durationMs": 587.9290000000001,
+          "reading": "いすらえる",
+          "romaji": "isuraeru",
+          "en": "Israel",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "人",
+          "offsetMs": 5382.817,
+          "durationMs": 222.10699999999997,
+          "reading": "ひと",
+          "romaji": "hito",
+          "en": "-ian (e.g. Italian); -ite (e.g. Tokyoite)",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "が",
+          "offsetMs": 5604.923,
+          "durationMs": 143.71600000000035,
+          "reading": "が",
+          "romaji": "ga",
+          "en": "subject marker",
+          "zhHant": "主語助詞",
+          "showRuby": false
+        },
+        {
+          "text": "住ん",
+          "offsetMs": 5748.639,
+          "durationMs": 287.4319999999998,
+          "reading": "すん",
+          "romaji": "sun",
+          "en": "to live (of humans); to reside",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "で",
+          "offsetMs": 6036.071,
+          "durationMs": 104.52099999999973,
+          "reading": "で",
+          "romaji": "de",
+          "en": "at; by; with",
+          "zhHant": "在；以；用",
+          "showRuby": false
+        },
+        {
+          "text": "います",
+          "offsetMs": 6140.592,
+          "durationMs": 483.40800000000036,
+          "reading": "います",
+          "romaji": "imasu",
+          "en": "to be",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        }
+      ],
       "audio": {
         "file": "../audio/7561-israel-west-bank-settlement-homes/KM-NEWS-7561-israel-west-bank-settlement-homes-sentence-10-ja-Nanami.mp3",
         "voice": "ja-JP-NanamiNeural",

@@ -26,9 +26,23 @@
     "zhHant": "基輔附近因俄羅斯無人機襲擊發生爆炸，至少37人死亡，當局將展開調查。"
   },
   "cover": {
-    "file": "../../../assets/news-covers/ukraine-response.png",
+    "file": "../../../assets/news-covers/ukraine-response.webp",
     "sourceUrl": "https://api.kokomonster.com/file/resources/crawled-raw-news/2026-08-30/9813/1788064211878.jpg"
   },
+  "inlineImages": [
+    {
+      "afterSentence": 3,
+      "file": "../../../assets/news-covers/ukraine-response-storyboard.webp",
+      "crop": "top",
+      "alt": "First supporting Kokomonster scene for this news story"
+    },
+    {
+      "afterSentence": 6,
+      "file": "../../../assets/news-covers/ukraine-response-storyboard.webp",
+      "crop": "bottom",
+      "alt": "Second supporting Kokomonster scene for this news story"
+    }
+  ],
   "sentences": [
     {
       "id": "s01",
@@ -38,7 +52,98 @@
       "speechJa": "ウクライナのしゅとキーウきんこうでばくはつが発生しました。",
       "en": "An explosion occurred near Kyiv, the capital of Ukraine.",
       "zhHant": "烏克蘭首都基輔附近發生爆炸。",
-      "tokens": [],
+      "tokens": [
+        {
+          "text": "ウクライナ",
+          "offsetMs": 60.615,
+          "durationMs": 742.538,
+          "reading": "うくらいな",
+          "romaji": "ukuraina",
+          "en": "Ukraine",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "の",
+          "offsetMs": 803.154,
+          "durationMs": 166.692,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "首都",
+          "offsetMs": 969.846,
+          "durationMs": 333.385,
+          "reading": "しゅと",
+          "romaji": "shuto",
+          "en": "capital city",
+          "zhHant": "首都",
+          "showRuby": true
+        },
+        {
+          "text": "キーウ",
+          "offsetMs": 1303.231,
+          "durationMs": 484.923,
+          "reading": "きーう",
+          "romaji": "kiiu",
+          "en": "key (lock, keyboard, piano, clue, island, cay, etc.)",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "近郊",
+          "offsetMs": 1788.154,
+          "durationMs": 560.692,
+          "reading": "きんこう",
+          "romaji": "kinkou",
+          "en": "outskirts; vicinity",
+          "zhHant": "近郊",
+          "showRuby": true
+        },
+        {
+          "text": "で",
+          "offsetMs": 2348.846,
+          "durationMs": 257.61500000000024,
+          "reading": "で",
+          "romaji": "de",
+          "en": "at; by; with",
+          "zhHant": "在；以；用",
+          "showRuby": false
+        },
+        {
+          "text": "爆発",
+          "offsetMs": 2606.462,
+          "durationMs": 606.154,
+          "reading": "ばくはつ",
+          "romaji": "bakuhatsu",
+          "en": "explosion",
+          "zhHant": "爆炸",
+          "showRuby": true
+        },
+        {
+          "text": "が",
+          "offsetMs": 3212.615,
+          "durationMs": 136.38500000000022,
+          "reading": "が",
+          "romaji": "ga",
+          "en": "subject marker",
+          "zhHant": "主語助詞",
+          "showRuby": false
+        },
+        {
+          "text": "発生しました",
+          "offsetMs": 3349.0,
+          "durationMs": 1379.0,
+          "reading": "はっせいしました",
+          "romaji": "hasseishimashita",
+          "en": "outbreak; spring forth",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        }
+      ],
       "audio": {
         "file": "../audio/7606-russian-drone-attack-near-kyiv/KM-NEWS-7606-russian-drone-attack-near-kyiv-sentence-01-ja-Nanami.mp3",
         "voice": "ja-JP-NanamiNeural",
@@ -108,7 +213,118 @@
       "speechJa": "このばくはつはロシアのドローン攻撃によるものです。",
       "en": "The explosion was caused by a Russian drone attack.",
       "zhHant": "爆炸由俄羅斯無人機襲擊引起。",
-      "tokens": [],
+      "tokens": [
+        {
+          "text": "この",
+          "offsetMs": 62.261,
+          "durationMs": 389.13,
+          "reading": "この",
+          "romaji": "kono",
+          "en": "nine",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        },
+        {
+          "text": "爆発",
+          "offsetMs": 451.391,
+          "durationMs": 653.739,
+          "reading": "ばくはつ",
+          "romaji": "bakuhatsu",
+          "en": "explosion",
+          "zhHant": "爆炸",
+          "showRuby": true
+        },
+        {
+          "text": "は",
+          "offsetMs": 1105.13,
+          "durationMs": 280.174,
+          "reading": "は",
+          "romaji": "wa",
+          "en": "topic marker",
+          "zhHant": "主題助詞",
+          "showRuby": false
+        },
+        {
+          "text": "ロシア",
+          "offsetMs": 1385.304,
+          "durationMs": 544.7829999999999,
+          "reading": "ろしあ",
+          "romaji": "roshia",
+          "en": "Russia",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "の",
+          "offsetMs": 1930.087,
+          "durationMs": 186.7829999999999,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "ドローン",
+          "offsetMs": 2116.87,
+          "durationMs": 466.9569999999999,
+          "reading": "どろーん",
+          "romaji": "doroon",
+          "en": "drone; unmanned aircraft",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "攻撃",
+          "offsetMs": 2583.826,
+          "durationMs": 575.913,
+          "reading": "こうげき",
+          "romaji": "kougeki",
+          "en": "attack; assault",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "に",
+          "offsetMs": 3159.739,
+          "durationMs": 124.52199999999993,
+          "reading": "に",
+          "romaji": "ni",
+          "en": "to; at; in",
+          "zhHant": "向；在；於",
+          "showRuby": false
+        },
+        {
+          "text": "よる",
+          "offsetMs": 3284.261,
+          "durationMs": 280.174,
+          "reading": "よる",
+          "romaji": "yoru",
+          "en": "to be due to; to be caused by",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        },
+        {
+          "text": "もの",
+          "offsetMs": 3564.435,
+          "durationMs": 295.73900000000003,
+          "reading": "もの",
+          "romaji": "mono",
+          "en": "thing; person",
+          "zhHant": "事物；人",
+          "showRuby": false
+        },
+        {
+          "text": "です",
+          "offsetMs": 3860.174,
+          "durationMs": 435.826,
+          "reading": "です",
+          "romaji": "desu",
+          "en": "is; polite copula",
+          "zhHant": "是；禮貌判斷詞",
+          "showRuby": false
+        }
+      ],
       "audio": {
         "file": "../audio/7606-russian-drone-attack-near-kyiv/KM-NEWS-7606-russian-drone-attack-near-kyiv-sentence-02-ja-Nanami.mp3",
         "voice": "ja-JP-NanamiNeural",
@@ -174,7 +390,128 @@
       "speechJa": "少なくとも37人が亡くなり、多くの人が怪我をしました。",
       "en": "At least 37 people were killed and many others were injured.",
       "zhHant": "至少37人死亡，另有多人受傷。",
-      "tokens": [],
+      "tokens": [
+        {
+          "text": "少なく",
+          "offsetMs": 56.907,
+          "durationMs": 625.979,
+          "reading": "すくなく",
+          "romaji": "sukunaku",
+          "en": "few; a little",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "と",
+          "offsetMs": 682.887,
+          "durationMs": 113.81399999999996,
+          "reading": "と",
+          "romaji": "to",
+          "en": "and; with; that",
+          "zhHant": "和；與；表示引用",
+          "showRuby": false
+        },
+        {
+          "text": "も",
+          "offsetMs": 796.701,
+          "durationMs": 298.7629999999999,
+          "reading": "も",
+          "romaji": "mo",
+          "en": "also; too",
+          "zhHant": "也；亦",
+          "showRuby": false
+        },
+        {
+          "text": "37人",
+          "offsetMs": 1095.464,
+          "durationMs": 1081.237,
+          "reading": "さんじゅうななにん",
+          "romaji": "sanjuunananin",
+          "en": "37 people",
+          "zhHant": "37人",
+          "showRuby": true
+        },
+        {
+          "text": "が",
+          "offsetMs": 2176.701,
+          "durationMs": 156.4949999999999,
+          "reading": "が",
+          "romaji": "ga",
+          "en": "subject marker",
+          "zhHant": "主語助詞",
+          "showRuby": false
+        },
+        {
+          "text": "亡くなり",
+          "offsetMs": 2333.196,
+          "durationMs": 938.969,
+          "reading": "なくなり",
+          "romaji": "nakunari",
+          "en": "to die",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "多く",
+          "offsetMs": 3272.165,
+          "durationMs": 355.6700000000001,
+          "reading": "おおく",
+          "romaji": "ooku",
+          "en": "many; much",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "の",
+          "offsetMs": 3627.835,
+          "durationMs": 113.81399999999985,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "人",
+          "offsetMs": 3741.649,
+          "durationMs": 270.3090000000002,
+          "reading": "ひと",
+          "romaji": "hito",
+          "en": "-ian (e.g. Italian); -ite (e.g. Tokyoite)",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "が",
+          "offsetMs": 4011.959,
+          "durationMs": 199.17500000000018,
+          "reading": "が",
+          "romaji": "ga",
+          "en": "subject marker",
+          "zhHant": "主語助詞",
+          "showRuby": false
+        },
+        {
+          "text": "怪我",
+          "offsetMs": 4211.134,
+          "durationMs": 312.9899999999998,
+          "reading": "けが",
+          "romaji": "kega",
+          "en": "injury (to animate object); hurt",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "をしました",
+          "offsetMs": 4524.124,
+          "durationMs": 995.8760000000002,
+          "reading": "をしました",
+          "romaji": "woshimashita",
+          "en": "indicates direct object of action",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        }
+      ],
       "audio": {
         "file": "../audio/7606-russian-drone-attack-near-kyiv/KM-NEWS-7606-russian-drone-attack-near-kyiv-sentence-03-ja-Nanami.mp3",
         "voice": "ja-JP-NanamiNeural",
@@ -256,7 +593,198 @@
       "speechJa": "キーウしゅうのトップであるティムール・トカチェンコ氏は、死者数が増える可能性があると述べました。",
       "en": "Timur Tkachenko, head of the Kyiv region, said the death toll could rise.",
       "zhHant": "基輔州首長蒂穆爾・特卡琴科表示，死亡人數可能進一步上升。",
-      "tokens": [],
+      "tokens": [
+        {
+          "text": "キーウ",
+          "offsetMs": 56.545,
+          "durationMs": 480.636,
+          "reading": "きーう",
+          "romaji": "kiiu",
+          "en": "key (lock, keyboard, piano, clue, island, cay, etc.)",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "州",
+          "offsetMs": 537.182,
+          "durationMs": 325.13599999999997,
+          "reading": "しゅう",
+          "romaji": "shuu",
+          "en": "state (US, Australia, India, Germany, etc.); province (e.g. Canada)",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "の",
+          "offsetMs": 862.318,
+          "durationMs": 169.63599999999997,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "トップ",
+          "offsetMs": 1031.955,
+          "durationMs": 409.9549999999999,
+          "reading": "とっぷ",
+          "romaji": "toppu",
+          "en": "top",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "で",
+          "offsetMs": 1441.909,
+          "durationMs": 113.0909999999999,
+          "reading": "で",
+          "romaji": "de",
+          "en": "at; by; with",
+          "zhHant": "在；以；用",
+          "showRuby": false
+        },
+        {
+          "text": "ある",
+          "offsetMs": 1555.0,
+          "durationMs": 296.86400000000003,
+          "reading": "ある",
+          "romaji": "aru",
+          "en": "to be; to exist",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        },
+        {
+          "text": "ティ",
+          "offsetMs": 1851.864,
+          "durationMs": 155.5,
+          "reading": "てぃ",
+          "romaji": "tei",
+          "en": "tea",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "ムール",
+          "offsetMs": 2007.364,
+          "durationMs": 593.7269999999999,
+          "reading": "むーる",
+          "romaji": "muuru",
+          "en": "mussels",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "トカチェンコ",
+          "offsetMs": 2671.773,
+          "durationMs": 720.9549999999999,
+          "reading": "とかちぇんこ",
+          "romaji": "tokachenko",
+          "en": "Tkachenko",
+          "zhHant": "特卡琴科",
+          "showRuby": true
+        },
+        {
+          "text": "氏",
+          "offsetMs": 3392.727,
+          "durationMs": 183.77300000000014,
+          "reading": "し",
+          "romaji": "shi",
+          "en": "family name; lineage",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "は",
+          "offsetMs": 3576.5,
+          "durationMs": 551.3180000000002,
+          "reading": "は",
+          "romaji": "wa",
+          "en": "topic marker",
+          "zhHant": "主題助詞",
+          "showRuby": false
+        },
+        {
+          "text": "死者数",
+          "offsetMs": 4127.818,
+          "durationMs": 579.5910000000003,
+          "reading": "ししゃすう",
+          "romaji": "shishasuu",
+          "en": "death toll; number of deaths",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "が",
+          "offsetMs": 4707.409,
+          "durationMs": 141.36399999999958,
+          "reading": "が",
+          "romaji": "ga",
+          "en": "subject marker",
+          "zhHant": "主語助詞",
+          "showRuby": false
+        },
+        {
+          "text": "増える",
+          "offsetMs": 4848.773,
+          "durationMs": 466.5,
+          "reading": "ふえる",
+          "romaji": "fueru",
+          "en": "to increase; to multiply",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "可能性",
+          "offsetMs": 5315.273,
+          "durationMs": 636.1359999999995,
+          "reading": "かのうせい",
+          "romaji": "kanousei",
+          "en": "potentiality; likelihood",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "が",
+          "offsetMs": 5951.409,
+          "durationMs": 127.22699999999986,
+          "reading": "が",
+          "romaji": "ga",
+          "en": "subject marker",
+          "zhHant": "主語助詞",
+          "showRuby": false
+        },
+        {
+          "text": "ある",
+          "offsetMs": 6078.636,
+          "durationMs": 268.59100000000035,
+          "reading": "ある",
+          "romaji": "aru",
+          "en": "to be; to exist",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        },
+        {
+          "text": "と",
+          "offsetMs": 6347.227,
+          "durationMs": 141.36399999999958,
+          "reading": "と",
+          "romaji": "to",
+          "en": "and; with; that",
+          "zhHant": "和；與；表示引用",
+          "showRuby": false
+        },
+        {
+          "text": "述べました",
+          "offsetMs": 6488.591,
+          "durationMs": 975.4089999999997,
+          "reading": "のべました",
+          "romaji": "nobemashita",
+          "en": "to state; to express",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        }
+      ],
       "audio": {
         "file": "../audio/7606-russian-drone-attack-near-kyiv/KM-NEWS-7606-russian-drone-attack-near-kyiv-sentence-04-ja-Nanami.mp3",
         "voice": "ja-JP-NanamiNeural",
@@ -366,7 +894,128 @@
       "speechJa": "大統領のゼレンスキー氏は、そうこが攻撃されたと説明しました。",
       "en": "President Zelenskyy said a warehouse had been attacked.",
       "zhHant": "澤連斯基總統表示，一座倉庫遭到襲擊。",
-      "tokens": [],
+      "tokens": [
+        {
+          "text": "大統領",
+          "offsetMs": 56.978,
+          "durationMs": 868.908,
+          "reading": "だいとうりょう",
+          "romaji": "daitouryou",
+          "en": "president (of a nation)",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "の",
+          "offsetMs": 925.885,
+          "durationMs": 156.68799999999987,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "ゼレンスキー",
+          "offsetMs": 1082.574,
+          "durationMs": 754.953,
+          "reading": "ぜれんすきー",
+          "romaji": "zerensukii",
+          "en": "Zelenskyy",
+          "zhHant": "澤連斯基",
+          "showRuby": true
+        },
+        {
+          "text": "氏",
+          "offsetMs": 1837.526,
+          "durationMs": 185.1769999999999,
+          "reading": "し",
+          "romaji": "shi",
+          "en": "family name; lineage",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "は",
+          "offsetMs": 2022.703,
+          "durationMs": 626.7530000000002,
+          "reading": "は",
+          "romaji": "wa",
+          "en": "topic marker",
+          "zhHant": "主題助詞",
+          "showRuby": false
+        },
+        {
+          "text": "倉庫",
+          "offsetMs": 2649.456,
+          "durationMs": 441.576,
+          "reading": "そうこ",
+          "romaji": "souko",
+          "en": "warehouse",
+          "zhHant": "倉庫",
+          "showRuby": true
+        },
+        {
+          "text": "が",
+          "offsetMs": 3091.032,
+          "durationMs": 199.42099999999982,
+          "reading": "が",
+          "romaji": "ga",
+          "en": "subject marker",
+          "zhHant": "主語助詞",
+          "showRuby": false
+        },
+        {
+          "text": "攻撃",
+          "offsetMs": 3290.454,
+          "durationMs": 512.7980000000002,
+          "reading": "こうげき",
+          "romaji": "kougeki",
+          "en": "attack; assault",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "さ",
+          "offsetMs": 3803.252,
+          "durationMs": 142.44399999999996,
+          "reading": "さ",
+          "romaji": "sa",
+          "en": "difference; variation",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        },
+        {
+          "text": "れた",
+          "offsetMs": 3945.696,
+          "durationMs": 256.39900000000034,
+          "reading": "れた",
+          "romaji": "reta",
+          "en": "indicates passive voice (incl. the \"suffering passive\")",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        },
+        {
+          "text": "と",
+          "offsetMs": 4202.095,
+          "durationMs": 156.6880000000001,
+          "reading": "と",
+          "romaji": "to",
+          "en": "and; with; that",
+          "zhHant": "和；與；表示引用",
+          "showRuby": false
+        },
+        {
+          "text": "説明しました",
+          "offsetMs": 4358.783,
+          "durationMs": 1353.2169999999996,
+          "reading": "せつめいしました",
+          "romaji": "setsumeishimashita",
+          "en": "explanation; exposition",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        }
+      ],
       "audio": {
         "file": "../audio/7606-russian-drone-attack-near-kyiv/KM-NEWS-7606-russian-drone-attack-near-kyiv-sentence-05-ja-Nanami.mp3",
         "voice": "ja-JP-NanamiNeural",
@@ -452,7 +1101,118 @@
       "speechJa": "彼は、この攻撃が大きなばくはつを引き起こしたと話しました。",
       "en": "He said the attack caused a major explosion.",
       "zhHant": "他指出，襲擊引發了猛烈爆炸。",
-      "tokens": [],
+      "tokens": [
+        {
+          "text": "彼",
+          "offsetMs": 58.468,
+          "durationMs": 350.809,
+          "reading": "かれ",
+          "romaji": "kare",
+          "en": "that; that thing",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "は",
+          "offsetMs": 409.277,
+          "durationMs": 613.915,
+          "reading": "は",
+          "romaji": "wa",
+          "en": "topic marker",
+          "zhHant": "主題助詞",
+          "showRuby": false
+        },
+        {
+          "text": "この",
+          "offsetMs": 1023.191,
+          "durationMs": 336.19100000000003,
+          "reading": "この",
+          "romaji": "kono",
+          "en": "nine",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        },
+        {
+          "text": "攻撃",
+          "offsetMs": 1359.383,
+          "durationMs": 570.0640000000001,
+          "reading": "こうげき",
+          "romaji": "kougeki",
+          "en": "attack; assault",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "が",
+          "offsetMs": 1929.447,
+          "durationMs": 160.78700000000003,
+          "reading": "が",
+          "romaji": "ga",
+          "en": "subject marker",
+          "zhHant": "主語助詞",
+          "showRuby": false
+        },
+        {
+          "text": "大きな",
+          "offsetMs": 2090.234,
+          "durationMs": 599.2980000000002,
+          "reading": "おおきな",
+          "romaji": "ookina",
+          "en": "big; large",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "爆発",
+          "offsetMs": 2689.532,
+          "durationMs": 599.2979999999998,
+          "reading": "ばくはつ",
+          "romaji": "bakuhatsu",
+          "en": "explosion",
+          "zhHant": "爆炸",
+          "showRuby": true
+        },
+        {
+          "text": "を",
+          "offsetMs": 3288.83,
+          "durationMs": 116.93600000000015,
+          "reading": "を",
+          "romaji": "o",
+          "en": "object marker",
+          "zhHant": "受詞助詞",
+          "showRuby": false
+        },
+        {
+          "text": "引き起こした",
+          "offsetMs": 3405.766,
+          "durationMs": 847.7869999999998,
+          "reading": "ひきおこした",
+          "romaji": "hikiokoshita",
+          "en": "to cause; to induce",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "と",
+          "offsetMs": 4253.553,
+          "durationMs": 131.55299999999988,
+          "reading": "と",
+          "romaji": "to",
+          "en": "and; with; that",
+          "zhHant": "和；與；表示引用",
+          "showRuby": false
+        },
+        {
+          "text": "話しました",
+          "offsetMs": 4385.106,
+          "durationMs": 1110.8940000000002,
+          "reading": "はなしました",
+          "romaji": "hanashimashita",
+          "en": "to talk; to speak",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        }
+      ],
       "audio": {
         "file": "../audio/7606-russian-drone-attack-near-kyiv/KM-NEWS-7606-russian-drone-attack-near-kyiv-sentence-06-ja-Nanami.mp3",
         "voice": "ja-JP-NanamiNeural",
@@ -530,7 +1290,168 @@
       "speechJa": "また、「だんやくを住宅地域の近くに保管してはいけない」とも言いました。",
       "en": "He also said ammunition should not be stored near residential areas.",
       "zhHant": "他亦表示，不應把彈藥存放在住宅區附近。",
-      "tokens": [],
+      "tokens": [
+        {
+          "text": "また",
+          "offsetMs": 56.147,
+          "durationMs": 912.385,
+          "reading": "また",
+          "romaji": "mata",
+          "en": "crotch; crutch",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        },
+        {
+          "text": "弾薬",
+          "offsetMs": 968.532,
+          "durationMs": 533.3939999999999,
+          "reading": "だんやく",
+          "romaji": "danyaku",
+          "en": "ammunition",
+          "zhHant": "彈藥",
+          "showRuby": true
+        },
+        {
+          "text": "を",
+          "offsetMs": 1501.927,
+          "durationMs": 196.5139999999999,
+          "reading": "を",
+          "romaji": "o",
+          "en": "object marker",
+          "zhHant": "受詞助詞",
+          "showRuby": false
+        },
+        {
+          "text": "住宅",
+          "offsetMs": 1698.44,
+          "durationMs": 505.3209999999999,
+          "reading": "じゅうたく",
+          "romaji": "juutaku",
+          "en": "residence; housing",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "地域",
+          "offsetMs": 2203.761,
+          "durationMs": 421.1010000000001,
+          "reading": "ちいき",
+          "romaji": "chiiki",
+          "en": "area; region",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "の",
+          "offsetMs": 2624.862,
+          "durationMs": 140.3670000000002,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "近く",
+          "offsetMs": 2765.229,
+          "durationMs": 435.1379999999999,
+          "reading": "ちかく",
+          "romaji": "chikaku",
+          "en": "near; neighbourhood",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "に",
+          "offsetMs": 3200.367,
+          "durationMs": 112.29399999999987,
+          "reading": "に",
+          "romaji": "ni",
+          "en": "to; at; in",
+          "zhHant": "向；在；於",
+          "showRuby": false
+        },
+        {
+          "text": "保管",
+          "offsetMs": 3312.661,
+          "durationMs": 435.1379999999999,
+          "reading": "ほかん",
+          "romaji": "hokan",
+          "en": "charge; custody",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "し",
+          "offsetMs": 3747.798,
+          "durationMs": 112.29399999999987,
+          "reading": "し",
+          "romaji": "shi",
+          "en": "do; verb stem",
+          "zhHant": "做；動詞詞幹",
+          "showRuby": false
+        },
+        {
+          "text": "て",
+          "offsetMs": 3860.092,
+          "durationMs": 112.29399999999987,
+          "reading": "て",
+          "romaji": "te",
+          "en": "linking verb ending",
+          "zhHant": "連接動詞詞尾",
+          "showRuby": false
+        },
+        {
+          "text": "は",
+          "offsetMs": 3972.385,
+          "durationMs": 154.40400000000045,
+          "reading": "は",
+          "romaji": "wa",
+          "en": "topic marker",
+          "zhHant": "主題助詞",
+          "showRuby": false
+        },
+        {
+          "text": "いけない",
+          "offsetMs": 4126.789,
+          "durationMs": 673.7620000000006,
+          "reading": "いけない",
+          "romaji": "ikenai",
+          "en": "wrong; not good",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        },
+        {
+          "text": "と",
+          "offsetMs": 4954.954,
+          "durationMs": 126.32999999999993,
+          "reading": "と",
+          "romaji": "to",
+          "en": "and; with; that",
+          "zhHant": "和；與；表示引用",
+          "showRuby": false
+        },
+        {
+          "text": "も",
+          "offsetMs": 5081.284,
+          "durationMs": 154.40400000000045,
+          "reading": "も",
+          "romaji": "mo",
+          "en": "also; too",
+          "zhHant": "也；亦",
+          "showRuby": false
+        },
+        {
+          "text": "言いました",
+          "offsetMs": 5235.688,
+          "durationMs": 884.3119999999999,
+          "reading": "いいました",
+          "romaji": "iimashita",
+          "en": "to say; to utter",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        }
+      ],
       "audio": {
         "file": "../audio/7606-russian-drone-attack-near-kyiv/KM-NEWS-7606-russian-drone-attack-near-kyiv-sentence-07-ja-Nanami.mp3",
         "voice": "ja-JP-NanamiNeural",
@@ -636,7 +1557,68 @@
       "speechJa": "ちょうさを始める方針を示しました。",
       "en": "He announced that an investigation would begin.",
       "zhHant": "他宣布將展開調查。",
-      "tokens": [],
+      "tokens": [
+        {
+          "text": "調査",
+          "offsetMs": 63.396,
+          "durationMs": 538.868,
+          "reading": "ちょうさ",
+          "romaji": "chousa",
+          "en": "investigation",
+          "zhHant": "調查",
+          "showRuby": true
+        },
+        {
+          "text": "を",
+          "offsetMs": 602.264,
+          "durationMs": 158.49099999999999,
+          "reading": "を",
+          "romaji": "o",
+          "en": "object marker",
+          "zhHant": "受詞助詞",
+          "showRuby": false
+        },
+        {
+          "text": "始める",
+          "offsetMs": 760.755,
+          "durationMs": 633.9620000000001,
+          "reading": "はじめる",
+          "romaji": "hajimeru",
+          "en": "to start; to begin",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "方針",
+          "offsetMs": 1394.717,
+          "durationMs": 602.2640000000001,
+          "reading": "ほうしん",
+          "romaji": "houshin",
+          "en": "policy; course",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "を",
+          "offsetMs": 1996.981,
+          "durationMs": 158.4910000000002,
+          "reading": "を",
+          "romaji": "o",
+          "en": "object marker",
+          "zhHant": "受詞助詞",
+          "showRuby": false
+        },
+        {
+          "text": "示しました",
+          "offsetMs": 2155.472,
+          "durationMs": 1204.5279999999998,
+          "reading": "しめしました",
+          "romaji": "shimeshimashita",
+          "en": "to (take out and) show; to demonstrate",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        }
+      ],
       "audio": {
         "file": "../audio/7606-russian-drone-attack-near-kyiv/KM-NEWS-7606-russian-drone-attack-near-kyiv-sentence-08-ja-Nanami.mp3",
         "voice": "ja-JP-NanamiNeural",
@@ -690,7 +1672,148 @@
       "speechJa": "ロシアの国防省は、攻撃されたのはへいきこだと発表しました。",
       "en": "Russia’s Defence Ministry said the target was an arms depot.",
       "zhHant": "俄羅斯國防部則表示，受襲目標是一座軍火庫。",
-      "tokens": [],
+      "tokens": [
+        {
+          "text": "ロシア",
+          "offsetMs": 58.277,
+          "durationMs": 582.771,
+          "reading": "ろしあ",
+          "romaji": "roshia",
+          "en": "Russia",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "の",
+          "offsetMs": 641.048,
+          "durationMs": 174.83100000000002,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "国防省",
+          "offsetMs": 815.879,
+          "durationMs": 830.448,
+          "reading": "こくぼうしょう",
+          "romaji": "kokuboushou",
+          "en": "Department of Defense (USA); the Pentagon",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "は",
+          "offsetMs": 1646.327,
+          "durationMs": 597.3399999999999,
+          "reading": "は",
+          "romaji": "wa",
+          "en": "topic marker",
+          "zhHant": "主題助詞",
+          "showRuby": false
+        },
+        {
+          "text": "攻撃",
+          "offsetMs": 2243.668,
+          "durationMs": 539.0630000000001,
+          "reading": "こうげき",
+          "romaji": "kougeki",
+          "en": "attack; assault",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "さ",
+          "offsetMs": 2782.73,
+          "durationMs": 145.6930000000002,
+          "reading": "さ",
+          "romaji": "sa",
+          "en": "difference; variation",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        },
+        {
+          "text": "れた",
+          "offsetMs": 2928.423,
+          "durationMs": 262.2470000000003,
+          "reading": "れた",
+          "romaji": "reta",
+          "en": "indicates passive voice (incl. the \"suffering passive\")",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        },
+        {
+          "text": "の",
+          "offsetMs": 3190.67,
+          "durationMs": 131.12300000000005,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "は",
+          "offsetMs": 3321.793,
+          "durationMs": 276.8159999999998,
+          "reading": "は",
+          "romaji": "wa",
+          "en": "topic marker",
+          "zhHant": "主題助詞",
+          "showRuby": false
+        },
+        {
+          "text": "兵器",
+          "offsetMs": 3598.61,
+          "durationMs": 451.64699999999993,
+          "reading": "へいき",
+          "romaji": "heiki",
+          "en": "arms; weapon",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "庫",
+          "offsetMs": 4050.257,
+          "durationMs": 145.69299999999976,
+          "reading": "くら",
+          "romaji": "kura",
+          "en": "warehouse; storehouse",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "だ",
+          "offsetMs": 4195.95,
+          "durationMs": 131.1229999999996,
+          "reading": "だ",
+          "romaji": "da",
+          "en": "is; plain copula",
+          "zhHant": "是；普通體判斷詞",
+          "showRuby": false
+        },
+        {
+          "text": "と",
+          "offsetMs": 4327.073,
+          "durationMs": 131.1229999999996,
+          "reading": "と",
+          "romaji": "to",
+          "en": "and; with; that",
+          "zhHant": "和；與；表示引用",
+          "showRuby": false
+        },
+        {
+          "text": "発表しました",
+          "offsetMs": 4458.196,
+          "durationMs": 1325.804,
+          "reading": "はっぴょうしました",
+          "romaji": "happyoushimashita",
+          "en": "announcement; publication",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        }
+      ],
       "audio": {
         "file": "../audio/7606-russian-drone-attack-near-kyiv/KM-NEWS-7606-russian-drone-attack-near-kyiv-sentence-09-ja-Nanami.mp3",
         "voice": "ja-JP-NanamiNeural",

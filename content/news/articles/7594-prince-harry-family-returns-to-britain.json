@@ -26,9 +26,23 @@
     "zhHant": "哈里王子、梅根與家人返回英國，預料將以私人身分生活，不會恢復王室公務。"
   },
   "cover": {
-    "file": "../../../assets/news-covers/royal-return.png",
+    "file": "../../../assets/news-covers/royal-return.webp",
     "sourceUrl": "https://api.kokomonster.com/file/resources/crawled-raw-news/2026-08-27/9791/1787826606664.jpg"
   },
+  "inlineImages": [
+    {
+      "afterSentence": 3,
+      "file": "../../../assets/news-covers/royal-return-storyboard.webp",
+      "crop": "top",
+      "alt": "First supporting Kokomonster scene for this news story"
+    },
+    {
+      "afterSentence": 7,
+      "file": "../../../assets/news-covers/royal-return-storyboard.webp",
+      "crop": "bottom",
+      "alt": "Second supporting Kokomonster scene for this news story"
+    }
+  ],
   "sentences": [
     {
       "id": "s01",
@@ -38,7 +52,208 @@
       "speechJa": "イギリス王室のサセックス公ハリー王子と妻のメガン妃が家族と共にイギリスにきこくしました。",
       "en": "Britain’s Prince Harry, Duke of Sussex, and his wife Meghan have returned to Britain with their family.",
       "zhHant": "英國王室薩塞克斯公爵哈里王子與妻子梅根，已與家人一同返回英國。",
-      "tokens": [],
+      "tokens": [
+        {
+          "text": "イギリス",
+          "offsetMs": 60.464,
+          "durationMs": 680.221,
+          "reading": "いぎりす",
+          "romaji": "igirisu",
+          "en": "United Kingdom; Britain",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "王室",
+          "offsetMs": 740.685,
+          "durationMs": 513.9450000000002,
+          "reading": "おうしつ",
+          "romaji": "oushitsu",
+          "en": "royal family",
+          "zhHant": "王室",
+          "showRuby": true
+        },
+        {
+          "text": "の",
+          "offsetMs": 1254.63,
+          "durationMs": 166.27600000000007,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "サセックス",
+          "offsetMs": 1420.906,
+          "durationMs": 740.685,
+          "reading": "させっくす",
+          "romaji": "sasekkusu",
+          "en": "Sussex",
+          "zhHant": "薩塞克斯",
+          "showRuby": true
+        },
+        {
+          "text": "公",
+          "offsetMs": 2161.591,
+          "durationMs": 241.85600000000022,
+          "reading": "こう",
+          "romaji": "kou",
+          "en": "you; buddy",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "ハリー",
+          "offsetMs": 2403.448,
+          "durationMs": 377.90099999999984,
+          "reading": "はりー",
+          "romaji": "harii",
+          "en": "Harry",
+          "zhHant": "哈里",
+          "showRuby": true
+        },
+        {
+          "text": "王子",
+          "offsetMs": 2781.348,
+          "durationMs": 438.3649999999998,
+          "reading": "おうじ",
+          "romaji": "ouji",
+          "en": "prince",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "と",
+          "offsetMs": 3219.713,
+          "durationMs": 317.43600000000015,
+          "reading": "と",
+          "romaji": "to",
+          "en": "and; with; that",
+          "zhHant": "和；與；表示引用",
+          "showRuby": false
+        },
+        {
+          "text": "妻",
+          "offsetMs": 3537.149,
+          "durationMs": 347.66899999999987,
+          "reading": "つま",
+          "romaji": "tsuma",
+          "en": "wife",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "の",
+          "offsetMs": 3884.818,
+          "durationMs": 166.27599999999984,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "メガン",
+          "offsetMs": 4051.094,
+          "durationMs": 393.0169999999998,
+          "reading": "めがん",
+          "romaji": "megan",
+          "en": "Meghan",
+          "zhHant": "梅根",
+          "showRuby": true
+        },
+        {
+          "text": "妃",
+          "offsetMs": 4444.11,
+          "durationMs": 211.6239999999998,
+          "reading": "ひ",
+          "romaji": "hi",
+          "en": "princess; consort",
+          "zhHant": "王妃",
+          "showRuby": true
+        },
+        {
+          "text": "が",
+          "offsetMs": 4655.735,
+          "durationMs": 211.6239999999998,
+          "reading": "が",
+          "romaji": "ga",
+          "en": "subject marker",
+          "zhHant": "主語助詞",
+          "showRuby": false
+        },
+        {
+          "text": "家族",
+          "offsetMs": 4867.359,
+          "durationMs": 468.59699999999975,
+          "reading": "かぞく",
+          "romaji": "kazoku",
+          "en": "family; members of a family",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "と",
+          "offsetMs": 5335.956,
+          "durationMs": 196.5079999999998,
+          "reading": "と",
+          "romaji": "to",
+          "en": "and; with; that",
+          "zhHant": "和；與；表示引用",
+          "showRuby": false
+        },
+        {
+          "text": "共",
+          "offsetMs": 5532.464,
+          "durationMs": 287.2039999999997,
+          "reading": "とも",
+          "romaji": "tomo",
+          "en": "first-person plural (or singular)",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "に",
+          "offsetMs": 5819.669,
+          "durationMs": 302.3199999999997,
+          "reading": "に",
+          "romaji": "ni",
+          "en": "to; at; in",
+          "zhHant": "向；在；於",
+          "showRuby": false
+        },
+        {
+          "text": "イギリス",
+          "offsetMs": 6121.989,
+          "durationMs": 589.5249999999996,
+          "reading": "いぎりす",
+          "romaji": "igirisu",
+          "en": "United Kingdom; Britain",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "に",
+          "offsetMs": 6711.514,
+          "durationMs": 196.5079999999998,
+          "reading": "に",
+          "romaji": "ni",
+          "en": "to; at; in",
+          "zhHant": "向；在；於",
+          "showRuby": false
+        },
+        {
+          "text": "帰国しました",
+          "offsetMs": 6908.022,
+          "durationMs": 1299.978,
+          "reading": "きこくしました",
+          "romaji": "kikokushimashita",
+          "en": "return to one's country",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        }
+      ],
       "audio": {
         "file": "../audio/7594-prince-harry-family-returns-to-britain/KM-NEWS-7594-prince-harry-family-returns-to-britain-sentence-01-ja-Nanami.mp3",
         "voice": "ja-JP-NanamiNeural",
@@ -152,7 +367,168 @@
       "speechJa": "彼らはプライベートジェットでバーミンガムに到着し、イギリスの学校に入学する予定です。",
       "en": "They arrived in Birmingham by private jet, and the children are expected to enrol in British schools.",
       "zhHant": "一家人乘私人飛機抵達伯明翰，孩子預計會入讀英國學校。",
-      "tokens": [],
+      "tokens": [
+        {
+          "text": "彼ら",
+          "offsetMs": 57.446,
+          "durationMs": 473.928,
+          "reading": "かれら",
+          "romaji": "karera",
+          "en": "they; them",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "は",
+          "offsetMs": 531.373,
+          "durationMs": 330.313,
+          "reading": "は",
+          "romaji": "wa",
+          "en": "topic marker",
+          "zhHant": "主題助詞",
+          "showRuby": false
+        },
+        {
+          "text": "プライベートジェット",
+          "offsetMs": 861.687,
+          "durationMs": 1134.554,
+          "reading": "ぷらいべーとじぇっと",
+          "romaji": "puraibeetojietto",
+          "en": "private jet",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "で",
+          "offsetMs": 1996.241,
+          "durationMs": 201.05999999999995,
+          "reading": "で",
+          "romaji": "de",
+          "en": "at; by; with",
+          "zhHant": "在；以；用",
+          "showRuby": false
+        },
+        {
+          "text": "バーミンガム",
+          "offsetMs": 2197.301,
+          "durationMs": 775.518,
+          "reading": "ばーみんがむ",
+          "romaji": "baamingamu",
+          "en": "Birmingham",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "に",
+          "offsetMs": 2972.819,
+          "durationMs": 201.05999999999995,
+          "reading": "に",
+          "romaji": "ni",
+          "en": "to; at; in",
+          "zhHant": "向；在；於",
+          "showRuby": false
+        },
+        {
+          "text": "到着",
+          "offsetMs": 3173.88,
+          "durationMs": 488.28899999999976,
+          "reading": "とうちゃく",
+          "romaji": "touchaku",
+          "en": "arrival",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "し",
+          "offsetMs": 3662.169,
+          "durationMs": 631.9040000000005,
+          "reading": "し",
+          "romaji": "shi",
+          "en": "do; verb stem",
+          "zhHant": "做；動詞詞幹",
+          "showRuby": false
+        },
+        {
+          "text": "イギリス",
+          "offsetMs": 4294.072,
+          "durationMs": 502.65099999999984,
+          "reading": "いぎりす",
+          "romaji": "igirisu",
+          "en": "United Kingdom; Britain",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "の",
+          "offsetMs": 4796.723,
+          "durationMs": 143.61399999999958,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "学校",
+          "offsetMs": 4940.337,
+          "durationMs": 531.3730000000005,
+          "reading": "がっこう",
+          "romaji": "gakkou",
+          "en": "school",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "に",
+          "offsetMs": 5471.711,
+          "durationMs": 157.97599999999966,
+          "reading": "に",
+          "romaji": "ni",
+          "en": "to; at; in",
+          "zhHant": "向；在；於",
+          "showRuby": false
+        },
+        {
+          "text": "入学",
+          "offsetMs": 5629.687,
+          "durationMs": 473.9279999999999,
+          "reading": "にゅうがく",
+          "romaji": "nyuugaku",
+          "en": "entry to school or university; matriculation",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "する",
+          "offsetMs": 6103.614,
+          "durationMs": 258.5060000000003,
+          "reading": "する",
+          "romaji": "suru",
+          "en": "to do",
+          "zhHant": "做；進行",
+          "showRuby": false
+        },
+        {
+          "text": "予定",
+          "offsetMs": 6362.12,
+          "durationMs": 387.759,
+          "reading": "よてい",
+          "romaji": "yotei",
+          "en": "plans; arrangement",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "です",
+          "offsetMs": 6749.88,
+          "durationMs": 402.1199999999999,
+          "reading": "です",
+          "romaji": "desu",
+          "en": "is; polite copula",
+          "zhHant": "是；禮貌判斷詞",
+          "showRuby": false
+        }
+      ],
       "audio": {
         "file": "../audio/7594-prince-harry-family-returns-to-britain/KM-NEWS-7594-prince-harry-family-returns-to-britain-sentence-02-ja-Nanami.mp3",
         "voice": "ja-JP-NanamiNeural",
@@ -238,7 +614,228 @@
       "speechJa": "夫妻は今後、イギリスでの公務には復帰せず、しゆうちに拠点を置くことが報じられています。",
       "en": "They are reportedly not returning to official duties and will be based on a private estate.",
       "zhHant": "據報，二人不會恢復英國王室公務，並將居於私人莊園。",
-      "tokens": [],
+      "tokens": [
+        {
+          "text": "夫妻",
+          "offsetMs": 57.529,
+          "durationMs": 474.6120000000001,
+          "reading": "ふさい",
+          "romaji": "fusai",
+          "en": "husband and wife; married couple",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "は",
+          "offsetMs": 532.141,
+          "durationMs": 215.73300000000006,
+          "reading": "は",
+          "romaji": "wa",
+          "en": "topic marker",
+          "zhHant": "主題助詞",
+          "showRuby": false
+        },
+        {
+          "text": "今後",
+          "offsetMs": 747.874,
+          "durationMs": 862.931,
+          "reading": "こんご",
+          "romaji": "kongo",
+          "en": "from now on; hereafter",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "イギリス",
+          "offsetMs": 1610.805,
+          "durationMs": 503.3770000000002,
+          "reading": "いぎりす",
+          "romaji": "igirisu",
+          "en": "United Kingdom; Britain",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "で",
+          "offsetMs": 2114.182,
+          "durationMs": 115.05799999999999,
+          "reading": "で",
+          "romaji": "de",
+          "en": "at; by; with",
+          "zhHant": "在；以；用",
+          "showRuby": false
+        },
+        {
+          "text": "の",
+          "offsetMs": 2229.239,
+          "durationMs": 186.96799999999985,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "公務",
+          "offsetMs": 2416.208,
+          "durationMs": 417.0830000000001,
+          "reading": "こうむ",
+          "romaji": "koumu",
+          "en": "official duties",
+          "zhHant": "公務",
+          "showRuby": true
+        },
+        {
+          "text": "に",
+          "offsetMs": 2833.291,
+          "durationMs": 129.44000000000005,
+          "reading": "に",
+          "romaji": "ni",
+          "en": "to; at; in",
+          "zhHant": "向；在；於",
+          "showRuby": false
+        },
+        {
+          "text": "は",
+          "offsetMs": 2962.731,
+          "durationMs": 172.58599999999979,
+          "reading": "は",
+          "romaji": "wa",
+          "en": "topic marker",
+          "zhHant": "主題助詞",
+          "showRuby": false
+        },
+        {
+          "text": "復帰",
+          "offsetMs": 3135.317,
+          "durationMs": 388.31899999999996,
+          "reading": "ふっき",
+          "romaji": "fukki",
+          "en": "return; comeback",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "せ",
+          "offsetMs": 3523.636,
+          "durationMs": 172.58599999999979,
+          "reading": "せ",
+          "romaji": "se",
+          "en": "shallows; shoal",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        },
+        {
+          "text": "ず",
+          "offsetMs": 3696.223,
+          "durationMs": 589.6700000000001,
+          "reading": "ず",
+          "romaji": "zu",
+          "en": "without; not",
+          "zhHant": "不；沒有",
+          "showRuby": false
+        },
+        {
+          "text": "私有地",
+          "offsetMs": 4285.892,
+          "durationMs": 560.9049999999997,
+          "reading": "しゆうち",
+          "romaji": "shiyuuchi",
+          "en": "private property",
+          "zhHant": "私人土地",
+          "showRuby": true
+        },
+        {
+          "text": "に",
+          "offsetMs": 4846.798,
+          "durationMs": 244.4970000000003,
+          "reading": "に",
+          "romaji": "ni",
+          "en": "to; at; in",
+          "zhHant": "向；在；於",
+          "showRuby": false
+        },
+        {
+          "text": "拠点",
+          "offsetMs": 5091.295,
+          "durationMs": 445.84799999999996,
+          "reading": "きょてん",
+          "romaji": "kyoten",
+          "en": "position; location",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "を",
+          "offsetMs": 5537.143,
+          "durationMs": 129.4399999999996,
+          "reading": "を",
+          "romaji": "o",
+          "en": "object marker",
+          "zhHant": "受詞助詞",
+          "showRuby": false
+        },
+        {
+          "text": "置く",
+          "offsetMs": 5666.583,
+          "durationMs": 258.8789999999999,
+          "reading": "おく",
+          "romaji": "oku",
+          "en": "to put; to place",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "こと",
+          "offsetMs": 5925.462,
+          "durationMs": 258.8789999999999,
+          "reading": "こと",
+          "romaji": "koto",
+          "en": "thing; nominalizer",
+          "zhHant": "事情；名詞化",
+          "showRuby": false
+        },
+        {
+          "text": "が",
+          "offsetMs": 6184.341,
+          "durationMs": 172.58600000000024,
+          "reading": "が",
+          "romaji": "ga",
+          "en": "subject marker",
+          "zhHant": "主語助詞",
+          "showRuby": false
+        },
+        {
+          "text": "報じ",
+          "offsetMs": 6356.928,
+          "durationMs": 474.6120000000001,
+          "reading": "ほうじ",
+          "romaji": "houji",
+          "en": "to inform; to report",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "ら",
+          "offsetMs": 6831.54,
+          "durationMs": 129.4399999999996,
+          "reading": "ら",
+          "romaji": "ra",
+          "en": "plural suffix",
+          "zhHant": "複數詞尾",
+          "showRuby": false
+        },
+        {
+          "text": "れています",
+          "offsetMs": 6960.98,
+          "durationMs": 791.0200000000004,
+          "reading": "れています",
+          "romaji": "reteimasu",
+          "en": "indicates passive voice (incl. the \"suffering passive\")",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        }
+      ],
       "audio": {
         "file": "../audio/7594-prince-harry-family-returns-to-britain/KM-NEWS-7594-prince-harry-family-returns-to-britain-sentence-03-ja-Nanami.mp3",
         "voice": "ja-JP-NanamiNeural",
@@ -360,7 +957,138 @@
       "speechJa": "王室の報道官は、夫妻のきこくについてはコメントしないと述べました。",
       "en": "A royal spokesperson said there would be no comment on the couple’s return.",
       "zhHant": "王室發言人表示，不會評論夫婦二人的回國安排。",
-      "tokens": [],
+      "tokens": [
+        {
+          "text": "王室",
+          "offsetMs": 55.532,
+          "durationMs": 555.316,
+          "reading": "おうしつ",
+          "romaji": "oushitsu",
+          "en": "royal family",
+          "zhHant": "王室",
+          "showRuby": true
+        },
+        {
+          "text": "の",
+          "offsetMs": 610.848,
+          "durationMs": 138.82899999999995,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "報道官",
+          "offsetMs": 749.677,
+          "durationMs": 735.794,
+          "reading": "ほうどうかん",
+          "romaji": "houdoukan",
+          "en": "press officer; press secretary",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "は",
+          "offsetMs": 1485.471,
+          "durationMs": 610.848,
+          "reading": "は",
+          "romaji": "wa",
+          "en": "topic marker",
+          "zhHant": "主題助詞",
+          "showRuby": false
+        },
+        {
+          "text": "夫妻",
+          "offsetMs": 2096.319,
+          "durationMs": 388.721,
+          "reading": "ふさい",
+          "romaji": "fusai",
+          "en": "husband and wife; married couple",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "の",
+          "offsetMs": 2485.04,
+          "durationMs": 152.712,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "帰国",
+          "offsetMs": 2637.752,
+          "durationMs": 430.3699999999999,
+          "reading": "きこく",
+          "romaji": "kikoku",
+          "en": "return to one’s country",
+          "zhHant": "回國",
+          "showRuby": true
+        },
+        {
+          "text": "について",
+          "offsetMs": 3068.122,
+          "durationMs": 541.4330000000004,
+          "reading": "について",
+          "romaji": "nitsuite",
+          "en": "concerning; regarding",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        },
+        {
+          "text": "は",
+          "offsetMs": 3609.555,
+          "durationMs": 319.30700000000024,
+          "reading": "は",
+          "romaji": "wa",
+          "en": "topic marker",
+          "zhHant": "主題助詞",
+          "showRuby": false
+        },
+        {
+          "text": "コメント",
+          "offsetMs": 3928.862,
+          "durationMs": 555.3159999999998,
+          "reading": "こめんと",
+          "romaji": "komento",
+          "en": "comment",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "しない",
+          "offsetMs": 4484.178,
+          "durationMs": 374.83800000000065,
+          "reading": "しない",
+          "romaji": "shinai",
+          "en": "(within a) city; local",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        },
+        {
+          "text": "と",
+          "offsetMs": 4859.016,
+          "durationMs": 124.94599999999991,
+          "reading": "と",
+          "romaji": "to",
+          "en": "and; with; that",
+          "zhHant": "和；與；表示引用",
+          "showRuby": false
+        },
+        {
+          "text": "述べました",
+          "offsetMs": 4983.963,
+          "durationMs": 944.0370000000003,
+          "reading": "のべました",
+          "romaji": "nobemashita",
+          "en": "to state; to express",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        }
+      ],
       "audio": {
         "file": "../audio/7594-prince-harry-family-returns-to-britain/KM-NEWS-7594-prince-harry-family-returns-to-britain-sentence-04-ja-Nanami.mp3",
         "voice": "ja-JP-NanamiNeural",
@@ -454,7 +1182,188 @@
       "speechJa": "ハリー王子の兄であるウェールズ公ウィリアムこうたいしにも、2人の計画が伝えられています。",
       "en": "Prince William, Harry’s brother and the Prince of Wales, has also been told of their plans.",
       "zhHant": "哈里的兄長、威爾斯親王威廉王子亦已獲告知二人的計劃。",
-      "tokens": [],
+      "tokens": [
+        {
+          "text": "ハリー",
+          "offsetMs": 54.911,
+          "durationMs": 425.562,
+          "reading": "はりー",
+          "romaji": "harii",
+          "en": "Harry",
+          "zhHant": "哈里",
+          "showRuby": true
+        },
+        {
+          "text": "王子",
+          "offsetMs": 480.473,
+          "durationMs": 398.107,
+          "reading": "おうじ",
+          "romaji": "ouji",
+          "en": "prince",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "の",
+          "offsetMs": 878.58,
+          "durationMs": 123.54999999999995,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "兄",
+          "offsetMs": 1002.13,
+          "durationMs": 329.467,
+          "reading": "あに",
+          "romaji": "ani",
+          "en": "older brother; elder brother",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "で",
+          "offsetMs": 1331.598,
+          "durationMs": 123.54999999999995,
+          "reading": "で",
+          "romaji": "de",
+          "en": "at; by; with",
+          "zhHant": "在；以；用",
+          "showRuby": false
+        },
+        {
+          "text": "ある",
+          "offsetMs": 1455.148,
+          "durationMs": 329.46699999999987,
+          "reading": "ある",
+          "romaji": "aru",
+          "en": "to be; to exist",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        },
+        {
+          "text": "ウェールズ公",
+          "offsetMs": 1784.615,
+          "durationMs": 782.4849999999999,
+          "reading": "うぇーるずこう",
+          "romaji": "ueeruzukou",
+          "en": "Wales",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "ウィリアム",
+          "offsetMs": 2567.101,
+          "durationMs": 590.2959999999998,
+          "reading": "うぃりあむ",
+          "romaji": "uiriamu",
+          "en": "William",
+          "zhHant": "威廉",
+          "showRuby": true
+        },
+        {
+          "text": "皇太子",
+          "offsetMs": 3157.396,
+          "durationMs": 617.7509999999997,
+          "reading": "こうたいし",
+          "romaji": "koutaishi",
+          "en": "crown prince",
+          "zhHant": "皇太子",
+          "showRuby": true
+        },
+        {
+          "text": "に",
+          "offsetMs": 3775.148,
+          "durationMs": 123.55000000000018,
+          "reading": "に",
+          "romaji": "ni",
+          "en": "to; at; in",
+          "zhHant": "向；在；於",
+          "showRuby": false
+        },
+        {
+          "text": "も",
+          "offsetMs": 3898.698,
+          "durationMs": 590.2959999999998,
+          "reading": "も",
+          "romaji": "mo",
+          "en": "also; too",
+          "zhHant": "也；亦",
+          "showRuby": false
+        },
+        {
+          "text": "2人",
+          "offsetMs": 4488.994,
+          "durationMs": 370.65099999999984,
+          "reading": "2にん",
+          "romaji": "2nin",
+          "en": "2 people",
+          "zhHant": "2人",
+          "showRuby": true
+        },
+        {
+          "text": "の",
+          "offsetMs": 4859.645,
+          "durationMs": 164.73400000000038,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "計画",
+          "offsetMs": 5024.379,
+          "durationMs": 549.1120000000001,
+          "reading": "けいかく",
+          "romaji": "keikaku",
+          "en": "plan; project",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "が",
+          "offsetMs": 5573.491,
+          "durationMs": 151.0060000000003,
+          "reading": "が",
+          "romaji": "ga",
+          "en": "subject marker",
+          "zhHant": "主語助詞",
+          "showRuby": false
+        },
+        {
+          "text": "伝え",
+          "offsetMs": 5724.497,
+          "durationMs": 356.9229999999998,
+          "reading": "つたえ",
+          "romaji": "tsutae",
+          "en": "legend; tradition",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "ら",
+          "offsetMs": 6081.42,
+          "durationMs": 123.55000000000018,
+          "reading": "ら",
+          "romaji": "ra",
+          "en": "plural suffix",
+          "zhHant": "複數詞尾",
+          "showRuby": false
+        },
+        {
+          "text": "れています",
+          "offsetMs": 6204.97,
+          "durationMs": 755.0299999999997,
+          "reading": "れています",
+          "romaji": "reteimasu",
+          "en": "indicates passive voice (incl. the \"suffering passive\")",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        }
+      ],
       "audio": {
         "file": "../audio/7594-prince-harry-family-returns-to-britain/KM-NEWS-7594-prince-harry-family-returns-to-britain-sentence-05-ja-Nanami.mp3",
         "voice": "ja-JP-NanamiNeural",
@@ -560,7 +1469,178 @@
       "speechJa": "家族はカリフォルニアしゅうから来ましたが、カリフォルニアで飼っていたニワトリは残して行きます。",
       "en": "The family came from California, but the chickens they kept there will stay behind.",
       "zhHant": "一家人從加州回來，但在當地飼養的雞隻將會留下。",
-      "tokens": [],
+      "tokens": [
+        {
+          "text": "家族",
+          "offsetMs": 59.259,
+          "durationMs": 533.333,
+          "reading": "かぞく",
+          "romaji": "kazoku",
+          "en": "family; members of a family",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "は",
+          "offsetMs": 592.593,
+          "durationMs": 266.66700000000003,
+          "reading": "は",
+          "romaji": "wa",
+          "en": "topic marker",
+          "zhHant": "主題助詞",
+          "showRuby": false
+        },
+        {
+          "text": "カリフォルニア",
+          "offsetMs": 859.259,
+          "durationMs": 844.444,
+          "reading": "かりふぉるにあ",
+          "romaji": "kariforunia",
+          "en": "California",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "州",
+          "offsetMs": 1703.704,
+          "durationMs": 325.92599999999993,
+          "reading": "しゅう",
+          "romaji": "shuu",
+          "en": "state (US, Australia, India, Germany, etc.); province (e.g. Canada)",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "から",
+          "offsetMs": 2029.63,
+          "durationMs": 266.6669999999999,
+          "reading": "から",
+          "romaji": "kara",
+          "en": "from; because",
+          "zhHant": "從；因為",
+          "showRuby": false
+        },
+        {
+          "text": "来ました",
+          "offsetMs": 2296.296,
+          "durationMs": 577.7780000000002,
+          "reading": "きました",
+          "romaji": "kimashita",
+          "en": "to come (spatially or temporally); to approach",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "が",
+          "offsetMs": 2874.074,
+          "durationMs": 637.0369999999998,
+          "reading": "が",
+          "romaji": "ga",
+          "en": "subject marker",
+          "zhHant": "主語助詞",
+          "showRuby": false
+        },
+        {
+          "text": "カリフォルニア",
+          "offsetMs": 3511.111,
+          "durationMs": 829.6300000000001,
+          "reading": "かりふぉるにあ",
+          "romaji": "kariforunia",
+          "en": "California",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "で",
+          "offsetMs": 4340.741,
+          "durationMs": 148.14800000000014,
+          "reading": "で",
+          "romaji": "de",
+          "en": "at; by; with",
+          "zhHant": "在；以；用",
+          "showRuby": false
+        },
+        {
+          "text": "飼っ",
+          "offsetMs": 4488.889,
+          "durationMs": 266.66700000000037,
+          "reading": "かっ",
+          "romaji": "katsu",
+          "en": "to keep (a pet or other animal); to have",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "て",
+          "offsetMs": 4755.556,
+          "durationMs": 118.51900000000023,
+          "reading": "て",
+          "romaji": "te",
+          "en": "linking verb ending",
+          "zhHant": "連接動詞詞尾",
+          "showRuby": false
+        },
+        {
+          "text": "いた",
+          "offsetMs": 4874.074,
+          "durationMs": 370.3700000000008,
+          "reading": "いた",
+          "romaji": "ita",
+          "en": "board; plank",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        },
+        {
+          "text": "ニワトリ",
+          "offsetMs": 5244.444,
+          "durationMs": 562.9629999999997,
+          "reading": "にわとり",
+          "romaji": "niwatori",
+          "en": "chicken (Gallus gallus domesticus); domestic chicken",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "は",
+          "offsetMs": 5807.407,
+          "durationMs": 162.96299999999974,
+          "reading": "は",
+          "romaji": "wa",
+          "en": "topic marker",
+          "zhHant": "主題助詞",
+          "showRuby": false
+        },
+        {
+          "text": "残し",
+          "offsetMs": 5970.37,
+          "durationMs": 429.6300000000001,
+          "reading": "のこし",
+          "romaji": "nokoshi",
+          "en": "to leave (behind)",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "て",
+          "offsetMs": 6400.0,
+          "durationMs": 103.70399999999972,
+          "reading": "て",
+          "romaji": "te",
+          "en": "linking verb ending",
+          "zhHant": "連接動詞詞尾",
+          "showRuby": false
+        },
+        {
+          "text": "行きます",
+          "offsetMs": 6503.704,
+          "durationMs": 696.2960000000003,
+          "reading": "いきます",
+          "romaji": "ikimasu",
+          "en": "to go; to move (in a direction or towards a specific location)",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        }
+      ],
       "audio": {
         "file": "../audio/7594-prince-harry-family-returns-to-britain/KM-NEWS-7594-prince-harry-family-returns-to-britain-sentence-06-ja-Nanami.mp3",
         "voice": "ja-JP-NanamiNeural",
@@ -666,7 +1746,158 @@
       "speechJa": "犬のミアとプーラは一緒に連れて行くとのことです。",
       "en": "They will bring their dogs, Mia and Pula, with them.",
       "zhHant": "他們會帶同愛犬米婭與普拉。",
-      "tokens": [],
+      "tokens": [
+        {
+          "text": "犬",
+          "offsetMs": 64.962,
+          "durationMs": 373.534,
+          "reading": "いぬ",
+          "romaji": "inu",
+          "en": "dog (Canis (lupus) familiaris)",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "の",
+          "offsetMs": 438.496,
+          "durationMs": 162.40600000000006,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "ミア",
+          "offsetMs": 600.902,
+          "durationMs": 324.812,
+          "reading": "みあ",
+          "romaji": "mia",
+          "en": "Mia",
+          "zhHant": "米婭",
+          "showRuby": true
+        },
+        {
+          "text": "と",
+          "offsetMs": 925.714,
+          "durationMs": 292.331,
+          "reading": "と",
+          "romaji": "to",
+          "en": "and; with; that",
+          "zhHant": "和；與；表示引用",
+          "showRuby": false
+        },
+        {
+          "text": "プーラ",
+          "offsetMs": 1218.045,
+          "durationMs": 487.2180000000001,
+          "reading": "ぷーら",
+          "romaji": "puura",
+          "en": "Pura",
+          "zhHant": "普拉",
+          "showRuby": true
+        },
+        {
+          "text": "は",
+          "offsetMs": 1705.263,
+          "durationMs": 243.60899999999992,
+          "reading": "は",
+          "romaji": "wa",
+          "en": "topic marker",
+          "zhHant": "主題助詞",
+          "showRuby": false
+        },
+        {
+          "text": "一緒",
+          "offsetMs": 1948.872,
+          "durationMs": 406.0150000000001,
+          "reading": "いっしょ",
+          "romaji": "issho",
+          "en": "together",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "に",
+          "offsetMs": 2354.887,
+          "durationMs": 178.64699999999993,
+          "reading": "に",
+          "romaji": "ni",
+          "en": "to; at; in",
+          "zhHant": "向；在；於",
+          "showRuby": false
+        },
+        {
+          "text": "連れ",
+          "offsetMs": 2533.534,
+          "durationMs": 308.5709999999999,
+          "reading": "つれ",
+          "romaji": "tsure",
+          "en": "companion; company",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "て",
+          "offsetMs": 2842.105,
+          "durationMs": 129.92500000000018,
+          "reading": "て",
+          "romaji": "te",
+          "en": "linking verb ending",
+          "zhHant": "連接動詞詞尾",
+          "showRuby": false
+        },
+        {
+          "text": "行く",
+          "offsetMs": 2972.03,
+          "durationMs": 276.09000000000015,
+          "reading": "いく",
+          "romaji": "iku",
+          "en": "to go; to move (in a direction or towards a specific location)",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "と",
+          "offsetMs": 3248.12,
+          "durationMs": 146.16499999999996,
+          "reading": "と",
+          "romaji": "to",
+          "en": "and; with; that",
+          "zhHant": "和；與；表示引用",
+          "showRuby": false
+        },
+        {
+          "text": "の",
+          "offsetMs": 3394.286,
+          "durationMs": 162.40599999999995,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "こと",
+          "offsetMs": 3556.692,
+          "durationMs": 308.5709999999999,
+          "reading": "こと",
+          "romaji": "koto",
+          "en": "thing; nominalizer",
+          "zhHant": "事情；名詞化",
+          "showRuby": false
+        },
+        {
+          "text": "です",
+          "offsetMs": 3865.263,
+          "durationMs": 454.7370000000001,
+          "reading": "です",
+          "romaji": "desu",
+          "en": "is; polite copula",
+          "zhHant": "是；禮貌判斷詞",
+          "showRuby": false
+        }
+      ],
       "audio": {
         "file": "../audio/7594-prince-harry-family-returns-to-britain/KM-NEWS-7594-prince-harry-family-returns-to-britain-sentence-07-ja-Nanami.mp3",
         "voice": "ja-JP-NanamiNeural",
@@ -748,7 +1979,218 @@
       "speechJa": "ハリー王子とメガン妃がイギリスを訪れるのは、にせんにじゅうにねんのエリザベス女王のそうぎ以来のことです。",
       "en": "This is Harry and Meghan’s first visit to Britain since Queen Elizabeth’s funeral in 2022.",
       "zhHant": "這是哈里與梅根自2022年伊利沙伯女王葬禮後，首次到訪英國。",
-      "tokens": [],
+      "tokens": [
+        {
+          "text": "ハリー",
+          "offsetMs": 55.278,
+          "durationMs": 442.221,
+          "reading": "はりー",
+          "romaji": "harii",
+          "en": "Harry",
+          "zhHant": "哈里",
+          "showRuby": true
+        },
+        {
+          "text": "王子",
+          "offsetMs": 497.499,
+          "durationMs": 428.40200000000004,
+          "reading": "おうじ",
+          "romaji": "ouji",
+          "en": "prince",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "と",
+          "offsetMs": 925.901,
+          "durationMs": 221.111,
+          "reading": "と",
+          "romaji": "to",
+          "en": "and; with; that",
+          "zhHant": "和；與；表示引用",
+          "showRuby": false
+        },
+        {
+          "text": "メガン",
+          "offsetMs": 1147.012,
+          "durationMs": 359.30500000000006,
+          "reading": "めがん",
+          "romaji": "megan",
+          "en": "Meghan",
+          "zhHant": "梅根",
+          "showRuby": true
+        },
+        {
+          "text": "妃",
+          "offsetMs": 1506.317,
+          "durationMs": 193.47199999999998,
+          "reading": "ひ",
+          "romaji": "hi",
+          "en": "princess; consort",
+          "zhHant": "王妃",
+          "showRuby": true
+        },
+        {
+          "text": "が",
+          "offsetMs": 1699.789,
+          "durationMs": 152.0139999999999,
+          "reading": "が",
+          "romaji": "ga",
+          "en": "subject marker",
+          "zhHant": "主語助詞",
+          "showRuby": false
+        },
+        {
+          "text": "イギリス",
+          "offsetMs": 1851.802,
+          "durationMs": 538.9570000000001,
+          "reading": "いぎりす",
+          "romaji": "igirisu",
+          "en": "United Kingdom; Britain",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "を",
+          "offsetMs": 2390.76,
+          "durationMs": 96.73599999999988,
+          "reading": "を",
+          "romaji": "o",
+          "en": "object marker",
+          "zhHant": "受詞助詞",
+          "showRuby": false
+        },
+        {
+          "text": "訪れる",
+          "offsetMs": 2487.496,
+          "durationMs": 635.6930000000002,
+          "reading": "おとずれる",
+          "romaji": "otozureru",
+          "en": "to visit; to call on",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "の",
+          "offsetMs": 3123.189,
+          "durationMs": 124.375,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "は",
+          "offsetMs": 3247.564,
+          "durationMs": 690.971,
+          "reading": "は",
+          "romaji": "wa",
+          "en": "topic marker",
+          "zhHant": "主題助詞",
+          "showRuby": false
+        },
+        {
+          "text": "2022年",
+          "offsetMs": 3938.535,
+          "durationMs": 1243.7479999999996,
+          "reading": "にせんにじゅうにねん",
+          "romaji": "nisennijuuninen",
+          "en": "2022 year",
+          "zhHant": "2022年",
+          "showRuby": true
+        },
+        {
+          "text": "の",
+          "offsetMs": 5182.283,
+          "durationMs": 165.83299999999963,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "エリザベス",
+          "offsetMs": 5348.116,
+          "durationMs": 690.9709999999995,
+          "reading": "えりざべす",
+          "romaji": "erizabesu",
+          "en": "Elizabeth",
+          "zhHant": "伊利沙伯",
+          "showRuby": true
+        },
+        {
+          "text": "女王",
+          "offsetMs": 6039.087,
+          "durationMs": 331.66600000000017,
+          "reading": "じょおう",
+          "romaji": "joou",
+          "en": "queen",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "の",
+          "offsetMs": 6370.753,
+          "durationMs": 165.83299999999963,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "葬儀",
+          "offsetMs": 6536.586,
+          "durationMs": 456.04100000000017,
+          "reading": "そうぎ",
+          "romaji": "sougi",
+          "en": "funeral",
+          "zhHant": "葬禮",
+          "showRuby": true
+        },
+        {
+          "text": "以来",
+          "offsetMs": 6992.627,
+          "durationMs": 331.66600000000017,
+          "reading": "いらい",
+          "romaji": "irai",
+          "en": "since; henceforth",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "の",
+          "offsetMs": 7324.293,
+          "durationMs": 124.375,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "こと",
+          "offsetMs": 7448.668,
+          "durationMs": 276.3879999999999,
+          "reading": "こと",
+          "romaji": "koto",
+          "en": "thing; nominalizer",
+          "zhHant": "事情；名詞化",
+          "showRuby": false
+        },
+        {
+          "text": "です",
+          "offsetMs": 7725.056,
+          "durationMs": 386.9440000000004,
+          "reading": "です",
+          "romaji": "desu",
+          "en": "is; polite copula",
+          "zhHant": "是；禮貌判斷詞",
+          "showRuby": false
+        }
+      ],
       "audio": {
         "file": "../audio/7594-prince-harry-family-returns-to-britain/KM-NEWS-7594-prince-harry-family-returns-to-britain-sentence-08-ja-Nanami.mp3",
         "voice": "ja-JP-NanamiNeural",
@@ -854,7 +2296,108 @@
       "speechJa": "しかし、きこくのけいび体制については議論があります。",
       "en": "However, there is debate about security arrangements for their return.",
       "zhHant": "不過，二人回國期間的保安安排仍引起討論。",
-      "tokens": [],
+      "tokens": [
+        {
+          "text": "しかし",
+          "offsetMs": 61.174,
+          "durationMs": 1009.363,
+          "reading": "しかし",
+          "romaji": "shikashi",
+          "en": "however; but",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        },
+        {
+          "text": "帰国",
+          "offsetMs": 1070.536,
+          "durationMs": 489.3879999999999,
+          "reading": "きこく",
+          "romaji": "kikoku",
+          "en": "return to one’s country",
+          "zhHant": "回國",
+          "showRuby": true
+        },
+        {
+          "text": "の",
+          "offsetMs": 1559.924,
+          "durationMs": 168.2270000000001,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "警備",
+          "offsetMs": 1728.151,
+          "durationMs": 443.50800000000004,
+          "reading": "けいび",
+          "romaji": "keibi",
+          "en": "security; protection",
+          "zhHant": "保安",
+          "showRuby": true
+        },
+        {
+          "text": "体制",
+          "offsetMs": 2171.659,
+          "durationMs": 474.0949999999998,
+          "reading": "たいせい",
+          "romaji": "taisei",
+          "en": "order; system",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "について",
+          "offsetMs": 2645.754,
+          "durationMs": 596.4420000000005,
+          "reading": "について",
+          "romaji": "nitsuite",
+          "en": "concerning; regarding",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        },
+        {
+          "text": "は",
+          "offsetMs": 3242.196,
+          "durationMs": 305.86799999999994,
+          "reading": "は",
+          "romaji": "wa",
+          "en": "topic marker",
+          "zhHant": "主題助詞",
+          "showRuby": false
+        },
+        {
+          "text": "議論",
+          "offsetMs": 3548.063,
+          "durationMs": 458.80099999999993,
+          "reading": "ぎろん",
+          "romaji": "giron",
+          "en": "argument; discussion",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "が",
+          "offsetMs": 4006.864,
+          "durationMs": 137.63999999999987,
+          "reading": "が",
+          "romaji": "ga",
+          "en": "subject marker",
+          "zhHant": "主語助詞",
+          "showRuby": false
+        },
+        {
+          "text": "あります",
+          "offsetMs": 4144.505,
+          "durationMs": 703.4949999999999,
+          "reading": "あります",
+          "romaji": "arimasu",
+          "en": "to be; to exist",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        }
+      ],
       "audio": {
         "file": "../audio/7594-prince-harry-family-returns-to-britain/KM-NEWS-7594-prince-harry-family-returns-to-britain-sentence-09-ja-Nanami.mp3",
         "voice": "ja-JP-NanamiNeural",
@@ -928,7 +2471,188 @@
       "speechJa": "ハリー王子は以前、けいびのレベルが引き下げられることに不満を持ち、そしょうを起こしました。",
       "en": "Harry previously challenged a reduction in his security protection through legal action.",
       "zhHant": "哈里早前因保安級別被調低而提出訴訟。",
-      "tokens": [],
+      "tokens": [
+        {
+          "text": "ハリー",
+          "offsetMs": 55.938,
+          "durationMs": 433.523,
+          "reading": "はりー",
+          "romaji": "harii",
+          "en": "Harry",
+          "zhHant": "哈里",
+          "showRuby": true
+        },
+        {
+          "text": "王子",
+          "offsetMs": 489.462,
+          "durationMs": 405.554,
+          "reading": "おうじ",
+          "romaji": "ouji",
+          "en": "prince",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "は",
+          "offsetMs": 895.015,
+          "durationMs": 251.72300000000007,
+          "reading": "は",
+          "romaji": "wa",
+          "en": "topic marker",
+          "zhHant": "主題助詞",
+          "showRuby": false
+        },
+        {
+          "text": "以前",
+          "offsetMs": 1146.738,
+          "durationMs": 629.308,
+          "reading": "いぜん",
+          "romaji": "izen",
+          "en": "ago; since",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "警備",
+          "offsetMs": 1776.046,
+          "durationMs": 377.5849999999998,
+          "reading": "けいび",
+          "romaji": "keibi",
+          "en": "security; protection",
+          "zhHant": "保安",
+          "showRuby": true
+        },
+        {
+          "text": "の",
+          "offsetMs": 2153.631,
+          "durationMs": 139.846,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "レベル",
+          "offsetMs": 2293.477,
+          "durationMs": 391.56899999999996,
+          "reading": "れべる",
+          "romaji": "reberu",
+          "en": "level; standard",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "が",
+          "offsetMs": 2685.046,
+          "durationMs": 181.80000000000018,
+          "reading": "が",
+          "romaji": "ga",
+          "en": "subject marker",
+          "zhHant": "主語助詞",
+          "showRuby": false
+        },
+        {
+          "text": "引き下げ",
+          "offsetMs": 2866.846,
+          "durationMs": 559.3849999999998,
+          "reading": "ひきさげ",
+          "romaji": "hikisage",
+          "en": "reduction; cut",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "られる",
+          "offsetMs": 3426.231,
+          "durationMs": 405.5529999999999,
+          "reading": "られる",
+          "romaji": "rareru",
+          "en": "indicates passive voice (incl. the \"suffering passive\")",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        },
+        {
+          "text": "こと",
+          "offsetMs": 3831.785,
+          "durationMs": 251.72299999999996,
+          "reading": "こと",
+          "romaji": "koto",
+          "en": "thing; nominalizer",
+          "zhHant": "事情；名詞化",
+          "showRuby": false
+        },
+        {
+          "text": "に",
+          "offsetMs": 4083.508,
+          "durationMs": 307.66200000000026,
+          "reading": "に",
+          "romaji": "ni",
+          "en": "to; at; in",
+          "zhHant": "向；在；於",
+          "showRuby": false
+        },
+        {
+          "text": "不満",
+          "offsetMs": 4391.169,
+          "durationMs": 447.5079999999998,
+          "reading": "ふまん",
+          "romaji": "fuman",
+          "en": "dissatisfaction; discontent",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "を",
+          "offsetMs": 4838.677,
+          "durationMs": 139.84599999999955,
+          "reading": "を",
+          "romaji": "o",
+          "en": "object marker",
+          "zhHant": "受詞助詞",
+          "showRuby": false
+        },
+        {
+          "text": "持ち",
+          "offsetMs": 4978.523,
+          "durationMs": 629.308,
+          "reading": "もち",
+          "romaji": "mochi",
+          "en": "having; holding",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "訴訟",
+          "offsetMs": 5607.831,
+          "durationMs": 475.47699999999986,
+          "reading": "そしょう",
+          "romaji": "soshou",
+          "en": "lawsuit",
+          "zhHant": "訴訟",
+          "showRuby": true
+        },
+        {
+          "text": "を",
+          "offsetMs": 6083.308,
+          "durationMs": 97.89199999999983,
+          "reading": "を",
+          "romaji": "o",
+          "en": "object marker",
+          "zhHant": "受詞助詞",
+          "showRuby": false
+        },
+        {
+          "text": "起こしました",
+          "offsetMs": 6181.2,
+          "durationMs": 1090.8000000000002,
+          "reading": "おこしました",
+          "romaji": "okoshimashita",
+          "en": "to raise; to raise up",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        }
+      ],
       "audio": {
         "file": "../audio/7594-prince-harry-family-returns-to-britain/KM-NEWS-7594-prince-harry-family-returns-to-britain-sentence-10-ja-Nanami.mp3",
         "voice": "ja-JP-NanamiNeural",
@@ -1034,7 +2758,268 @@
       "speechJa": "彼と家族のあんぜんかくほのための措置は不明ですが、えいないむしょうは王室のけいびが厳格かつ適切であると述べています。",
       "en": "The measures for keeping the family safe are unclear, but the Home Office says royal security is strict and appropriate.",
       "zhHant": "目前未知保障一家人安全的具體措施；英國內政部則表示，王室保安安排嚴格而且恰當。",
-      "tokens": [],
+      "tokens": [
+        {
+          "text": "彼",
+          "offsetMs": 55.543,
+          "durationMs": 319.371,
+          "reading": "かれ",
+          "romaji": "kare",
+          "en": "that; that thing",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "と",
+          "offsetMs": 374.914,
+          "durationMs": 222.17100000000005,
+          "reading": "と",
+          "romaji": "to",
+          "en": "and; with; that",
+          "zhHant": "和；與；表示引用",
+          "showRuby": false
+        },
+        {
+          "text": "家族",
+          "offsetMs": 597.086,
+          "durationMs": 444.3430000000001,
+          "reading": "かぞく",
+          "romaji": "kazoku",
+          "en": "family; members of a family",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "の",
+          "offsetMs": 1041.429,
+          "durationMs": 111.08600000000001,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "安全",
+          "offsetMs": 1152.514,
+          "durationMs": 541.5429999999999,
+          "reading": "あんぜん",
+          "romaji": "anzen",
+          "en": "safety; security",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "確保",
+          "offsetMs": 1694.057,
+          "durationMs": 402.6859999999999,
+          "reading": "かくほ",
+          "romaji": "kakuho",
+          "en": "securing; obtaining",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "の",
+          "offsetMs": 2096.743,
+          "durationMs": 152.74299999999994,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "ため",
+          "offsetMs": 2249.486,
+          "durationMs": 249.9430000000002,
+          "reading": "ため",
+          "romaji": "tame",
+          "en": "for; because of",
+          "zhHant": "為了；由於",
+          "showRuby": false
+        },
+        {
+          "text": "の",
+          "offsetMs": 2499.429,
+          "durationMs": 152.74299999999994,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "措置",
+          "offsetMs": 2652.171,
+          "durationMs": 333.25700000000006,
+          "reading": "そち",
+          "romaji": "sochi",
+          "en": "measure; step",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "は",
+          "offsetMs": 2985.429,
+          "durationMs": 222.17099999999982,
+          "reading": "は",
+          "romaji": "wa",
+          "en": "topic marker",
+          "zhHant": "主題助詞",
+          "showRuby": false
+        },
+        {
+          "text": "不明",
+          "offsetMs": 3207.6,
+          "durationMs": 388.8000000000002,
+          "reading": "ふめい",
+          "romaji": "fumei",
+          "en": "unclear; obscure",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "です",
+          "offsetMs": 3596.4,
+          "durationMs": 263.8290000000002,
+          "reading": "です",
+          "romaji": "desu",
+          "en": "is; polite copula",
+          "zhHant": "是；禮貌判斷詞",
+          "showRuby": false
+        },
+        {
+          "text": "が",
+          "offsetMs": 3860.229,
+          "durationMs": 652.6290000000004,
+          "reading": "が",
+          "romaji": "ga",
+          "en": "subject marker",
+          "zhHant": "主語助詞",
+          "showRuby": false
+        },
+        {
+          "text": "英",
+          "offsetMs": 4512.857,
+          "durationMs": 236.0569999999998,
+          "reading": "えい",
+          "romaji": "ei",
+          "en": "calyx; corolla",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "内務省",
+          "offsetMs": 4748.914,
+          "durationMs": 624.857,
+          "reading": "ないむしょう",
+          "romaji": "naimushou",
+          "en": "Home Ministry; Department of the Interior (US, etc.)",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "は",
+          "offsetMs": 5373.771,
+          "durationMs": 291.60000000000036,
+          "reading": "は",
+          "romaji": "wa",
+          "en": "topic marker",
+          "zhHant": "主題助詞",
+          "showRuby": false
+        },
+        {
+          "text": "王室",
+          "offsetMs": 5665.371,
+          "durationMs": 486.0,
+          "reading": "おうしつ",
+          "romaji": "oushitsu",
+          "en": "royal family",
+          "zhHant": "王室",
+          "showRuby": true
+        },
+        {
+          "text": "の",
+          "offsetMs": 6151.371,
+          "durationMs": 138.85699999999997,
+          "reading": "の",
+          "romaji": "no",
+          "en": "of; possessive marker",
+          "zhHant": "的；所有格助詞",
+          "showRuby": false
+        },
+        {
+          "text": "警備",
+          "offsetMs": 6290.229,
+          "durationMs": 402.6859999999997,
+          "reading": "けいび",
+          "romaji": "keibi",
+          "en": "security; protection",
+          "zhHant": "保安",
+          "showRuby": true
+        },
+        {
+          "text": "が",
+          "offsetMs": 6692.914,
+          "durationMs": 208.28600000000006,
+          "reading": "が",
+          "romaji": "ga",
+          "en": "subject marker",
+          "zhHant": "主語助詞",
+          "showRuby": false
+        },
+        {
+          "text": "厳格",
+          "offsetMs": 6901.2,
+          "durationMs": 583.1999999999998,
+          "reading": "げんかく",
+          "romaji": "genkaku",
+          "en": "strict; severe",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "かつ",
+          "offsetMs": 7484.4,
+          "durationMs": 305.4859999999999,
+          "reading": "かつ",
+          "romaji": "katsu",
+          "en": "and; moreover",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": false
+        },
+        {
+          "text": "適切",
+          "offsetMs": 7789.886,
+          "durationMs": 513.7710000000006,
+          "reading": "てきせつ",
+          "romaji": "tekisetsu",
+          "en": "appropriate; suitable",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        },
+        {
+          "text": "であると",
+          "offsetMs": 8303.657,
+          "durationMs": 499.8860000000004,
+          "reading": "であると",
+          "romaji": "dearuto",
+          "en": "is; that",
+          "zhHant": "是；表示引用",
+          "showRuby": false
+        },
+        {
+          "text": "述べています",
+          "offsetMs": 8803.543,
+          "durationMs": 916.4570000000003,
+          "reading": "のべています",
+          "romaji": "nobeteimasu",
+          "en": "to state; to express",
+          "zhHant": "參閱句子翻譯",
+          "showRuby": true
+        }
+      ],
       "audio": {
         "file": "../audio/7594-prince-harry-family-returns-to-britain/KM-NEWS-7594-prince-harry-family-returns-to-britain-sentence-11-ja-Nanami.mp3",
         "voice": "ja-JP-NanamiNeural",
