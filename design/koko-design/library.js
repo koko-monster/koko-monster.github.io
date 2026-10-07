@@ -36,6 +36,24 @@
     ['KM-SCN-NEWS-014', 'malacca-aircraft-carrier', 'Malacca Strait carrier passage', 'Easy News · Yauyau and Rabbit', '1kfYo5khX8OJRqz76BDAPMG1lQ-Uxe4kN']
   ];
 
+  const newsBodyScenes = [
+    ['KM-SCN-NEWS-015', 'royal-letter-newsroom', 'Royal letter newsroom', 'Easy News body art · newsroom follow-up', '18sy4n_rphOjGh0IjGyYYLgQxA_NM8BTU'],
+    ['KM-SCN-NEWS-016', 'royal-status-explainer', 'Royal status explainer', 'Easy News body art · constitutional explainer', '1l7PrwPfHF8CiP_MDZ7TdX9yHtVbt3Sox'],
+    ['KM-SCN-NEWS-017', 'sumo-yokozuna-storyboard', 'Yokozuna promotion storyboard', 'Easy News body art · two supporting scenes', '1tu4i0N6Y8uoJppisdI1_w-IeBGtx0Zuy'],
+    ['KM-SCN-NEWS-018', 'suica-mascot-storyboard', 'Suica mascot storyboard', 'Easy News body art · two supporting scenes', '1eEGrisIZONOEwAMhjS0Twb-UoJ_38gB-'],
+    ['KM-SCN-NEWS-019', 'aomori-earthquake-storyboard', 'Aomori earthquake storyboard', 'Easy News body art · two supporting scenes', '1OzE5SVMuNe_pxCgFO4zV-PKE-C9ze6w8'],
+    ['KM-SCN-NEWS-020', 'un-world-map-storyboard', 'New world map storyboard', 'Easy News body art · two supporting scenes', '1e11BT9m1w9yAZvuvSG50unFIGq2zjZNx'],
+    ['KM-SCN-NEWS-021', 'nepal-china-landslide-storyboard', 'Nepal–China landslide storyboard', 'Easy News body art · two supporting scenes', '17J9nH3EAqKapERkZfv04Q84pxu244rMh'],
+    ['KM-SCN-NEWS-022', 'ukraine-response-storyboard', 'Ukraine response storyboard', 'Easy News body art · two supporting scenes', '1DKgoNfILsspDTFuvlgVhe5CkcYJDBJvQ'],
+    ['KM-SCN-NEWS-023', 'nepal-tibet-landslide-storyboard', 'Nepal–Tibet landslide storyboard', 'Easy News body art · two supporting scenes', '1dshoxt3WfMYbUKr-J6-KlHOr3dBhV4Jc'],
+    ['KM-SCN-NEWS-024', 'border-flash-flood-storyboard', 'Border flash-flood storyboard', 'Easy News body art · two supporting scenes', '1WIJ5qShNt-gB80Fn09VpRJWQwbpkNCM1'],
+    ['KM-SCN-NEWS-025', 'royal-return-storyboard', 'Royal return storyboard', 'Easy News body art · two supporting scenes', '1RVjf_UvEuMTK3jpTN8ENnVaQ2LSe1IK0'],
+    ['KM-SCN-NEWS-026', 'iran-women-storyboard', 'Women’s choice in Iran storyboard', 'Easy News body art · two supporting scenes', '1NvEcLVttiruvDBm66IdFkFOqtUHaaKcA'],
+    ['KM-SCN-NEWS-027', 'canada-us-trade-storyboard', 'Canada–US trade storyboard', 'Easy News body art · two supporting scenes', '1DafEEcSB-JKyRK8_AUQolIuj_8UFWwkW'],
+    ['KM-SCN-NEWS-028', 'west-bank-housing-storyboard', 'West Bank housing storyboard', 'Easy News body art · two supporting scenes', '1sHc9XDdPw1yoRyt6LbPw_SdSyCvzzBcQ'],
+    ['KM-SCN-NEWS-029', 'malacca-carrier-storyboard', 'Malacca carrier storyboard', 'Easy News body art · two supporting scenes', '1lU9E7dt6KQ2LOmLW1PoY5I5TEhSovmWZ']
+  ];
+
   if (location.pathname.endsWith('/asset/index.html')) {
     const filterBar = document.querySelector('.filters');
     if (filterBar && !filterBar.querySelector('[data-filter="News scenes"]')) {
@@ -50,7 +68,7 @@
     const originalRoot = new URL('asset/news-scenes/', scriptBase).href;
     const thumbnailRoot = new URL('thumbs/asset/news-scenes/', scriptBase).href;
     const newsCards = document.createDocumentFragment();
-    for (const [id, slug, title, description, driveId] of newsScenes) {
+    for (const [id, slug, title, description, driveId] of [...newsBodyScenes, ...newsScenes]) {
       const card = document.createElement('article');
       const thumbnail = `${thumbnailRoot}${id}-${slug}.jpg`;
       const original = `${originalRoot}${id}-${slug}.png`;
