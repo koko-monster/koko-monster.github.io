@@ -121,7 +121,9 @@
   const updateLead=card=>{
     if(!card||!leadCard)return;
     currentFeatured=card;
-    const leadLink=$('[data-lead-link]',leadCard);if(leadLink&&storyRoutes[card.dataset.storyId])leadLink.href=storyRoutes[card.dataset.storyId];
+    const route=storyRoutes[card.dataset.storyId];
+    const leadLink=$('[data-lead-link]',leadCard);if(leadLink&&route)leadLink.href=route;
+    const leadCta=$('[data-lead-cta]',leadCard);if(leadCta&&route)leadCta.href=route;
     leadCard.dataset.storyId=card.dataset.storyId;leadCard.dataset.topic=card.dataset.topic;leadCard.dataset.level=card.dataset.level;
     const image=$('[data-lead-image]',leadCard);if(image){image.src=card.dataset.image;image.alt=languageCode==='zh'?'新聞封面插圖':card.dataset.alt||'';}
     const badge=$('[data-lead-badge]',leadCard);if(badge)badge.textContent=t(`TOP STORY · ${topicName(card.dataset.topic).toUpperCase()}`,`精選新聞 · ${topicName(card.dataset.topic)}`);
