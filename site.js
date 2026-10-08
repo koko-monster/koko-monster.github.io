@@ -358,7 +358,7 @@ const makeLandingAudio=file=>{
   document.body.append(audio);
   return audio;
 };
-const createLandingAudioPlayer=({button,file,tokens,activeClass='is-reading',speedButton=null})=>{
+const createLandingAudioPlayer=({button,file,tokens,activeClass='is-reading',speedButton=null,metadata=null})=>{
   if(!button||!tokens.length)return null;
   const audio=makeLandingAudio(file);
   audio.playbackRate=1;audio.preservesPitch=true;
@@ -376,8 +376,10 @@ const createLandingAudioPlayer=({button,file,tokens,activeClass='is-reading',spe
       activeHeroToken=tokens[index];updateHeroWordDetail(activeHeroToken);
     }
   };
-  const stop=(reset=true)=>{audio.pause();if(reset)audio.currentTime=0;playing=false;clearHighlight();setButtonState(false);};
-  const play=async()=>{stopLandingAudio(api);audio.playbackRate=rate;playing=true;setButtonState(true);highlightAt(audio.currentTime);try{await audio.play();}catch(error){stop();button.setAttribute('aria-label','Narration is being prepared');}};
+  const setMediaState=state=>{if('mediaSession' in navigator)navigator.mediaSession.playbackState=state;};
+  const setMetadata=()=>{if(!metadata||!('mediaSession' in navigator)||!('MediaMetadata' in window))return;navigator.mediaSession.metadata=new MediaMetadata({...metadata,artwork:(metadata.artwork||[]).map(item=>({...item,src:new URL(item.src,document.baseURI).href}))});};
+  const stop=(reset=true)=>{audio.pause();if(reset)audio.currentTime=0;playing=false;clearHighlight();setButtonState(false);setMediaState('paused');};
+  const play=async()=>{stopLandingAudio(api);setMetadata();if('mediaSession' in navigator){try{navigator.mediaSession.setActionHandler('play',play);navigator.mediaSession.setActionHandler('pause',()=>stop(false));}catch(error){}}audio.playbackRate=rate;playing=true;setButtonState(true);setMediaState('playing');highlightAt(audio.currentTime);try{await audio.play();}catch(error){stop();button.setAttribute('aria-label','Narration is being prepared');}};
   const toggle=()=>{if(playing){stop(false);return;}play();};
   const api={audio,stop,play,toggle};landingAudioPlayers.push(api);
   button.addEventListener('click',event=>{event.preventDefault();event.stopImmediatePropagation();toggle();},{capture:true});
@@ -393,7 +395,7 @@ const createLandingAudioPlayer=({button,file,tokens,activeClass='is-reading',spe
 createLandingAudioPlayer({button:storyHeroPlay,file:'nanami-fireworks.mp3',tokens:storyHeroTokens,activeClass:'speaking'});
 createLandingAudioPlayer({button:$('[data-hero-narrate]',heroReader),file:'nanami-fireworks.mp3',tokens:heroTokens,activeClass:'speaking',speedButton:$('[data-hero-speed]',heroReader)});
 createLandingAudioPlayer({button:$('[data-story-book-play]'),file:'nanami-snow-maiden.mp3',tokens:$$('.story-path--book .story-book-karaoke-token')});
-createLandingAudioPlayer({button:$('[data-news-reader-play]'),file:'nanami-yokozuna.mp3',tokens:$$('.story-news-reader .story-news-karaoke-token')});
+createLandingAudioPlayer({button:$('[data-news-reader-play]'),file:'nanami-yokozuna.mp3',tokens:$$('.story-news-reader .story-news-karaoke-token'),metadata:{title:'大の里、横綱になる',artist:'Kokomonster Easy News',album:'N4 · Sports',artwork:[{src:'assets/news-media/9991-onosato-promoted-to-yokozuna-512.jpg',sizes:'512x512',type:'image/jpeg'}]}});
 createLandingAudioPlayer({button:$('[data-book-app-play]'),file:'nanami-snow-maiden.mp3',tokens:$$('.story-book-app__reader-copy .story-book-app-karaoke-token')});
 
 const vocabularyAudioFiles={nihon:'nanami-word-nihon.mp3','natsu-no-yoru':'nanami-word-natsu-no-yoru.mp3',sora:'nanami-word-sora.mp3',hanabi:'nanami-word-hanabi.mp3',hirogarimasu:'nanami-word-hirogarimasu.mp3',inori:'nanami-word-inori.mp3',yokozuna:'nanami-word-yokozuna.mp3'};

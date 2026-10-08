@@ -61,6 +61,11 @@
     const article=await fetch(`${root}${entry.dataFile}?${cache}`).then(response=>{if(!response.ok)throw new Error(`Article ${response.status}`);return response.json();});
     document.body.dataset.storyId=String(article.id);
     document.title=`${article.title.ja} — Kokomonster Easy News`;
+    window.kkmReaderArticle=article;
+    if('mediaSession' in navigator&&'MediaMetadata' in window){
+      const artwork=new URL(`/assets/news-media/${article.id}-${article.slug}-512.jpg`,document.baseURI).href;
+      navigator.mediaSession.metadata=new MediaMetadata({title:article.title.ja,artist:'Kokomonster Easy News',album:`${article.level} · ${article.category.en}`,artwork:[{src:artwork,sizes:'512x512',type:'image/jpeg'}]});
+    }
     const hero=document.querySelector('.reader-hero .news-shell');
     if(hero)hero.innerHTML=`<a class="reader-back" href="/news.html">← Back to Easy News</a><div class="reader-hero__meta"><span>${esc(article.category.key.toUpperCase())}</span><span>${esc(article.level)}</span><time>${esc(new Date(`${article.date}T00:00:00`).toLocaleDateString('en-GB',{day:'2-digit',month:'short',year:'numeric'}).toUpperCase())}</time></div><h1 lang="ja">${esc(article.title.ja)}</h1><p data-reader-title-en>${esc(article.title.en)}</p><p data-reader-title-zh lang="zh-Hant" hidden>${esc(article.title.zhHant)}</p><figure><img src="${esc(assetPath(article.cover.file,''))}" alt="Kokomonster illustrated cover for ${esc(article.title.en)}"></figure>`;
     const toolbar=document.querySelector('.reader-toolbar>div:first-child strong');
