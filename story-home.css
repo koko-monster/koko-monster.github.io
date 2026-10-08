@@ -1171,6 +1171,139 @@ html[lang="zh-Hant"] .story-all-access__plan-copy h3 { line-height: 1.05; }
 .story-book-app__steps h3 { justify-items: start; text-align: left; }
 .story-book-app__steps h3 span { margin-left: 0; text-align: left; }
 
+/* Landing reader refinements: selectable vocabulary and resilient compact demos. */
+.hero-reader .hero-token.is-selected {
+  background: var(--story-lime);
+  color: var(--story-ink);
+}
+.hero-reader .hero-token.is-selected rt { color: #8f5b00; }
+
+.story-path--book .story-book-moment,
+.story-path--chat .story-chat-moment {
+  height: 310px;
+  min-height: 310px;
+  overflow: hidden;
+}
+.story-path--book .story-book-moment {
+  height: 350px;
+  min-height: 350px;
+}
+.story-path--chat .story-chat-moment {
+  height: 335px;
+  min-height: 335px;
+}
+.story-path--book .story-book-moment {
+  display: flex;
+  flex-direction: column;
+}
+.story-path--book .story-book-moment__product {
+  flex: 1 1 auto;
+  grid-template-columns: minmax(0, .9fr) minmax(0, 1.1fr);
+  min-height: 0;
+  overflow: hidden;
+}
+.story-path--book .story-book-moment__cover,
+.story-path--book .story-book-moment__reader {
+  height: 100%;
+  min-height: 205px;
+}
+.story-path--book .story-book-moment__cover {
+  border-radius: 8px 0 0 8px;
+  transform: none;
+}
+.story-path--book .story-book-moment__cover img {
+  object-position: 62% 38%;
+  transform: none;
+  width: 100%;
+}
+.story-path--book .story-book-moment__reader {
+  border-radius: 0 8px 8px 0;
+  overflow: hidden;
+  padding: 12px;
+}
+.story-path--book .story-book-moment__passage {
+  font-size: clamp(10px, .83vw, 13px) !important;
+  line-height: 1.58 !important;
+  overflow-wrap: anywhere;
+}
+.story-path--book .story-book-moment__reader > small {
+  font-size: clamp(7px, .62vw, 10px);
+  line-height: 1.35;
+  padding-top: 8px;
+}
+
+.story-chat-moment__thread {
+  align-content: start;
+  display: flex;
+  flex-direction: column;
+  gap: 9px;
+  height: auto;
+  min-height: 275px;
+  padding: 13px;
+}
+.story-chat-moment__assistant--followup { display: flex; }
+.story-chat-moment__user--followup { display: block; }
+.story-chat-moment__assistant { align-items: center; }
+.story-chat-moment__assistant p,
+.story-chat-moment__user {
+  font-size: clamp(13px, 1.05vw, 15px);
+  line-height: 1.4;
+  max-width: 82%;
+  padding: 8px 11px;
+}
+.story-chat-moment__assistant small { font-size: 8px; margin-top: 3px; }
+.story-chat-moment__avatar { flex-basis: 34px; height: 34px; width: 34px; }
+.story-news-feature__copy > h3 ruby { ruby-position: over; }
+.story-news-feature__copy > h3 rt { color: #a36400; font-size: .36em; font-weight: 900; letter-spacing: .04em; }
+.story-news-feature__copy > h3 mark rt { color: #8f5b00; }
+
+@media (min-width: 901px) {
+  .story-path--book .story-book-moment__reader > small { font-size: 8px; line-height: 1.35; }
+}
+
+@media (min-width: 601px) and (max-width: 900px) {
+  .story-book-moment { padding: 12px; }
+  .story-book-moment__product { gap: 10px; grid-template-columns: minmax(0,.9fr) minmax(0,1.1fr); }
+  .story-book-moment__reader { padding: 10px; }
+  .story-book-moment__tools { gap: 3px; margin-bottom: 6px; }
+  .story-book-moment__tools b,
+  .story-book-moment__tools button { flex-basis: 30px; font-size: 10px; height: 30px; min-height: 30px; min-width: 30px; width: 30px; }
+  .story-book-moment__tools .reader-language-toggle { width: 34px; }
+  .story-path--book .story-book-moment__passage { font-size: 15px !important; line-height: 1.52 !important; }
+  .story-path--book .story-book-moment__reader > small { font-size: 10px; line-height: 1.35; }
+}
+
+@container (min-width: 460px) {
+  .story-path--book .story-book-moment__passage { font-size: 17px !important; line-height: 1.55 !important; }
+  .story-path--book .story-book-moment__reader > small { font-size: 11px; line-height: 1.4; }
+}
+
+@container (max-width: 390px) {
+  .story-path--book .story-book-moment__product {
+    gap: 6px;
+    grid-template-columns: minmax(0, .78fr) minmax(0, 1.22fr);
+  }
+  .story-path--book .story-book-moment__cover { border-radius: 7px 0 0 7px; }
+  .story-path--book .story-book-moment__reader {
+    border-radius: 0 7px 7px 0;
+    min-height: 205px;
+    padding: 7px;
+  }
+  .story-book-moment__tools { gap: 3px; margin-bottom: 6px; }
+  .story-book-moment__tools b,
+  .story-book-moment__tools button {
+    flex-basis: 23px;
+    font-size: 8px;
+    height: 23px;
+    min-height: 23px;
+    min-width: 23px;
+    width: 23px;
+  }
+  .story-book-moment__tools .reader-language-toggle { width: 27px; }
+  .story-path--book .story-book-moment__passage { font-size: 8.5px !important; line-height: 1.48 !important; }
+  .story-path--book .story-book-moment__reader > small { font-size: 6.5px; line-height: 1.25; }
+}
+
 @media (max-width: 600px) {
   .story-moment .hero-reader { min-height: 760px; }
   .story-moment .hero-reader__article,
@@ -1208,4 +1341,251 @@ html[lang="zh-Hant"] .story-all-access__plan-copy h3 { line-height: 1.05; }
   .story-guided-chat__reply div { min-width: 0; }
   .story-guided-chat__reply p { overflow-wrap: anywhere; }
   .story-guided-chat__message { max-width: 86%; }
+}
+
+/* Snow Maiden demo: one content-driven composition at every card width. */
+.story-path--book .story-book-moment {
+  height: auto;
+  min-height: 0;
+  overflow: visible;
+}
+.story-path--book .story-book-moment__product {
+  align-items: stretch;
+  gap: clamp(6px, 1.5cqi, 12px);
+  grid-template-columns: minmax(0, .88fr) minmax(0, 1.12fr);
+  min-height: clamp(280px, 62cqi, 520px);
+  overflow: visible;
+}
+.story-path--book .story-book-moment__cover,
+.story-path--book .story-book-moment__reader {
+  height: auto;
+  min-height: 0;
+}
+.story-path--book .story-book-moment__cover {
+  aspect-ratio: auto;
+  background: #83bdd9;
+  border-radius: 8px 0 0 8px;
+  max-width: 100%;
+  min-width: 0;
+  width: auto;
+}
+.story-path--book .story-book-moment__cover img {
+  height: 100%;
+  object-fit: cover;
+  object-position: 60% 45%;
+  transform: none;
+  width: 100%;
+}
+.story-path--book .story-book-moment__reader {
+  border-radius: 0 8px 8px 0;
+  box-sizing: border-box;
+  overflow: hidden;
+  padding: clamp(7px, 1.8cqi, 16px);
+}
+.story-path--book .story-book-moment__tools {
+  flex: 0 0 auto;
+  gap: clamp(3px, .7cqi, 7px);
+  margin-bottom: clamp(8px, 1.5cqi, 15px);
+  white-space: nowrap;
+}
+.story-path--book .story-book-moment__tools b,
+.story-path--book .story-book-moment__tools button,
+.story-path--book .story-book-moment__tools .reader-language-toggle {
+  flex: 0 0 clamp(25px, 5.7cqi, 48px);
+  font-size: clamp(8px, 1.8cqi, 15px);
+  height: clamp(25px, 5.7cqi, 48px);
+  min-height: clamp(25px, 5.7cqi, 48px);
+  min-width: clamp(25px, 5.7cqi, 48px);
+  width: clamp(25px, 5.7cqi, 48px);
+}
+.story-path--book .story-book-moment__passage {
+  flex: 0 0 auto;
+  font-size: clamp(14px, 3.15cqi, 23px) !important;
+  line-height: 1.52 !important;
+  max-height: none;
+  overflow: visible;
+}
+.story-path--book .story-book-moment__reader > small {
+  display: block;
+  flex: 0 0 auto;
+  font-size: clamp(10px, 1.8cqi, 14px);
+  line-height: 1.42;
+  margin-top: auto;
+  padding-top: clamp(10px, 2cqi, 18px);
+}
+
+/* Compact path cards: preserve every demo while removing scroll-only space. */
+.story-path-grid {
+  align-items: start;
+  margin-top: 108px;
+}
+.story-path,
+.story-path--chat {
+  align-self: start;
+  padding: 22px;
+}
+.story-path__character-slot {
+  height: 132px;
+  margin: -82px 0 8px;
+}
+.story-path__character,
+.story-path--news .story-path__character,
+.story-path--book .story-path__character { width: 152px; }
+.story-path--chat .story-path__character { width: 162px; }
+.story-path--news .story-word-moment,
+.story-path--book .story-book-moment,
+.story-path--chat .story-chat-moment { margin-top: 16px; }
+.story-path__summary,
+.story-path--news .story-path__summary,
+.story-path--book .story-path__summary,
+.story-path--chat .story-path__summary { margin-top: 14px; }
+.story-path__action { margin-top: 14px; }
+.story-path--chat .story-chat-moment {
+  height: auto;
+  min-height: 0;
+  overflow: visible;
+}
+.story-chat-moment__thread {
+  height: auto;
+  min-height: 220px;
+}
+.story-chat-status {
+  margin-top: 10px;
+  min-height: 48px;
+  padding: 6px 10px;
+}
+.story-path .story-chat-guide {
+  flex-basis: 38px;
+  height: 38px;
+  width: 38px;
+}
+.story-path .story-chat-guide img { height: 38px; width: 38px; }
+
+@media (min-width: 900px) {
+  .story-path-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    margin-top: 108px;
+    row-gap: var(--component-gap);
+  }
+  .story-path--chat {
+    grid-column: auto;
+    justify-self: stretch;
+    width: auto;
+  }
+  .story-path--news .story-word-moment,
+  .story-path--book .story-book-moment,
+  .story-path--chat .story-chat-moment { max-width: none; }
+}
+
+@media (min-width: 700px) and (max-width: 899px) {
+  .story-path-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    margin-top: 102px;
+    row-gap: 82px;
+  }
+  .story-path--chat {
+    grid-column: 1 / -1;
+    justify-self: stretch;
+    width: 100%;
+  }
+  .story-path--chat .story-chat-moment { max-width: none; }
+}
+
+@media (max-width: 699px) {
+  .story-path-grid {
+    grid-template-columns: minmax(0, 1fr);
+    margin-top: 92px;
+    row-gap: 56px;
+  }
+  .story-path,
+  .story-path--chat { padding: 20px; }
+  .story-path__character-slot {
+    height: 120px;
+    margin: -70px 0 6px;
+  }
+}
+
+@container (max-width: 330px) {
+  .story-path--book .story-book-moment__product {
+    grid-template-columns: minmax(0, 1fr);
+    min-height: 0;
+  }
+  .story-path--book .story-book-moment__cover {
+    border-radius: 8px 8px 0 0;
+    height: clamp(120px, 45cqi, 150px);
+  }
+  .story-path--book .story-book-moment__reader {
+    border-radius: 0 0 8px 8px;
+    min-height: 0;
+  }
+}
+
+/* Balanced learning-path cards: equal rows, protected mascots, and deliberate crops. */
+.story-path,
+.story-path--chat {
+  padding: 24px 24px 28px;
+}
+.story-path__character-slot {
+  height: 142px;
+  margin: -78px 0 12px;
+}
+.story-path__character,
+.story-path--news .story-path__character,
+.story-path--book .story-path__character,
+.story-path--chat .story-path__character {
+  bottom: 16px;
+  height: 142px;
+  max-width: 72%;
+  object-fit: contain;
+  object-position: center bottom;
+  top: auto;
+  width: auto;
+}
+.story-path--book .story-path__character { left: 34px; }
+.story-path__summary,
+.story-path--news .story-path__summary,
+.story-path--book .story-path__summary,
+.story-path--chat .story-path__summary { margin-top: 16px; }
+.story-path__action {
+  margin-top: 18px;
+}
+.story-path--book .story-book-moment__cover img {
+  object-position: 55% 24%;
+}
+
+@media (min-width: 900px) {
+  .story-path-grid { align-items: stretch; }
+  .story-path,
+  .story-path--chat { align-self: stretch; }
+  .story-path__action { margin-top: auto; }
+}
+
+@media (max-width: 899px) {
+  .story-path,
+  .story-path--chat { padding-bottom: 30px; }
+}
+
+@media (min-width: 700px) and (max-width: 899px) {
+  .story-path-grid { align-items: stretch; }
+  .story-path,
+  .story-path--chat { align-self: stretch; }
+  .story-path__action { margin-top: auto; }
+}
+
+@container (max-width: 390px) {
+  .story-path--book .story-book-moment__product {
+    grid-template-columns: minmax(0, 1fr);
+    min-height: 0;
+  }
+  .story-path--book .story-book-moment__cover {
+    border-radius: 8px 8px 0 0;
+    height: clamp(155px, 52cqi, 210px);
+  }
+  .story-path--book .story-book-moment__cover img {
+    object-position: 50% 18%;
+  }
+  .story-path--book .story-book-moment__reader {
+    border-radius: 0 0 8px 8px;
+    min-height: 0;
+  }
 }

@@ -1,6 +1,38 @@
 const $=(selector,root=document)=>root?.querySelector(selector)??null;
 const $$=(selector,root=document)=>root?[...root.querySelectorAll(selector)]:[];
 
+// Keep landing-page destinations canonical even when the static preview is
+// opened with a query string or from a nested URL.
+if(document.body.dataset.page==='home'){
+  const setHref=(selector,href)=>{const link=$(selector);if(link)link.href=href;};
+  $$('a[href="test.html"]').forEach(link=>{link.href='/level';});
+  $$('a[href="news.html"]').forEach(link=>{link.href='/news.html';});
+  $$('a[href="story.html"]').forEach(link=>{link.href='/book';});
+  $$('a[href="chat.html"]').forEach(link=>{link.href='/chat';});
+  setHref('.main-nav a:nth-child(1)','/news.html');
+  setHref('.main-nav a:nth-child(2)','/book');
+  setHref('.main-nav a:nth-child(3)','/chat');
+  setHref('.story-path--news .story-path__action','/news.html#stories');
+  setHref('.story-path--book .story-path__action','/book');
+  setHref('.story-path--chat .story-path__action','/chat');
+  setHref('.story-news-preview__action','/ja/news/Sports/onosato-promoted-to-yokozuna-9991/');
+  setHref('.story-news-item--sushi > a','/ja/news/Business/suica-mascot-public-vote-9992/');
+  setHref('.story-news-item--festival > a','/ja/news/Environment/aomori-earthquake-magnitude-7-5-9993/');
+  setHref('.story-news-preview__all','/news.html#stories');
+  setHref('.story-book-app__action','/book');
+  setHref('.story-guided-chat__action','/chat');
+  const makeLinkedArea=(area,link)=>{
+    if(!area||!link)return;
+    area.tabIndex=0;area.setAttribute('role','link');area.style.cursor='pointer';
+    const open=()=>window.location.assign(link.href);
+    area.addEventListener('click',event=>{if(!event.target.closest('a,button,[role="button"]'))open();});
+    area.addEventListener('keydown',event=>{if(event.key==='Enter'){event.preventDefault();open();}});
+  };
+  makeLinkedArea($('.story-news-feature__image'),$('.story-news-preview__action'));
+  makeLinkedArea($('.story-news-item--sushi'),$('.story-news-item--sushi > a'));
+  makeLinkedArea($('.story-news-item--festival'),$('.story-news-item--festival > a'));
+}
+
 const menuButton=$('.menu-button');
 const mainNavigation=$('.main-nav');
 const setMenuOpen=open=>{
@@ -16,9 +48,9 @@ document.addEventListener('keydown',event=>{if(event.key==='Escape'&&document.bo
 document.addEventListener('click',event=>{if(!document.body.classList.contains('menu-open')||event.target.closest('.site-header'))return;setMenuOpen(false);});
 
 const pathContent={
-  today:{title:'Read one story from today’s Japan',copy:'Choose your level, read once, then practise three expressions in a five-minute chat with ご飯子.',meta:['7–10 minutes','Furigana and translation optional','Moves directly into practice'],href:'news.html',cta:'Open News',image:'assets/koko-newsroom.png'},
-  culture:{title:'Enter a story through a subject you love',copy:'Start with a chapter about art, food or craft, then use its language in an interactive reading session.',meta:['Print + digital together','Narration and cultural notes','N4 through N2+'],href:'story.html',cta:'Browse Stories',image:'assets/koko-stories.png'},
-  speak:{title:'Have one useful, low-pressure conversation',copy:'Pick a theme, borrow a starter when you need one and receive concise corrections without breaking the flow.',meta:['Voice or text','Level-aware support','Chapter-linked topics'],href:'chat.html',cta:'Start Chat',image:'assets/koko-chat-world.png'}
+  today:{title:'Read one story from today’s Japan',copy:'Choose your level, read once, then practise three expressions in a five-minute chat with ご飯子.',meta:['7–10 minutes','Furigana and translation optional','Moves directly into practice'],href:'/news.html',cta:'Open News',image:'assets/koko-newsroom.png'},
+  culture:{title:'Enter a story through a subject you love',copy:'Start with a chapter about art, food or craft, then use its language in an interactive reading session.',meta:['Print + digital together','Narration and cultural notes','N4 through N2+'],href:'/book',cta:'Browse Stories',image:'assets/koko-stories.png'},
+  speak:{title:'Have one useful, low-pressure conversation',copy:'Pick a theme, borrow a starter when you need one and receive concise corrections without breaking the flow.',meta:['Voice or text','Level-aware support','Chapter-linked topics'],href:'/chat',cta:'Start Chat',image:'assets/koko-chat-world.png'}
 };
 $$('[data-path-choices] .choice').forEach(button=>button.addEventListener('click',()=>{
   $$('[data-path-choices] .choice').forEach(item=>item.classList.toggle('active',item===button));
@@ -128,7 +160,18 @@ const sourceCompactBook=$('.story-book-moment__passage');if(sourceCompactBook)so
 const sourceCompactBookTranslation=$('.story-book-moment__reader > small');if(sourceCompactBookTranslation)sourceCompactBookTranslation.textContent=sourcePassages.shinto.english;
 const sourceBookTitle=$('.story-book-app__reader-title');if(sourceBookTitle)sourceBookTitle.innerHTML='<ruby>雪<rt>ゆき</rt></ruby>の<ruby>山<rt>やま</rt></ruby>で、<mark><ruby>祈<rt>いの</rt></ruby>り</mark>をこめて';
 const sourceBookCopy=$('.story-book-app__reader-copy');if(sourceBookCopy)sourceBookCopy.innerHTML=sourcePassages.shinto.markup.replaceAll('SOURCE_TOKEN','story-book-app-karaoke-token');
-const sourceBookTranslation=$('[data-book-app-translation-copy]');if(sourceBookTranslation)sourceBookTranslation.textContent=sourcePassages.shinto.english;
+const sourceBookTranslations=$$('[data-book-app-translation-copy]');
+const fullBookTranslations={en:'At a shrine in the snowy mountains, a shrine maiden dressed in white dances quietly. As snow piles up, she puts prayer into every movement and performs each gesture with care. The dance expresses respect for nature and her ancestors.',zh:'在白雪覆蓋的山中神社裡，一位身穿白色衣裝的巫女靜靜起舞。積雪之中，她把祈願融入每一個動作，細心完成每個姿態。這支舞表達了對自然與祖先的敬意。'};
+const compactBookTranslations={en:'At a shrine in the snowy mountains, a shrine maiden dressed in white dances quietly, putting prayer into every careful movement as snow falls. Her dance expresses respect for nature and her ancestors.',zh:'在白雪覆蓋的山中神社裡，一位身穿白色衣裝的巫女靜靜起舞。積雪之中，她把祈願融入每個細心的動作；這支舞表達了對自然與祖先的敬意。'};
+sourceBookTranslations.forEach(copy=>{copy.textContent=fullBookTranslations[copy.dataset.lang]||fullBookTranslations.en;});
+
+const compactNewsTitle=$('.story-news-feature__copy > h3');
+if(compactNewsTitle)compactNewsTitle.innerHTML='<ruby>大の里<rt>おおのさと</rt></ruby>、<br><mark data-vocab-audio="yokozuna" tabindex="0" role="button" aria-label="Play 横綱 pronunciation"><ruby>横綱<rt>よこづな</rt></ruby></mark>になる';
+const compactNewsPassage=$('.story-news-reader > p');
+if(compactNewsPassage)compactNewsPassage.innerHTML='<span class="story-news-karaoke-token"><ruby>大の里<rt>おおのさと</rt></ruby>は、</span><br><span class="story-news-karaoke-token"><ruby>相撲<rt>すもう</rt></ruby>で</span><span class="story-news-karaoke-token">いちばん</span><br><span class="story-news-karaoke-token"><ruby>高<rt>たか</rt></ruby>い</span><span class="story-news-karaoke-token"><ruby>地位<rt>ちい</rt></ruby>、</span><br><mark class="story-news-karaoke-token" data-vocab-audio="yokozuna" tabindex="0" role="button" aria-label="Play 横綱 pronunciation"><ruby>横綱<rt>よこづな</rt></ruby></mark><span class="story-news-karaoke-token">に なりました。</span><br><span class="story-news-karaoke-token"><ruby>土俵<rt>どひょう</rt></ruby>での</span><span class="story-news-karaoke-token"><ruby>活躍<rt>かつやく</rt></ruby>に</span><br><span class="story-news-karaoke-token"><ruby>注目<rt>ちゅうもく</rt></ruby>が</span><span class="story-news-karaoke-token"><ruby>集<rt>あつ</rt></ruby>まります。</span>';
+
+const compactChatThread=$('.story-chat-moment__thread');
+if(compactChatThread)compactChatThread.innerHTML='<div class="story-chat-moment__assistant"><span class="story-chat-moment__avatar"><img loading="lazy" decoding="async" src="assets/design-library/characters/CHR-STYLEA-098-chat-bear-speaking-half-body.png" alt="Boombear"></span><div><p lang="ja">週末は何をしたい？</p><small>BOOMBEAR</small></div></div><div class="story-chat-moment__user" lang="ja">花火を見に行きたいです。</div><div class="story-chat-moment__assistant story-chat-moment__assistant--followup"><span class="story-chat-moment__avatar"><img loading="lazy" decoding="async" src="assets/design-library/characters/CHR-STYLEA-098-chat-bear-speaking-half-body.png" alt="Boombear"></span><div><p lang="ja">いいですね。だれと行きたいですか？</p><small>BOOMBEAR</small></div></div><div class="story-chat-moment__user story-chat-moment__user--followup" lang="ja">友達と行きたいです。</div>';
 
 // Landing hero: the reading controls are the product demonstration.
 const heroReader=$('[data-hero-reader]');
@@ -138,6 +181,7 @@ const heroLanguageToggle=$('[data-hero-language-toggle]',heroReader);
 const heroTokens=$$('[data-word]',heroReader||document);
 const heroKaraokeTokens=$$('[data-karaoke]',heroReader||document);
 let heroNarrationFallbacks=[],heroNarrationIndex=0,heroNarrationRun=0,heroIsNarrating=false,heroSpeed=1,heroTextSize=0,heroTranslationVisible=true,heroLanguage='en',activeHeroToken=heroTokens.find(token=>token.dataset.word==='花火')||null,preferredJapaneseVoice=null;
+if(activeHeroToken)activeHeroToken.classList.add('is-selected');
 // Narration uses the approved Nanami audio files below; browser TTS remains disabled.
 const speakJapanese=()=>null;
 heroControls.forEach(button=>button.addEventListener('click',()=>{
@@ -255,7 +299,7 @@ const installCompactReaderControls=({reader,toolSelector,furiganaAttr,translatio
 const compactSnowReader=$('.story-book-moment__reader');
 const compactSnowTranslations=$$(':scope > [data-reader-translation]',compactSnowReader);
 const compactSnowTranslation=compactSnowTranslations.find(item=>item.dataset.lang==='en');
-if(compactSnowTranslation)compactSnowTranslation.textContent=sourcePassages.shinto.english;
+compactSnowTranslations.forEach(copy=>{copy.textContent=compactBookTranslations[copy.dataset.lang]||compactBookTranslations.en;});
 installCompactReaderControls({reader:compactSnowReader,toolSelector:'.story-book-moment__tools',furiganaAttr:'data-story-book-furigana',translationAttr:'data-story-book-translation',translationCopies:compactSnowTranslations,languageButton:$('[data-story-book-language]',compactSnowReader)});
 const compactNewsReader=$('.story-news-reader');
 const compactNewsTranslations=$$(':scope > [data-reader-translation]',compactNewsReader);
@@ -297,26 +341,46 @@ bindPreviewPlayer($('[data-book-app-play]'),$$('.story-book-app__reader-copy rub
 
 // Production narration uses one Nanami master per passage. Playback speed is applied
 // in the UI, so all rates share the same source and word-highlight timeline.
-const landingAudioBase='./audio/';
+const landingAudioBase=new URL('audio/',document.baseURI);
 const landingAudioPlayers=[];
 const stopLandingAudio=(except=null)=>landingAudioPlayers.forEach(player=>{if(player!==except)player.stop();});
 const tokenWeight=token=>Math.max(1,(token.dataset.speech||token.textContent||'').replace(/[。、，,.!?！？\s]/g,'').length);
+const makeLandingAudio=file=>{
+  const audio=document.createElement('audio');
+  audio.src=new URL(file,landingAudioBase).href;
+  audio.preload='metadata';
+  audio.playsInline=true;
+  audio.hidden=true;
+  audio.setAttribute('aria-hidden','true');
+  document.body.append(audio);
+  return audio;
+};
 const createLandingAudioPlayer=({button,file,tokens,activeClass='is-reading',speedButton=null})=>{
   if(!button||!tokens.length)return null;
-  const audio=new Audio(`${landingAudioBase}${file}`);
-  audio.preload='none';audio.playbackRate=1;audio.preservesPitch=true;
+  const audio=makeLandingAudio(file);
+  audio.playbackRate=1;audio.preservesPitch=true;
   let playing=false,rate=1;
   const weights=tokens.map(tokenWeight),totalWeight=weights.reduce((sum,value)=>sum+value,0);
   const stops=[];let cursor=0;weights.forEach(weight=>{cursor+=weight;stops.push(cursor/totalWeight);});
   const clearHighlight=()=>tokens.forEach(token=>token.classList.remove(activeClass));
   const setButtonState=active=>{button.setAttribute('aria-pressed',String(active));button.setAttribute('aria-label',active?'Pause reading preview':'Play reading preview');const icon=button.querySelector('b');if(icon)icon.textContent=active?'⏸':'▶';else button.textContent=active?'Ⅱ':'▶';};
-  const highlightAt=time=>{if(!Number.isFinite(audio.duration)||audio.duration<=0)return;const progress=Math.min(.9999,time/audio.duration);const index=Math.max(0,stops.findIndex(stop=>progress<stop));tokens.forEach((token,itemIndex)=>token.classList.toggle(activeClass,itemIndex===index));};
+  const highlightAt=time=>{
+    if(!Number.isFinite(audio.duration)||audio.duration<=0)return;
+    const progress=Math.min(.9999,time/audio.duration),index=Math.max(0,stops.findIndex(stop=>progress<stop));
+    tokens.forEach((token,itemIndex)=>token.classList.toggle(activeClass,itemIndex===index));
+    if(tokens===heroTokens&&tokens[index]){
+      heroTokens.forEach((token,itemIndex)=>token.classList.toggle('is-selected',itemIndex===index));
+      activeHeroToken=tokens[index];updateHeroWordDetail(activeHeroToken);
+    }
+  };
   const stop=(reset=true)=>{audio.pause();if(reset)audio.currentTime=0;playing=false;clearHighlight();setButtonState(false);};
   const play=async()=>{stopLandingAudio(api);audio.playbackRate=rate;playing=true;setButtonState(true);highlightAt(audio.currentTime);try{await audio.play();}catch(error){stop();button.setAttribute('aria-label','Narration is being prepared');}};
   const toggle=()=>{if(playing){stop(false);return;}play();};
   const api={audio,stop,play,toggle};landingAudioPlayers.push(api);
   button.addEventListener('click',event=>{event.preventDefault();event.stopImmediatePropagation();toggle();},{capture:true});
-  audio.addEventListener('timeupdate',()=>highlightAt(audio.currentTime));
+  // Rewinding a stopped player can emit a delayed timeupdate. Ignore it so a
+  // manually tapped vocabulary word is not replaced by the first narration token.
+  audio.addEventListener('timeupdate',()=>{if(playing)highlightAt(audio.currentTime);});
   audio.addEventListener('ended',()=>stop());
   audio.addEventListener('pause',()=>{if(audio.ended)return;playing=false;clearHighlight();setButtonState(false);});
   if(speedButton)speedButton.addEventListener('click',event=>{event.preventDefault();event.stopImmediatePropagation();const rates=[.8,1,1.2],next=(rates.indexOf(rate)+1)%rates.length;rate=rates[next];audio.playbackRate=rate;speedButton.textContent=`${rate}×`;},{capture:true});
@@ -324,7 +388,7 @@ const createLandingAudioPlayer=({button,file,tokens,activeClass='is-reading',spe
 };
 
 createLandingAudioPlayer({button:storyHeroPlay,file:'nanami-fireworks.mp3',tokens:storyHeroTokens,activeClass:'speaking'});
-createLandingAudioPlayer({button:$('[data-hero-narrate]',heroReader),file:'nanami-fireworks.mp3',tokens:heroKaraokeTokens,activeClass:'speaking',speedButton:$('[data-hero-speed]',heroReader)});
+createLandingAudioPlayer({button:$('[data-hero-narrate]',heroReader),file:'nanami-fireworks.mp3',tokens:heroTokens,activeClass:'speaking',speedButton:$('[data-hero-speed]',heroReader)});
 createLandingAudioPlayer({button:$('[data-story-book-play]'),file:'nanami-snow-maiden.mp3',tokens:$$('.story-path--book .story-book-karaoke-token')});
 createLandingAudioPlayer({button:$('[data-news-reader-play]'),file:'nanami-yokozuna.mp3',tokens:$$('.story-news-reader .story-news-karaoke-token')});
 createLandingAudioPlayer({button:$('[data-book-app-play]'),file:'nanami-snow-maiden.mp3',tokens:$$('.story-book-app__reader-copy .story-book-app-karaoke-token')});
@@ -333,13 +397,17 @@ const vocabularyAudioFiles={nihon:'nanami-word-nihon.mp3','natsu-no-yoru':'nanam
 let activeVocabularyAudio=null;
 const playVocabulary=element=>{
   const file=vocabularyAudioFiles[element.dataset.vocabAudio];if(!file)return;
-  stopLandingAudio();if(activeVocabularyAudio)activeVocabularyAudio.pause();
-  const audio=new Audio(`${landingAudioBase}${file}`);activeVocabularyAudio=audio;audio.preservesPitch=true;element.classList.add('speaking');
-  const finish=()=>{element.classList.remove('speaking');if(activeVocabularyAudio===audio)activeVocabularyAudio=null;};
+  stopLandingAudio();if(activeVocabularyAudio){activeVocabularyAudio.pause();activeVocabularyAudio.remove();}
+  if(element.dataset.word){
+    heroTokens.forEach(token=>token.classList.toggle('is-selected',token===element));
+    activeHeroToken=element;updateHeroWordDetail(element);
+  }
+  const audio=makeLandingAudio(file);activeVocabularyAudio=audio;audio.preservesPitch=true;element.classList.add('speaking');
+  const finish=()=>{element.classList.remove('speaking');if(activeVocabularyAudio===audio)activeVocabularyAudio=null;audio.remove();};
   audio.addEventListener('ended',finish,{once:true});audio.addEventListener('error',finish,{once:true});audio.play().catch(finish);
 };
 $$('[data-vocab-audio]').forEach(element=>{
-  element.addEventListener('click',event=>{event.preventDefault();event.stopImmediatePropagation();if(element.dataset.word){activeHeroToken=element;updateHeroWordDetail(element);}playVocabulary(element);},{capture:true});
+  element.addEventListener('click',event=>{event.preventDefault();event.stopImmediatePropagation();playVocabulary(element);},{capture:true});
   if(element.getAttribute('role')==='button')element.addEventListener('keydown',event=>{if(event.key==='Enter'||event.key===' '){event.preventDefault();playVocabulary(element);}});
 });
 
