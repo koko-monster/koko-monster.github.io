@@ -21,16 +21,19 @@ if(document.body.dataset.page==='home'){
   setHref('.story-news-preview__all','/news.html#stories');
   setHref('.story-book-app__action','/book');
   setHref('.story-guided-chat__action','/chat');
-  const makeLinkedArea=(area,link)=>{
+  const articleLinks=[$('.story-news-preview__action'),$('.story-news-item--sushi > a'),$('.story-news-item--festival > a')].filter(Boolean);
+  articleLinks.forEach(link=>{link.target='_blank';link.rel='noopener noreferrer';});
+  $$('a[href^="https://apps.apple.com/"]').forEach(link=>{link.target='_blank';link.rel='noopener noreferrer';});
+  const makeLinkedArea=(area,link,{newTab=false}={})=>{
     if(!area||!link)return;
     area.tabIndex=0;area.setAttribute('role','link');area.style.cursor='pointer';
-    const open=()=>window.location.assign(link.href);
+    const open=()=>newTab?window.open(link.href,'_blank','noopener,noreferrer'):window.location.assign(link.href);
     area.addEventListener('click',event=>{if(!event.target.closest('a,button,[role="button"]'))open();});
     area.addEventListener('keydown',event=>{if(event.key==='Enter'){event.preventDefault();open();}});
   };
-  makeLinkedArea($('.story-news-feature__image'),$('.story-news-preview__action'));
-  makeLinkedArea($('.story-news-item--sushi'),$('.story-news-item--sushi > a'));
-  makeLinkedArea($('.story-news-item--festival'),$('.story-news-item--festival > a'));
+  makeLinkedArea($('.story-news-feature__image'),$('.story-news-preview__action'),{newTab:true});
+  makeLinkedArea($('.story-news-item--sushi'),$('.story-news-item--sushi > a'),{newTab:true});
+  makeLinkedArea($('.story-news-item--festival'),$('.story-news-item--festival > a'),{newTab:true});
 }
 
 const menuButton=$('.menu-button');

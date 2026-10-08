@@ -44,7 +44,12 @@
   const leadCard=$('[data-news-lead]');
   const gridCards=$$('.news-grid [data-news-card]');
   const allCards=gridCards;
-  gridCards.forEach(card=>{const link=$('a',card);if(link&&storyRoutes[card.dataset.storyId])link.href=storyRoutes[card.dataset.storyId];});
+  const openInNewTab=link=>{if(!link)return;link.target='_blank';link.rel='noopener noreferrer';};
+  gridCards.forEach(card=>{const link=$('a',card);if(link&&storyRoutes[card.dataset.storyId])link.href=storyRoutes[card.dataset.storyId];openInNewTab(link);});
+  openInNewTab($('[data-lead-link]',leadCard));
+  openInNewTab($('[data-lead-cta]',leadCard));
+  openInNewTab($('.news-intro a[href^="/ja/news/"]'));
+  $$('a[href^="https://apps.apple.com/"]').forEach(openInNewTab);
   const preview=$('[data-news-preview]');
   const previewFurigana=$('[data-preview-furigana]');
   const previewTranslation=$('[data-preview-translation]');
