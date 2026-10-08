@@ -1506,6 +1506,105 @@ html[lang="zh-Hant"] .story-all-access__plan-copy h3 { line-height: 1.05; }
   }
 }
 
+/* Keep action icons typographic-system independent. Mobile Safari can promote
+   literal play and external-link glyphs to colored emoji, so draw them in CSS. */
+:is(
+  [data-story-hero-play],
+  [data-story-book-play],
+  [data-news-reader-play],
+  [data-book-app-play],
+  .story-moment .hero-narrate > b,
+  .story-path__action > b,
+  .story-news-preview__action > b,
+  .story-news-preview__all > b,
+  .story-book-app__save > i,
+  .story-book-app__action > b,
+  .story-guided-chat__compose > b,
+  .story-guided-chat__action > b,
+  .story-all-access__plan-copy a > b
+) {
+  font-size: 0 !important;
+  line-height: 0;
+  overflow: hidden;
+  position: relative;
+}
+
+:is(
+  [data-story-hero-play],
+  [data-story-book-play],
+  [data-news-reader-play],
+  [data-book-app-play],
+  .story-moment .hero-narrate > b,
+  .story-path__action > b,
+  .story-news-preview__action > b,
+  .story-news-preview__all > b,
+  .story-book-app__save > i,
+  .story-book-app__action > b,
+  .story-guided-chat__compose > b,
+  .story-guided-chat__action > b,
+  .story-all-access__plan-copy a > b
+)::before {
+  border-bottom: 6px solid transparent;
+  border-left: 10px solid currentColor;
+  border-top: 6px solid transparent;
+  box-sizing: border-box;
+  content: '';
+  height: 0;
+  left: 50%;
+  margin: 0;
+  position: absolute;
+  top: 50%;
+  transform: translate(-42%, -50%);
+  width: 0;
+}
+
+:is(
+  [data-story-hero-play],
+  [data-story-book-play],
+  [data-news-reader-play],
+  [data-book-app-play]
+)[aria-pressed="true"]::before,
+.story-moment [data-hero-narrate][aria-pressed="true"] > b::before {
+  background: linear-gradient(90deg, currentColor 0 3px, transparent 3px 7px, currentColor 7px 10px);
+  border: 0;
+  height: 13px;
+  transform: translate(-50%, -50%);
+  width: 10px;
+}
+
+.story-news-item > a,
+.story-footer__app > b {
+  font-size: 0 !important;
+  overflow: hidden;
+  position: relative;
+}
+
+.story-news-item > a::before,
+.story-footer__app > b::before {
+  border-right: 2px solid currentColor;
+  border-top: 2px solid currentColor;
+  box-sizing: border-box;
+  content: '';
+  height: 8px;
+  left: 50%;
+  position: absolute;
+  top: 50%;
+  transform: translate(-25%, -75%);
+  width: 8px;
+}
+
+.story-news-item > a::after,
+.story-footer__app > b::after {
+  background: currentColor;
+  content: '';
+  height: 2px;
+  left: 50%;
+  position: absolute;
+  top: 50%;
+  transform: translate(-55%, -50%) rotate(-45deg);
+  width: 11px;
+}
+
 @container (max-width: 330px) {
   .story-path--book .story-book-moment__product {
     grid-template-columns: minmax(0, 1fr);
