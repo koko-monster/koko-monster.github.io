@@ -55,93 +55,93 @@
       "tokens": [
         {
           "text": "ウクライナ",
-          "offsetMs": 60.615,
-          "durationMs": 742.538,
-          "reading": "うくらいな",
-          "romaji": "ukuraina",
+          "reading": "ウクライナ",
+          "romaji": "Ukuraina",
           "en": "Ukraine",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "zhHant": "烏克蘭",
+          "showRuby": false,
+          "offsetMs": 60.615,
+          "durationMs": 742.539
         },
         {
           "text": "の",
-          "offsetMs": 803.154,
-          "durationMs": 166.692,
           "reading": "の",
           "romaji": "no",
-          "en": "of; possessive marker",
-          "zhHant": "的；所有格助詞",
-          "showRuby": false
+          "en": "of",
+          "zhHant": "的",
+          "showRuby": false,
+          "offsetMs": 803.154,
+          "durationMs": 166.692
         },
         {
           "text": "首都",
-          "offsetMs": 969.846,
-          "durationMs": 333.385,
           "reading": "しゅと",
           "romaji": "shuto",
-          "en": "capital city",
+          "en": "capital",
           "zhHant": "首都",
-          "showRuby": true
+          "showRuby": true,
+          "offsetMs": 969.846,
+          "durationMs": 333.385
         },
         {
           "text": "キーウ",
+          "reading": "キーウ",
+          "romaji": "Kīu",
+          "en": "Kyiv",
+          "zhHant": "基輔",
+          "showRuby": false,
           "offsetMs": 1303.231,
-          "durationMs": 484.923,
-          "reading": "きーう",
-          "romaji": "kiiu",
-          "en": "key (lock, keyboard, piano, clue, island, cay, etc.)",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 484.923
         },
         {
-          "text": "近郊",
+          "text": "近郊で",
+          "reading": "きんこうで",
+          "romaji": "kinkō de",
+          "en": "in the suburbs",
+          "zhHant": "郊區",
+          "showRuby": true,
           "offsetMs": 1788.154,
-          "durationMs": 560.692,
-          "reading": "きんこう",
-          "romaji": "kinkou",
-          "en": "outskirts; vicinity",
-          "zhHant": "近郊",
-          "showRuby": true
-        },
-        {
-          "text": "で",
-          "offsetMs": 2348.846,
-          "durationMs": 257.61500000000024,
-          "reading": "で",
-          "romaji": "de",
-          "en": "at; by; with",
-          "zhHant": "在；以；用",
-          "showRuby": false
+          "durationMs": 818.308
         },
         {
           "text": "爆発",
-          "offsetMs": 2606.462,
-          "durationMs": 606.154,
           "reading": "ばくはつ",
           "romaji": "bakuhatsu",
           "en": "explosion",
           "zhHant": "爆炸",
-          "showRuby": true
+          "showRuby": true,
+          "offsetMs": 2606.462,
+          "durationMs": 606.1529999999998
         },
         {
           "text": "が",
-          "offsetMs": 3212.615,
-          "durationMs": 136.38500000000022,
           "reading": "が",
           "romaji": "ga",
           "en": "subject marker",
-          "zhHant": "主語助詞",
-          "showRuby": false
+          "zhHant": "的",
+          "showRuby": false,
+          "offsetMs": 3212.615,
+          "durationMs": 136.38500000000022
         },
         {
-          "text": "発生しました",
+          "text": "発生",
+          "reading": "はっせい",
+          "romaji": "hassei",
+          "en": "occurred",
+          "zhHant": "發生",
+          "showRuby": true,
           "offsetMs": 3349.0,
-          "durationMs": 1379.0,
-          "reading": "はっせいしました",
-          "romaji": "hasseishimashita",
-          "en": "outbreak; spring forth",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 515.2310000000002
+        },
+        {
+          "text": "しました",
+          "reading": "しました",
+          "romaji": "shimashita",
+          "en": "did",
+          "zhHant": "做了",
+          "showRuby": false,
+          "offsetMs": 3864.231,
+          "durationMs": 863.7689999999998
         }
       ],
       "audio": {
@@ -216,113 +216,63 @@
       "tokens": [
         {
           "text": "この",
-          "offsetMs": 62.261,
-          "durationMs": 389.13,
           "reading": "この",
           "romaji": "kono",
-          "en": "nine",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": false
+          "en": "this",
+          "zhHant": "這個",
+          "showRuby": false,
+          "offsetMs": 62.261,
+          "durationMs": 389.13
         },
         {
-          "text": "爆発",
-          "offsetMs": 451.391,
-          "durationMs": 653.739,
-          "reading": "ばくはつ",
-          "romaji": "bakuhatsu",
+          "text": "爆発は",
+          "reading": "ばくはつは",
+          "romaji": "bakuhatsu wa",
           "en": "explosion",
           "zhHant": "爆炸",
-          "showRuby": true
+          "showRuby": true,
+          "offsetMs": 451.391,
+          "durationMs": 933.913
         },
         {
-          "text": "は",
-          "offsetMs": 1105.13,
-          "durationMs": 280.174,
-          "reading": "は",
-          "romaji": "wa",
-          "en": "topic marker",
-          "zhHant": "主題助詞",
-          "showRuby": false
-        },
-        {
-          "text": "ロシア",
+          "text": "ロシアの",
+          "reading": "ロシアの",
+          "romaji": "Roshia no",
+          "en": "of Russia",
+          "zhHant": "俄羅斯的",
+          "showRuby": false,
           "offsetMs": 1385.304,
-          "durationMs": 544.7829999999999,
-          "reading": "ろしあ",
-          "romaji": "roshia",
-          "en": "Russia",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
-        },
-        {
-          "text": "の",
-          "offsetMs": 1930.087,
-          "durationMs": 186.7829999999999,
-          "reading": "の",
-          "romaji": "no",
-          "en": "of; possessive marker",
-          "zhHant": "的；所有格助詞",
-          "showRuby": false
+          "durationMs": 731.5659999999998
         },
         {
           "text": "ドローン",
+          "reading": "ドローン",
+          "romaji": "dorōn",
+          "en": "drone",
+          "zhHant": "無人機",
+          "showRuby": false,
           "offsetMs": 2116.87,
-          "durationMs": 466.9569999999999,
-          "reading": "どろーん",
-          "romaji": "doroon",
-          "en": "drone; unmanned aircraft",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 466.95600000000013
         },
         {
-          "text": "攻撃",
+          "text": "攻撃による",
+          "reading": "こうげきによる",
+          "romaji": "kōgeki ni yoru",
+          "en": "due to the attack",
+          "zhHant": "由於攻擊",
+          "showRuby": true,
           "offsetMs": 2583.826,
-          "durationMs": 575.913,
-          "reading": "こうげき",
-          "romaji": "kougeki",
-          "en": "attack; assault",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 980.6089999999999
         },
         {
-          "text": "に",
-          "offsetMs": 3159.739,
-          "durationMs": 124.52199999999993,
-          "reading": "に",
-          "romaji": "ni",
-          "en": "to; at; in",
-          "zhHant": "向；在；於",
-          "showRuby": false
-        },
-        {
-          "text": "よる",
-          "offsetMs": 3284.261,
-          "durationMs": 280.174,
-          "reading": "よる",
-          "romaji": "yoru",
-          "en": "to be due to; to be caused by",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": false
-        },
-        {
-          "text": "もの",
+          "text": "ものです",
+          "reading": "ものです",
+          "romaji": "mono desu",
+          "en": "is",
+          "zhHant": "是",
+          "showRuby": false,
           "offsetMs": 3564.435,
-          "durationMs": 295.73900000000003,
-          "reading": "もの",
-          "romaji": "mono",
-          "en": "thing; person",
-          "zhHant": "事物；人",
-          "showRuby": false
-        },
-        {
-          "text": "です",
-          "offsetMs": 3860.174,
-          "durationMs": 435.826,
-          "reading": "です",
-          "romaji": "desu",
-          "en": "is; polite copula",
-          "zhHant": "是；禮貌判斷詞",
-          "showRuby": false
+          "durationMs": 731.565
         }
       ],
       "audio": {
@@ -392,124 +342,94 @@
       "zhHant": "至少37人死亡，另有多人受傷。",
       "tokens": [
         {
-          "text": "少なく",
+          "text": "少なくとも",
+          "reading": "すくなくとも",
+          "romaji": "sukunakutomo",
+          "en": "at least",
+          "zhHant": "至少",
+          "showRuby": true,
           "offsetMs": 56.907,
-          "durationMs": 625.979,
-          "reading": "すくなく",
-          "romaji": "sukunaku",
-          "en": "few; a little",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
-        },
-        {
-          "text": "と",
-          "offsetMs": 682.887,
-          "durationMs": 113.81399999999996,
-          "reading": "と",
-          "romaji": "to",
-          "en": "and; with; that",
-          "zhHant": "和；與；表示引用",
-          "showRuby": false
-        },
-        {
-          "text": "も",
-          "offsetMs": 796.701,
-          "durationMs": 298.7629999999999,
-          "reading": "も",
-          "romaji": "mo",
-          "en": "also; too",
-          "zhHant": "也；亦",
-          "showRuby": false
+          "durationMs": 1038.557
         },
         {
           "text": "37人",
-          "offsetMs": 1095.464,
-          "durationMs": 1081.237,
-          "reading": "さんじゅうななにん",
-          "romaji": "sanjuunananin",
+          "reading": "37にん",
+          "romaji": "37 nin",
           "en": "37 people",
           "zhHant": "37人",
-          "showRuby": true
+          "showRuby": true,
+          "offsetMs": 1095.464,
+          "durationMs": 1081.237
         },
         {
           "text": "が",
-          "offsetMs": 2176.701,
-          "durationMs": 156.4949999999999,
           "reading": "が",
           "romaji": "ga",
           "en": "subject marker",
-          "zhHant": "主語助詞",
-          "showRuby": false
+          "zhHant": "主格助詞",
+          "showRuby": false,
+          "offsetMs": 2176.701,
+          "durationMs": 156.4949999999999
         },
         {
           "text": "亡くなり",
-          "offsetMs": 2333.196,
-          "durationMs": 938.969,
           "reading": "なくなり",
           "romaji": "nakunari",
-          "en": "to die",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "en": "passed away",
+          "zhHant": "去世",
+          "showRuby": true,
+          "offsetMs": 2333.196,
+          "durationMs": 938.969
         },
         {
-          "text": "多く",
+          "text": "多くの",
+          "reading": "おおくの",
+          "romaji": "ooku no",
+          "en": "many",
+          "zhHant": "許多",
+          "showRuby": true,
           "offsetMs": 3272.165,
-          "durationMs": 355.6700000000001,
-          "reading": "おおく",
-          "romaji": "ooku",
-          "en": "many; much",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 469.4839999999999
         },
         {
-          "text": "の",
-          "offsetMs": 3627.835,
-          "durationMs": 113.81399999999985,
-          "reading": "の",
-          "romaji": "no",
-          "en": "of; possessive marker",
-          "zhHant": "的；所有格助詞",
-          "showRuby": false
-        },
-        {
-          "text": "人",
+          "text": "人が",
+          "reading": "ひとが",
+          "romaji": "hito ga",
+          "en": "people",
+          "zhHant": "人",
+          "showRuby": true,
           "offsetMs": 3741.649,
-          "durationMs": 270.3090000000002,
-          "reading": "ひと",
-          "romaji": "hito",
-          "en": "-ian (e.g. Italian); -ite (e.g. Tokyoite)",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
-        },
-        {
-          "text": "が",
-          "offsetMs": 4011.959,
-          "durationMs": 199.17500000000018,
-          "reading": "が",
-          "romaji": "ga",
-          "en": "subject marker",
-          "zhHant": "主語助詞",
-          "showRuby": false
+          "durationMs": 469.4850000000001
         },
         {
           "text": "怪我",
-          "offsetMs": 4211.134,
-          "durationMs": 312.9899999999998,
-          "reading": "けが",
+          "reading": "け我",
           "romaji": "kega",
-          "en": "injury (to animate object); hurt",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "en": "injury",
+          "zhHant": "受傷",
+          "showRuby": true,
+          "offsetMs": 4211.134,
+          "durationMs": 312.9899999999998
         },
         {
-          "text": "をしました",
+          "text": "を",
+          "reading": "を",
+          "romaji": "wo",
+          "en": "object marker",
+          "zhHant": "賓格助詞",
+          "showRuby": false,
           "offsetMs": 4524.124,
-          "durationMs": 995.8760000000002,
-          "reading": "をしました",
-          "romaji": "woshimashita",
-          "en": "indicates direct object of action",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": false
+          "durationMs": 156.4949999999999
+        },
+        {
+          "text": "しました",
+          "reading": "しました",
+          "romaji": "shimashita",
+          "en": "did",
+          "zhHant": "做了",
+          "showRuby": false,
+          "offsetMs": 4680.619,
+          "durationMs": 839.3810000000003
         }
       ],
       "audio": {
@@ -595,194 +515,154 @@
       "zhHant": "基輔州首長蒂穆爾・特卡琴科表示，死亡人數可能進一步上升。",
       "tokens": [
         {
-          "text": "キーウ",
+          "text": "キーウ州",
+          "reading": "キーウしゅう",
+          "romaji": "Kīu shū",
+          "en": "Kyiv region",
+          "zhHant": "基輔州",
+          "showRuby": true,
           "offsetMs": 56.545,
-          "durationMs": 480.636,
-          "reading": "きーう",
-          "romaji": "kiiu",
-          "en": "key (lock, keyboard, piano, clue, island, cay, etc.)",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
-        },
-        {
-          "text": "州",
-          "offsetMs": 537.182,
-          "durationMs": 325.13599999999997,
-          "reading": "しゅう",
-          "romaji": "shuu",
-          "en": "state (US, Australia, India, Germany, etc.); province (e.g. Canada)",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 805.773
         },
         {
           "text": "の",
-          "offsetMs": 862.318,
-          "durationMs": 169.63599999999997,
           "reading": "の",
           "romaji": "no",
-          "en": "of; possessive marker",
-          "zhHant": "的；所有格助詞",
-          "showRuby": false
+          "en": "of",
+          "zhHant": "的",
+          "showRuby": false,
+          "offsetMs": 862.318,
+          "durationMs": 169.63699999999994
         },
         {
-          "text": "トップ",
-          "offsetMs": 1031.955,
-          "durationMs": 409.9549999999999,
-          "reading": "とっぷ",
-          "romaji": "toppu",
+          "text": "トップで",
+          "reading": "トップで",
+          "romaji": "toppu de",
           "en": "top",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
-        },
-        {
-          "text": "で",
-          "offsetMs": 1441.909,
-          "durationMs": 113.0909999999999,
-          "reading": "で",
-          "romaji": "de",
-          "en": "at; by; with",
-          "zhHant": "在；以；用",
-          "showRuby": false
+          "zhHant": "頂尖",
+          "showRuby": false,
+          "offsetMs": 1031.955,
+          "durationMs": 523.0450000000001
         },
         {
           "text": "ある",
-          "offsetMs": 1555.0,
-          "durationMs": 296.86400000000003,
           "reading": "ある",
           "romaji": "aru",
-          "en": "to be; to exist",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": false
+          "en": "to be",
+          "zhHant": "是",
+          "showRuby": false,
+          "offsetMs": 1555.0,
+          "durationMs": 296.86400000000003
         },
         {
-          "text": "ティ",
+          "text": "ティムールトカチェンコ氏",
+          "reading": "ティムールトカチェンコし",
+          "romaji": "Timūru Tokachenko-shi",
+          "en": "Mr. Timur Tokachenko",
+          "zhHant": "蒂穆爾·托卡琴科",
+          "showRuby": true,
           "offsetMs": 1851.864,
-          "durationMs": 155.5,
-          "reading": "てぃ",
-          "romaji": "tei",
-          "en": "tea",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
-        },
-        {
-          "text": "ムール",
-          "offsetMs": 2007.364,
-          "durationMs": 593.7269999999999,
-          "reading": "むーる",
-          "romaji": "muuru",
-          "en": "mussels",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
-        },
-        {
-          "text": "トカチェンコ",
-          "offsetMs": 2671.773,
-          "durationMs": 720.9549999999999,
-          "reading": "とかちぇんこ",
-          "romaji": "tokachenko",
-          "en": "Tkachenko",
-          "zhHant": "特卡琴科",
-          "showRuby": true
-        },
-        {
-          "text": "氏",
-          "offsetMs": 3392.727,
-          "durationMs": 183.77300000000014,
-          "reading": "し",
-          "romaji": "shi",
-          "en": "family name; lineage",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 1724.636
         },
         {
           "text": "は",
-          "offsetMs": 3576.5,
-          "durationMs": 551.3180000000002,
           "reading": "は",
           "romaji": "wa",
-          "en": "topic marker",
-          "zhHant": "主題助詞",
-          "showRuby": false
+          "en": "is",
+          "zhHant": "是",
+          "showRuby": false,
+          "offsetMs": 3576.5,
+          "durationMs": 551.3180000000002
         },
         {
-          "text": "死者数",
+          "text": "死者",
+          "reading": "ししゃ",
+          "romaji": "shisha",
+          "en": "deceased",
+          "zhHant": "死者",
+          "showRuby": true,
           "offsetMs": 4127.818,
-          "durationMs": 579.5910000000003,
-          "reading": "ししゃすう",
-          "romaji": "shishasuu",
-          "en": "death toll; number of deaths",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 386.39400000000023
+        },
+        {
+          "text": "数",
+          "reading": "すう",
+          "romaji": "sū",
+          "en": "number; several",
+          "zhHant": "數量；數個",
+          "showRuby": true,
+          "offsetMs": 4514.212,
+          "durationMs": 193.1969999999992
         },
         {
           "text": "が",
-          "offsetMs": 4707.409,
-          "durationMs": 141.36399999999958,
           "reading": "が",
           "romaji": "ga",
-          "en": "subject marker",
-          "zhHant": "主語助詞",
-          "showRuby": false
+          "en": "but",
+          "zhHant": "但",
+          "showRuby": false,
+          "offsetMs": 4707.409,
+          "durationMs": 141.3640000000005
         },
         {
           "text": "増える",
-          "offsetMs": 4848.773,
-          "durationMs": 466.5,
           "reading": "ふえる",
           "romaji": "fueru",
-          "en": "to increase; to multiply",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "en": "to increase",
+          "zhHant": "增加",
+          "showRuby": true,
+          "offsetMs": 4848.773,
+          "durationMs": 466.5
         },
         {
           "text": "可能性",
-          "offsetMs": 5315.273,
-          "durationMs": 636.1359999999995,
           "reading": "かのうせい",
-          "romaji": "kanousei",
-          "en": "potentiality; likelihood",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "romaji": "kanōsei",
+          "en": "possibility",
+          "zhHant": "可能性",
+          "showRuby": true,
+          "offsetMs": 5315.273,
+          "durationMs": 636.1359999999995
         },
         {
           "text": "が",
-          "offsetMs": 5951.409,
-          "durationMs": 127.22699999999986,
           "reading": "が",
           "romaji": "ga",
-          "en": "subject marker",
-          "zhHant": "主語助詞",
-          "showRuby": false
+          "en": "but",
+          "zhHant": "但",
+          "showRuby": false,
+          "offsetMs": 5951.409,
+          "durationMs": 127.22700000000077
         },
         {
           "text": "ある",
-          "offsetMs": 6078.636,
-          "durationMs": 268.59100000000035,
           "reading": "ある",
           "romaji": "aru",
-          "en": "to be; to exist",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": false
+          "en": "to be",
+          "zhHant": "是",
+          "showRuby": false,
+          "offsetMs": 6078.636,
+          "durationMs": 268.59099999999944
         },
         {
           "text": "と",
-          "offsetMs": 6347.227,
-          "durationMs": 141.36399999999958,
           "reading": "と",
           "romaji": "to",
-          "en": "and; with; that",
-          "zhHant": "和；與；表示引用",
-          "showRuby": false
+          "en": "that",
+          "zhHant": "那",
+          "showRuby": false,
+          "offsetMs": 6347.227,
+          "durationMs": 141.3640000000005
         },
         {
           "text": "述べました",
-          "offsetMs": 6488.591,
-          "durationMs": 975.4089999999997,
           "reading": "のべました",
           "romaji": "nobemashita",
-          "en": "to state; to express",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "en": "stated",
+          "zhHant": "說",
+          "showRuby": true,
+          "offsetMs": 6488.591,
+          "durationMs": 975.4089999999997
         }
       ],
       "audio": {
@@ -896,124 +776,64 @@
       "zhHant": "澤連斯基總統表示，一座倉庫遭到襲擊。",
       "tokens": [
         {
-          "text": "大統領",
+          "text": "大統領の",
+          "reading": "だいとうりょうの",
+          "romaji": "Daitōryō no",
+          "en": "the president's",
+          "zhHant": "總統的",
+          "showRuby": true,
           "offsetMs": 56.978,
-          "durationMs": 868.908,
-          "reading": "だいとうりょう",
-          "romaji": "daitouryou",
-          "en": "president (of a nation)",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 1025.596
         },
         {
-          "text": "の",
-          "offsetMs": 925.885,
-          "durationMs": 156.68799999999987,
-          "reading": "の",
-          "romaji": "no",
-          "en": "of; possessive marker",
-          "zhHant": "的；所有格助詞",
-          "showRuby": false
-        },
-        {
-          "text": "ゼレンスキー",
-          "offsetMs": 1082.574,
-          "durationMs": 754.953,
-          "reading": "ぜれんすきー",
-          "romaji": "zerensukii",
-          "en": "Zelenskyy",
+          "text": "ゼレンスキー氏は",
+          "reading": "ゼレンスキーしは",
+          "romaji": "Zerensukī-shi wa",
+          "en": "Mr. Zelensky",
           "zhHant": "澤連斯基",
-          "showRuby": true
+          "showRuby": true,
+          "offsetMs": 1082.574,
+          "durationMs": 1566.882
         },
         {
-          "text": "氏",
-          "offsetMs": 1837.526,
-          "durationMs": 185.1769999999999,
-          "reading": "し",
-          "romaji": "shi",
-          "en": "family name; lineage",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
-        },
-        {
-          "text": "は",
-          "offsetMs": 2022.703,
-          "durationMs": 626.7530000000002,
-          "reading": "は",
-          "romaji": "wa",
-          "en": "topic marker",
-          "zhHant": "主題助詞",
-          "showRuby": false
-        },
-        {
-          "text": "倉庫",
-          "offsetMs": 2649.456,
-          "durationMs": 441.576,
-          "reading": "そうこ",
-          "romaji": "souko",
-          "en": "warehouse",
+          "text": "倉庫が",
+          "reading": "そうこが",
+          "romaji": "Sōko ga",
+          "en": "the warehouse",
           "zhHant": "倉庫",
-          "showRuby": true
-        },
-        {
-          "text": "が",
-          "offsetMs": 3091.032,
-          "durationMs": 199.42099999999982,
-          "reading": "が",
-          "romaji": "ga",
-          "en": "subject marker",
-          "zhHant": "主語助詞",
-          "showRuby": false
+          "showRuby": true,
+          "offsetMs": 2649.456,
+          "durationMs": 640.998
         },
         {
           "text": "攻撃",
-          "offsetMs": 3290.454,
-          "durationMs": 512.7980000000002,
           "reading": "こうげき",
-          "romaji": "kougeki",
-          "en": "attack; assault",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "romaji": "Kōgeki",
+          "en": "attack",
+          "zhHant": "攻擊",
+          "showRuby": true,
+          "offsetMs": 3290.454,
+          "durationMs": 512.7979999999998
         },
         {
-          "text": "さ",
+          "text": "されたと",
+          "reading": "されたと",
+          "romaji": "sareta to",
+          "en": "was said",
+          "zhHant": "被說",
+          "showRuby": false,
           "offsetMs": 3803.252,
-          "durationMs": 142.44399999999996,
-          "reading": "さ",
-          "romaji": "sa",
-          "en": "difference; variation",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": false
-        },
-        {
-          "text": "れた",
-          "offsetMs": 3945.696,
-          "durationMs": 256.39900000000034,
-          "reading": "れた",
-          "romaji": "reta",
-          "en": "indicates passive voice (incl. the \"suffering passive\")",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": false
-        },
-        {
-          "text": "と",
-          "offsetMs": 4202.095,
-          "durationMs": 156.6880000000001,
-          "reading": "と",
-          "romaji": "to",
-          "en": "and; with; that",
-          "zhHant": "和；與；表示引用",
-          "showRuby": false
+          "durationMs": 555.5310000000004
         },
         {
           "text": "説明しました",
-          "offsetMs": 4358.783,
-          "durationMs": 1353.2169999999996,
           "reading": "せつめいしました",
-          "romaji": "setsumeishimashita",
-          "en": "explanation; exposition",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "romaji": "setsumei shimashita",
+          "en": "explained",
+          "zhHant": "解釋了",
+          "showRuby": true,
+          "offsetMs": 4358.783,
+          "durationMs": 1353.2169999999996
         }
       ],
       "audio": {
@@ -1103,114 +923,94 @@
       "zhHant": "他指出，襲擊引發了猛烈爆炸。",
       "tokens": [
         {
-          "text": "彼",
+          "text": "彼は",
+          "reading": "かれは",
+          "romaji": "Kare wa",
+          "en": "He",
+          "zhHant": "他",
+          "showRuby": true,
           "offsetMs": 58.468,
-          "durationMs": 350.809,
-          "reading": "かれ",
-          "romaji": "kare",
-          "en": "that; that thing",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
-        },
-        {
-          "text": "は",
-          "offsetMs": 409.277,
-          "durationMs": 613.915,
-          "reading": "は",
-          "romaji": "wa",
-          "en": "topic marker",
-          "zhHant": "主題助詞",
-          "showRuby": false
+          "durationMs": 964.7230000000001
         },
         {
           "text": "この",
-          "offsetMs": 1023.191,
-          "durationMs": 336.19100000000003,
           "reading": "この",
           "romaji": "kono",
-          "en": "nine",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": false
+          "en": "this",
+          "zhHant": "這個",
+          "showRuby": false,
+          "offsetMs": 1023.191,
+          "durationMs": 336.192
         },
         {
-          "text": "攻撃",
+          "text": "攻撃が",
+          "reading": "こうげきが",
+          "romaji": "kougeki ga",
+          "en": "attack",
+          "zhHant": "攻擊",
+          "showRuby": true,
           "offsetMs": 1359.383,
-          "durationMs": 570.0640000000001,
-          "reading": "こうげき",
-          "romaji": "kougeki",
-          "en": "attack; assault",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
-        },
-        {
-          "text": "が",
-          "offsetMs": 1929.447,
-          "durationMs": 160.78700000000003,
-          "reading": "が",
-          "romaji": "ga",
-          "en": "subject marker",
-          "zhHant": "主語助詞",
-          "showRuby": false
+          "durationMs": 730.8509999999999
         },
         {
           "text": "大きな",
-          "offsetMs": 2090.234,
-          "durationMs": 599.2980000000002,
           "reading": "おおきな",
           "romaji": "ookina",
-          "en": "big; large",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "en": "big",
+          "zhHant": "大的",
+          "showRuby": true,
+          "offsetMs": 2090.234,
+          "durationMs": 599.2980000000002
         },
         {
-          "text": "爆発",
-          "offsetMs": 2689.532,
-          "durationMs": 599.2979999999998,
-          "reading": "ばくはつ",
-          "romaji": "bakuhatsu",
+          "text": "爆発を",
+          "reading": "ばくはつを",
+          "romaji": "bakuhatsu wo",
           "en": "explosion",
           "zhHant": "爆炸",
-          "showRuby": true
+          "showRuby": true,
+          "offsetMs": 2689.532,
+          "durationMs": 716.2339999999999
         },
         {
-          "text": "を",
-          "offsetMs": 3288.83,
-          "durationMs": 116.93600000000015,
-          "reading": "を",
-          "romaji": "o",
-          "en": "object marker",
-          "zhHant": "受詞助詞",
-          "showRuby": false
-        },
-        {
-          "text": "引き起こした",
+          "text": "引き",
+          "reading": "ひき",
+          "romaji": "hiki",
+          "en": "to pull",
+          "zhHant": "引起",
+          "showRuby": true,
           "offsetMs": 3405.766,
-          "durationMs": 847.7869999999998,
-          "reading": "ひきおこした",
-          "romaji": "hikiokoshita",
-          "en": "to cause; to induce",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 286.49360000000024
+        },
+        {
+          "text": "起こした",
+          "reading": "おこした",
+          "romaji": "okoshita",
+          "en": "caused",
+          "zhHant": "引起了",
+          "showRuby": true,
+          "offsetMs": 3692.2596000000003,
+          "durationMs": 561.2933999999996
         },
         {
           "text": "と",
-          "offsetMs": 4253.553,
-          "durationMs": 131.55299999999988,
           "reading": "と",
           "romaji": "to",
-          "en": "and; with; that",
-          "zhHant": "和；與；表示引用",
-          "showRuby": false
+          "en": "that",
+          "zhHant": "那",
+          "showRuby": false,
+          "offsetMs": 4253.553,
+          "durationMs": 131.55299999999988
         },
         {
           "text": "話しました",
-          "offsetMs": 4385.106,
-          "durationMs": 1110.8940000000002,
           "reading": "はなしました",
           "romaji": "hanashimashita",
-          "en": "to talk; to speak",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "en": "said",
+          "zhHant": "說",
+          "showRuby": true,
+          "offsetMs": 4385.106,
+          "durationMs": 1110.8940000000002
         }
       ],
       "audio": {
@@ -1293,163 +1093,83 @@
       "tokens": [
         {
           "text": "また",
-          "offsetMs": 56.147,
-          "durationMs": 912.385,
           "reading": "また",
           "romaji": "mata",
-          "en": "crotch; crutch",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": false
+          "en": "also; again",
+          "zhHant": "也；再次",
+          "showRuby": false,
+          "offsetMs": 56.147,
+          "durationMs": 912.385
         },
         {
-          "text": "弾薬",
-          "offsetMs": 968.532,
-          "durationMs": 533.3939999999999,
-          "reading": "だんやく",
-          "romaji": "danyaku",
+          "text": "弾薬を",
+          "reading": "だんやくを",
+          "romaji": "danyaku o",
           "en": "ammunition",
           "zhHant": "彈藥",
-          "showRuby": true
+          "showRuby": true,
+          "offsetMs": 968.532,
+          "durationMs": 729.908
         },
         {
-          "text": "を",
-          "offsetMs": 1501.927,
-          "durationMs": 196.5139999999999,
-          "reading": "を",
-          "romaji": "o",
-          "en": "object marker",
-          "zhHant": "受詞助詞",
-          "showRuby": false
-        },
-        {
-          "text": "住宅",
+          "text": "住宅地域の",
+          "reading": "じゅうたくちいきの",
+          "romaji": "juutaku chiiki no",
+          "en": "residential area",
+          "zhHant": "住宅區",
+          "showRuby": true,
           "offsetMs": 1698.44,
-          "durationMs": 505.3209999999999,
-          "reading": "じゅうたく",
-          "romaji": "juutaku",
-          "en": "residence; housing",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 1066.7889999999998
         },
         {
-          "text": "地域",
-          "offsetMs": 2203.761,
-          "durationMs": 421.1010000000001,
-          "reading": "ちいき",
-          "romaji": "chiiki",
-          "en": "area; region",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
-        },
-        {
-          "text": "の",
-          "offsetMs": 2624.862,
-          "durationMs": 140.3670000000002,
-          "reading": "の",
-          "romaji": "no",
-          "en": "of; possessive marker",
-          "zhHant": "的；所有格助詞",
-          "showRuby": false
-        },
-        {
-          "text": "近く",
+          "text": "近くに",
+          "reading": "ちかくに",
+          "romaji": "chikaku ni",
+          "en": "near",
+          "zhHant": "附近",
+          "showRuby": true,
           "offsetMs": 2765.229,
-          "durationMs": 435.1379999999999,
-          "reading": "ちかく",
-          "romaji": "chikaku",
-          "en": "near; neighbourhood",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 547.4320000000002
         },
         {
-          "text": "に",
-          "offsetMs": 3200.367,
-          "durationMs": 112.29399999999987,
-          "reading": "に",
-          "romaji": "ni",
-          "en": "to; at; in",
-          "zhHant": "向；在；於",
-          "showRuby": false
-        },
-        {
-          "text": "保管",
+          "text": "保管しては",
+          "reading": "ほかんしては",
+          "romaji": "hokan shite wa",
+          "en": "to store",
+          "zhHant": "儲存",
+          "showRuby": true,
           "offsetMs": 3312.661,
-          "durationMs": 435.1379999999999,
-          "reading": "ほかん",
-          "romaji": "hokan",
-          "en": "charge; custody",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
-        },
-        {
-          "text": "し",
-          "offsetMs": 3747.798,
-          "durationMs": 112.29399999999987,
-          "reading": "し",
-          "romaji": "shi",
-          "en": "do; verb stem",
-          "zhHant": "做；動詞詞幹",
-          "showRuby": false
-        },
-        {
-          "text": "て",
-          "offsetMs": 3860.092,
-          "durationMs": 112.29399999999987,
-          "reading": "て",
-          "romaji": "te",
-          "en": "linking verb ending",
-          "zhHant": "連接動詞詞尾",
-          "showRuby": false
-        },
-        {
-          "text": "は",
-          "offsetMs": 3972.385,
-          "durationMs": 154.40400000000045,
-          "reading": "は",
-          "romaji": "wa",
-          "en": "topic marker",
-          "zhHant": "主題助詞",
-          "showRuby": false
+          "durationMs": 814.1279999999997
         },
         {
           "text": "いけない",
-          "offsetMs": 4126.789,
-          "durationMs": 673.7620000000006,
           "reading": "いけない",
           "romaji": "ikenai",
-          "en": "wrong; not good",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": false
+          "en": "must not",
+          "zhHant": "不可以",
+          "showRuby": false,
+          "offsetMs": 4126.789,
+          "durationMs": 828.165
         },
         {
-          "text": "と",
+          "text": "とも",
+          "reading": "とも",
+          "romaji": "tomo",
+          "en": "also",
+          "zhHant": "也",
+          "showRuby": false,
           "offsetMs": 4954.954,
-          "durationMs": 126.32999999999993,
-          "reading": "と",
-          "romaji": "to",
-          "en": "and; with; that",
-          "zhHant": "和；與；表示引用",
-          "showRuby": false
-        },
-        {
-          "text": "も",
-          "offsetMs": 5081.284,
-          "durationMs": 154.40400000000045,
-          "reading": "も",
-          "romaji": "mo",
-          "en": "also; too",
-          "zhHant": "也；亦",
-          "showRuby": false
+          "durationMs": 280.7340000000004
         },
         {
           "text": "言いました",
-          "offsetMs": 5235.688,
-          "durationMs": 884.3119999999999,
           "reading": "いいました",
           "romaji": "iimashita",
-          "en": "to say; to utter",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "en": "said",
+          "zhHant": "說",
+          "showRuby": true,
+          "offsetMs": 5235.688,
+          "durationMs": 884.3119999999999
         }
       ],
       "audio": {
@@ -1559,64 +1279,44 @@
       "zhHant": "他宣布將展開調查。",
       "tokens": [
         {
-          "text": "調査",
-          "offsetMs": 63.396,
-          "durationMs": 538.868,
-          "reading": "ちょうさ",
-          "romaji": "chousa",
-          "en": "investigation",
+          "text": "調査を",
+          "reading": "ちょうさを",
+          "romaji": "chōsa o",
+          "en": "the survey",
           "zhHant": "調查",
-          "showRuby": true
-        },
-        {
-          "text": "を",
-          "offsetMs": 602.264,
-          "durationMs": 158.49099999999999,
-          "reading": "を",
-          "romaji": "o",
-          "en": "object marker",
-          "zhHant": "受詞助詞",
-          "showRuby": false
+          "showRuby": true,
+          "offsetMs": 63.396,
+          "durationMs": 697.359
         },
         {
           "text": "始める",
-          "offsetMs": 760.755,
-          "durationMs": 633.9620000000001,
           "reading": "はじめる",
           "romaji": "hajimeru",
-          "en": "to start; to begin",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "en": "to begin",
+          "zhHant": "開始",
+          "showRuby": true,
+          "offsetMs": 760.755,
+          "durationMs": 633.9620000000001
         },
         {
-          "text": "方針",
+          "text": "方針を",
+          "reading": "ほうしんを",
+          "romaji": "hōshin o",
+          "en": "the policy",
+          "zhHant": "方針",
+          "showRuby": true,
           "offsetMs": 1394.717,
-          "durationMs": 602.2640000000001,
-          "reading": "ほうしん",
-          "romaji": "houshin",
-          "en": "policy; course",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
-        },
-        {
-          "text": "を",
-          "offsetMs": 1996.981,
-          "durationMs": 158.4910000000002,
-          "reading": "を",
-          "romaji": "o",
-          "en": "object marker",
-          "zhHant": "受詞助詞",
-          "showRuby": false
+          "durationMs": 760.7550000000001
         },
         {
           "text": "示しました",
-          "offsetMs": 2155.472,
-          "durationMs": 1204.5279999999998,
           "reading": "しめしました",
-          "romaji": "shimeshimashita",
-          "en": "to (take out and) show; to demonstrate",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "romaji": "shimemashita",
+          "en": "indicated",
+          "zhHant": "表示",
+          "showRuby": true,
+          "offsetMs": 2155.472,
+          "durationMs": 1204.5279999999998
         }
       ],
       "audio": {
@@ -1674,144 +1374,84 @@
       "zhHant": "俄羅斯國防部則表示，受襲目標是一座軍火庫。",
       "tokens": [
         {
-          "text": "ロシア",
+          "text": "ロシアの",
+          "reading": "ロシアの",
+          "romaji": "Roshia no",
+          "en": "of Russia",
+          "zhHant": "俄羅斯的",
+          "showRuby": false,
           "offsetMs": 58.277,
-          "durationMs": 582.771,
-          "reading": "ろしあ",
-          "romaji": "roshia",
-          "en": "Russia",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 757.602
         },
         {
-          "text": "の",
-          "offsetMs": 641.048,
-          "durationMs": 174.83100000000002,
-          "reading": "の",
-          "romaji": "no",
-          "en": "of; possessive marker",
-          "zhHant": "的；所有格助詞",
-          "showRuby": false
-        },
-        {
-          "text": "国防省",
+          "text": "国防省は",
+          "reading": "こくぼうしょうは",
+          "romaji": "Kokubōshō wa",
+          "en": "Ministry of Defense",
+          "zhHant": "國防部",
+          "showRuby": true,
           "offsetMs": 815.879,
-          "durationMs": 830.448,
-          "reading": "こくぼうしょう",
-          "romaji": "kokuboushou",
-          "en": "Department of Defense (USA); the Pentagon",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
-        },
-        {
-          "text": "は",
-          "offsetMs": 1646.327,
-          "durationMs": 597.3399999999999,
-          "reading": "は",
-          "romaji": "wa",
-          "en": "topic marker",
-          "zhHant": "主題助詞",
-          "showRuby": false
+          "durationMs": 1427.7890000000002
         },
         {
           "text": "攻撃",
-          "offsetMs": 2243.668,
-          "durationMs": 539.0630000000001,
           "reading": "こうげき",
-          "romaji": "kougeki",
-          "en": "attack; assault",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "romaji": "Kōgeki",
+          "en": "attack",
+          "zhHant": "攻擊",
+          "showRuby": true,
+          "offsetMs": 2243.668,
+          "durationMs": 539.0619999999999
         },
         {
-          "text": "さ",
+          "text": "されたのは",
+          "reading": "されたのは",
+          "romaji": "sareta no wa",
+          "en": "was",
+          "zhHant": "是",
+          "showRuby": false,
           "offsetMs": 2782.73,
-          "durationMs": 145.6930000000002,
-          "reading": "さ",
-          "romaji": "sa",
-          "en": "difference; variation",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": false
-        },
-        {
-          "text": "れた",
-          "offsetMs": 2928.423,
-          "durationMs": 262.2470000000003,
-          "reading": "れた",
-          "romaji": "reta",
-          "en": "indicates passive voice (incl. the \"suffering passive\")",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": false
-        },
-        {
-          "text": "の",
-          "offsetMs": 3190.67,
-          "durationMs": 131.12300000000005,
-          "reading": "の",
-          "romaji": "no",
-          "en": "of; possessive marker",
-          "zhHant": "的；所有格助詞",
-          "showRuby": false
-        },
-        {
-          "text": "は",
-          "offsetMs": 3321.793,
-          "durationMs": 276.8159999999998,
-          "reading": "は",
-          "romaji": "wa",
-          "en": "topic marker",
-          "zhHant": "主題助詞",
-          "showRuby": false
+          "durationMs": 815.8800000000001
         },
         {
           "text": "兵器",
-          "offsetMs": 3598.61,
-          "durationMs": 451.64699999999993,
           "reading": "へいき",
-          "romaji": "heiki",
-          "en": "arms; weapon",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "romaji": "Heiki",
+          "en": "weapons",
+          "zhHant": "武器",
+          "showRuby": true,
+          "offsetMs": 3598.61,
+          "durationMs": 451.64699999999993
         },
         {
-          "text": "庫",
+          "text": "庫だと",
+          "reading": "こだと",
+          "romaji": "kudo to",
+          "en": "is",
+          "zhHant": "是",
+          "showRuby": true,
           "offsetMs": 4050.257,
-          "durationMs": 145.69299999999976,
-          "reading": "くら",
-          "romaji": "kura",
-          "en": "warehouse; storehouse",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 407.93899999999985
         },
         {
-          "text": "だ",
-          "offsetMs": 4195.95,
-          "durationMs": 131.1229999999996,
-          "reading": "だ",
-          "romaji": "da",
-          "en": "is; plain copula",
-          "zhHant": "是；普通體判斷詞",
-          "showRuby": false
-        },
-        {
-          "text": "と",
-          "offsetMs": 4327.073,
-          "durationMs": 131.1229999999996,
-          "reading": "と",
-          "romaji": "to",
-          "en": "and; with; that",
-          "zhHant": "和；與；表示引用",
-          "showRuby": false
-        },
-        {
-          "text": "発表しました",
+          "text": "発表",
+          "reading": "はっぴょう",
+          "romaji": "Happyou",
+          "en": "announcement",
+          "zhHant": "發表",
+          "showRuby": true,
           "offsetMs": 4458.196,
-          "durationMs": 1325.804,
-          "reading": "はっぴょうしました",
-          "romaji": "happyoushimashita",
-          "en": "announcement; publication",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 495.35599999999977
+        },
+        {
+          "text": "しました",
+          "reading": "しました",
+          "romaji": "shimashita",
+          "en": "did",
+          "zhHant": "做了",
+          "showRuby": false,
+          "offsetMs": 4953.552,
+          "durationMs": 830.4480000000003
         }
       ],
       "audio": {

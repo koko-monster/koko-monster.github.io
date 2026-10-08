@@ -20,9 +20,21 @@ ARTICLE_ROOT = ROOT / "articles"
 SCRIPT_ROOT = ROOT / "scripts"
 AUDIO_ROOT = ROOT / "audio"
 TOKEN_PUNCTUATION = re.compile(r"^[、。！？,.!?「」『』（）()：:；;・…]+$")
+TOKEN_INLINE_PUNCTUATION = re.compile(r"[、。！？,.!?「」『』（）()：:；;・…\s]+")
 TOKEN_MERGE_PATTERNS = sorted((
     ("に", "つい", "て"), ("に", "よっ", "て"), ("に", "よれ", "ば"),
     ("と", "して"), ("で", "ある", "と"), ("で", "は", "ない"),
+    ("エイ", "ブラハム"), ("ティ", "ムール"), ("グリーン", "ランド"),
+    ("イコール", "アース"), ("インド", "洋"), ("英", "内務省"),
+    ("米", "東部", "時間"), ("土石", "流"), ("数", "百人"),
+    ("特", "に"), ("さら", "に"), ("共", "に"), ("対し", "て"),
+    ("通じ", "て"), ("始ま", "る"), ("使い", "やすい"),
+    ("お", "受け", "します"), ("屈し", "て", "い", "ない"),
+    ("復帰", "せ", "ず"), ("行わ", "れています"), ("発生", "しました"),
+    ("お", "受け", "し", "ます"), ("選ば", "れ", "た"), ("発表", "さ", "れ", "ます"),
+    ("確認", "し", "て", "い", "ます"), ("テーマ", "に", "し", "て", "い", "ます"),
+    ("交通", "系"), ("IC", "カード"), ("好き", "な"), ("登場", "する"),
+    ("専門", "家"), ("一", "人"), ("一", "日"), ("一", "回"),
 ), key=len, reverse=True)
 
 BASE_URL = "https://kokomonster.com"
@@ -232,6 +244,7 @@ def build_source_article(raw: dict, overlay: dict, keyword_expansions: dict) -> 
             "speechJa": speech_text(piece["content"], vocabulary),
             "en": translation["en"],
             "zhHant": translation["zhHant"],
+            "readerGroups": source_reader_groups(piece),
             "tokens": [],
             "audio": {
                 "file": f"../audio/{article_dir}/{audio_name}",
@@ -297,14 +310,100 @@ def add_vocab_audio(article_id: int, slug: str, vocabulary: list[dict]) -> list[
     return enriched
 
 
-def add_word_tokens(article: dict, lexicon: dict[str, dict]) -> None:
+def source_reader_groups(piece: dict) -> list[dict]:
+    """Preserve the source editor's contextual word groups and translations."""
+    def annotation_reading(item: dict) -> str:
+        sentence = TOKEN_INLINE_PUNCTUATION.sub("", item.get("Sentence", ""))
+        furigana = TOKEN_INLINE_PUNCTUATION.sub("", item.get("Furigana", ""))
+        if not furigana:
+            return sentence
+        parts = re.split(r"([一-龯々]+)", sentence)
+        inserted = False
+        output = []
+        for part in parts:
+            if not part:
+                continue
+            if re.fullmatch(r"[一-龯々]+", part):
+                if not inserted:
+                    output.append(furigana)
+                    inserted = True
+            else:
+                output.append(part)
+        return "".join(output) if inserted else sentence
+
+    groups = []
+    for raw_group in piece.get("furiganaMeta", []):
+        if not isinstance(raw_group, dict):
+            continue
+        annotations = [item for item in raw_group.get("annotations", []) if isinstance(item, dict)]
+        surface = "".join(item.get("Sentence", "") for item in annotations)
+        surface = TOKEN_INLINE_PUNCTUATION.sub("", surface)
+        if not surface:
+            continue
+        reading = "".join(annotation_reading(item) for item in annotations)
+        translations = {
+            item.get("code") or "romaji": item.get("content", "")
+            for item in raw_group.get("translations", [])
+            if isinstance(item, dict)
+        }
+        groups.append({
+            "text": surface,
+            "reading": reading,
+            "romaji": translations.get("romaji", ""),
+            "en": translations.get("en", ""),
+            "zhHant": translations.get("zh-TW", ""),
+            "showRuby": bool(re.search(r"[一-龯々]", surface)),
+        })
+    return groups
+
+
+def merge_source_reader_groups(items: list[dict], groups: list[dict], overrides: dict[str, dict]) -> list[dict] | None:
+    """Align editorial word groups with narration timings; fall back if source data disagrees."""
+    if not groups:
+        return None
+    words = [item for item in items if not TOKEN_PUNCTUATION.fullmatch(item["text"])]
+    timing_text = "".join(item["text"] for item in words)
+    group_text = "".join(item["text"] for item in groups)
+    if timing_text != group_text:
+        return None
+    spans = []
+    character_cursor = 0
+    for word in words:
+        length = max(1, len(word["text"]))
+        spans.append((character_cursor, character_cursor + length, word))
+        character_cursor += length
+
+    def time_at(position: int) -> float:
+        if position >= character_cursor:
+            last = words[-1]
+            return float(last["offsetMs"]) + float(last["durationMs"])
+        start, end, word = next(span for span in spans if span[0] <= position < span[1])
+        fraction = (position - start) / max(1, end - start)
+        return float(word["offsetMs"]) + float(word["durationMs"]) * fraction
+
+    merged = []
+    group_cursor = 0
+    for group in groups:
+        start = time_at(group_cursor)
+        group_cursor += len(group["text"])
+        end = time_at(group_cursor)
+        metadata = {**group, **overrides.get(group["text"], {})}
+        if any(not metadata.get(field) for field in ("reading", "romaji", "en", "zhHant")):
+            return None
+        merged.append({**metadata, "offsetMs": start, "durationMs": end - start})
+    return merged
+
+
+def add_word_tokens(article: dict, lexicon: dict[str, dict], overrides: dict[str, dict]) -> None:
     """Attach stable display metadata to each timed narration word."""
     article_path = ARTICLE_ROOT / f"{article['id']}-{article['slug']}.json"
     for sentence in article["sentences"]:
         timing_path = (article_path.parent / sentence["audio"]["timings"]).resolve()
-        timings = merge_timing_tokens(read_json(timing_path)) if timing_path.exists() else []
+        raw_timings = read_json(timing_path) if timing_path.exists() else []
+        source_groups = merge_source_reader_groups(raw_timings, sentence.pop("readerGroups", []), overrides)
+        timings = source_groups or merge_timing_tokens(raw_timings)
         sentence["tokens"] = [
-            {
+            timing if source_groups else {
                 "text": timing["text"],
                 "offsetMs": timing["offsetMs"],
                 "durationMs": timing["durationMs"],
@@ -315,6 +414,7 @@ def add_word_tokens(article: dict, lexicon: dict[str, dict]) -> None:
                     "zhHant": "參閱句子翻譯",
                     "showRuby": False,
                 }),
+                "showRuby": bool(re.search(r"[一-龯々]", timing["text"])),
             }
             for timing in timings
         ]
@@ -416,6 +516,9 @@ def main() -> None:
     overlays = read_json(ROOT / "localization-overlay.json")
     keyword_expansions = read_json(ROOT / "keyword-expansions.json")
     token_lexicon = read_json(ROOT / "word-token-lexicon.json")
+    token_overrides = read_json(ROOT / "word-token-overrides.json")
+    for surface, override in token_overrides.items():
+        token_lexicon[surface] = {**token_lexicon.get(surface, {}), **override}
     sources = source_articles()
     if set(SOURCE_IDS) - set(sources):
         raise ValueError(f"Missing source IDs: {sorted(set(SOURCE_IDS) - set(sources))}")
@@ -474,7 +577,7 @@ def main() -> None:
     write_json(ROOT / "manifest.json", manifest)
 
     for article in articles:
-        add_word_tokens(article, token_lexicon)
+        add_word_tokens(article, token_lexicon, token_overrides)
         write_json(ARTICLE_ROOT / f"{article['id']}-{article['slug']}.json", article)
         write_scripts(article)
         (AUDIO_ROOT / f"{article['id']}-{article['slug']}").mkdir(parents=True, exist_ok=True)

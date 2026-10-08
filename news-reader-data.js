@@ -1,8 +1,28 @@
 (()=>{
   const root='/content/news/';
-  const cache='v=47';
+  const cache='v=50';
   const esc=value=>String(value??'').replace(/[&<>"']/g,char=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[char]));
   const assetPath=(value,prefix)=>value?.replace(/^(\.\.\/)+/,prefix)||'';
+  const toHiragana=value=>String(value??'').replace(/[\u30a1-\u30f6]/g,char=>String.fromCharCode(char.charCodeAt(0)-0x60));
+  const rubyMarkup=(surface,reading)=>{
+    const text=String(surface??''),kana=toHiragana(reading);
+    if(!kana||!/[\u4e00-\u9faf\u3005]/.test(text))return esc(text);
+    const runs=text.match(/[\u4e00-\u9faf\u30050-9０-９]+|[^\u4e00-\u9faf\u30050-9０-９]+/g)||[text];
+    let cursor=0;
+    return runs.map((run,index)=>{
+      const annotated=/[\u4e00-\u9faf\u30050-9０-９]/.test(run);
+      if(!annotated){
+        const plain=toHiragana(run);
+        if(kana.startsWith(plain,cursor))cursor+=plain.length;
+        return esc(run);
+      }
+      const nextPlain=runs.slice(index+1).find(item=>!/[\u4e00-\u9faf\u30050-9０-９]/.test(item));
+      const boundary=nextPlain?kana.indexOf(toHiragana(nextPlain),cursor):-1;
+      const end=boundary>=cursor?boundary:kana.length;
+      const rubyReading=kana.slice(cursor,end);cursor=end;
+      return rubyReading?`<ruby>${esc(run)}<rt>${esc(rubyReading)}</rt></ruby>`:esc(run);
+    }).join('');
+  };
   const articleId=()=>{
     const query=new URLSearchParams(location.search).get('story');
     const path=location.pathname.match(/-(\d+)\/?$/)?.[1];
@@ -23,7 +43,7 @@
     const terms=[...vocabulary].sort((a,b)=>b.surface.length-a.surface.length);
     const renderToken=item=>{
       const exact=vocab.get(item.text);
-      if(exact)return `<mark data-word="${esc(exact.surface)}"><ruby>${esc(exact.surface)}<rt>${esc(exact.reading)}</rt></ruby></mark>`;
+      if(exact)return `<mark data-word="${esc(exact.surface)}">${rubyMarkup(exact.surface,exact.reading)}</mark>`;
       const contained=terms.find(term=>{
         const position=item.text.indexOf(term.surface);if(position<0)return false;
         const surrounding=item.text.slice(0,position)+item.text.slice(position+term.surface.length);
@@ -31,9 +51,9 @@
       });
       if(contained){
         const position=item.text.indexOf(contained.surface);const before=item.text.slice(0,position);const after=item.text.slice(position+contained.surface.length);
-        return `${esc(before)}<mark data-word="${esc(contained.surface)}"><ruby>${esc(contained.surface)}<rt>${esc(contained.reading)}</rt></ruby></mark>${esc(after)}`;
+        return `${esc(before)}<mark data-word="${esc(contained.surface)}">${rubyMarkup(contained.surface,contained.reading)}</mark>${esc(after)}`;
       }
-      return item.showRuby&&item.reading?`<ruby>${esc(item.text)}<rt>${esc(item.reading)}</rt></ruby>`:esc(item.text);
+      return item.showRuby&&item.reading?rubyMarkup(item.text,item.reading):esc(item.text);
     };
     let output='',cursor=0;
     tokens.forEach(item=>{
@@ -49,7 +69,7 @@
     const vocab=new Map(vocabulary.map(item=>[item.surface,item]));
     return `<div class="reader-word-mode" lang="ja" data-sentence-index="${sentenceIndex}" hidden>${tokens.map(item=>{
       const word=vocab.get(item.text);const reading=item.reading||word?.reading||'';const annotated=item.showRuby&&reading;
-      const display=annotated?`<ruby>${esc(item.text)}<rt>${esc(reading)}</rt></ruby>`:esc(item.text);
+      const display=annotated?rubyMarkup(item.text,reading):esc(item.text);
       const glossEn=item.en||word?.en||'see sentence translation';const glossZh=item.zhHant||word?.zhHant||'參閱句子翻譯';
       const start=Math.max(0,Number(item.offsetMs)||0);const end=start+Math.max(1,Number(item.durationMs)||1);
       return `<button type="button" class="reader-token" data-token-speech="${esc(word?.speechJa||reading||item.text)}" data-token-audio="${esc(audioFile)}" data-token-start="${start}" data-token-end="${end}" data-sentence-index="${sentenceIndex}" aria-label="Play ${esc(item.text)}"><b>${display}</b><i>${esc(item.romaji||'')}</i><em data-en="${esc(glossEn)}" data-zh="${esc(glossZh)}">${esc(glossEn)}</em></button>`;

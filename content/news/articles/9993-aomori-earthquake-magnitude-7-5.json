@@ -110,7 +110,7 @@
           "romaji": "magunichuudo",
           "en": "magnitude",
           "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "showRuby": false
         },
         {
           "text": "7",
@@ -178,8 +178,8 @@
           "durationMs": 1005.0900000000001,
           "reading": "ありました",
           "romaji": "arimashita",
-          "en": "to be; to exist",
-          "zhHant": "參閱句子翻譯",
+          "en": "occurred; there was",
+          "zhHant": "發生了；有",
           "showRuby": false
         }
       ],
@@ -312,8 +312,8 @@
           "durationMs": 1313.362,
           "reading": "ひなんしました",
           "romaji": "hinanshimashita",
-          "en": "taking refuge; finding shelter",
-          "zhHant": "參閱句子翻譯",
+          "en": "evacuated",
+          "zhHant": "避難了",
           "showRuby": true
         }
       ],
@@ -411,24 +411,14 @@
           "showRuby": false
         },
         {
-          "text": "確認",
+          "text": "確認しています",
           "offsetMs": 3270.791,
-          "durationMs": 445.02300000000014,
-          "reading": "かくにん",
-          "romaji": "kakunin",
-          "en": "confirmation; verification",
-          "zhHant": "參閱句子翻譯",
+          "durationMs": 1557.5810000000001,
+          "reading": "かくにんしています",
+          "romaji": "kakuninshiteimasu",
+          "en": "is checking; is confirming",
+          "zhHant": "正在確認",
           "showRuby": true
-        },
-        {
-          "text": "しています",
-          "offsetMs": 3715.814,
-          "durationMs": 1112.5580000000004,
-          "reading": "しています",
-          "romaji": "shiteimasu",
-          "en": "to do; to carry out",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": false
         }
       ],
       "audio": {
@@ -550,8 +540,8 @@
           "durationMs": 1476.5720000000006,
           "reading": "みあわせました",
           "romaji": "miawasemashita",
-          "en": "to exchange glances; to look at each other",
-          "zhHant": "參閱句子翻譯",
+          "en": "suspended; held off",
+          "zhHant": "暫停；擱置",
           "showRuby": true
         }
       ],
@@ -569,23 +559,13 @@
       "speechJa": "専門家は、しばらくの間、強いゆれに注意するよう呼びかけています。",
       "tokens": [
         {
-          "text": "専門",
+          "text": "専門家",
           "offsetMs": 100.0,
-          "durationMs": 410.353,
-          "reading": "せんもん",
-          "romaji": "senmon",
-          "en": "speciality; specialty",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
-        },
-        {
-          "text": "家",
-          "offsetMs": 510.353,
-          "durationMs": 205.176,
-          "reading": "いえ",
-          "romaji": "ie",
-          "en": "house; residence",
-          "zhHant": "參閱句子翻譯",
+          "durationMs": 615.529,
+          "reading": "せんもんか",
+          "romaji": "senmonka",
+          "en": "expert",
+          "zhHant": "專家",
           "showRuby": true
         },
         {
@@ -604,8 +584,8 @@
           "durationMs": 820.7060000000001,
           "reading": "しばらく",
           "romaji": "shibaraku",
-          "en": "for a moment; for a minute",
-          "zhHant": "參閱句子翻譯",
+          "en": "for a while",
+          "zhHant": "一段時間",
           "showRuby": false
         },
         {
@@ -624,8 +604,8 @@
           "durationMs": 205.17599999999993,
           "reading": "ま",
           "romaji": "ma",
-          "en": "space (between); gap",
-          "zhHant": "參閱句子翻譯",
+          "en": "period; while",
+          "zhHant": "期間；之間",
           "showRuby": true
         },
         {
@@ -694,8 +674,8 @@
           "durationMs": 1641.4120000000003,
           "reading": "よびかけています",
           "romaji": "yobikaketeimasu",
-          "en": "to call out to; to hail",
-          "zhHant": "參閱句子翻譯",
+          "en": "is urging; is calling on",
+          "zhHant": "正在呼籲",
           "showRuby": true
         }
       ],

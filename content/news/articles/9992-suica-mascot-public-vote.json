@@ -53,44 +53,24 @@
       "speechJa": "交通系アイシーカードのスイカが、新しいキャラクターのこうほを発表しました。",
       "tokens": [
         {
-          "text": "交通",
+          "text": "交通系",
           "offsetMs": 100.0,
-          "durationMs": 363.594,
-          "reading": "こうつう",
-          "romaji": "koutsuu",
-          "en": "traffic; transportation",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
-        },
-        {
-          "text": "系",
-          "offsetMs": 463.594,
-          "durationMs": 181.79699999999997,
-          "reading": "けい",
-          "romaji": "kei",
-          "en": "system; lineage",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
-        },
-        {
-          "text": "IC",
-          "offsetMs": 645.391,
-          "durationMs": 363.59399999999994,
-          "reading": "アイシー",
-          "romaji": "aishii",
-          "en": "integrated circuit; IC",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": false
-        },
-        {
-          "text": "カード",
-          "offsetMs": 1008.986,
           "durationMs": 545.391,
-          "reading": "かーど",
-          "romaji": "kaado",
-          "en": "card (information, filing, etc.)",
-          "zhHant": "參閱句子翻譯",
+          "reading": "こうつうけい",
+          "romaji": "koutsuukei",
+          "en": "transportation system",
+          "zhHant": "交通系統",
           "showRuby": true
+        },
+        {
+          "text": "ICカード",
+          "offsetMs": 645.391,
+          "durationMs": 908.986,
+          "reading": "あいしーかーど",
+          "romaji": "aishiikaado",
+          "en": "IC card",
+          "zhHant": "IC卡",
+          "showRuby": false
         },
         {
           "text": "の",
@@ -140,7 +120,7 @@
           "romaji": "kyarakutaa",
           "en": "character; personality",
           "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "showRuby": false
         },
         {
           "text": "の",
@@ -178,8 +158,8 @@
           "durationMs": 1090.7829999999994,
           "reading": "はっぴょうしました",
           "romaji": "happyoushimashita",
-          "en": "announcement; publication",
-          "zhHant": "參閱句子翻譯",
+          "en": "announced",
+          "zhHant": "公布了",
           "showRuby": true
         }
       ],
@@ -237,24 +217,14 @@
           "showRuby": false
         },
         {
-          "text": "好き",
+          "text": "好きな",
           "offsetMs": 2436.17,
-          "durationMs": 415.31899999999996,
-          "reading": "すき",
-          "romaji": "suki",
-          "en": "liked; well-liked",
-          "zhHant": "參閱句子翻譯",
+          "durationMs": 622.9789999999998,
+          "reading": "すきな",
+          "romaji": "sukina",
+          "en": "favorite; liked",
+          "zhHant": "喜歡的",
           "showRuby": true
-        },
-        {
-          "text": "な",
-          "offsetMs": 2851.489,
-          "durationMs": 207.65999999999985,
-          "reading": "な",
-          "romaji": "na",
-          "en": "linking ending",
-          "zhHant": "連接詞尾",
-          "showRuby": false
         },
         {
           "text": "候補",
@@ -292,8 +262,8 @@
           "durationMs": 830.6379999999999,
           "reading": "できます",
           "romaji": "dekimasu",
-          "en": "to be able (in a position) to do; to be up to the task",
-          "zhHant": "參閱句子翻譯",
+          "en": "can; is able to",
+          "zhHant": "可以；能夠",
           "showRuby": false
         }
       ],
@@ -381,33 +351,13 @@
           "showRuby": false
         },
         {
-          "text": "テーマ",
+          "text": "テーマにしています",
           "offsetMs": 2565.953,
-          "durationMs": 603.9070000000002,
-          "reading": "てーま",
-          "romaji": "teema",
-          "en": "theme; topic",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
-        },
-        {
-          "text": "に",
-          "offsetMs": 3169.86,
-          "durationMs": 201.30200000000013,
-          "reading": "に",
-          "romaji": "ni",
-          "en": "to; at; in",
-          "zhHant": "向；在；於",
-          "showRuby": false
-        },
-        {
-          "text": "しています",
-          "offsetMs": 3371.163,
-          "durationMs": 1006.5120000000002,
-          "reading": "しています",
-          "romaji": "shiteimasu",
-          "en": "to do; to carry out",
-          "zhHant": "參閱句子翻譯",
+          "durationMs": 1811.7220000000002,
+          "reading": "てーまにしています",
+          "romaji": "teemanishiteimasu",
+          "en": "is themed around",
+          "zhHant": "以……為主題",
           "showRuby": false
         }
       ],
@@ -445,63 +395,33 @@
           "showRuby": false
         },
         {
-          "text": "一",
+          "text": "一人",
           "offsetMs": 873.434,
-          "durationMs": 257.8109999999999,
-          "reading": "いち",
-          "romaji": "ichi",
-          "en": "one",
-          "zhHant": "參閱句子翻譯",
+          "durationMs": 515.6219999999998,
+          "reading": "ひとり",
+          "romaji": "hitori",
+          "en": "one person",
+          "zhHant": "一人",
           "showRuby": true
         },
         {
-          "text": "人",
-          "offsetMs": 1131.245,
-          "durationMs": 257.8109999999999,
-          "reading": "ひと",
-          "romaji": "hito",
-          "en": "-ian (e.g. Italian); -ite (e.g. Tokyoite)",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
-        },
-        {
-          "text": "一",
+          "text": "一日",
           "offsetMs": 1389.057,
-          "durationMs": 257.8109999999999,
-          "reading": "いち",
-          "romaji": "ichi",
-          "en": "one",
-          "zhHant": "參閱句子翻譯",
+          "durationMs": 515.6219999999998,
+          "reading": "いちにち",
+          "romaji": "ichinichi",
+          "en": "one day; per day",
+          "zhHant": "一天；每日",
           "showRuby": true
         },
         {
-          "text": "日",
-          "offsetMs": 1646.868,
-          "durationMs": 257.8109999999999,
-          "reading": "ひ",
-          "romaji": "hi",
-          "en": "day; days",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
-        },
-        {
-          "text": "一",
+          "text": "一回",
           "offsetMs": 1904.679,
-          "durationMs": 257.81100000000015,
-          "reading": "いち",
-          "romaji": "ichi",
-          "en": "one",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
-        },
-        {
-          "text": "回",
-          "offsetMs": 2162.491,
-          "durationMs": 257.81100000000015,
-          "reading": "かい",
-          "romaji": "kai",
-          "en": "counter for occurrences",
-          "zhHant": "參閱句子翻譯",
+          "durationMs": 515.623,
+          "reading": "いっかい",
+          "romaji": "ikkai",
+          "en": "once; one time",
+          "zhHant": "一次",
           "showRuby": true
         },
         {
@@ -539,24 +459,14 @@
       "speechJa": "選ばれたキャラクターは、駅のポスターやアプリに登場する予定です。",
       "tokens": [
         {
-          "text": "選ば",
+          "text": "選ばれた",
           "offsetMs": 100.0,
-          "durationMs": 371.934,
-          "reading": "えらば",
-          "romaji": "eraba",
-          "en": "to choose; to select",
-          "zhHant": "參閱句子翻譯",
+          "durationMs": 743.869,
+          "reading": "えらばれた",
+          "romaji": "erabareta",
+          "en": "selected; chosen",
+          "zhHant": "被選中的",
           "showRuby": true
-        },
-        {
-          "text": "れた",
-          "offsetMs": 471.934,
-          "durationMs": 371.935,
-          "reading": "れた",
-          "romaji": "reta",
-          "en": "indicates passive voice (incl. the \"suffering passive\")",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": false
         },
         {
           "text": "キャラクター",
@@ -566,7 +476,7 @@
           "romaji": "kyarakutaa",
           "en": "character; personality",
           "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "showRuby": false
         },
         {
           "text": "は",
@@ -606,7 +516,7 @@
           "romaji": "posutaa",
           "en": "poster",
           "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "showRuby": false
         },
         {
           "text": "や",
@@ -626,7 +536,7 @@
           "romaji": "apuri",
           "en": "app; application",
           "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "showRuby": false
         },
         {
           "text": "に",
@@ -639,24 +549,14 @@
           "showRuby": false
         },
         {
-          "text": "登場",
+          "text": "登場する",
           "offsetMs": 4237.77,
-          "durationMs": 371.9340000000002,
-          "reading": "とうじょう",
-          "romaji": "toujou",
-          "en": "entry (on stage); appearance (on screen)",
-          "zhHant": "參閱句子翻譯",
+          "durationMs": 743.8689999999997,
+          "reading": "とうじょうする",
+          "romaji": "toujousuru",
+          "en": "to appear",
+          "zhHant": "登場；出現",
           "showRuby": true
-        },
-        {
-          "text": "する",
-          "offsetMs": 4609.705,
-          "durationMs": 371.9340000000002,
-          "reading": "する",
-          "romaji": "suru",
-          "en": "to do",
-          "zhHant": "做；進行",
-          "showRuby": false
         },
         {
           "text": "予定",
@@ -723,34 +623,14 @@
           "showRuby": true
         },
         {
-          "text": "発表",
+          "text": "発表されます",
           "offsetMs": 1468.8,
-          "durationMs": 522.24,
-          "reading": "はっぴょう",
-          "romaji": "happyou",
-          "en": "announcement; publication",
-          "zhHant": "參閱句子翻譯",
+          "durationMs": 1566.7200000000005,
+          "reading": "はっぴょうされます",
+          "romaji": "happyousaremasu",
+          "en": "will be announced",
+          "zhHant": "將會公布",
           "showRuby": true
-        },
-        {
-          "text": "さ",
-          "offsetMs": 1991.04,
-          "durationMs": 261.1199999999999,
-          "reading": "さ",
-          "romaji": "sa",
-          "en": "difference; variation",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": false
-        },
-        {
-          "text": "れます",
-          "offsetMs": 2252.16,
-          "durationMs": 783.3600000000006,
-          "reading": "れます",
-          "romaji": "remasu",
-          "en": "indicates passive voice (incl. the \"suffering passive\")",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": false
         }
       ],
       "audio": {

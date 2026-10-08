@@ -148,8 +148,8 @@
           "durationMs": 1052.6309999999994,
           "reading": "なりました",
           "romaji": "narimashita",
-          "en": "to become; to get",
-          "zhHant": "參閱句子翻譯",
+          "en": "became",
+          "zhHant": "成為了",
           "showRuby": false
         }
       ],
@@ -331,34 +331,14 @@
           "showRuby": true
         },
         {
-          "text": "お",
+          "text": "お受けします",
           "offsetMs": 1664.513,
-          "durationMs": 215.79500000000007,
-          "reading": "お",
-          "romaji": "o",
-          "en": "cord; strap",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": false
-        },
-        {
-          "text": "受け",
-          "offsetMs": 1880.308,
-          "durationMs": 431.59000000000015,
-          "reading": "うけ",
-          "romaji": "uke",
-          "en": "popularity; favour",
-          "zhHant": "參閱句子翻譯",
+          "durationMs": 1294.7690000000002,
+          "reading": "おうけします",
+          "romaji": "ouke shimasu",
+          "en": "accept (polite)",
+          "zhHant": "接受（敬語）",
           "showRuby": true
-        },
-        {
-          "text": "します",
-          "offsetMs": 2311.897,
-          "durationMs": 647.3850000000002,
-          "reading": "します",
-          "romaji": "shimasu",
-          "en": "to do; to carry out",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": false
         },
         {
           "text": "と",
@@ -534,8 +514,8 @@
           "durationMs": 239.832,
           "reading": "ひと",
           "romaji": "hito",
-          "en": "-ian (e.g. Italian); -ite (e.g. Tokyoite)",
-          "zhHant": "參閱句子翻譯",
+          "en": "person; people",
+          "zhHant": "人；人們",
           "showRuby": true
         },
         {
@@ -544,8 +524,8 @@
           "durationMs": 479.663,
           "reading": "たち",
           "romaji": "tachi",
-          "en": "mansion; palace",
-          "zhHant": "參閱句子翻譯",
+          "en": "plural marker for people",
+          "zhHant": "人的複數詞尾",
           "showRuby": false
         },
         {
@@ -584,8 +564,8 @@
           "durationMs": 479.663,
           "reading": "よろこび",
           "romaji": "yorokobi",
-          "en": "joy; delight",
-          "zhHant": "參閱句子翻譯",
+          "en": "rejoiced; celebrated",
+          "zhHant": "歡喜；慶祝",
           "showRuby": true
         },
         {
@@ -698,8 +678,8 @@
           "durationMs": 429.2679999999998,
           "reading": "かつやく",
           "romaji": "katsuyaku",
-          "en": "activity (esp. energetic); great efforts",
-          "zhHant": "參閱句子翻譯",
+          "en": "success; strong performance",
+          "zhHant": "活躍表現；成就",
           "showRuby": true
         },
         {

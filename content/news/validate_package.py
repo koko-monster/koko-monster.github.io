@@ -12,6 +12,29 @@ from build_content_package import merge_timing_tokens
 
 
 ROOT = Path(__file__).resolve().parent
+KANJI = re.compile(r"[一-龯々]")
+RUBY_RUNS = re.compile(r"[一-龯々0-9０-９]+|[^一-龯々0-9０-９]+")
+
+
+def hiragana(value: str) -> str:
+    return "".join(chr(ord(char) - 0x60) if "ァ" <= char <= "ヶ" else char for char in value)
+
+
+def ruby_reading_aligns(surface: str, reading: str) -> bool:
+    """Every visible kana run must occur in order in the supplied reading."""
+    if not KANJI.search(surface):
+        return True
+    normalized = hiragana(reading)
+    cursor = 0
+    for run in RUBY_RUNS.findall(surface):
+        if KANJI.search(run) or re.search(r"[0-9０-９]", run):
+            continue
+        plain = hiragana(run)
+        position = normalized.find(plain, cursor)
+        if position < 0:
+            return False
+        cursor = position + len(plain)
+    return True
 
 
 def checksum(path: Path) -> str:
@@ -82,16 +105,31 @@ def main() -> None:
                         errors.append(f"Empty/invalid timings: {timing_path}")
                     timed_words = merge_timing_tokens(timings)
                     tokens = sentence.get("tokens", [])
-                    if len(tokens) != len(timed_words):
+                    token_text = "".join(item.get("text", "") for item in tokens)
+                    timing_text = "".join(item.get("text", "") for item in timed_words)
+                    if token_text != timing_text:
                         errors.append(
-                            f"Token/timing mismatch: {article['id']} {sentence['id']} "
-                            f"{len(tokens)} != {len(timed_words)}"
+                            f"Token/timing text mismatch: {article['id']} {sentence['id']} "
+                            f"{token_text!r} != {timing_text!r}"
                         )
                     for token in tokens:
                         required = ("text", "reading", "romaji", "en", "zhHant", "offsetMs", "durationMs")
                         if any(token.get(field) in (None, "") for field in required):
                             errors.append(
                                 f"Incomplete word token: {article['id']} {sentence['id']} {token.get('text')}"
+                            )
+                        if token.get("en") == "see sentence translation":
+                            errors.append(
+                                f"Placeholder English token gloss: {article['id']} {sentence['id']} {token.get('text')}"
+                            )
+                        if bool(token.get("showRuby")) != bool(KANJI.search(token.get("text", ""))):
+                            errors.append(
+                                f"Incorrect ruby flag: {article['id']} {sentence['id']} {token.get('text')}"
+                            )
+                        if not ruby_reading_aligns(token.get("text", ""), token.get("reading", "")):
+                            errors.append(
+                                f"Misaligned ruby reading: {article['id']} {sentence['id']} "
+                                f"{token.get('text')} / {token.get('reading')}"
                             )
             source_audio = sentence.get("sourceAudio")
             if source_audio:

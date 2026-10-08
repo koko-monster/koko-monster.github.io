@@ -54,154 +54,84 @@
       "zhHant": "美軍表示，航空母艦喬治・華盛頓號航經連接馬來西亞與印度尼西亞的馬六甲海峽。",
       "tokens": [
         {
-          "text": "米軍",
+          "text": "米軍は",
+          "reading": "べいぐんは",
+          "romaji": "Beigun wa,",
+          "en": "The U.S. military,",
+          "zhHant": "美軍，",
+          "showRuby": true,
           "offsetMs": 54.93,
-          "durationMs": 590.503,
-          "reading": "べいぐん",
-          "romaji": "beigun",
-          "en": "US armed forces",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 1112.3429999999998
         },
         {
-          "text": "は",
-          "offsetMs": 645.433,
-          "durationMs": 521.8400000000001,
-          "reading": "は",
-          "romaji": "wa",
-          "en": "topic marker",
-          "zhHant": "主題助詞",
-          "showRuby": false
-        },
-        {
-          "text": "空母",
+          "text": "空母ジョージ",
+          "reading": "くうぼジョージ",
+          "romaji": "Kūbo Jōji・",
+          "en": "Aircraft carrier George・",
+          "zhHant": "航空母艦喬治・",
+          "showRuby": true,
           "offsetMs": 1167.273,
-          "durationMs": 439.44399999999996,
-          "reading": "くうぼ",
-          "romaji": "kuubo",
-          "en": "aircraft carrier",
-          "zhHant": "航空母艦",
-          "showRuby": true
+          "durationMs": 1208.47
         },
         {
-          "text": "ジョージ",
-          "offsetMs": 1606.717,
-          "durationMs": 659.1660000000002,
-          "reading": "じょーじ",
-          "romaji": "jooji",
-          "en": "George",
-          "zhHant": "喬治",
-          "showRuby": true
-        },
-        {
-          "text": "ワシントン",
+          "text": "ワシントンが",
+          "reading": "ワシントンが",
+          "romaji": "Washinton ga",
+          "en": "Washington",
+          "zhHant": "華盛頓",
+          "showRuby": false,
           "offsetMs": 2375.743,
-          "durationMs": 672.8980000000001,
-          "reading": "わしんとん",
-          "romaji": "washinton",
-          "en": "Washington, DC (United States)",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 837.69
         },
         {
-          "text": "が",
-          "offsetMs": 3048.642,
-          "durationMs": 164.79100000000017,
-          "reading": "が",
-          "romaji": "ga",
-          "en": "subject marker",
-          "zhHant": "主語助詞",
-          "showRuby": false
-        },
-        {
-          "text": "マレーシア",
+          "text": "マレーシアと",
+          "reading": "マレーシアと",
+          "romaji": "Marēshia to",
+          "en": "Malaysia and",
+          "zhHant": "馬來西亞和",
+          "showRuby": false,
           "offsetMs": 3213.433,
-          "durationMs": 631.701,
-          "reading": "まれーしあ",
-          "romaji": "mareeshia",
-          "en": "Malaysia",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 851.4230000000002
         },
         {
-          "text": "と",
-          "offsetMs": 3845.134,
-          "durationMs": 219.7220000000002,
-          "reading": "と",
-          "romaji": "to",
-          "en": "and; with; that",
-          "zhHant": "和；與；表示引用",
-          "showRuby": false
-        },
-        {
-          "text": "インドネシア",
-          "offsetMs": 4064.856,
-          "durationMs": 782.7589999999996,
-          "reading": "いんどねしあ",
-          "romaji": "indoneshia",
+          "text": "インドネシアを",
+          "reading": "インドネシアを",
+          "romaji": "Indoneshia o",
           "en": "Indonesia",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
-        },
-        {
-          "text": "を",
-          "offsetMs": 4847.615,
-          "durationMs": 164.79100000000017,
-          "reading": "を",
-          "romaji": "o",
-          "en": "object marker",
-          "zhHant": "受詞助詞",
-          "showRuby": false
+          "zhHant": "印尼",
+          "showRuby": false,
+          "offsetMs": 4064.856,
+          "durationMs": 947.5499999999997
         },
         {
           "text": "結ぶ",
-          "offsetMs": 5012.406,
-          "durationMs": 535.5720000000001,
           "reading": "むすぶ",
-          "romaji": "musubu",
-          "en": "to tie; to bind",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "romaji": "Musubu",
+          "en": "connect",
+          "zhHant": "連接",
+          "showRuby": true,
+          "offsetMs": 5012.406,
+          "durationMs": 535.5730000000003
         },
         {
-          "text": "マラッカ",
+          "text": "マラッカ海峡を",
+          "reading": "マラッカかいきょうを",
+          "romaji": "Marakka Kaikyō o",
+          "en": "Malacca Strait",
+          "zhHant": "馬六甲海峽",
+          "showRuby": true,
           "offsetMs": 5547.979,
-          "durationMs": 494.3739999999998,
-          "reading": "まらっか",
-          "romaji": "marakka",
-          "en": "Malacca",
-          "zhHant": "馬六甲",
-          "showRuby": true
-        },
-        {
-          "text": "海峡",
-          "offsetMs": 6042.353,
-          "durationMs": 494.3739999999998,
-          "reading": "かいきょう",
-          "romaji": "kaikyou",
-          "en": "strait",
-          "zhHant": "海峽",
-          "showRuby": true
-        },
-        {
-          "text": "を",
-          "offsetMs": 6536.727,
-          "durationMs": 137.32600000000002,
-          "reading": "を",
-          "romaji": "o",
-          "en": "object marker",
-          "zhHant": "受詞助詞",
-          "showRuby": false
+          "durationMs": 1126.0739999999996
         },
         {
           "text": "航行した",
-          "offsetMs": 6674.053,
-          "durationMs": 1029.9470000000001,
           "reading": "こうこうした",
-          "romaji": "koukoushita",
-          "en": "cruise; navigation",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "romaji": "Kōkō shita.",
+          "en": "sailed.",
+          "zhHant": "航行了。",
+          "showRuby": true,
+          "offsetMs": 6674.053,
+          "durationMs": 1029.9470000000001
         }
       ],
       "audio": {
@@ -299,134 +229,54 @@
       "zhHant": "美軍亦發布艦載機在印度洋執行飛行任務的片段。",
       "tokens": [
         {
-          "text": "インド",
+          "text": "インド洋で",
+          "reading": "インドようで",
+          "romaji": "Indo yō de",
+          "en": "in the Indian Ocean",
+          "zhHant": "在印度洋",
+          "showRuby": true,
           "offsetMs": 60.923,
-          "durationMs": 487.385,
-          "reading": "いんど",
-          "romaji": "indo",
-          "en": "India",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 974.769
         },
         {
-          "text": "洋",
-          "offsetMs": 548.308,
-          "durationMs": 304.615,
-          "reading": "よう",
-          "romaji": "you",
-          "en": "open sea",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
-        },
-        {
-          "text": "で",
-          "offsetMs": 852.923,
-          "durationMs": 182.769,
-          "reading": "で",
-          "romaji": "de",
-          "en": "at; by; with",
-          "zhHant": "在；以；用",
-          "showRuby": false
-        },
-        {
-          "text": "航空",
+          "text": "航空任務を",
+          "reading": "こうくうにんむを",
+          "romaji": "Kōkū ninmu o",
+          "en": "air mission",
+          "zhHant": "航空任務",
+          "showRuby": true,
           "offsetMs": 1035.692,
-          "durationMs": 594.0,
-          "reading": "こうくう",
-          "romaji": "koukuu",
-          "en": "aviation; flying",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 1157.5390000000002
         },
         {
-          "text": "任務",
-          "offsetMs": 1629.692,
-          "durationMs": 380.769,
-          "reading": "にんむ",
-          "romaji": "ninmu",
-          "en": "duty; function",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
-        },
-        {
-          "text": "を",
-          "offsetMs": 2010.462,
-          "durationMs": 182.76899999999978,
-          "reading": "を",
-          "romaji": "o",
-          "en": "object marker",
-          "zhHant": "受詞助詞",
-          "showRuby": false
-        },
-        {
-          "text": "実施",
+          "text": "実施する",
+          "reading": "じっしする",
+          "romaji": "Jisshi suru",
+          "en": "to implement",
+          "zhHant": "實施",
+          "showRuby": true,
           "offsetMs": 2193.231,
-          "durationMs": 411.2310000000002,
-          "reading": "じっし",
-          "romaji": "jisshi",
-          "en": "enforcement; implementation",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 715.846
         },
         {
-          "text": "する",
-          "offsetMs": 2604.462,
-          "durationMs": 304.61500000000024,
-          "reading": "する",
-          "romaji": "suru",
-          "en": "to do",
-          "zhHant": "做；進行",
-          "showRuby": false
-        },
-        {
-          "text": "様子",
+          "text": "様子も",
+          "reading": "ようすも",
+          "romaji": "Yōsu mo",
+          "en": "the state of",
+          "zhHant": "情況也",
+          "showRuby": true,
           "offsetMs": 2909.077,
-          "durationMs": 441.692,
-          "reading": "ようす",
-          "romaji": "yousu",
-          "en": "state; state of affairs",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 624.4609999999998
         },
         {
-          "text": "も",
-          "offsetMs": 3350.769,
-          "durationMs": 182.76899999999978,
-          "reading": "も",
-          "romaji": "mo",
-          "en": "also; too",
-          "zhHant": "也；亦",
-          "showRuby": false
-        },
-        {
-          "text": "公開",
+          "text": "公開された",
+          "reading": "こうかいされた",
+          "romaji": "Kōkai sareta",
+          "en": "was made public.",
+          "zhHant": "被公開。",
+          "showRuby": true,
           "offsetMs": 3533.538,
-          "durationMs": 502.61500000000024,
-          "reading": "こうかい",
-          "romaji": "koukai",
-          "en": "opening to the public; making available to the public",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
-        },
-        {
-          "text": "さ",
-          "offsetMs": 4036.154,
-          "durationMs": 167.538,
-          "reading": "さ",
-          "romaji": "sa",
-          "en": "difference; variation",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": false
-        },
-        {
-          "text": "れた",
-          "offsetMs": 4203.692,
-          "durationMs": 548.308,
-          "reading": "れた",
-          "romaji": "reta",
-          "en": "indicates passive voice (incl. the \"suffering passive\")",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": false
+          "durationMs": 1218.462
         }
       ],
       "audio": {
@@ -508,284 +358,154 @@
       "zhHant": "片段攝於8月13日，可見航母甲板，以及艦隻駛過全球最繁忙航道之一的情況。",
       "tokens": [
         {
-          "text": "映像",
+          "text": "映像は",
+          "reading": "えいぞうは",
+          "romaji": "Eizō wa",
+          "en": "The image",
+          "zhHant": "影像",
+          "showRuby": true,
           "offsetMs": 56.722,
-          "durationMs": 567.217,
-          "reading": "えいぞう",
-          "romaji": "eizou",
-          "en": "image (on a screen); picture (e.g. on a TV)",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
-        },
-        {
-          "text": "は",
-          "offsetMs": 623.939,
-          "durationMs": 226.88700000000006,
-          "reading": "は",
-          "romaji": "wa",
-          "en": "topic marker",
-          "zhHant": "主題助詞",
-          "showRuby": false
+          "durationMs": 794.104
         },
         {
           "text": "8月",
-          "offsetMs": 850.826,
-          "durationMs": 666.48,
           "reading": "8つき",
-          "romaji": "8tsuki",
-          "en": "8 month",
-          "zhHant": "8月",
-          "showRuby": true
+          "romaji": "Hachi-gatsu",
+          "en": "August",
+          "zhHant": "八月",
+          "showRuby": true,
+          "offsetMs": 850.826,
+          "durationMs": 666.48
         },
         {
           "text": "13日",
+          "reading": "13にち",
+          "romaji": "Jūsan-nichi",
+          "en": "13th",
+          "zhHant": "13日",
+          "showRuby": true,
           "offsetMs": 1517.306,
-          "durationMs": 779.924,
-          "reading": "じゅうさんにち",
-          "romaji": "juusannichi",
-          "en": "13th day; date",
-          "zhHant": "13日；日期",
-          "showRuby": true
+          "durationMs": 779.924
         },
         {
           "text": "に",
-          "offsetMs": 2297.23,
-          "durationMs": 141.8040000000001,
           "reading": "に",
           "romaji": "ni",
-          "en": "to; at; in",
-          "zhHant": "向；在；於",
-          "showRuby": false
+          "en": "at",
+          "zhHant": "在",
+          "showRuby": false,
+          "offsetMs": 2297.23,
+          "durationMs": 141.8040000000001
         },
         {
-          "text": "撮影",
+          "text": "撮影され",
+          "reading": "さつえいされ",
+          "romaji": "Satsuei sare,",
+          "en": "was filmed,",
+          "zhHant": "拍攝，",
+          "showRuby": true,
           "offsetMs": 2439.034,
-          "durationMs": 538.8560000000002,
-          "reading": "さつえい",
-          "romaji": "satsuei",
-          "en": "photography (still or motion); photographing",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 1361.3220000000001
         },
         {
-          "text": "さ",
-          "offsetMs": 2977.891,
-          "durationMs": 170.16499999999996,
-          "reading": "さ",
-          "romaji": "sa",
-          "en": "difference; variation",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": false
-        },
-        {
-          "text": "れ",
-          "offsetMs": 3148.056,
-          "durationMs": 652.2999999999997,
-          "reading": "れ",
-          "romaji": "re",
-          "en": "passive verb ending",
-          "zhHant": "被動動詞詞尾",
-          "showRuby": false
-        },
-        {
-          "text": "世界",
+          "text": "世界で",
+          "reading": "せかいで",
+          "romaji": "Sekai de",
+          "en": "in the world",
+          "zhHant": "在世界",
+          "showRuby": true,
           "offsetMs": 3800.356,
-          "durationMs": 439.5930000000003,
-          "reading": "せかい",
-          "romaji": "sekai",
-          "en": "the world; society",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
-        },
-        {
-          "text": "で",
-          "offsetMs": 4239.949,
-          "durationMs": 184.34600000000046,
-          "reading": "で",
-          "romaji": "de",
-          "en": "at; by; with",
-          "zhHant": "在；以；用",
-          "showRuby": false
+          "durationMs": 623.9389999999999
         },
         {
           "text": "最も",
-          "offsetMs": 4424.295,
-          "durationMs": 581.3980000000001,
           "reading": "もっとも",
-          "romaji": "mottomo",
-          "en": "most; extremely",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "romaji": "Motto",
+          "en": "most",
+          "zhHant": "最",
+          "showRuby": true,
+          "offsetMs": 4424.295,
+          "durationMs": 581.3980000000001
         },
         {
-          "text": "交通",
+          "text": "交通量の",
+          "reading": "こうつうりょうの",
+          "romaji": "Kōtsū-ryō no",
+          "en": "traffic volume's",
+          "zhHant": "交通量的",
+          "showRuby": true,
           "offsetMs": 5005.693,
-          "durationMs": 524.6760000000004,
-          "reading": "こうつう",
-          "romaji": "koutsuu",
-          "en": "traffic; transportation",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
-        },
-        {
-          "text": "量",
-          "offsetMs": 5530.368,
-          "durationMs": 269.4279999999999,
-          "reading": "りょう",
-          "romaji": "ryou",
-          "en": "quantity; amount",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
-        },
-        {
-          "text": "の",
-          "offsetMs": 5799.797,
-          "durationMs": 113.44300000000021,
-          "reading": "の",
-          "romaji": "no",
-          "en": "of; possessive marker",
-          "zhHant": "的；所有格助詞",
-          "showRuby": false
+          "durationMs": 907.5469999999996
         },
         {
           "text": "多い",
-          "offsetMs": 5913.24,
-          "durationMs": 439.59299999999985,
           "reading": "おおい",
-          "romaji": "ooi",
-          "en": "many; numerous",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "romaji": "Ōi",
+          "en": "many",
+          "zhHant": "多",
+          "showRuby": true,
+          "offsetMs": 5913.24,
+          "durationMs": 439.59400000000005
         },
         {
-          "text": "海峡",
+          "text": "海峡の",
+          "reading": "かいきょうの",
+          "romaji": "Kaikyō no",
+          "en": "strait's",
+          "zhHant": "海峽的",
+          "showRuby": true,
           "offsetMs": 6352.834,
-          "durationMs": 524.6760000000004,
-          "reading": "かいきょう",
-          "romaji": "kaikyou",
-          "en": "strait",
-          "zhHant": "海峽",
-          "showRuby": true
+          "durationMs": 652.299
         },
         {
-          "text": "の",
-          "offsetMs": 6877.51,
-          "durationMs": 127.6239999999998,
-          "reading": "の",
-          "romaji": "no",
-          "en": "of; possessive marker",
-          "zhHant": "的；所有格助詞",
-          "showRuby": false
-        },
-        {
-          "text": "一つ",
-          "offsetMs": 7005.133,
-          "durationMs": 467.9539999999997,
-          "reading": "ひとつ",
-          "romaji": "hitotsu",
+          "text": "一つを",
+          "reading": "ひとつを",
+          "romaji": "Hitotsu o",
           "en": "one",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "zhHant": "一個",
+          "showRuby": true,
+          "offsetMs": 7005.133,
+          "durationMs": 623.9390000000003
         },
         {
-          "text": "を",
-          "offsetMs": 7473.088,
-          "durationMs": 155.98499999999967,
-          "reading": "を",
-          "romaji": "o",
-          "en": "object marker",
-          "zhHant": "受詞助詞",
-          "showRuby": false
-        },
-        {
-          "text": "航行",
-          "offsetMs": 7629.072,
-          "durationMs": 524.6760000000004,
-          "reading": "こうこう",
-          "romaji": "koukou",
-          "en": "navigation; to sail",
+          "text": "航行する",
+          "reading": "こうこうする",
+          "romaji": "Kōkō suru",
+          "en": "to navigate",
           "zhHant": "航行",
-          "showRuby": true
+          "showRuby": true,
+          "offsetMs": 7629.072,
+          "durationMs": 879.1869999999999
         },
         {
-          "text": "する",
-          "offsetMs": 8153.748,
-          "durationMs": 354.5110000000004,
-          "reading": "する",
-          "romaji": "suru",
-          "en": "to do",
-          "zhHant": "做；進行",
-          "showRuby": false
-        },
-        {
-          "text": "空母",
+          "text": "空母の",
+          "reading": "くうぼの",
+          "romaji": "Kūbo no",
+          "en": "aircraft carrier's",
+          "zhHant": "航空母艦的",
+          "showRuby": true,
           "offsetMs": 8508.259,
-          "durationMs": 382.8719999999994,
-          "reading": "くうぼ",
-          "romaji": "kuubo",
-          "en": "aircraft carrier",
-          "zhHant": "航空母艦",
-          "showRuby": true
+          "durationMs": 581.3979999999992
         },
         {
-          "text": "の",
-          "offsetMs": 8891.131,
-          "durationMs": 198.52599999999984,
-          "reading": "の",
-          "romaji": "no",
-          "en": "of; possessive marker",
-          "zhHant": "的；所有格助詞",
-          "showRuby": false
-        },
-        {
-          "text": "甲板",
+          "text": "甲板が",
+          "reading": "かんぱんが",
+          "romaji": "Kanpan ga",
+          "en": "deck",
+          "zhHant": "甲板",
+          "showRuby": true,
           "offsetMs": 9089.657,
-          "durationMs": 553.0370000000003,
-          "reading": "かんぱん",
-          "romaji": "kanpan",
-          "en": "deck (of a ship)",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 709.0220000000008
         },
         {
-          "text": "が",
-          "offsetMs": 9642.694,
-          "durationMs": 155.98500000000058,
-          "reading": "が",
-          "romaji": "ga",
-          "en": "subject marker",
-          "zhHant": "主語助詞",
-          "showRuby": false
-        },
-        {
-          "text": "映し",
+          "text": "映し出されている",
+          "reading": "うつしだされている",
+          "romaji": "Utsushi dasarete iru.",
+          "en": "is being projected.",
+          "zhHant": "正在顯示。",
+          "showRuby": true,
           "offsetMs": 9798.679,
-          "durationMs": 453.77399999999943,
-          "reading": "うつし",
-          "romaji": "utsushi",
-          "en": "to project; to reflect",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
-        },
-        {
-          "text": "出さ",
-          "offsetMs": 10252.452,
-          "durationMs": 269.4279999999999,
-          "reading": "ださ",
-          "romaji": "dasa",
-          "en": "to take out; to get out",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
-        },
-        {
-          "text": "れている",
-          "offsetMs": 10521.881,
-          "durationMs": 638.1190000000006,
-          "reading": "れている",
-          "romaji": "reteiru",
-          "en": "indicates passive voice (incl. the \"suffering passive\")",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": false
+          "durationMs": 1361.321
         }
       ],
       "audio": {
@@ -932,123 +652,73 @@
       "tokens": [
         {
           "text": "ジョージ",
-          "offsetMs": 60.253,
-          "durationMs": 828.478,
-          "reading": "じょーじ",
-          "romaji": "jooji",
+          "reading": "ジョージ",
+          "romaji": "Jōji",
           "en": "George",
           "zhHant": "喬治",
-          "showRuby": true
+          "showRuby": false,
+          "offsetMs": 60.253,
+          "durationMs": 994.1729999999999
         },
         {
-          "text": "ワシントン",
+          "text": "ワシントンは",
+          "reading": "ワシントンは",
+          "romaji": "Washinton wa",
+          "en": "Washington",
+          "zhHant": "華盛頓",
+          "showRuby": false,
           "offsetMs": 1054.426,
-          "durationMs": 753.162,
-          "reading": "わしんとん",
-          "romaji": "washinton",
-          "en": "Washington, DC (United States)",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 948.9840000000002
         },
         {
-          "text": "は",
-          "offsetMs": 1807.588,
-          "durationMs": 195.8219999999999,
-          "reading": "は",
-          "romaji": "wa",
-          "en": "topic marker",
-          "zhHant": "主題助詞",
-          "showRuby": false
-        },
-        {
-          "text": "エイ",
+          "text": "エイブラハム",
+          "reading": "えいぶらはむ",
+          "romaji": "eiburahamu",
+          "en": "Abraham",
+          "zhHant": "亞伯拉罕",
+          "showRuby": false,
           "offsetMs": 2003.41,
-          "durationMs": 271.13800000000015,
-          "reading": "えい",
-          "romaji": "ei",
-          "en": "ray (any fish of superorder Batoidea)",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 1144.805
         },
         {
-          "text": "ブラハム",
-          "offsetMs": 2274.548,
-          "durationMs": 813.415,
-          "reading": "ぶらはむ",
-          "romaji": "burahamu",
-          "en": "bra",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
-        },
-        {
-          "text": "リンカーン",
-          "offsetMs": 3148.215,
-          "durationMs": 587.4659999999999,
-          "reading": "りんかーん",
-          "romaji": "rinkaan",
+          "text": "リンカーンに",
+          "reading": "リンカーンに",
+          "romaji": "Rinkān ni",
           "en": "Lincoln",
           "zhHant": "林肯",
-          "showRuby": true
+          "showRuby": false,
+          "offsetMs": 3148.215,
+          "durationMs": 798.3519999999999
         },
         {
-          "text": "に",
-          "offsetMs": 3735.681,
-          "durationMs": 210.88499999999976,
-          "reading": "に",
-          "romaji": "ni",
-          "en": "to; at; in",
-          "zhHant": "向；在；於",
-          "showRuby": false
-        },
-        {
-          "text": "代わる",
+          "text": "代わるため",
+          "reading": "かわるため",
+          "romaji": "kawaru tame",
+          "en": "to replace",
+          "zhHant": "取代",
+          "showRuby": true,
           "offsetMs": 3946.567,
-          "durationMs": 436.83399999999983,
-          "reading": "かわる",
-          "romaji": "kawaru",
-          "en": "to succeed; to relieve",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 753.1610000000001
         },
         {
-          "text": "ため",
-          "offsetMs": 4383.4,
-          "durationMs": 316.3279999999995,
-          "reading": "ため",
-          "romaji": "tame",
-          "en": "for; because of",
-          "zhHant": "為了；由於",
-          "showRuby": false
-        },
-        {
-          "text": "中東",
+          "text": "中東へ",
+          "reading": "ちゅうとうへ",
+          "romaji": "Chūtō e",
+          "en": "to the Middle East",
+          "zhHant": "中東",
+          "showRuby": true,
           "offsetMs": 4699.728,
-          "durationMs": 617.5929999999998,
-          "reading": "ちゅうとう",
-          "romaji": "chuutou",
-          "en": "Middle East",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
-        },
-        {
-          "text": "へ",
-          "offsetMs": 5317.321,
-          "durationMs": 120.50600000000031,
-          "reading": "へ",
-          "romaji": "e",
-          "en": "toward; to",
-          "zhHant": "往；向",
-          "showRuby": false
+          "durationMs": 738.0990000000002
         },
         {
           "text": "向かっている",
-          "offsetMs": 5437.827,
-          "durationMs": 994.1729999999998,
           "reading": "むかっている",
-          "romaji": "mukatteiru",
-          "en": "to face",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "romaji": "mukatte iru",
+          "en": "is heading",
+          "zhHant": "正在前往",
+          "showRuby": true,
+          "offsetMs": 5437.827,
+          "durationMs": 994.1729999999998
         }
       ],
       "audio": {
@@ -1138,174 +808,84 @@
       "zhHant": "受與伊朗戰事影響，林肯號已長時間留在海上。",
       "tokens": [
         {
-          "text": "エイ",
+          "text": "エイブラハムリンカーンは",
+          "reading": "エイブラハムリンカーンは",
+          "romaji": "Eiburahamu Rinkān wa",
+          "en": "Abraham Lincoln",
+          "zhHant": "亞伯拉罕·林肯",
+          "showRuby": false,
           "offsetMs": 59.439,
-          "durationMs": 326.913,
-          "reading": "えい",
-          "romaji": "ei",
-          "en": "ray (any fish of superorder Batoidea)",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 2169.514
         },
         {
-          "text": "ブラハム",
-          "offsetMs": 386.352,
-          "durationMs": 832.1429999999999,
-          "reading": "ぶらはむ",
-          "romaji": "burahamu",
-          "en": "bra",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
-        },
-        {
-          "text": "リンカーン",
-          "offsetMs": 1263.073,
-          "durationMs": 638.9669999999999,
-          "reading": "りんかーん",
-          "romaji": "rinkaan",
-          "en": "Lincoln",
-          "zhHant": "林肯",
-          "showRuby": true
-        },
-        {
-          "text": "は",
-          "offsetMs": 1902.04,
-          "durationMs": 326.913,
-          "reading": "は",
-          "romaji": "wa",
-          "en": "topic marker",
-          "zhHant": "主題助詞",
-          "showRuby": false
-        },
-        {
-          "text": "イラン",
+          "text": "イランとの",
+          "reading": "イランとの",
+          "romaji": "Iran to no",
+          "en": "with Iran",
+          "zhHant": "與伊朗的",
+          "showRuby": false,
           "offsetMs": 2228.953,
-          "durationMs": 371.4920000000002,
-          "reading": "いらん",
-          "romaji": "iran",
-          "en": "Iran",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
-        },
-        {
-          "text": "と",
-          "offsetMs": 2600.445,
-          "durationMs": 148.5970000000002,
-          "reading": "と",
-          "romaji": "to",
-          "en": "and; with; that",
-          "zhHant": "和；與；表示引用",
-          "showRuby": false
-        },
-        {
-          "text": "の",
-          "offsetMs": 2749.042,
-          "durationMs": 178.3159999999998,
-          "reading": "の",
-          "romaji": "no",
-          "en": "of; possessive marker",
-          "zhHant": "的；所有格助詞",
-          "showRuby": false
+          "durationMs": 698.406
         },
         {
           "text": "戦争",
-          "offsetMs": 2927.359,
-          "durationMs": 609.2469999999998,
           "reading": "せんそう",
-          "romaji": "sensou",
+          "romaji": "sensō",
           "en": "war",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "zhHant": "戰爭",
+          "showRuby": true,
+          "offsetMs": 2927.359,
+          "durationMs": 609.2470000000003
         },
         {
           "text": "の",
-          "offsetMs": 3536.606,
-          "durationMs": 118.87800000000016,
           "reading": "の",
           "romaji": "no",
-          "en": "of; possessive marker",
-          "zhHant": "的；所有格助詞",
-          "showRuby": false
+          "en": "of",
+          "zhHant": "的",
+          "showRuby": false,
+          "offsetMs": 3536.606,
+          "durationMs": 118.87699999999995
         },
         {
-          "text": "影響",
+          "text": "影響で",
+          "reading": "えいきょうで",
+          "romaji": "eikyō de",
+          "en": "due to the influence",
+          "zhHant": "由於影響",
+          "showRuby": true,
           "offsetMs": 3655.483,
-          "durationMs": 564.6679999999997,
-          "reading": "えいきょう",
-          "romaji": "eikyou",
-          "en": "influence; effect",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 787.5639999999994
         },
         {
-          "text": "で",
-          "offsetMs": 4220.151,
-          "durationMs": 222.89500000000044,
-          "reading": "で",
-          "romaji": "de",
-          "en": "at; by; with",
-          "zhHant": "在；以；用",
-          "showRuby": false
-        },
-        {
-          "text": "長期",
+          "text": "長期にわたり",
+          "reading": "ちょうきにわたり",
+          "romaji": "chōki ni watari",
+          "en": "for a long time",
+          "zhHant": "長期",
+          "showRuby": true,
           "offsetMs": 4443.047,
-          "durationMs": 505.22900000000027,
-          "reading": "ちょうき",
-          "romaji": "chouki",
-          "en": "long-term",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 1114.4760000000006
         },
         {
-          "text": "に",
-          "offsetMs": 4948.276,
-          "durationMs": 148.59699999999975,
-          "reading": "に",
-          "romaji": "ni",
-          "en": "to; at; in",
-          "zhHant": "向；在；於",
-          "showRuby": false
-        },
-        {
-          "text": "わたり",
-          "offsetMs": 5096.873,
-          "durationMs": 460.64999999999964,
-          "reading": "わたり",
-          "romaji": "watari",
-          "en": "crossing; passage",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": false
-        },
-        {
-          "text": "海上",
+          "text": "海上に",
+          "reading": "かいじょうに",
+          "romaji": "kaijō ni",
+          "en": "at sea",
+          "zhHant": "在海上",
+          "showRuby": true,
           "offsetMs": 5557.523,
-          "durationMs": 564.6679999999997,
-          "reading": "かいじょう",
-          "romaji": "kaijou",
-          "en": "on the sea; surface of the sea",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
-        },
-        {
-          "text": "に",
-          "offsetMs": 6122.192,
-          "durationMs": 133.73700000000008,
-          "reading": "に",
-          "romaji": "ni",
-          "en": "to; at; in",
-          "zhHant": "向；在；於",
-          "showRuby": false
+          "durationMs": 698.406
         },
         {
           "text": "いる",
-          "offsetMs": 6255.929,
-          "durationMs": 416.0709999999999,
           "reading": "いる",
           "romaji": "iru",
-          "en": "to be; to exist",
-          "zhHant": "在；存在",
-          "showRuby": false
+          "en": "is",
+          "zhHant": "在",
+          "showRuby": false,
+          "offsetMs": 6255.929,
+          "durationMs": 416.0709999999999
         }
       ],
       "audio": {
@@ -1403,154 +983,84 @@
       "zhHant": "情況引起國會議員及軍人家屬憂慮。",
       "tokens": [
         {
-          "text": "その",
+          "text": "そのため",
+          "reading": "そのため",
+          "romaji": "sono tame",
+          "en": "for that reason,",
+          "zhHant": "因此，",
+          "showRuby": false,
           "offsetMs": 57.555,
-          "durationMs": 402.885,
-          "reading": "その",
-          "romaji": "sono",
-          "en": "that; the",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": false
+          "durationMs": 1122.3229999999999
         },
         {
-          "text": "ため",
-          "offsetMs": 460.44,
-          "durationMs": 719.4379999999999,
-          "reading": "ため",
-          "romaji": "tame",
-          "en": "for; because of",
-          "zhHant": "為了；由於",
-          "showRuby": false
-        },
-        {
-          "text": "議員",
+          "text": "議員や",
+          "reading": "ぎいんや",
+          "romaji": "giin ya",
+          "en": "members of parliament and",
+          "zhHant": "議員和",
+          "showRuby": true,
           "offsetMs": 1179.878,
-          "durationMs": 417.2740000000001,
-          "reading": "ぎいん",
-          "romaji": "giin",
-          "en": "member of an assembly; member of the Diet",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 690.6610000000001
         },
         {
-          "text": "や",
-          "offsetMs": 1597.152,
-          "durationMs": 273.38599999999997,
-          "reading": "や",
-          "romaji": "ya",
-          "en": "and; such as",
-          "zhHant": "和；例如",
-          "showRuby": false
-        },
-        {
-          "text": "軍",
+          "text": "軍の",
+          "reading": "ぐんの",
+          "romaji": "gun no",
+          "en": "military's",
+          "zhHant": "軍隊的",
+          "showRuby": true,
           "offsetMs": 1870.539,
-          "durationMs": 316.5530000000001,
-          "reading": "ぐん",
-          "romaji": "gun",
-          "en": "army; armed forces",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 503.606
         },
         {
-          "text": "の",
-          "offsetMs": 2187.091,
-          "durationMs": 187.0540000000001,
-          "reading": "の",
-          "romaji": "no",
-          "en": "of; possessive marker",
-          "zhHant": "的；所有格助詞",
-          "showRuby": false
-        },
-        {
-          "text": "関係者",
+          "text": "関係者の",
+          "reading": "かんけいしゃの",
+          "romaji": "kankei sha no",
+          "en": "related parties'",
+          "zhHant": "相關人士的",
+          "showRuby": true,
           "offsetMs": 2374.145,
-          "durationMs": 661.8830000000003,
-          "reading": "かんけいしゃ",
-          "romaji": "kankeisha",
-          "en": "person concerned; people involved (in an event)",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 863.326
         },
         {
-          "text": "の",
-          "offsetMs": 3036.028,
-          "durationMs": 201.4430000000002,
-          "reading": "の",
-          "romaji": "no",
-          "en": "of; possessive marker",
-          "zhHant": "的；所有格助詞",
-          "showRuby": false
-        },
-        {
-          "text": "家族",
+          "text": "家族の",
+          "reading": "かぞくの",
+          "romaji": "kazoku no",
+          "en": "family's",
+          "zhHant": "家人的",
+          "showRuby": true,
           "offsetMs": 3237.471,
-          "durationMs": 446.05200000000013,
-          "reading": "かぞく",
-          "romaji": "kazoku",
-          "en": "family; members of a family",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 561.1610000000001
         },
         {
-          "text": "の",
-          "offsetMs": 3683.522,
-          "durationMs": 115.11000000000013,
-          "reading": "の",
-          "romaji": "no",
-          "en": "of; possessive marker",
-          "zhHant": "的；所有格助詞",
-          "showRuby": false
-        },
-        {
-          "text": "間",
+          "text": "間で",
+          "reading": "まで",
+          "romaji": "ma de",
+          "en": "among",
+          "zhHant": "之間",
+          "showRuby": true,
           "offsetMs": 3798.632,
-          "durationMs": 417.2739999999999,
-          "reading": "ま",
-          "romaji": "ma",
-          "en": "space (between); gap",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 690.6609999999996
         },
         {
-          "text": "で",
-          "offsetMs": 4215.906,
-          "durationMs": 273.3860000000004,
-          "reading": "で",
-          "romaji": "de",
-          "en": "at; by; with",
-          "zhHant": "在；以；用",
-          "showRuby": false
-        },
-        {
-          "text": "懸念",
+          "text": "懸念が",
+          "reading": "けねんが",
+          "romaji": "kenen ga",
+          "en": "concerns",
+          "zhHant": "擔憂",
+          "showRuby": true,
           "offsetMs": 4489.293,
-          "durationMs": 431.66300000000047,
-          "reading": "けねん",
-          "romaji": "kenen",
-          "en": "concern",
-          "zhHant": "關注；憂慮",
-          "showRuby": true
-        },
-        {
-          "text": "が",
-          "offsetMs": 4920.956,
-          "durationMs": 129.4989999999998,
-          "reading": "が",
-          "romaji": "ga",
-          "en": "subject marker",
-          "zhHant": "主語助詞",
-          "showRuby": false
+          "durationMs": 561.1610000000001
         },
         {
           "text": "広がっている",
-          "offsetMs": 5050.454,
-          "durationMs": 1093.5460000000003,
           "reading": "ひろがっている",
-          "romaji": "hirogatteiru",
-          "en": "to spread (out); to extend",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "romaji": "hiro gatte iru",
+          "en": "is spreading.",
+          "zhHant": "正在擴散。",
+          "showRuby": true,
+          "offsetMs": 5050.454,
+          "durationMs": 1093.5460000000003
         }
       ],
       "audio": {
@@ -1644,104 +1154,74 @@
       "zhHant": "本月初，林肯號一名船員墮海。",
       "tokens": [
         {
-          "text": "今月",
+          "text": "今月初め",
+          "reading": "こんげつはじめ",
+          "romaji": "kongetsu hajime,",
+          "en": "beginning of this month,",
+          "zhHant": "這個月初",
+          "showRuby": true,
           "offsetMs": 61.818,
-          "durationMs": 664.545,
-          "reading": "こんげつ",
-          "romaji": "kongetsu",
-          "en": "this month",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 1421.818
         },
         {
-          "text": "初め",
-          "offsetMs": 726.364,
-          "durationMs": 757.2730000000001,
-          "reading": "はじめ",
-          "romaji": "hajime",
-          "en": "beginning; start",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
-        },
-        {
-          "text": "エイブラハム",
+          "text": "エイブラハムリンカーンから",
+          "reading": "エイブラハムリンカーンから",
+          "romaji": "Eiburahamu Rinkān kara",
+          "en": "from Abraham Lincoln",
+          "zhHant": "從艾布拉罕·林肯",
+          "showRuby": false,
           "offsetMs": 1483.636,
-          "durationMs": 1035.455,
-          "reading": "えいぶらはむ",
-          "romaji": "eiburahamu",
-          "en": "Abraham",
-          "zhHant": "亞伯拉罕",
-          "showRuby": true
+          "durationMs": 2024.5459999999998
         },
         {
-          "text": "リンカーン",
-          "offsetMs": 2550.0,
-          "durationMs": 618.1819999999998,
-          "reading": "りんかーん",
-          "romaji": "rinkaan",
-          "en": "Lincoln",
-          "zhHant": "林肯",
-          "showRuby": true
-        },
-        {
-          "text": "から",
-          "offsetMs": 3168.182,
-          "durationMs": 340.0,
-          "reading": "から",
-          "romaji": "kara",
-          "en": "from; because",
-          "zhHant": "從；因為",
-          "showRuby": false
-        },
-        {
-          "text": "乗組員",
-          "offsetMs": 3508.182,
-          "durationMs": 803.6359999999995,
-          "reading": "のりくみいん",
-          "romaji": "norikumiin",
-          "en": "crew member",
+          "text": "乗組",
+          "reading": "のりくみ",
+          "romaji": "nori-kumi",
+          "en": "crew",
           "zhHant": "船員",
-          "showRuby": true
+          "showRuby": true,
+          "offsetMs": 3508.182,
+          "durationMs": 535.757333333333
         },
         {
-          "text": "が",
-          "offsetMs": 4311.818,
-          "durationMs": 170.0,
-          "reading": "が",
-          "romaji": "ga",
-          "en": "subject marker",
-          "zhHant": "主語助詞",
-          "showRuby": false
+          "text": "員が",
+          "reading": "いんが",
+          "romaji": "in ga",
+          "en": "the crew",
+          "zhHant": "船員",
+          "showRuby": true,
+          "offsetMs": 4043.939333333333,
+          "durationMs": 437.8786666666674
         },
         {
-          "text": "海",
+          "text": "海に",
+          "reading": "うみに",
+          "romaji": "umi ni",
+          "en": "into the sea",
+          "zhHant": "進入海中",
+          "showRuby": true,
           "offsetMs": 4481.818,
-          "durationMs": 309.09100000000035,
-          "reading": "うみ",
-          "romaji": "umi",
-          "en": "sea; ocean",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 510.0
         },
         {
-          "text": "に",
-          "offsetMs": 4790.909,
-          "durationMs": 200.90899999999965,
-          "reading": "に",
-          "romaji": "ni",
-          "en": "to; at; in",
-          "zhHant": "向；在；於",
-          "showRuby": false
-        },
-        {
-          "text": "転落した",
+          "text": "転落",
+          "reading": "てんらく",
+          "romaji": "tenraku",
+          "en": "fell",
+          "zhHant": "墜落",
+          "showRuby": true,
           "offsetMs": 4991.818,
-          "durationMs": 1128.1819999999998,
-          "reading": "てんらくした",
-          "romaji": "tenrakushita",
-          "en": "fall; tumble",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 540.9089999999997
+        },
+        {
+          "text": "した",
+          "reading": "した",
+          "romaji": "shita.",
+          "en": "did.",
+          "zhHant": "了。",
+          "showRuby": false,
+          "offsetMs": 5532.727,
+          "durationMs": 587.2730000000001
         }
       ],
       "audio": {
@@ -1820,113 +1300,63 @@
       "tokens": [
         {
           "text": "また",
-          "offsetMs": 61.325,
-          "durationMs": 827.893,
           "reading": "また",
           "romaji": "mata",
-          "en": "crotch; crutch",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": false
+          "en": "also; again",
+          "zhHant": "也；再次",
+          "showRuby": false,
+          "offsetMs": 61.325,
+          "durationMs": 827.8929999999999
         },
         {
-          "text": "乗組員",
+          "text": "乗組員の",
+          "reading": "のりくみいんの",
+          "romaji": "nori kumiy no",
+          "en": "crew's",
+          "zhHant": "乘組員的",
+          "showRuby": true,
           "offsetMs": 889.218,
-          "durationMs": 812.561,
-          "reading": "のりくみいん",
-          "romaji": "norikumiin",
-          "en": "crew member",
-          "zhHant": "船員",
-          "showRuby": true
-        },
-        {
-          "text": "の",
-          "offsetMs": 1701.779,
-          "durationMs": 214.63900000000012,
-          "reading": "の",
-          "romaji": "no",
-          "en": "of; possessive marker",
-          "zhHant": "的；所有格助詞",
-          "showRuby": false
+          "durationMs": 1027.1999999999998
         },
         {
           "text": "精神",
-          "offsetMs": 1916.418,
-          "durationMs": 613.2540000000001,
           "reading": "せいしん",
           "romaji": "seishin",
-          "en": "mind; spirit",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "en": "mental",
+          "zhHant": "精神",
+          "showRuby": true,
+          "offsetMs": 1916.418,
+          "durationMs": 613.2540000000001
         },
         {
-          "text": "状態",
+          "text": "状態の",
+          "reading": "じょうたいの",
+          "romaji": "joutai no",
+          "en": "state of",
+          "zhHant": "狀態的",
+          "showRuby": true,
           "offsetMs": 2529.672,
-          "durationMs": 490.60300000000007,
-          "reading": "じょうたい",
-          "romaji": "joutai",
-          "en": "state; condition",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 613.2530000000002
         },
         {
-          "text": "の",
-          "offsetMs": 3020.275,
-          "durationMs": 122.65099999999984,
-          "reading": "の",
-          "romaji": "no",
-          "en": "of; possessive marker",
-          "zhHant": "的；所有格助詞",
-          "showRuby": false
-        },
-        {
-          "text": "悪化",
+          "text": "悪化が",
+          "reading": "あっかが",
+          "romaji": "akka ga",
+          "en": "deterioration",
+          "zhHant": "惡化",
+          "showRuby": true,
           "offsetMs": 3142.925,
-          "durationMs": 459.94000000000005,
-          "reading": "あっか",
-          "romaji": "akka",
-          "en": "(suffer) deterioration; growing worse",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 628.585
         },
         {
-          "text": "が",
-          "offsetMs": 3602.866,
-          "durationMs": 168.64499999999998,
-          "reading": "が",
-          "romaji": "ga",
-          "en": "subject marker",
-          "zhHant": "主語助詞",
-          "showRuby": false
-        },
-        {
-          "text": "報じ",
+          "text": "報じられている",
+          "reading": "ほうじられている",
+          "romaji": "houjirarete iru",
+          "en": "is being reported",
+          "zhHant": "被報導",
+          "showRuby": true,
           "offsetMs": 3771.51,
-          "durationMs": 490.60300000000007,
-          "reading": "ほうじ",
-          "romaji": "houji",
-          "en": "to inform; to report",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
-        },
-        {
-          "text": "ら",
-          "offsetMs": 4262.113,
-          "durationMs": 137.98199999999997,
-          "reading": "ら",
-          "romaji": "ra",
-          "en": "plural suffix",
-          "zhHant": "複數詞尾",
-          "showRuby": false
-        },
-        {
-          "text": "れている",
-          "offsetMs": 4400.096,
-          "durationMs": 735.9040000000005,
-          "reading": "れている",
-          "romaji": "reteiru",
-          "en": "indicates passive voice (incl. the \"suffering passive\")",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": false
+          "durationMs": 1364.4899999999998
         }
       ],
       "audio": {
@@ -2004,254 +1434,124 @@
       "zhHant": "另一段公開片段顯示，飛機於18日從喬治・華盛頓號起飛，執行夜間任務。",
       "tokens": [
         {
-          "text": "さら",
+          "text": "さらに",
+          "reading": "さらに",
+          "romaji": "sarani",
+          "en": "furthermore; additionally",
+          "zhHant": "此外；進一步",
+          "showRuby": false,
           "offsetMs": 55.586,
-          "durationMs": 375.207,
-          "reading": "さら",
-          "romaji": "sara",
-          "en": "plate; dish",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": false
+          "durationMs": 569.759
         },
         {
-          "text": "に",
-          "offsetMs": 430.793,
-          "durationMs": 194.55200000000002,
-          "reading": "に",
-          "romaji": "ni",
-          "en": "to; at; in",
-          "zhHant": "向；在；於",
-          "showRuby": false
-        },
-        {
-          "text": "公開",
+          "text": "公開された",
+          "reading": "こうかいされた",
+          "romaji": "kōkai sareta",
+          "en": "was released",
+          "zhHant": "已公開",
+          "showRuby": true,
           "offsetMs": 625.345,
-          "durationMs": 486.37900000000013,
-          "reading": "こうかい",
-          "romaji": "koukai",
-          "en": "opening to the public; making available to the public",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 889.3789999999999
         },
         {
-          "text": "さ",
-          "offsetMs": 1111.724,
-          "durationMs": 152.86200000000008,
-          "reading": "さ",
-          "romaji": "sa",
-          "en": "difference; variation",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": false
-        },
-        {
-          "text": "れた",
-          "offsetMs": 1264.586,
-          "durationMs": 250.1389999999999,
-          "reading": "れた",
-          "romaji": "reta",
-          "en": "indicates passive voice (incl. the \"suffering passive\")",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": false
-        },
-        {
-          "text": "映像",
+          "text": "映像には",
+          "reading": "えいぞうには",
+          "romaji": "eizō ni wa",
+          "en": "in the footage,",
+          "zhHant": "在影片中，",
+          "showRuby": true,
           "offsetMs": 1514.724,
-          "durationMs": 514.172,
-          "reading": "えいぞう",
-          "romaji": "eizou",
-          "en": "image (on a screen); picture (e.g. on a TV)",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
-        },
-        {
-          "text": "に",
-          "offsetMs": 2028.897,
-          "durationMs": 111.17200000000003,
-          "reading": "に",
-          "romaji": "ni",
-          "en": "to; at; in",
-          "zhHant": "向；在；於",
-          "showRuby": false
-        },
-        {
-          "text": "は",
-          "offsetMs": 2140.069,
-          "durationMs": 514.172,
-          "reading": "は",
-          "romaji": "wa",
-          "en": "topic marker",
-          "zhHant": "主題助詞",
-          "showRuby": false
+          "durationMs": 1139.517
         },
         {
           "text": "18日",
+          "reading": "18にち",
+          "romaji": "jūhachi nichi",
+          "en": "18th",
+          "zhHant": "18日",
+          "showRuby": true,
           "offsetMs": 2654.241,
-          "durationMs": 889.3789999999999,
-          "reading": "じゅうはちにち",
-          "romaji": "juuhachinichi",
-          "en": "18th day; date",
-          "zhHant": "18日；日期",
-          "showRuby": true
+          "durationMs": 889.3800000000001
         },
         {
           "text": "に",
+          "reading": "に",
+          "romaji": "ni",
+          "en": "on",
+          "zhHant": "在",
+          "showRuby": false,
           "offsetMs": 3543.621,
-          "durationMs": 180.6550000000002,
-          "reading": "に",
-          "romaji": "ni",
-          "en": "to; at; in",
-          "zhHant": "向；在；於",
-          "showRuby": false
+          "durationMs": 180.65499999999975
         },
         {
-          "text": "ジョージ",
+          "text": "ジョージワシントンから",
+          "reading": "ジョージワシントンから",
+          "romaji": "Jōji Washinton kara",
+          "en": "from George Washington",
+          "zhHant": "從喬治·華盛頓",
+          "showRuby": false,
           "offsetMs": 3724.276,
-          "durationMs": 639.241,
-          "reading": "じょーじ",
-          "romaji": "jooji",
-          "en": "George",
-          "zhHant": "喬治",
-          "showRuby": true
+          "durationMs": 1737.0690000000004
         },
         {
-          "text": "ワシントン",
-          "offsetMs": 4488.586,
-          "durationMs": 639.241,
-          "reading": "わしんとん",
-          "romaji": "washinton",
-          "en": "Washington, DC (United States)",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
-        },
-        {
-          "text": "から",
-          "offsetMs": 5127.828,
-          "durationMs": 333.5169999999998,
-          "reading": "から",
-          "romaji": "kara",
-          "en": "from; because",
-          "zhHant": "從；因為",
-          "showRuby": false
-        },
-        {
-          "text": "航空機",
+          "text": "航空機が",
+          "reading": "こうくうきが",
+          "romaji": "kōkūki ga",
+          "en": "the aircraft",
+          "zhHant": "飛機",
+          "showRuby": true,
           "offsetMs": 5461.345,
-          "durationMs": 653.1379999999999,
-          "reading": "こうくうき",
-          "romaji": "koukuuki",
-          "en": "aircraft",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 861.5859999999993
         },
         {
-          "text": "が",
-          "offsetMs": 6114.483,
-          "durationMs": 208.44800000000032,
-          "reading": "が",
-          "romaji": "ga",
-          "en": "subject marker",
-          "zhHant": "主語助詞",
-          "showRuby": false
-        },
-        {
-          "text": "夜間",
+          "text": "夜間の",
+          "reading": "やかんの",
+          "romaji": "yakan no",
+          "en": "night",
+          "zhHant": "夜間",
+          "showRuby": true,
           "offsetMs": 6322.931,
-          "durationMs": 444.6899999999996,
-          "reading": "やかん",
-          "romaji": "yakan",
-          "en": "night; nighttime",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 597.5520000000006
         },
         {
-          "text": "の",
-          "offsetMs": 6767.621,
-          "durationMs": 152.86200000000008,
-          "reading": "の",
-          "romaji": "no",
-          "en": "of; possessive marker",
-          "zhHant": "的；所有格助詞",
-          "showRuby": false
-        },
-        {
-          "text": "任務",
+          "text": "任務に",
+          "reading": "にんむに",
+          "romaji": "ninmu ni",
+          "en": "mission",
+          "zhHant": "任務",
+          "showRuby": true,
           "offsetMs": 6920.483,
-          "durationMs": 403.0,
-          "reading": "にんむ",
-          "romaji": "ninmu",
-          "en": "duty; function",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
-        },
-        {
-          "text": "に",
-          "offsetMs": 7323.483,
-          "durationMs": 194.55199999999968,
-          "reading": "に",
-          "romaji": "ni",
-          "en": "to; at; in",
-          "zhHant": "向；在；於",
-          "showRuby": false
+          "durationMs": 597.5509999999995
         },
         {
           "text": "飛び立つ",
-          "offsetMs": 7518.034,
-          "durationMs": 583.6549999999997,
           "reading": "とびたつ",
-          "romaji": "tobitatsu",
-          "en": "to jump up; to start up",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "romaji": "tobi tatsu",
+          "en": "take off",
+          "zhHant": "起飛",
+          "showRuby": true,
+          "offsetMs": 7518.034,
+          "durationMs": 583.656
         },
         {
-          "text": "様子",
+          "text": "様子が",
+          "reading": "ようすが",
+          "romaji": "yōsu ga",
+          "en": "the state",
+          "zhHant": "情況",
+          "showRuby": true,
           "offsetMs": 8101.69,
-          "durationMs": 416.89699999999993,
-          "reading": "ようす",
-          "romaji": "yousu",
-          "en": "state; state of affairs",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 541.965000000001
         },
         {
-          "text": "が",
-          "offsetMs": 8518.586,
-          "durationMs": 125.0689999999995,
-          "reading": "が",
-          "romaji": "ga",
-          "en": "subject marker",
-          "zhHant": "主語助詞",
-          "showRuby": false
-        },
-        {
-          "text": "映っ",
+          "text": "映っていた",
+          "reading": "うつっていた",
+          "romaji": "utsutte ita.",
+          "en": "was captured.",
+          "zhHant": "被拍攝。",
+          "showRuby": true,
           "offsetMs": 8643.655,
-          "durationMs": 389.10299999999916,
-          "reading": "うつっ",
-          "romaji": "utsutsu",
-          "en": "to be reflected; to harmonize with (harmonise)",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
-        },
-        {
-          "text": "て",
-          "offsetMs": 9032.759,
-          "durationMs": 111.17200000000048,
-          "reading": "て",
-          "romaji": "te",
-          "en": "linking verb ending",
-          "zhHant": "連接動詞詞尾",
-          "showRuby": false
-        },
-        {
-          "text": "いた",
-          "offsetMs": 9143.931,
-          "durationMs": 528.0689999999995,
-          "reading": "いた",
-          "romaji": "ita",
-          "en": "board; plank",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": false
+          "durationMs": 1028.3449999999993
         }
       ],
       "audio": {
@@ -2390,153 +1690,93 @@
       "tokens": [
         {
           "text": "ジョージ",
-          "offsetMs": 58.169,
-          "durationMs": 785.288,
-          "reading": "じょーじ",
-          "romaji": "jooji",
+          "reading": "ジョージ",
+          "romaji": "Jōji",
           "en": "George",
           "zhHant": "喬治",
-          "showRuby": true
+          "showRuby": false,
+          "offsetMs": 58.169,
+          "durationMs": 930.712
         },
         {
-          "text": "ワシントン",
+          "text": "ワシントンの",
+          "reading": "ワシントンの",
+          "romaji": "Washinton no",
+          "en": "Washington's",
+          "zhHant": "華盛頓的",
+          "showRuby": false,
           "offsetMs": 988.881,
-          "durationMs": 712.5759999999999,
-          "reading": "わしんとん",
-          "romaji": "washinton",
-          "en": "Washington, DC (United States)",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 858.0000000000001
         },
         {
-          "text": "の",
-          "offsetMs": 1701.458,
-          "durationMs": 145.42399999999998,
-          "reading": "の",
-          "romaji": "no",
-          "en": "of; possessive marker",
-          "zhHant": "的；所有格助詞",
-          "showRuby": false
-        },
-        {
-          "text": "派遣",
-          "offsetMs": 1846.881,
-          "durationMs": 421.72900000000004,
-          "reading": "はけん",
-          "romaji": "haken",
-          "en": "deployment; dispatch",
+          "text": "派遣に",
+          "reading": "はけんに",
+          "romaji": "Haken ni",
+          "en": "dispatch",
           "zhHant": "派遣",
-          "showRuby": true
-        },
-        {
-          "text": "に",
-          "offsetMs": 2268.61,
-          "durationMs": 159.9659999999999,
-          "reading": "に",
-          "romaji": "ni",
-          "en": "to; at; in",
-          "zhHant": "向；在；於",
-          "showRuby": false
+          "showRuby": true,
+          "offsetMs": 1846.881,
+          "durationMs": 581.6949999999999
         },
         {
           "text": "より",
-          "offsetMs": 2428.576,
-          "durationMs": 610.7799999999997,
           "reading": "より",
           "romaji": "yori",
-          "en": "than; from",
-          "zhHant": "比；從",
-          "showRuby": false
+          "en": "than",
+          "zhHant": "比",
+          "showRuby": false,
+          "offsetMs": 2428.576,
+          "durationMs": 610.7800000000002
         },
         {
-          "text": "現状",
+          "text": "現状で",
+          "reading": "げんじょうで",
+          "romaji": "Genjō de",
+          "en": "currently",
+          "zhHant": "目前",
+          "showRuby": true,
           "offsetMs": 3039.356,
-          "durationMs": 552.6100000000001,
-          "reading": "げんじょう",
-          "romaji": "genjou",
-          "en": "present condition; existing state",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 727.1189999999997
         },
         {
-          "text": "で",
-          "offsetMs": 3591.966,
-          "durationMs": 174.5079999999998,
-          "reading": "で",
-          "romaji": "de",
-          "en": "at; by; with",
-          "zhHant": "在；以；用",
-          "showRuby": false
-        },
-        {
-          "text": "太平洋",
+          "text": "太平洋には",
+          "reading": "たいへいようには",
+          "romaji": "Taiheiyō ni wa",
+          "en": "in the Pacific",
+          "zhHant": "在太平洋",
+          "showRuby": true,
           "offsetMs": 3766.475,
-          "durationMs": 727.1190000000001,
-          "reading": "たいへいよう",
-          "romaji": "taiheiyou",
-          "en": "Pacific Ocean",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 1119.7620000000002
         },
         {
-          "text": "に",
-          "offsetMs": 4493.593,
-          "durationMs": 116.33899999999994,
-          "reading": "に",
-          "romaji": "ni",
-          "en": "to; at; in",
-          "zhHant": "向；在；於",
-          "showRuby": false
-        },
-        {
-          "text": "は",
-          "offsetMs": 4609.932,
-          "durationMs": 276.3050000000003,
-          "reading": "は",
-          "romaji": "wa",
-          "en": "topic marker",
-          "zhHant": "主題助詞",
-          "showRuby": false
-        },
-        {
-          "text": "米空母",
+          "text": "米",
+          "reading": "べい",
+          "romaji": "Bei",
+          "en": "U.S.; American",
+          "zhHant": "美國；美方",
+          "showRuby": true,
           "offsetMs": 4886.237,
-          "durationMs": 668.9489999999996,
-          "reading": "べいくうぼ",
-          "romaji": "beikuubo",
-          "en": "metre; meter",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 222.98300000000017
         },
         {
-          "text": "が",
-          "offsetMs": 5555.186,
-          "durationMs": 174.5079999999998,
-          "reading": "が",
-          "romaji": "ga",
-          "en": "subject marker",
-          "zhHant": "主語助詞",
-          "showRuby": false
+          "text": "空母が",
+          "reading": "くうぼが",
+          "romaji": "Kūbo ga",
+          "en": "aircraft carriers",
+          "zhHant": "航空母艦",
+          "showRuby": true,
+          "offsetMs": 5109.22,
+          "durationMs": 620.4749999999995
         },
         {
-          "text": "存在",
+          "text": "存在しない",
+          "reading": "そんざいしない",
+          "romaji": "Sonzaishinai",
+          "en": "do not exist.",
+          "zhHant": "不存在。",
+          "showRuby": true,
           "offsetMs": 5729.695,
-          "durationMs": 538.0680000000002,
-          "reading": "そんざい",
-          "romaji": "sonzai",
-          "en": "existence; being",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
-        },
-        {
-          "text": "しない",
-          "offsetMs": 6267.763,
-          "durationMs": 596.2370000000001,
-          "reading": "しない",
-          "romaji": "shinai",
-          "en": "(within a) city; local",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": false
+          "durationMs": 1134.3050000000003
         }
       ],
       "audio": {

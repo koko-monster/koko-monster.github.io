@@ -55,243 +55,133 @@
       "tokens": [
         {
           "text": "国連",
-          "offsetMs": 55.914,
-          "durationMs": 545.157,
           "reading": "こくれん",
-          "romaji": "kokuren",
-          "en": "United Nations; UN",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "romaji": "Kokuren",
+          "en": "United Nations",
+          "zhHant": "國聯",
+          "showRuby": true,
+          "offsetMs": 55.914,
+          "durationMs": 545.1560000000001
         },
         {
-          "text": "総会",
+          "text": "総会は",
+          "reading": "そうかいは",
+          "romaji": "Sōkai wa",
+          "en": "General Assembly",
+          "zhHant": "總會",
+          "showRuby": true,
           "offsetMs": 601.07,
-          "durationMs": 517.1999999999999,
-          "reading": "そうかい",
-          "romaji": "soukai",
-          "en": "general meeting",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
-        },
-        {
-          "text": "は",
-          "offsetMs": 1118.27,
-          "durationMs": 167.74099999999999,
-          "reading": "は",
-          "romaji": "wa",
-          "en": "topic marker",
-          "zhHant": "主題助詞",
-          "showRuby": false
+          "durationMs": 684.9409999999999
         },
         {
           "text": "4日",
+          "reading": "4にち",
+          "romaji": "4-nichi,",
+          "en": "4th day,",
+          "zhHant": "4日，",
+          "showRuby": true,
           "offsetMs": 1286.011,
-          "durationMs": 950.5300000000002,
-          "reading": "よっか",
-          "romaji": "yokka",
-          "en": "4th day; date",
-          "zhHant": "4日；日期",
-          "showRuby": true
+          "durationMs": 950.5300000000002
         },
         {
-          "text": "各国",
+          "text": "各国の",
+          "reading": "かっこくの",
+          "romaji": "Kakkoku no",
+          "en": "of each country",
+          "zhHant": "各國的",
+          "showRuby": true,
           "offsetMs": 2236.541,
-          "durationMs": 545.1570000000002,
-          "reading": "かっこく",
-          "romaji": "kakkoku",
-          "en": "each nation",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 712.8969999999999
         },
         {
-          "text": "の",
-          "offsetMs": 2781.697,
-          "durationMs": 167.74099999999999,
-          "reading": "の",
-          "romaji": "no",
-          "en": "of; possessive marker",
-          "zhHant": "的；所有格助詞",
-          "showRuby": false
-        },
-        {
-          "text": "実際",
+          "text": "実際の",
+          "reading": "じっさいの",
+          "romaji": "Jissai no",
+          "en": "actual",
+          "zhHant": "實際的",
+          "showRuby": true,
           "offsetMs": 2949.438,
-          "durationMs": 531.1779999999999,
-          "reading": "じっさい",
-          "romaji": "jissai",
-          "en": "reality; actuality",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 698.9189999999999
         },
         {
-          "text": "の",
-          "offsetMs": 3480.616,
-          "durationMs": 167.74099999999999,
-          "reading": "の",
-          "romaji": "no",
-          "en": "of; possessive marker",
-          "zhHant": "的；所有格助詞",
-          "showRuby": false
-        },
-        {
-          "text": "相対的",
-          "offsetMs": 3648.357,
-          "durationMs": 768.8109999999997,
-          "reading": "そうたいてき",
-          "romaji": "soutaiteki",
+          "text": "相対的な",
+          "reading": "そうたいてきな",
+          "romaji": "Sōtaiteki na",
           "en": "relative",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "zhHant": "相對的",
+          "showRuby": true,
+          "offsetMs": 3648.357,
+          "durationMs": 880.6379999999999
         },
         {
-          "text": "な",
-          "offsetMs": 4417.168,
-          "durationMs": 111.82700000000023,
-          "reading": "な",
-          "romaji": "na",
-          "en": "linking ending",
-          "zhHant": "連接詞尾",
-          "showRuby": false
-        },
-        {
-          "text": "大きさ",
+          "text": "大きさを",
+          "reading": "おおきさを",
+          "romaji": "Ōkisa o",
+          "en": "size",
+          "zhHant": "大小",
+          "showRuby": true,
           "offsetMs": 4528.995,
-          "durationMs": 517.1999999999998,
-          "reading": "おおきさ",
-          "romaji": "ookisa",
-          "en": "size; dimensions",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
-        },
-        {
-          "text": "を",
-          "offsetMs": 5046.195,
-          "durationMs": 153.76199999999972,
-          "reading": "を",
-          "romaji": "o",
-          "en": "object marker",
-          "zhHant": "受詞助詞",
-          "showRuby": false
+          "durationMs": 670.9620000000004
         },
         {
           "text": "反映した",
-          "offsetMs": 5199.957,
-          "durationMs": 824.7240000000002,
           "reading": "はんえいした",
-          "romaji": "han'eishita",
-          "en": "reflection (light, image, situation, attitude, etc.); reflecting",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "romaji": "Hanei shita",
+          "en": "reflected",
+          "zhHant": "反映",
+          "showRuby": true,
+          "offsetMs": 5199.957,
+          "durationMs": 824.7239999999993
         },
         {
-          "text": "新た",
+          "text": "新たな",
+          "reading": "あらたな",
+          "romaji": "Aratana",
+          "en": "new",
+          "zhHant": "新的",
+          "showRuby": true,
           "offsetMs": 6024.681,
-          "durationMs": 503.22199999999975,
-          "reading": "あらた",
-          "romaji": "arata",
-          "en": "new; fresh",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 670.9620000000004
         },
         {
-          "text": "な",
-          "offsetMs": 6527.903,
-          "durationMs": 167.74099999999999,
-          "reading": "な",
-          "romaji": "na",
-          "en": "linking ending",
-          "zhHant": "連接詞尾",
-          "showRuby": false
-        },
-        {
-          "text": "世界",
+          "text": "世界地図を",
+          "reading": "せかいちずを",
+          "romaji": "Sekai chizu o",
+          "en": "world map",
+          "zhHant": "世界地圖",
+          "showRuby": true,
           "offsetMs": 6695.643,
-          "durationMs": 461.28600000000006,
-          "reading": "せかい",
-          "romaji": "sekai",
-          "en": "the world; society",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 922.5730000000003
         },
         {
-          "text": "地図",
-          "offsetMs": 7156.93,
-          "durationMs": 307.52400000000034,
-          "reading": "ちず",
-          "romaji": "chizu",
-          "en": "map",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
-        },
-        {
-          "text": "を",
-          "offsetMs": 7464.454,
-          "durationMs": 153.76199999999972,
-          "reading": "を",
-          "romaji": "o",
-          "en": "object marker",
-          "zhHant": "受詞助詞",
-          "showRuby": false
-        },
-        {
-          "text": "採用",
-          "offsetMs": 7618.216,
-          "durationMs": 545.1570000000002,
-          "reading": "さいよう",
-          "romaji": "saiyou",
-          "en": "adoption; to adopt",
+          "text": "採用する",
+          "reading": "さいようする",
+          "romaji": "Saiyō suru",
+          "en": "adopt",
           "zhHant": "採用",
-          "showRuby": true
+          "showRuby": true,
+          "offsetMs": 7618.216,
+          "durationMs": 866.6599999999999
         },
         {
-          "text": "する",
-          "offsetMs": 8163.373,
-          "durationMs": 321.5030000000006,
-          "reading": "する",
-          "romaji": "suru",
-          "en": "to do",
-          "zhHant": "做；進行",
-          "showRuby": false
-        },
-        {
-          "text": "決議",
+          "text": "決議案を",
+          "reading": "けつぎあんを",
+          "romaji": "Ketsugi an o",
+          "en": "resolution",
+          "zhHant": "決議案",
+          "showRuby": true,
           "offsetMs": 8484.876,
-          "durationMs": 461.28600000000006,
-          "reading": "けつぎ",
-          "romaji": "ketsugi",
-          "en": "resolution; vote",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
-        },
-        {
-          "text": "案",
-          "offsetMs": 8946.162,
-          "durationMs": 237.6319999999996,
-          "reading": "あん",
-          "romaji": "an",
-          "en": "idea; plan",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
-        },
-        {
-          "text": "を",
-          "offsetMs": 9183.795,
-          "durationMs": 167.74099999999999,
-          "reading": "を",
-          "romaji": "o",
-          "en": "object marker",
-          "zhHant": "受詞助詞",
-          "showRuby": false
+          "durationMs": 866.6589999999997
         },
         {
           "text": "可決した",
-          "offsetMs": 9351.535,
-          "durationMs": 992.4650000000001,
           "reading": "かけつした",
-          "romaji": "kaketsushita",
-          "en": "approval; adoption (of a motion, bill, etc.)",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "romaji": "Kaketsu shita.",
+          "en": "was passed.",
+          "zhHant": "通過了。",
+          "showRuby": true,
+          "offsetMs": 9351.535,
+          "durationMs": 992.4650000000001
         }
       ],
       "audio": {
@@ -430,193 +320,203 @@
       "tokens": [
         {
           "text": "これ",
-          "offsetMs": 55.65,
-          "durationMs": 319.988,
           "reading": "これ",
           "romaji": "kore",
-          "en": "this; this one",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": false
+          "en": "this",
+          "zhHant": "這個",
+          "showRuby": false,
+          "offsetMs": 55.65,
+          "durationMs": 319.987
         },
         {
           "text": "は",
-          "offsetMs": 375.637,
-          "durationMs": 292.162,
           "reading": "は",
           "romaji": "wa",
-          "en": "topic marker",
-          "zhHant": "主題助詞",
-          "showRuby": false
+          "en": "is",
+          "zhHant": "是",
+          "showRuby": false,
+          "offsetMs": 375.637,
+          "durationMs": 292.16299999999995
         },
         {
           "text": "アフリカ",
-          "offsetMs": 667.8,
-          "durationMs": 570.413,
-          "reading": "あふりか",
-          "romaji": "afurika",
+          "reading": "アフリカ",
+          "romaji": "Afurika",
           "en": "Africa",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "zhHant": "非洲",
+          "showRuby": false,
+          "offsetMs": 667.8,
+          "durationMs": 570.413
         },
         {
           "text": "連合",
-          "offsetMs": 1238.213,
-          "durationMs": 473.02499999999986,
           "reading": "れんごう",
           "romaji": "rengou",
-          "en": "union; alliance",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "en": "Union",
+          "zhHant": "聯合",
+          "showRuby": true,
+          "offsetMs": 1238.213,
+          "durationMs": 473.0240000000001
         },
         {
           "text": "と",
-          "offsetMs": 1711.237,
-          "durationMs": 236.51299999999992,
           "reading": "と",
           "romaji": "to",
-          "en": "and; with; that",
-          "zhHant": "和；與；表示引用",
-          "showRuby": false
+          "en": "and",
+          "zhHant": "和",
+          "showRuby": false,
+          "offsetMs": 1711.237,
+          "durationMs": 236.51299999999992
         },
         {
           "text": "バハマ",
-          "offsetMs": 1947.75,
-          "durationMs": 445.1999999999998,
-          "reading": "ばはま",
-          "romaji": "bahama",
+          "reading": "バハマ",
+          "romaji": "Bahama",
           "en": "Bahamas",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "zhHant": "巴哈馬",
+          "showRuby": false,
+          "offsetMs": 1947.75,
+          "durationMs": 445.1999999999998
         },
         {
           "text": "が",
-          "offsetMs": 2392.95,
-          "durationMs": 180.86299999999983,
           "reading": "が",
           "romaji": "ga",
           "en": "subject marker",
-          "zhHant": "主語助詞",
-          "showRuby": false
+          "zhHant": "主語標記",
+          "showRuby": false,
+          "offsetMs": 2392.95,
+          "durationMs": 180.86200000000008
         },
         {
-          "text": "提出した",
+          "text": "提出",
+          "reading": "ていしゅつ",
+          "romaji": "teishutsu",
+          "en": "submission",
+          "zhHant": "提交",
+          "showRuby": true,
           "offsetMs": 2573.812,
-          "durationMs": 709.5380000000005,
-          "reading": "ていしゅつした",
-          "romaji": "teishutsushita",
-          "en": "presentation (of documents); submission (of an application, report, etc.)",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 486.9380000000001
         },
         {
-          "text": "もの",
+          "text": "した",
+          "reading": "した",
+          "romaji": "shita",
+          "en": "did",
+          "zhHant": "做了",
+          "showRuby": false,
+          "offsetMs": 3060.75,
+          "durationMs": 222.5999999999999
+        },
+        {
+          "text": "もので",
+          "reading": "もので",
+          "romaji": "mono de",
+          "en": "thing that is",
+          "zhHant": "的東西，",
+          "showRuby": false,
           "offsetMs": 3283.35,
-          "durationMs": 250.42500000000018,
-          "reading": "もの",
-          "romaji": "mono",
-          "en": "thing; person",
-          "zhHant": "事物；人",
-          "showRuby": false
-        },
-        {
-          "text": "で",
-          "offsetMs": 3533.775,
-          "durationMs": 598.2369999999996,
-          "reading": "で",
-          "romaji": "de",
-          "en": "at; by; with",
-          "zhHant": "在；以；用",
-          "showRuby": false
+          "durationMs": 848.6619999999998
         },
         {
           "text": "164",
-          "offsetMs": 4132.012,
-          "durationMs": 1099.0879999999997,
-          "reading": "ひゃくろくじゅうよん",
-          "romaji": "hyakurokujuuyon",
+          "reading": "164",
+          "romaji": "164",
           "en": "164",
           "zhHant": "164",
-          "showRuby": false
+          "showRuby": false,
+          "offsetMs": 4132.012,
+          "durationMs": 1099.0880000000006
         },
         {
           "text": "カ国",
-          "offsetMs": 5231.1,
-          "durationMs": 431.28700000000026,
-          "reading": "かこく",
+          "reading": "カこく",
           "romaji": "kakoku",
-          "en": "counter for countries",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "en": "countries",
+          "zhHant": "國家",
+          "showRuby": true,
+          "offsetMs": 5231.1,
+          "durationMs": 431.28699999999935
         },
         {
           "text": "が",
-          "offsetMs": 5662.387,
-          "durationMs": 166.94999999999982,
           "reading": "が",
           "romaji": "ga",
           "en": "subject marker",
-          "zhHant": "主語助詞",
-          "showRuby": false
+          "zhHant": "主語標記",
+          "showRuby": false,
+          "offsetMs": 5662.387,
+          "durationMs": 166.95000000000073
         },
         {
           "text": "賛成",
-          "offsetMs": 5829.337,
-          "durationMs": 542.5879999999997,
           "reading": "さんせい",
           "romaji": "sansei",
-          "en": "approval; agreement",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "en": "approval",
+          "zhHant": "贊成",
+          "showRuby": true,
+          "offsetMs": 5829.337,
+          "durationMs": 542.5879999999997
         },
         {
           "text": "し",
-          "offsetMs": 6371.925,
-          "durationMs": 570.4120000000003,
           "reading": "し",
           "romaji": "shi",
-          "en": "do; verb stem",
-          "zhHant": "做；動詞詞幹",
-          "showRuby": false
+          "en": "and",
+          "zhHant": "和，",
+          "showRuby": false,
+          "offsetMs": 6371.925,
+          "durationMs": 570.4120000000003
         },
         {
           "text": "米国",
-          "offsetMs": 6942.337,
-          "durationMs": 500.85000000000036,
           "reading": "べいこく",
           "romaji": "beikoku",
-          "en": "(United States of) America; USA",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "en": "United States",
+          "zhHant": "美國",
+          "showRuby": true,
+          "offsetMs": 6942.337,
+          "durationMs": 500.85099999999966
         },
         {
           "text": "のみ",
-          "offsetMs": 7443.188,
-          "durationMs": 264.33699999999953,
           "reading": "のみ",
           "romaji": "nomi",
-          "en": "only; nothing but",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": false
+          "en": "only",
+          "zhHant": "只有",
+          "showRuby": false,
+          "offsetMs": 7443.188,
+          "durationMs": 264.33699999999953
         },
         {
           "text": "が",
-          "offsetMs": 7707.525,
-          "durationMs": 153.03800000000047,
           "reading": "が",
           "romaji": "ga",
           "en": "subject marker",
-          "zhHant": "主語助詞",
-          "showRuby": false
+          "zhHant": "主語標記",
+          "showRuby": false,
+          "offsetMs": 7707.525,
+          "durationMs": 153.03700000000026
         },
         {
-          "text": "反対した",
+          "text": "反対",
+          "reading": "はんたい",
+          "romaji": "hantai",
+          "en": "opposition",
+          "zhHant": "反對",
+          "showRuby": true,
           "offsetMs": 7860.562,
-          "durationMs": 1043.438,
-          "reading": "はんたいした",
-          "romaji": "hantaishita",
-          "en": "opposition; resistance",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 514.7630000000008
+        },
+        {
+          "text": "した",
+          "reading": "した",
+          "romaji": "shita.",
+          "en": "did.",
+          "zhHant": "做了。",
+          "showRuby": false,
+          "offsetMs": 8375.325,
+          "durationMs": 528.6749999999993
         }
       ],
       "audio": {
@@ -739,8 +639,8 @@
           "durationMs": 377.684,
           "reading": "この",
           "romaji": "kono",
-          "en": "nine",
-          "zhHant": "參閱句子翻譯",
+          "en": "this",
+          "zhHant": "這個",
           "showRuby": false
         },
         {
@@ -801,7 +701,7 @@
           "romaji": "afurika",
           "en": "Africa",
           "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "showRuby": false
         },
         {
           "text": "を",
@@ -983,224 +883,124 @@
       "zhHant": "現行世界地圖多採用麥卡托投影；它便於航海，卻會扭曲面積比例。",
       "tokens": [
         {
-          "text": "現在",
+          "text": "現在の",
+          "reading": "げんざいの",
+          "romaji": "genzai no",
+          "en": "current",
+          "zhHant": "現在的",
+          "showRuby": true,
           "offsetMs": 56.157,
-          "durationMs": 617.725,
-          "reading": "げんざい",
-          "romaji": "genzai",
-          "en": "now; current",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 772.1569999999999
         },
         {
-          "text": "の",
-          "offsetMs": 673.882,
-          "durationMs": 154.43100000000004,
-          "reading": "の",
-          "romaji": "no",
-          "en": "of; possessive marker",
-          "zhHant": "的；所有格助詞",
-          "showRuby": false
-        },
-        {
-          "text": "世界",
+          "text": "世界地図は",
+          "reading": "せかいちずは",
+          "romaji": "sekai chizu wa",
+          "en": "world map",
+          "zhHant": "世界地圖",
+          "showRuby": true,
           "offsetMs": 828.314,
-          "durationMs": 463.294,
-          "reading": "せかい",
-          "romaji": "sekai",
-          "en": "the world; society",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
-        },
-        {
-          "text": "地図",
-          "offsetMs": 1291.608,
-          "durationMs": 308.86300000000006,
-          "reading": "ちず",
-          "romaji": "chizu",
-          "en": "map",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
-        },
-        {
-          "text": "は",
-          "offsetMs": 1600.471,
-          "durationMs": 589.6469999999999,
-          "reading": "は",
-          "romaji": "wa",
-          "en": "topic marker",
-          "zhHant": "主題助詞",
-          "showRuby": false
+          "durationMs": 1361.804
         },
         {
           "text": "メルカトル",
-          "offsetMs": 2190.118,
-          "durationMs": 673.8820000000001,
-          "reading": "めるかとる",
-          "romaji": "merukatoru",
+          "reading": "メルカトル",
+          "romaji": "Merukatoru",
           "en": "Mercator",
-          "zhHant": "麥卡托",
-          "showRuby": true
+          "zhHant": "梅卡托",
+          "showRuby": false,
+          "offsetMs": 2190.118,
+          "durationMs": 673.8820000000001
         },
         {
-          "text": "図法",
+          "text": "図法に",
+          "reading": "ずほうに",
+          "romaji": "zuhou ni",
+          "en": "projection",
+          "zhHant": "投影法",
+          "showRuby": true,
           "offsetMs": 2864.0,
-          "durationMs": 421.17599999999993,
-          "reading": "ずほう",
-          "romaji": "zuhou",
-          "en": "map projection",
-          "zhHant": "地圖投影法",
-          "showRuby": true
+          "durationMs": 533.4899999999998
         },
         {
-          "text": "に",
-          "offsetMs": 3285.176,
-          "durationMs": 112.31399999999985,
-          "reading": "に",
-          "romaji": "ni",
-          "en": "to; at; in",
-          "zhHant": "向；在；於",
-          "showRuby": false
-        },
-        {
-          "text": "基づい",
+          "text": "基づいて",
+          "reading": "もとづいて",
+          "romaji": "motozuite",
+          "en": "based on",
+          "zhHant": "基於",
+          "showRuby": true,
           "offsetMs": 3397.49,
-          "durationMs": 533.4899999999998,
-          "reading": "もとづい",
-          "romaji": "motozui",
-          "en": "to be grounded on; to be based on",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
-        },
-        {
-          "text": "て",
-          "offsetMs": 3930.98,
-          "durationMs": 98.27500000000009,
-          "reading": "て",
-          "romaji": "te",
-          "en": "linking verb ending",
-          "zhHant": "連接動詞詞尾",
-          "showRuby": false
+          "durationMs": 631.7650000000003
         },
         {
           "text": "おり",
-          "offsetMs": 4029.255,
-          "durationMs": 659.8429999999998,
           "reading": "おり",
           "romaji": "ori",
-          "en": "opportunity; chance",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": false
+          "en": "being; existing (formal)",
+          "zhHant": "在；存在（正式）",
+          "showRuby": false,
+          "offsetMs": 4029.255,
+          "durationMs": 659.8429999999998
         },
         {
-          "text": "航海",
+          "text": "航海には",
+          "reading": "こうかいには",
+          "romaji": "koukai ni wa",
+          "en": "navigation",
+          "zhHant": "航海",
+          "showRuby": true,
           "offsetMs": 4689.098,
-          "durationMs": 533.4899999999998,
-          "reading": "こうかい",
-          "romaji": "koukai",
-          "en": "(sea) voyage; navigation",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 842.3530000000001
         },
         {
-          "text": "に",
-          "offsetMs": 5222.588,
-          "durationMs": 126.35300000000007,
-          "reading": "に",
-          "romaji": "ni",
-          "en": "to; at; in",
-          "zhHant": "向；在；於",
-          "showRuby": false
-        },
-        {
-          "text": "は",
-          "offsetMs": 5348.941,
-          "durationMs": 182.51000000000022,
-          "reading": "は",
-          "romaji": "wa",
-          "en": "topic marker",
-          "zhHant": "主題助詞",
-          "showRuby": false
-        },
-        {
-          "text": "使い",
+          "text": "使いやすい",
+          "reading": "つかいやすい",
+          "romaji": "tsukaiyasui",
+          "en": "easy to use",
+          "zhHant": "容易使用",
+          "showRuby": true,
           "offsetMs": 5531.451,
-          "durationMs": 407.1369999999997,
-          "reading": "つかい",
-          "romaji": "tsukai",
-          "en": "errand; mission",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
-        },
-        {
-          "text": "やすい",
-          "offsetMs": 5938.588,
-          "durationMs": 421.1760000000004,
-          "reading": "やすい",
-          "romaji": "yasui",
-          "en": "cheap; inexpensive",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": false
+          "durationMs": 828.3140000000003
         },
         {
           "text": "が",
+          "reading": "が",
+          "romaji": "ga",
+          "en": "but",
+          "zhHant": "但是",
+          "showRuby": false,
           "offsetMs": 6359.765,
-          "durationMs": 575.6080000000002,
-          "reading": "が",
-          "romaji": "ga",
-          "en": "subject marker",
-          "zhHant": "主語助詞",
-          "showRuby": false
+          "durationMs": 575.6079999999993
         },
         {
-          "text": "縮尺",
+          "text": "縮尺に",
+          "reading": "しゅくしゃくに",
+          "romaji": "shukushaku ni",
+          "en": "scale",
+          "zhHant": "縮尺",
+          "showRuby": true,
           "offsetMs": 6935.373,
-          "durationMs": 547.5290000000005,
-          "reading": "しゅくしゃく",
-          "romaji": "shukushaku",
-          "en": "map scale",
-          "zhHant": "比例尺",
-          "showRuby": true
+          "durationMs": 701.96
         },
         {
-          "text": "に",
-          "offsetMs": 7482.902,
-          "durationMs": 154.43099999999959,
-          "reading": "に",
-          "romaji": "ni",
-          "en": "to; at; in",
-          "zhHant": "向；在；於",
-          "showRuby": false
-        },
-        {
-          "text": "ゆがみ",
-          "offsetMs": 7637.333,
-          "durationMs": 435.21600000000035,
-          "reading": "ゆがみ",
-          "romaji": "yugami",
+          "text": "ゆがみが",
+          "reading": "ゆがみが",
+          "romaji": "yugami ga",
           "en": "distortion",
-          "zhHant": "失真；扭曲",
-          "showRuby": false
-        },
-        {
-          "text": "が",
-          "offsetMs": 8072.549,
-          "durationMs": 126.35300000000007,
-          "reading": "が",
-          "romaji": "ga",
-          "en": "subject marker",
-          "zhHant": "主語助詞",
-          "showRuby": false
+          "zhHant": "扭曲",
+          "showRuby": false,
+          "offsetMs": 7637.333,
+          "durationMs": 561.5690000000004
         },
         {
           "text": "ある",
-          "offsetMs": 8198.902,
-          "durationMs": 393.09799999999996,
           "reading": "ある",
           "romaji": "aru",
-          "en": "to be; to exist",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": false
+          "en": "there is",
+          "zhHant": "有",
+          "showRuby": false,
+          "offsetMs": 8198.902,
+          "durationMs": 393.09799999999996
         }
       ],
       "audio": {
@@ -1315,193 +1115,93 @@
       "tokens": [
         {
           "text": "例えば",
-          "offsetMs": 55.156,
-          "durationMs": 882.492,
           "reading": "たとえば",
           "romaji": "tatoeba",
-          "en": "for example; for instance",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "en": "for example",
+          "zhHant": "例如",
+          "showRuby": true,
+          "offsetMs": 55.156,
+          "durationMs": 882.4920000000001
         },
         {
-          "text": "グリーン",
+          "text": "グリーンランドは",
+          "reading": "グリーンランドは",
+          "romaji": "Gurīn rando wa",
+          "en": "Greenland",
+          "zhHant": "格林蘭",
+          "showRuby": false,
           "offsetMs": 937.648,
-          "durationMs": 496.40199999999993,
-          "reading": "ぐりーん",
-          "romaji": "guriin",
-          "en": "green (colour)",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 1116.9049999999997
         },
         {
-          "text": "ランド",
-          "offsetMs": 1434.05,
-          "durationMs": 358.5129999999999,
-          "reading": "らんど",
-          "romaji": "rando",
-          "en": "land",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
-        },
-        {
-          "text": "は",
-          "offsetMs": 1792.563,
-          "durationMs": 261.9899999999998,
-          "reading": "は",
-          "romaji": "wa",
-          "en": "topic marker",
-          "zhHant": "主題助詞",
-          "showRuby": false
-        },
-        {
-          "text": "実際",
+          "text": "実際より",
+          "reading": "じっさいより",
+          "romaji": "jissai yori",
+          "en": "than actually",
+          "zhHant": "比實際上",
+          "showRuby": true,
           "offsetMs": 2054.553,
-          "durationMs": 551.558,
-          "reading": "じっさい",
-          "romaji": "jissai",
-          "en": "reality; actuality",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
-        },
-        {
-          "text": "より",
-          "offsetMs": 2606.111,
-          "durationMs": 275.779,
-          "reading": "より",
-          "romaji": "yori",
-          "en": "than; from",
-          "zhHant": "比；從",
-          "showRuby": false
+          "durationMs": 827.3360000000002
         },
         {
           "text": "大きく",
-          "offsetMs": 2881.889,
-          "durationMs": 537.7690000000002,
           "reading": "おおきく",
-          "romaji": "ookiku",
-          "en": "in a big way; on a grand scale",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "romaji": "ōkiku",
+          "en": "larger",
+          "zhHant": "更大",
+          "showRuby": true,
+          "offsetMs": 2881.889,
+          "durationMs": 537.7689999999998
         },
         {
-          "text": "見える",
+          "text": "見えるが",
+          "reading": "みえるが",
+          "romaji": "mieru ga",
+          "en": "it appears,",
+          "zhHant": "看起來，",
+          "showRuby": true,
           "offsetMs": 3419.658,
-          "durationMs": 386.09000000000015,
-          "reading": "みえる",
-          "romaji": "mieru",
-          "en": "to be seen; to be in sight",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 910.0710000000004
         },
         {
-          "text": "が",
-          "offsetMs": 3805.749,
-          "durationMs": 523.9799999999996,
-          "reading": "が",
-          "romaji": "ga",
-          "en": "subject marker",
-          "zhHant": "主語助詞",
-          "showRuby": false
-        },
-        {
-          "text": "面積",
+          "text": "面積は",
+          "reading": "めんせきは",
+          "romaji": "menshaku wa",
+          "en": "the area",
+          "zhHant": "面積",
+          "showRuby": true,
           "offsetMs": 4329.729,
-          "durationMs": 537.7690000000002,
-          "reading": "めんせき",
-          "romaji": "menseki",
-          "en": "square measure; size (e.g. of land)",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 868.7029999999995
         },
         {
-          "text": "は",
-          "offsetMs": 4867.497,
-          "durationMs": 330.9350000000004,
-          "reading": "は",
-          "romaji": "wa",
-          "en": "topic marker",
-          "zhHant": "主題助詞",
-          "showRuby": false
-        },
-        {
-          "text": "コンゴ",
+          "text": "コンゴ民主共和国と",
+          "reading": "コンゴみんしゅきょうわこくと",
+          "romaji": "Kongo minshu kyōwa koku to",
+          "en": "the Democratic Republic of the Congo and",
+          "zhHant": "剛果民主共和國和",
+          "showRuby": true,
           "offsetMs": 5198.432,
-          "durationMs": 468.8239999999996,
-          "reading": "こんご",
-          "romaji": "kongo",
-          "en": "Congo",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
-        },
-        {
-          "text": "民主",
-          "offsetMs": 5667.256,
-          "durationMs": 399.8789999999999,
-          "reading": "みんしゅ",
-          "romaji": "minshu",
-          "en": "democracy; popular sovereignty",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
-        },
-        {
-          "text": "共和国",
-          "offsetMs": 6067.136,
-          "durationMs": 634.2910000000002,
-          "reading": "きょうわこく",
-          "romaji": "kyouwakoku",
-          "en": "republic; commonwealth",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
-        },
-        {
-          "text": "と",
-          "offsetMs": 6701.427,
-          "durationMs": 261.9899999999998,
-          "reading": "と",
-          "romaji": "to",
-          "en": "and; with; that",
-          "zhHant": "和；與；表示引用",
-          "showRuby": false
+          "durationMs": 1764.9850000000006
         },
         {
           "text": "ほぼ",
-          "offsetMs": 6963.417,
-          "durationMs": 330.9350000000004,
           "reading": "ほぼ",
           "romaji": "hobo",
-          "en": "almost; roughly",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": false
+          "en": "almost",
+          "zhHant": "幾乎",
+          "showRuby": false,
+          "offsetMs": 6963.417,
+          "durationMs": 330.9349999999995
         },
         {
-          "text": "同じ",
+          "text": "同じである",
+          "reading": "おなじである",
+          "romaji": "onaji de aru",
+          "en": "is the same.",
+          "zhHant": "是相同的。",
+          "showRuby": true,
           "offsetMs": 7294.352,
-          "durationMs": 441.2460000000001,
-          "reading": "おなじ",
-          "romaji": "onaji",
-          "en": "same; identical",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
-        },
-        {
-          "text": "で",
-          "offsetMs": 7735.598,
-          "durationMs": 110.3119999999999,
-          "reading": "で",
-          "romaji": "de",
-          "en": "at; by; with",
-          "zhHant": "在；以；用",
-          "showRuby": false
-        },
-        {
-          "text": "ある",
-          "offsetMs": 7845.91,
-          "durationMs": 386.09000000000015,
-          "reading": "ある",
-          "romaji": "aru",
-          "en": "to be; to exist",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": false
+          "durationMs": 937.6480000000001
         }
       ],
       "audio": {
@@ -1603,224 +1303,124 @@
       "zhHant": "聯合國決議關注這類失真，會令非洲及其他地區看起來比實際更小。",
       "tokens": [
         {
-          "text": "国連",
+          "text": "国連の",
+          "reading": "こくれんの",
+          "romaji": "Kokuren no",
+          "en": "United Nations",
+          "zhHant": "國聯",
+          "showRuby": true,
           "offsetMs": 55.659,
-          "durationMs": 584.417,
-          "reading": "こくれん",
-          "romaji": "kokuren",
-          "en": "United Nations; UN",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 751.393
         },
         {
-          "text": "の",
-          "offsetMs": 640.076,
-          "durationMs": 166.976,
-          "reading": "の",
-          "romaji": "no",
-          "en": "of; possessive marker",
-          "zhHant": "的；所有格助詞",
-          "showRuby": false
-        },
-        {
-          "text": "決議",
+          "text": "決議は",
+          "reading": "けつぎは",
+          "romaji": "Ketsugi wa",
+          "en": "resolution",
+          "zhHant": "決議",
+          "showRuby": true,
           "offsetMs": 807.052,
-          "durationMs": 459.18500000000006,
-          "reading": "けつぎ",
-          "romaji": "ketsugi",
-          "en": "resolution; vote",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
-        },
-        {
-          "text": "は",
-          "offsetMs": 1266.237,
-          "durationMs": 598.3319999999999,
-          "reading": "は",
-          "romaji": "wa",
-          "en": "topic marker",
-          "zhHant": "主題助詞",
-          "showRuby": false
+          "durationMs": 1057.5169999999998
         },
         {
           "text": "こうした",
-          "offsetMs": 1864.569,
-          "durationMs": 528.7579999999998,
           "reading": "こうした",
-          "romaji": "koushita",
+          "romaji": "Kō shita",
           "en": "such",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": false
+          "zhHant": "這樣的",
+          "showRuby": false,
+          "offsetMs": 1864.569,
+          "durationMs": 528.7580000000003
         },
         {
-          "text": "ゆがみ",
-          "offsetMs": 2393.327,
-          "durationMs": 487.0140000000001,
-          "reading": "ゆがみ",
-          "romaji": "yugami",
+          "text": "ゆがみが",
+          "reading": "ゆがみが",
+          "romaji": "Yugami ga",
           "en": "distortion",
-          "zhHant": "失真；扭曲",
-          "showRuby": false
+          "zhHant": "扭曲",
+          "showRuby": false,
+          "offsetMs": 2393.327,
+          "durationMs": 667.9049999999997
         },
         {
-          "text": "が",
-          "offsetMs": 2880.341,
-          "durationMs": 180.89100000000008,
-          "reading": "が",
-          "romaji": "ga",
-          "en": "subject marker",
-          "zhHant": "主語助詞",
-          "showRuby": false
-        },
-        {
-          "text": "アフリカ",
+          "text": "アフリカや",
+          "reading": "アフリカや",
+          "romaji": "Afurika ya",
+          "en": "Africa and",
+          "zhHant": "非洲和",
+          "showRuby": false,
           "offsetMs": 3061.232,
-          "durationMs": 570.502,
-          "reading": "あふりか",
-          "romaji": "afurika",
-          "en": "Africa",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 807.0520000000001
         },
         {
-          "text": "や",
-          "offsetMs": 3631.735,
-          "durationMs": 236.55000000000018,
-          "reading": "や",
-          "romaji": "ya",
-          "en": "and; such as",
-          "zhHant": "和；例如",
-          "showRuby": false
-        },
-        {
-          "text": "他",
+          "text": "他の",
+          "reading": "たの",
+          "romaji": "Ta no",
+          "en": "other",
+          "zhHant": "其他的",
+          "showRuby": true,
           "offsetMs": 3868.284,
-          "durationMs": 333.953,
-          "reading": "ほか",
-          "romaji": "hoka",
-          "en": "other (place, thing, person); the rest",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 473.0999999999999
         },
         {
-          "text": "の",
-          "offsetMs": 4202.237,
-          "durationMs": 139.14699999999993,
-          "reading": "の",
-          "romaji": "no",
-          "en": "of; possessive marker",
-          "zhHant": "的；所有格助詞",
-          "showRuby": false
-        },
-        {
-          "text": "地域",
+          "text": "地域の",
+          "reading": "ちいきの",
+          "romaji": "Chiiki no",
+          "en": "region's",
+          "zhHant": "地區的",
+          "showRuby": true,
           "offsetMs": 4341.384,
-          "durationMs": 445.27000000000044,
-          "reading": "ちいき",
-          "romaji": "chiiki",
-          "en": "area; region",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 626.1610000000001
         },
         {
-          "text": "の",
-          "offsetMs": 4786.654,
-          "durationMs": 180.89099999999962,
-          "reading": "の",
-          "romaji": "no",
-          "en": "of; possessive marker",
-          "zhHant": "的；所有格助詞",
-          "showRuby": false
-        },
-        {
-          "text": "実際",
+          "text": "実際の",
+          "reading": "じっさいの",
+          "romaji": "Jissai no",
+          "en": "actual",
+          "zhHant": "實際的",
+          "showRuby": true,
           "offsetMs": 4967.545,
-          "durationMs": 528.7579999999998,
-          "reading": "じっさい",
-          "romaji": "jissai",
-          "en": "reality; actuality",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 640.076
         },
         {
-          "text": "の",
-          "offsetMs": 5496.303,
-          "durationMs": 111.31800000000021,
-          "reading": "の",
-          "romaji": "no",
-          "en": "of; possessive marker",
-          "zhHant": "的；所有格助詞",
-          "showRuby": false
-        },
-        {
-          "text": "大きさ",
+          "text": "大きさを",
+          "reading": "おおきさきさを",
+          "romaji": "Ōkisa o",
+          "en": "size",
+          "zhHant": "大小",
+          "showRuby": true,
           "offsetMs": 5607.621,
-          "durationMs": 487.0140000000001,
-          "reading": "おおきさ",
-          "romaji": "ookisa",
-          "en": "size; dimensions",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
-        },
-        {
-          "text": "を",
-          "offsetMs": 6094.635,
-          "durationMs": 278.29399999999987,
-          "reading": "を",
-          "romaji": "o",
-          "en": "object marker",
-          "zhHant": "受詞助詞",
-          "showRuby": false
+          "durationMs": 765.308
         },
         {
           "text": "小さく",
+          "reading": "ちいさくさく",
+          "romaji": "Chīsaku",
+          "en": "smaller",
+          "zhHant": "變小",
+          "showRuby": true,
           "offsetMs": 6372.929,
-          "durationMs": 612.2460000000001,
-          "reading": "ちいさく",
-          "romaji": "chiisaku",
-          "en": "small; little",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 612.2460000000001
         },
         {
-          "text": "見せている",
+          "text": "見せていると",
+          "reading": "みせてせていると",
+          "romaji": "Misete iru to",
+          "en": "showing",
+          "zhHant": "顯示",
+          "showRuby": true,
           "offsetMs": 6985.175,
-          "durationMs": 640.076,
-          "reading": "みせている",
-          "romaji": "miseteiru",
-          "en": "to show; to display",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 807.0519999999997
         },
         {
-          "text": "と",
-          "offsetMs": 7625.251,
-          "durationMs": 166.97599999999966,
-          "reading": "と",
-          "romaji": "to",
-          "en": "and; with; that",
-          "zhHant": "和；與；表示引用",
-          "showRuby": false
-        },
-        {
-          "text": "懸念",
+          "text": "懸念している",
+          "reading": "けねんしている",
+          "romaji": "Kenen shite iru.",
+          "en": "is concerned",
+          "zhHant": "擔心",
+          "showRuby": true,
           "offsetMs": 7792.227,
-          "durationMs": 389.6109999999999,
-          "reading": "けねん",
-          "romaji": "kenen",
-          "en": "concern",
-          "zhHant": "關注；憂慮",
-          "showRuby": true
-        },
-        {
-          "text": "している",
-          "offsetMs": 8181.839,
-          "durationMs": 626.1610000000001,
-          "reading": "している",
-          "romaji": "shiteiru",
-          "en": "to do; to carry out",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": false
+          "durationMs": 1015.7730000000001
         }
       ],
       "audio": {
@@ -1954,144 +1554,94 @@
       "zhHant": "因此，決議建議以「等地球投影」取代麥卡托投影。",
       "tokens": [
         {
-          "text": "この",
+          "text": "このため",
+          "reading": "このため",
+          "romaji": "kono tame",
+          "en": "for this reason,",
+          "zhHant": "因此，",
+          "showRuby": false,
           "offsetMs": 60.703,
-          "durationMs": 379.3910000000001,
-          "reading": "この",
-          "romaji": "kono",
-          "en": "nine",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": false
-        },
-        {
-          "text": "ため",
-          "offsetMs": 440.094,
-          "durationMs": 743.607,
-          "reading": "ため",
-          "romaji": "tame",
-          "en": "for; because of",
-          "zhHant": "為了；由於",
-          "showRuby": false
+          "durationMs": 1122.997
         },
         {
           "text": "メルカトル",
-          "offsetMs": 1183.7,
-          "durationMs": 713.2549999999999,
-          "reading": "めるかとる",
-          "romaji": "merukatoru",
+          "reading": "メルカトル",
+          "romaji": "Merukatoru",
           "en": "Mercator",
           "zhHant": "麥卡托",
-          "showRuby": true
+          "showRuby": false,
+          "offsetMs": 1183.7,
+          "durationMs": 713.2559999999999
         },
         {
-          "text": "図法",
+          "text": "図法を",
+          "reading": "ずほうを",
+          "romaji": "zuhō o",
+          "en": "projection",
+          "zhHant": "投影",
+          "showRuby": true,
           "offsetMs": 1896.956,
-          "durationMs": 440.0939999999998,
-          "reading": "ずほう",
-          "romaji": "zuhou",
-          "en": "map projection",
-          "zhHant": "地圖投影法",
-          "showRuby": true
-        },
-        {
-          "text": "を",
-          "offsetMs": 2337.049,
-          "durationMs": 166.9319999999998,
-          "reading": "を",
-          "romaji": "o",
-          "en": "object marker",
-          "zhHant": "受詞助詞",
-          "showRuby": false
+          "durationMs": 607.0250000000003
         },
         {
           "text": "イコール",
+          "reading": "イコール",
+          "romaji": "ikōru",
+          "en": "equal",
+          "zhHant": "等於",
+          "showRuby": false,
           "offsetMs": 2503.981,
-          "durationMs": 576.674,
-          "reading": "いこーる",
-          "romaji": "ikooru",
-          "en": "equal; equivalent",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 576.6749999999997
         },
         {
           "text": "アース",
+          "reading": "アース",
+          "romaji": "Āsu",
+          "en": "Earth",
+          "zhHant": "地球",
+          "showRuby": false,
           "offsetMs": 3080.656,
-          "durationMs": 424.9180000000001,
-          "reading": "あーす",
-          "romaji": "aasu",
-          "en": "(electrical) earth; ground",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 424.9180000000001
         },
         {
-          "text": "図法",
+          "text": "図法に",
+          "reading": "ずほうに",
+          "romaji": "zuhō ni",
+          "en": "projection to",
+          "zhHant": "投影到",
+          "showRuby": true,
           "offsetMs": 3505.574,
-          "durationMs": 455.2689999999998,
-          "reading": "ずほう",
-          "romaji": "zuhou",
-          "en": "map projection",
-          "zhHant": "地圖投影法",
-          "showRuby": true
-        },
-        {
-          "text": "に",
-          "offsetMs": 3960.843,
-          "durationMs": 151.7560000000003,
-          "reading": "に",
-          "romaji": "ni",
-          "en": "to; at; in",
-          "zhHant": "向；在；於",
-          "showRuby": false
+          "durationMs": 607.0260000000003
         },
         {
           "text": "置き換える",
-          "offsetMs": 4112.6,
-          "durationMs": 743.607,
           "reading": "おきかえる",
-          "romaji": "okikaeru",
-          "en": "to replace; to move",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "romaji": "oki kaeru",
+          "en": "replace",
+          "zhHant": "替換",
+          "showRuby": true,
+          "offsetMs": 4112.6,
+          "durationMs": 743.6059999999998
         },
         {
-          "text": "こと",
+          "text": "ことを",
+          "reading": "ことを",
+          "romaji": "koto o",
+          "en": "thing",
+          "zhHant": "事情",
+          "showRuby": false,
           "offsetMs": 4856.206,
-          "durationMs": 273.16200000000026,
-          "reading": "こと",
-          "romaji": "koto",
-          "en": "thing; nominalizer",
-          "zhHant": "事情；名詞化",
-          "showRuby": false
+          "durationMs": 440.09400000000005
         },
         {
-          "text": "を",
-          "offsetMs": 5129.368,
-          "durationMs": 166.9319999999998,
-          "reading": "を",
-          "romaji": "o",
-          "en": "object marker",
-          "zhHant": "受詞助詞",
-          "showRuby": false
-        },
-        {
-          "text": "提案",
+          "text": "提案している",
+          "reading": "ていあんしている",
+          "romaji": "teian shite iru",
+          "en": "is proposing.",
+          "zhHant": "正在提議。",
+          "showRuby": true,
           "offsetMs": 5296.3,
-          "durationMs": 500.7960000000003,
-          "reading": "ていあん",
-          "romaji": "teian",
-          "en": "proposal; proposition",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
-        },
-        {
-          "text": "している",
-          "offsetMs": 5797.096,
-          "durationMs": 682.9040000000005,
-          "reading": "している",
-          "romaji": "shiteiru",
-          "en": "to do; to carry out",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": false
+          "durationMs": 1183.6999999999998
         }
       ],
       "audio": {
@@ -2182,173 +1732,113 @@
       "tokens": [
         {
           "text": "この",
-          "offsetMs": 59.777,
-          "durationMs": 358.662,
           "reading": "この",
           "romaji": "kono",
-          "en": "nine",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": false
+          "en": "this",
+          "zhHant": "這個",
+          "showRuby": false,
+          "offsetMs": 59.777,
+          "durationMs": 358.66200000000003
         },
         {
           "text": "新しい",
-          "offsetMs": 418.439,
-          "durationMs": 732.268,
           "reading": "あたらしい",
           "romaji": "atarashii",
-          "en": "new; novel",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "en": "new",
+          "zhHant": "新的",
+          "showRuby": true,
+          "offsetMs": 418.439,
+          "durationMs": 732.2669999999998
         },
         {
-          "text": "図法",
+          "text": "図法では",
+          "reading": "ずほうでは",
+          "romaji": "zuhō de wa",
+          "en": "in this projection,",
+          "zhHant": "在這個圖法中，",
+          "showRuby": true,
           "offsetMs": 1150.706,
-          "durationMs": 448.327,
-          "reading": "ずほう",
-          "romaji": "zuhou",
-          "en": "map projection",
-          "zhHant": "地圖投影法",
-          "showRuby": true
+          "durationMs": 1120.818
         },
         {
-          "text": "で",
-          "offsetMs": 1599.033,
-          "durationMs": 134.49800000000005,
-          "reading": "で",
-          "romaji": "de",
-          "en": "at; by; with",
-          "zhHant": "在；以；用",
-          "showRuby": false
-        },
-        {
-          "text": "は",
-          "offsetMs": 1733.532,
-          "durationMs": 537.9930000000002,
-          "reading": "は",
-          "romaji": "wa",
-          "en": "topic marker",
-          "zhHant": "主題助詞",
-          "showRuby": false
-        },
-        {
-          "text": "欧州",
-          "offsetMs": 2271.524,
-          "durationMs": 582.8250000000003,
-          "reading": "おうしゅう",
-          "romaji": "oushuu",
+          "text": "欧州が",
+          "reading": "おうしゅうが",
+          "romaji": "Ōshū ga",
           "en": "Europe",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
-        },
-        {
-          "text": "が",
-          "offsetMs": 2854.349,
-          "durationMs": 149.442,
-          "reading": "が",
-          "romaji": "ga",
-          "en": "subject marker",
-          "zhHant": "主語助詞",
-          "showRuby": false
+          "zhHant": "歐洲",
+          "showRuby": true,
+          "offsetMs": 2271.524,
+          "durationMs": 732.268
         },
         {
           "text": "小さく",
-          "offsetMs": 3003.792,
-          "durationMs": 956.431,
           "reading": "ちいさく",
           "romaji": "chiisaku",
-          "en": "small; little",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "en": "small",
+          "zhHant": "小",
+          "showRuby": true,
+          "offsetMs": 3003.792,
+          "durationMs": 956.431
         },
         {
-          "text": "ブラジル",
-          "offsetMs": 3960.223,
-          "durationMs": 582.8249999999998,
-          "reading": "ぶらじる",
-          "romaji": "burajiru",
+          "text": "ブラジルが",
+          "reading": "ブラジルが",
+          "romaji": "Burajiru ga",
           "en": "Brazil",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
-        },
-        {
-          "text": "が",
-          "offsetMs": 4543.048,
-          "durationMs": 134.4979999999996,
-          "reading": "が",
-          "romaji": "ga",
-          "en": "subject marker",
-          "zhHant": "主語助詞",
-          "showRuby": false
+          "zhHant": "巴西",
+          "showRuby": false,
+          "offsetMs": 3960.223,
+          "durationMs": 717.3230000000003
         },
         {
           "text": "大きく",
+          "reading": "おおきく",
+          "romaji": "ōkiku",
+          "en": "large",
+          "zhHant": "大",
+          "showRuby": true,
           "offsetMs": 4677.546,
-          "durationMs": 956.4310000000005,
-          "reading": "おおきく",
-          "romaji": "ookiku",
-          "en": "in a big way; on a grand scale",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 956.4319999999998
         },
         {
-          "text": "アフリカ",
-          "offsetMs": 5633.978,
-          "durationMs": 612.7139999999999,
-          "reading": "あふりか",
-          "romaji": "afurika",
+          "text": "アフリカが",
+          "reading": "アフリカが",
+          "romaji": "Afurika ga",
           "en": "Africa",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "zhHant": "非洲",
+          "showRuby": false,
+          "offsetMs": 5633.978,
+          "durationMs": 777.1000000000004
         },
         {
-          "text": "が",
-          "offsetMs": 6246.691,
-          "durationMs": 164.38699999999972,
-          "reading": "が",
-          "romaji": "ga",
-          "en": "subject marker",
-          "zhHant": "主語助詞",
-          "showRuby": false
-        },
-        {
-          "text": "はるか",
+          "text": "はるかに",
+          "reading": "はるかに",
+          "romaji": "haruka ni",
+          "en": "far",
+          "zhHant": "遙遠地",
+          "showRuby": false,
           "offsetMs": 6411.078,
-          "durationMs": 463.27099999999973,
-          "reading": "はるか",
-          "romaji": "haruka",
-          "en": "far; far away",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": false
-        },
-        {
-          "text": "に",
-          "offsetMs": 6874.349,
-          "durationMs": 164.38699999999972,
-          "reading": "に",
-          "romaji": "ni",
-          "en": "to; at; in",
-          "zhHant": "向；在；於",
-          "showRuby": false
+          "durationMs": 627.6579999999994
         },
         {
           "text": "大きく",
-          "offsetMs": 7038.736,
-          "durationMs": 582.8249999999998,
           "reading": "おおきく",
-          "romaji": "ookiku",
-          "en": "in a big way; on a grand scale",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "romaji": "ōkiku",
+          "en": "large",
+          "zhHant": "大",
+          "showRuby": true,
+          "offsetMs": 7038.736,
+          "durationMs": 582.8249999999998
         },
         {
           "text": "見える",
-          "offsetMs": 7621.561,
-          "durationMs": 418.4390000000003,
           "reading": "みえる",
           "romaji": "mieru",
-          "en": "to be seen; to be in sight",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "en": "can be seen.",
+          "zhHant": "可以看見。",
+          "showRuby": true,
+          "offsetMs": 7621.561,
+          "durationMs": 418.4390000000003
         }
       ],
       "audio": {
@@ -2442,194 +1932,124 @@
       "zhHant": "法國外長於4日宣布，將棄用麥卡托投影，改採更準確的地圖呈現方式。",
       "tokens": [
         {
-          "text": "フランス",
+          "text": "フランスの",
+          "reading": "フランスの",
+          "romaji": "Furansu no",
+          "en": "of France",
+          "zhHant": "法國的",
+          "showRuby": false,
           "offsetMs": 54.421,
-          "durationMs": 585.03,
-          "reading": "ふらんす",
-          "romaji": "furansu",
-          "en": "France",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 721.084
         },
         {
-          "text": "の",
-          "offsetMs": 639.452,
-          "durationMs": 136.05399999999997,
-          "reading": "の",
-          "romaji": "no",
-          "en": "of; possessive marker",
-          "zhHant": "的；所有格助詞",
-          "showRuby": false
-        },
-        {
-          "text": "外相",
+          "text": "外相は",
+          "reading": "がいしょうは",
+          "romaji": "Gaishō wa",
+          "en": "the foreign minister",
+          "zhHant": "外相",
+          "showRuby": true,
           "offsetMs": 775.505,
-          "durationMs": 530.609,
-          "reading": "がいしょう",
-          "romaji": "gaishou",
-          "en": "Foreign Minister",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
-        },
-        {
-          "text": "は",
-          "offsetMs": 1306.114,
-          "durationMs": 149.6590000000001,
-          "reading": "は",
-          "romaji": "wa",
-          "en": "topic marker",
-          "zhHant": "主題助詞",
-          "showRuby": false
+          "durationMs": 680.2679999999999
         },
         {
           "text": "4日",
+          "reading": "4にち",
+          "romaji": "yon nichi,",
+          "en": "4th,",
+          "zhHant": "4日，",
+          "showRuby": true,
           "offsetMs": 1455.773,
-          "durationMs": 870.742,
-          "reading": "よっか",
-          "romaji": "yokka",
-          "en": "4th day; date",
-          "zhHant": "4日；日期",
-          "showRuby": true
+          "durationMs": 870.742
         },
         {
           "text": "メルカトル",
-          "offsetMs": 2326.515,
-          "durationMs": 639.4519999999998,
-          "reading": "めるかとる",
-          "romaji": "merukatoru",
+          "reading": "メルカトル",
+          "romaji": "Merukatoru",
           "en": "Mercator",
           "zhHant": "麥卡托",
-          "showRuby": true
+          "showRuby": false,
+          "offsetMs": 2326.515,
+          "durationMs": 639.4520000000002
         },
         {
-          "text": "図法",
+          "text": "図法を",
+          "reading": "ずほうを",
+          "romaji": "Zuhō o",
+          "en": "projection",
+          "zhHant": "投影",
+          "showRuby": true,
           "offsetMs": 2965.967,
-          "durationMs": 380.9499999999998,
-          "reading": "ずほう",
-          "romaji": "zuhou",
-          "en": "map projection",
-          "zhHant": "地圖投影法",
-          "showRuby": true
+          "durationMs": 489.7919999999999
         },
         {
-          "text": "を",
-          "offsetMs": 3346.916,
-          "durationMs": 108.84299999999985,
-          "reading": "を",
-          "romaji": "o",
-          "en": "object marker",
-          "zhHant": "受詞助詞",
-          "showRuby": false
-        },
-        {
-          "text": "廃止",
+          "text": "廃止し",
+          "reading": "はいしし",
+          "romaji": "Haishi shi,",
+          "en": "abolish,",
+          "zhHant": "廢止，",
+          "showRuby": true,
           "offsetMs": 3455.759,
-          "durationMs": 435.3710000000001,
-          "reading": "はいし",
-          "romaji": "haishi",
-          "en": "abolition; discontinuation",
-          "zhHant": "廢止",
-          "showRuby": true
+          "durationMs": 1074.8230000000003
         },
         {
-          "text": "し",
-          "offsetMs": 3891.13,
-          "durationMs": 639.4520000000002,
-          "reading": "し",
-          "romaji": "shi",
-          "en": "do; verb stem",
-          "zhHant": "做；動詞詞幹",
-          "showRuby": false
-        },
-        {
-          "text": "正確",
+          "text": "正確な",
+          "reading": "せいかくな",
+          "romaji": "Seikaku na",
+          "en": "accurate",
+          "zhHant": "正確的",
+          "showRuby": true,
           "offsetMs": 4530.582,
-          "durationMs": 530.6090000000004,
-          "reading": "せいかく",
-          "romaji": "seikaku",
-          "en": "accurate; correct",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
-        },
-        {
-          "text": "な",
-          "offsetMs": 5061.191,
-          "durationMs": 122.44800000000032,
-          "reading": "な",
-          "romaji": "na",
-          "en": "linking ending",
-          "zhHant": "連接詞尾",
-          "showRuby": false
+          "durationMs": 653.0569999999998
         },
         {
           "text": "地図",
-          "offsetMs": 5183.639,
-          "durationMs": 326.52800000000025,
           "reading": "ちず",
-          "romaji": "chizu",
+          "romaji": "Chizu",
           "en": "map",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "zhHant": "地圖",
+          "showRuby": true,
+          "offsetMs": 5183.639,
+          "durationMs": 326.52800000000025
         },
         {
-          "text": "表現",
+          "text": "表現を",
+          "reading": "ひょうげんを",
+          "romaji": "Hyōgen o",
+          "en": "expression",
+          "zhHant": "表現",
+          "showRuby": true,
           "offsetMs": 5510.167,
-          "durationMs": 489.79299999999967,
-          "reading": "ひょうげん",
-          "romaji": "hyougen",
-          "en": "expression; presentation",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 653.0569999999998
         },
         {
-          "text": "を",
-          "offsetMs": 5999.96,
-          "durationMs": 163.26400000000012,
-          "reading": "を",
-          "romaji": "o",
-          "en": "object marker",
-          "zhHant": "受詞助詞",
-          "showRuby": false
-        },
-        {
-          "text": "採用",
-          "offsetMs": 6163.224,
-          "durationMs": 517.0029999999997,
-          "reading": "さいよう",
-          "romaji": "saiyou",
-          "en": "adoption; to adopt",
+          "text": "採用する",
+          "reading": "さいようする",
+          "romaji": "Saiyō suru",
+          "en": "adopt",
           "zhHant": "採用",
-          "showRuby": true
-        },
-        {
-          "text": "する",
-          "offsetMs": 6680.227,
-          "durationMs": 272.10699999999997,
-          "reading": "する",
-          "romaji": "suru",
-          "en": "to do",
-          "zhHant": "做；進行",
-          "showRuby": false
+          "showRuby": true,
+          "offsetMs": 6163.224,
+          "durationMs": 789.1099999999997
         },
         {
           "text": "と",
-          "offsetMs": 6952.334,
-          "durationMs": 136.0540000000001,
           "reading": "と",
           "romaji": "to",
-          "en": "and; with; that",
-          "zhHant": "和；與；表示引用",
-          "showRuby": false
+          "en": "and",
+          "zhHant": "和",
+          "showRuby": false,
+          "offsetMs": 6952.334,
+          "durationMs": 136.0540000000001
         },
         {
           "text": "発表した",
-          "offsetMs": 7088.388,
-          "durationMs": 1047.612,
           "reading": "はっぴょうした",
-          "romaji": "happyoushita",
-          "en": "announcement; publication",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "romaji": "Happyou shita.",
+          "en": "announced.",
+          "zhHant": "發表了。",
+          "showRuby": true,
+          "offsetMs": 7088.388,
+          "durationMs": 1047.612
         }
       ],
       "audio": {
@@ -2740,103 +2160,93 @@
       "tokens": [
         {
           "text": "アフリカ",
-          "offsetMs": 58.811,
-          "durationMs": 646.919,
-          "reading": "あふりか",
-          "romaji": "afurika",
+          "reading": "アフリカ",
+          "romaji": "Afurika",
           "en": "Africa",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "zhHant": "非洲",
+          "showRuby": false,
+          "offsetMs": 58.811,
+          "durationMs": 646.919
         },
         {
-          "text": "連合",
+          "text": "連合は",
+          "reading": "れんごうは",
+          "romaji": "Rengō wa",
+          "en": "the Union",
+          "zhHant": "聯合",
+          "showRuby": true,
           "offsetMs": 705.73,
-          "durationMs": 499.89200000000005,
-          "reading": "れんごう",
-          "romaji": "rengou",
-          "en": "union; alliance",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
-        },
-        {
-          "text": "は",
-          "offsetMs": 1205.622,
-          "durationMs": 264.6490000000001,
-          "reading": "は",
-          "romaji": "wa",
-          "en": "topic marker",
-          "zhHant": "主題助詞",
-          "showRuby": false
+          "durationMs": 764.54
         },
         {
           "text": "3月",
+          "reading": "3つき",
+          "romaji": "san-gatsu",
+          "en": "March",
+          "zhHant": "三月",
+          "showRuby": true,
           "offsetMs": 1470.27,
-          "durationMs": 632.2159999999999,
-          "reading": "さんがつ",
-          "romaji": "sangatsu",
-          "en": "3 month",
-          "zhHant": "3月",
-          "showRuby": true
+          "durationMs": 632.2159999999999
         },
         {
           "text": "に",
-          "offsetMs": 2102.486,
-          "durationMs": 176.4319999999998,
           "reading": "に",
           "romaji": "ni",
-          "en": "to; at; in",
-          "zhHant": "向；在；於",
-          "showRuby": false
+          "en": "to",
+          "zhHant": "到",
+          "showRuby": false,
+          "offsetMs": 2102.486,
+          "durationMs": 176.433
         },
         {
           "text": "イコール",
+          "reading": "イコール",
+          "romaji": "Ikōru",
+          "en": "equal",
+          "zhHant": "等於",
+          "showRuby": false,
           "offsetMs": 2278.919,
-          "durationMs": 529.297,
-          "reading": "いこーる",
-          "romaji": "ikooru",
-          "en": "equal; equivalent",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 529.297
         },
         {
           "text": "アース",
+          "reading": "アース",
+          "romaji": "Āsu",
+          "en": "Earth",
+          "zhHant": "地球",
+          "showRuby": false,
           "offsetMs": 2808.216,
-          "durationMs": 382.27,
-          "reading": "あーす",
-          "romaji": "aasu",
-          "en": "(electrical) earth; ground",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 382.27
         },
         {
-          "text": "図法",
+          "text": "図法を",
+          "reading": "ずほうを",
+          "romaji": "Zuhō o",
+          "en": "projection",
+          "zhHant": "投影",
+          "showRuby": true,
           "offsetMs": 3190.486,
-          "durationMs": 426.37800000000016,
-          "reading": "ずほう",
-          "romaji": "zuhou",
-          "en": "map projection",
-          "zhHant": "地圖投影法",
-          "showRuby": true
+          "durationMs": 573.406
         },
         {
-          "text": "を",
-          "offsetMs": 3616.865,
-          "durationMs": 147.02700000000004,
-          "reading": "を",
-          "romaji": "o",
-          "en": "object marker",
-          "zhHant": "受詞助詞",
-          "showRuby": false
-        },
-        {
-          "text": "採用した",
+          "text": "採用",
+          "reading": "さいよう",
+          "romaji": "Saiyō",
+          "en": "adopted",
+          "zhHant": "採用",
+          "showRuby": true,
           "offsetMs": 3763.892,
-          "durationMs": 1132.1080000000002,
-          "reading": "さいようした",
-          "romaji": "saiyoushita",
-          "en": "use; adoption",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 573.4049999999997
+        },
+        {
+          "text": "した",
+          "reading": "した",
+          "romaji": "shita",
+          "en": "did",
+          "zhHant": "做了",
+          "showRuby": false,
+          "offsetMs": 4337.297,
+          "durationMs": 558.7030000000004
         }
       ],
       "audio": {

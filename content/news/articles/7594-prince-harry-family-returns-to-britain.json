@@ -55,203 +55,113 @@
       "tokens": [
         {
           "text": "イギリス",
+          "reading": "イギリス",
+          "romaji": "Igirisu",
+          "en": "United Kingdom",
+          "zhHant": "英國",
+          "showRuby": false,
           "offsetMs": 60.464,
-          "durationMs": 680.221,
-          "reading": "いぎりす",
-          "romaji": "igirisu",
-          "en": "United Kingdom; Britain",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 680.221
         },
         {
-          "text": "王室",
-          "offsetMs": 740.685,
-          "durationMs": 513.9450000000002,
-          "reading": "おうしつ",
-          "romaji": "oushitsu",
+          "text": "王室の",
+          "reading": "おうしつの",
+          "romaji": "ōshitsu no",
           "en": "royal family",
-          "zhHant": "王室",
-          "showRuby": true
+          "zhHant": "王室的",
+          "showRuby": true,
+          "offsetMs": 740.685,
+          "durationMs": 680.221
         },
         {
-          "text": "の",
-          "offsetMs": 1254.63,
-          "durationMs": 166.27600000000007,
-          "reading": "の",
-          "romaji": "no",
-          "en": "of; possessive marker",
-          "zhHant": "的；所有格助詞",
-          "showRuby": false
-        },
-        {
-          "text": "サセックス",
+          "text": "サセックス公",
+          "reading": "サセックスおおやけ",
+          "romaji": "Sasekkusu kō",
+          "en": "Duke of Sussex",
+          "zhHant": "薩塞克斯公",
+          "showRuby": true,
           "offsetMs": 1420.906,
-          "durationMs": 740.685,
-          "reading": "させっくす",
-          "romaji": "sasekkusu",
-          "en": "Sussex",
-          "zhHant": "薩塞克斯",
-          "showRuby": true
-        },
-        {
-          "text": "公",
-          "offsetMs": 2161.591,
-          "durationMs": 241.85600000000022,
-          "reading": "こう",
-          "romaji": "kou",
-          "en": "you; buddy",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 982.5419999999999
         },
         {
           "text": "ハリー",
-          "offsetMs": 2403.448,
-          "durationMs": 377.90099999999984,
-          "reading": "はりー",
-          "romaji": "harii",
+          "reading": "ハリー",
+          "romaji": "Harī",
           "en": "Harry",
-          "zhHant": "哈里",
-          "showRuby": true
+          "zhHant": "哈利",
+          "showRuby": false,
+          "offsetMs": 2403.448,
+          "durationMs": 377.9000000000001
         },
         {
-          "text": "王子",
+          "text": "王子と",
+          "reading": "おうじと",
+          "romaji": "ōji to",
+          "en": "Prince and",
+          "zhHant": "王子和",
+          "showRuby": true,
           "offsetMs": 2781.348,
-          "durationMs": 438.3649999999998,
-          "reading": "おうじ",
-          "romaji": "ouji",
-          "en": "prince",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 755.8009999999999
         },
         {
-          "text": "と",
-          "offsetMs": 3219.713,
-          "durationMs": 317.43600000000015,
-          "reading": "と",
-          "romaji": "to",
-          "en": "and; with; that",
-          "zhHant": "和；與；表示引用",
-          "showRuby": false
-        },
-        {
-          "text": "妻",
+          "text": "妻の",
+          "reading": "つまの",
+          "romaji": "tsuma no",
+          "en": "wife's",
+          "zhHant": "妻子的",
+          "showRuby": true,
           "offsetMs": 3537.149,
-          "durationMs": 347.66899999999987,
-          "reading": "つま",
-          "romaji": "tsuma",
-          "en": "wife",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 513.9450000000002
         },
         {
-          "text": "の",
-          "offsetMs": 3884.818,
-          "durationMs": 166.27599999999984,
-          "reading": "の",
-          "romaji": "no",
-          "en": "of; possessive marker",
-          "zhHant": "的；所有格助詞",
-          "showRuby": false
-        },
-        {
-          "text": "メガン",
+          "text": "メガン妃が",
+          "reading": "メガンひが",
+          "romaji": "Megan hi ga",
+          "en": "Princess Meghan",
+          "zhHant": "梅根公主",
+          "showRuby": true,
           "offsetMs": 4051.094,
-          "durationMs": 393.0169999999998,
-          "reading": "めがん",
-          "romaji": "megan",
-          "en": "Meghan",
-          "zhHant": "梅根",
-          "showRuby": true
+          "durationMs": 816.2650000000003
         },
         {
-          "text": "妃",
-          "offsetMs": 4444.11,
-          "durationMs": 211.6239999999998,
-          "reading": "ひ",
-          "romaji": "hi",
-          "en": "princess; consort",
-          "zhHant": "王妃",
-          "showRuby": true
-        },
-        {
-          "text": "が",
-          "offsetMs": 4655.735,
-          "durationMs": 211.6239999999998,
-          "reading": "が",
-          "romaji": "ga",
-          "en": "subject marker",
-          "zhHant": "主語助詞",
-          "showRuby": false
-        },
-        {
-          "text": "家族",
+          "text": "家族と",
+          "reading": "かぞくと",
+          "romaji": "kazoku to",
+          "en": "family and",
+          "zhHant": "家人和",
+          "showRuby": true,
           "offsetMs": 4867.359,
-          "durationMs": 468.59699999999975,
-          "reading": "かぞく",
-          "romaji": "kazoku",
-          "en": "family; members of a family",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 665.1049999999996
         },
         {
-          "text": "と",
-          "offsetMs": 5335.956,
-          "durationMs": 196.5079999999998,
-          "reading": "と",
-          "romaji": "to",
-          "en": "and; with; that",
-          "zhHant": "和；與；表示引用",
-          "showRuby": false
-        },
-        {
-          "text": "共",
+          "text": "共に",
+          "reading": "ともに",
+          "romaji": "tomoni",
+          "en": "together with",
+          "zhHant": "與……一起",
+          "showRuby": true,
           "offsetMs": 5532.464,
-          "durationMs": 287.2039999999997,
-          "reading": "とも",
-          "romaji": "tomo",
-          "en": "first-person plural (or singular)",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 589.5249999999996
         },
         {
-          "text": "に",
-          "offsetMs": 5819.669,
-          "durationMs": 302.3199999999997,
-          "reading": "に",
-          "romaji": "ni",
-          "en": "to; at; in",
-          "zhHant": "向；在；於",
-          "showRuby": false
-        },
-        {
-          "text": "イギリス",
+          "text": "イギリスに",
+          "reading": "イギリスに",
+          "romaji": "Igirisu ni",
+          "en": "to the UK",
+          "zhHant": "到英國",
+          "showRuby": false,
           "offsetMs": 6121.989,
-          "durationMs": 589.5249999999996,
-          "reading": "いぎりす",
-          "romaji": "igirisu",
-          "en": "United Kingdom; Britain",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
-        },
-        {
-          "text": "に",
-          "offsetMs": 6711.514,
-          "durationMs": 196.5079999999998,
-          "reading": "に",
-          "romaji": "ni",
-          "en": "to; at; in",
-          "zhHant": "向；在；於",
-          "showRuby": false
+          "durationMs": 786.0330000000004
         },
         {
           "text": "帰国しました",
-          "offsetMs": 6908.022,
-          "durationMs": 1299.978,
           "reading": "きこくしました",
-          "romaji": "kikokushimashita",
-          "en": "return to one's country",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "romaji": "kikoku shimashita",
+          "en": "returned",
+          "zhHant": "回國了",
+          "showRuby": true,
+          "offsetMs": 6908.022,
+          "durationMs": 1299.978
         }
       ],
       "audio": {
@@ -369,164 +279,104 @@
       "zhHant": "一家人乘私人飛機抵達伯明翰，孩子預計會入讀英國學校。",
       "tokens": [
         {
-          "text": "彼ら",
+          "text": "彼らは",
+          "reading": "かれらは",
+          "romaji": "Karera wa",
+          "en": "They",
+          "zhHant": "他們",
+          "showRuby": true,
           "offsetMs": 57.446,
-          "durationMs": 473.928,
-          "reading": "かれら",
-          "romaji": "karera",
-          "en": "they; them",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 804.241
         },
         {
-          "text": "は",
-          "offsetMs": 531.373,
-          "durationMs": 330.313,
-          "reading": "は",
-          "romaji": "wa",
-          "en": "topic marker",
-          "zhHant": "主題助詞",
-          "showRuby": false
-        },
-        {
-          "text": "プライベートジェット",
+          "text": "プライベート",
+          "reading": "プライベート",
+          "romaji": "Puraibēto",
+          "en": "private",
+          "zhHant": "私人",
+          "showRuby": false,
           "offsetMs": 861.687,
-          "durationMs": 1134.554,
-          "reading": "ぷらいべーとじぇっと",
-          "romaji": "puraibeetojietto",
-          "en": "private jet",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 680.7324
         },
         {
-          "text": "で",
-          "offsetMs": 1996.241,
-          "durationMs": 201.05999999999995,
-          "reading": "で",
-          "romaji": "de",
-          "en": "at; by; with",
-          "zhHant": "在；以；用",
-          "showRuby": false
+          "text": "ジェットで",
+          "reading": "ジェットで",
+          "romaji": "Jetto de",
+          "en": "by jet",
+          "zhHant": "搭乘噴射機",
+          "showRuby": false,
+          "offsetMs": 1542.4194,
+          "durationMs": 654.8815999999999
         },
         {
-          "text": "バーミンガム",
+          "text": "バーミンガムに",
+          "reading": "バーミンガムに",
+          "romaji": "Bāmingamu ni",
+          "en": "to Birmingham",
+          "zhHant": "到伯明翰",
+          "showRuby": false,
           "offsetMs": 2197.301,
-          "durationMs": 775.518,
-          "reading": "ばーみんがむ",
-          "romaji": "baamingamu",
-          "en": "Birmingham",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
-        },
-        {
-          "text": "に",
-          "offsetMs": 2972.819,
-          "durationMs": 201.05999999999995,
-          "reading": "に",
-          "romaji": "ni",
-          "en": "to; at; in",
-          "zhHant": "向；在；於",
-          "showRuby": false
+          "durationMs": 976.5790000000002
         },
         {
           "text": "到着",
-          "offsetMs": 3173.88,
-          "durationMs": 488.28899999999976,
           "reading": "とうちゃく",
-          "romaji": "touchaku",
+          "romaji": "Tōchaku",
           "en": "arrival",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "zhHant": "到達",
+          "showRuby": true,
+          "offsetMs": 3173.88,
+          "durationMs": 488.28899999999976
         },
         {
           "text": "し",
-          "offsetMs": 3662.169,
-          "durationMs": 631.9040000000005,
           "reading": "し",
           "romaji": "shi",
-          "en": "do; verb stem",
-          "zhHant": "做；動詞詞幹",
-          "showRuby": false
+          "en": "and",
+          "zhHant": "和",
+          "showRuby": false,
+          "offsetMs": 3662.169,
+          "durationMs": 631.9030000000002
         },
         {
-          "text": "イギリス",
+          "text": "イギリスの",
+          "reading": "イギリスの",
+          "romaji": "Igirisu no",
+          "en": "of England",
+          "zhHant": "英國的",
+          "showRuby": false,
           "offsetMs": 4294.072,
-          "durationMs": 502.65099999999984,
-          "reading": "いぎりす",
-          "romaji": "igirisu",
-          "en": "United Kingdom; Britain",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 646.2650000000003
         },
         {
-          "text": "の",
-          "offsetMs": 4796.723,
-          "durationMs": 143.61399999999958,
-          "reading": "の",
-          "romaji": "no",
-          "en": "of; possessive marker",
-          "zhHant": "的；所有格助詞",
-          "showRuby": false
-        },
-        {
-          "text": "学校",
+          "text": "学校に",
+          "reading": "がっこうに",
+          "romaji": "Gakkō ni",
+          "en": "to school",
+          "zhHant": "到學校",
+          "showRuby": true,
           "offsetMs": 4940.337,
-          "durationMs": 531.3730000000005,
-          "reading": "がっこう",
-          "romaji": "gakkou",
-          "en": "school",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 689.3499999999995
         },
         {
-          "text": "に",
-          "offsetMs": 5471.711,
-          "durationMs": 157.97599999999966,
-          "reading": "に",
-          "romaji": "ni",
-          "en": "to; at; in",
-          "zhHant": "向；在；於",
-          "showRuby": false
-        },
-        {
-          "text": "入学",
+          "text": "入学する",
+          "reading": "にゅうがくする",
+          "romaji": "Nyūgaku suru",
+          "en": "to enroll",
+          "zhHant": "入學",
+          "showRuby": true,
           "offsetMs": 5629.687,
-          "durationMs": 473.9279999999999,
-          "reading": "にゅうがく",
-          "romaji": "nyuugaku",
-          "en": "entry to school or university; matriculation",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 732.433
         },
         {
-          "text": "する",
-          "offsetMs": 6103.614,
-          "durationMs": 258.5060000000003,
-          "reading": "する",
-          "romaji": "suru",
-          "en": "to do",
-          "zhHant": "做；進行",
-          "showRuby": false
-        },
-        {
-          "text": "予定",
+          "text": "予定です",
+          "reading": "よていです",
+          "romaji": "Yotei desu",
+          "en": "is scheduled",
+          "zhHant": "預定",
+          "showRuby": true,
           "offsetMs": 6362.12,
-          "durationMs": 387.759,
-          "reading": "よてい",
-          "romaji": "yotei",
-          "en": "plans; arrangement",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
-        },
-        {
-          "text": "です",
-          "offsetMs": 6749.88,
-          "durationMs": 402.1199999999999,
-          "reading": "です",
-          "romaji": "desu",
-          "en": "is; polite copula",
-          "zhHant": "是；禮貌判斷詞",
-          "showRuby": false
+          "durationMs": 789.8800000000001
         }
       ],
       "audio": {
@@ -616,224 +466,94 @@
       "zhHant": "據報，二人不會恢復英國王室公務，並將居於私人莊園。",
       "tokens": [
         {
-          "text": "夫妻",
+          "text": "夫妻は",
+          "reading": "夫ふさいは",
+          "romaji": "fusai wa",
+          "en": "The couple",
+          "zhHant": "夫妻",
+          "showRuby": true,
           "offsetMs": 57.529,
-          "durationMs": 474.6120000000001,
-          "reading": "ふさい",
-          "romaji": "fusai",
-          "en": "husband and wife; married couple",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
-        },
-        {
-          "text": "は",
-          "offsetMs": 532.141,
-          "durationMs": 215.73300000000006,
-          "reading": "は",
-          "romaji": "wa",
-          "en": "topic marker",
-          "zhHant": "主題助詞",
-          "showRuby": false
+          "durationMs": 690.345
         },
         {
           "text": "今後",
+          "reading": "今こんご",
+          "romaji": "kongo,",
+          "en": "from now on,",
+          "zhHant": "今後，",
+          "showRuby": true,
           "offsetMs": 747.874,
-          "durationMs": 862.931,
-          "reading": "こんご",
-          "romaji": "kongo",
-          "en": "from now on; hereafter",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 862.931
         },
         {
-          "text": "イギリス",
+          "text": "イギリスでの",
+          "reading": "イギリスでの",
+          "romaji": "Igirisu de no",
+          "en": "in the UK,",
+          "zhHant": "在英國，",
+          "showRuby": false,
           "offsetMs": 1610.805,
-          "durationMs": 503.3770000000002,
-          "reading": "いぎりす",
-          "romaji": "igirisu",
-          "en": "United Kingdom; Britain",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 805.403
         },
         {
-          "text": "で",
-          "offsetMs": 2114.182,
-          "durationMs": 115.05799999999999,
-          "reading": "で",
-          "romaji": "de",
-          "en": "at; by; with",
-          "zhHant": "在；以；用",
-          "showRuby": false
-        },
-        {
-          "text": "の",
-          "offsetMs": 2229.239,
-          "durationMs": 186.96799999999985,
-          "reading": "の",
-          "romaji": "no",
-          "en": "of; possessive marker",
-          "zhHant": "的；所有格助詞",
-          "showRuby": false
-        },
-        {
-          "text": "公務",
-          "offsetMs": 2416.208,
-          "durationMs": 417.0830000000001,
-          "reading": "こうむ",
-          "romaji": "koumu",
+          "text": "公務には",
+          "reading": "公こうむには",
+          "romaji": "kōmu ni wa",
           "en": "official duties",
           "zhHant": "公務",
-          "showRuby": true
+          "showRuby": true,
+          "offsetMs": 2416.208,
+          "durationMs": 719.1089999999999
         },
         {
-          "text": "に",
-          "offsetMs": 2833.291,
-          "durationMs": 129.44000000000005,
-          "reading": "に",
-          "romaji": "ni",
-          "en": "to; at; in",
-          "zhHant": "向；在；於",
-          "showRuby": false
-        },
-        {
-          "text": "は",
-          "offsetMs": 2962.731,
-          "durationMs": 172.58599999999979,
-          "reading": "は",
-          "romaji": "wa",
-          "en": "topic marker",
-          "zhHant": "主題助詞",
-          "showRuby": false
-        },
-        {
-          "text": "復帰",
+          "text": "復帰せず",
+          "reading": "ふっきせず",
+          "romaji": "fukkisezu",
+          "en": "without returning",
+          "zhHant": "不復歸",
+          "showRuby": true,
           "offsetMs": 3135.317,
-          "durationMs": 388.31899999999996,
-          "reading": "ふっき",
-          "romaji": "fukki",
-          "en": "return; comeback",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 1150.5749999999998
         },
         {
-          "text": "せ",
-          "offsetMs": 3523.636,
-          "durationMs": 172.58599999999979,
-          "reading": "せ",
-          "romaji": "se",
-          "en": "shallows; shoal",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": false
-        },
-        {
-          "text": "ず",
-          "offsetMs": 3696.223,
-          "durationMs": 589.6700000000001,
-          "reading": "ず",
-          "romaji": "zu",
-          "en": "without; not",
-          "zhHant": "不；沒有",
-          "showRuby": false
-        },
-        {
-          "text": "私有地",
+          "text": "私有地に",
+          "reading": "私しゆうち地に",
+          "romaji": "shiyūchi ni",
+          "en": "private land",
+          "zhHant": "私有地",
+          "showRuby": true,
           "offsetMs": 4285.892,
-          "durationMs": 560.9049999999997,
-          "reading": "しゆうち",
-          "romaji": "shiyuuchi",
-          "en": "private property",
-          "zhHant": "私人土地",
-          "showRuby": true
+          "durationMs": 805.4030000000002
         },
         {
-          "text": "に",
-          "offsetMs": 4846.798,
-          "durationMs": 244.4970000000003,
-          "reading": "に",
-          "romaji": "ni",
-          "en": "to; at; in",
-          "zhHant": "向；在；於",
-          "showRuby": false
-        },
-        {
-          "text": "拠点",
+          "text": "拠点を",
+          "reading": "きょてん点を",
+          "romaji": "kyoten o",
+          "en": "base",
+          "zhHant": "據點",
+          "showRuby": true,
           "offsetMs": 5091.295,
-          "durationMs": 445.84799999999996,
-          "reading": "きょてん",
-          "romaji": "kyoten",
-          "en": "position; location",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 575.2879999999996
         },
         {
-          "text": "を",
-          "offsetMs": 5537.143,
-          "durationMs": 129.4399999999996,
-          "reading": "を",
-          "romaji": "o",
-          "en": "object marker",
-          "zhHant": "受詞助詞",
-          "showRuby": false
-        },
-        {
-          "text": "置く",
+          "text": "置くことが",
+          "reading": "おくことが",
+          "romaji": "oku koto ga",
+          "en": "to establish",
+          "zhHant": "設置",
+          "showRuby": true,
           "offsetMs": 5666.583,
-          "durationMs": 258.8789999999999,
-          "reading": "おく",
-          "romaji": "oku",
-          "en": "to put; to place",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 690.3450000000003
         },
         {
-          "text": "こと",
-          "offsetMs": 5925.462,
-          "durationMs": 258.8789999999999,
-          "reading": "こと",
-          "romaji": "koto",
-          "en": "thing; nominalizer",
-          "zhHant": "事情；名詞化",
-          "showRuby": false
-        },
-        {
-          "text": "が",
-          "offsetMs": 6184.341,
-          "durationMs": 172.58600000000024,
-          "reading": "が",
-          "romaji": "ga",
-          "en": "subject marker",
-          "zhHant": "主語助詞",
-          "showRuby": false
-        },
-        {
-          "text": "報じ",
+          "text": "報じられています",
+          "reading": "ほうじられています",
+          "romaji": "hōjirareteimasu.",
+          "en": "is being reported.",
+          "zhHant": "被報導。",
+          "showRuby": true,
           "offsetMs": 6356.928,
-          "durationMs": 474.6120000000001,
-          "reading": "ほうじ",
-          "romaji": "houji",
-          "en": "to inform; to report",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
-        },
-        {
-          "text": "ら",
-          "offsetMs": 6831.54,
-          "durationMs": 129.4399999999996,
-          "reading": "ら",
-          "romaji": "ra",
-          "en": "plural suffix",
-          "zhHant": "複數詞尾",
-          "showRuby": false
-        },
-        {
-          "text": "れています",
-          "offsetMs": 6960.98,
-          "durationMs": 791.0200000000004,
-          "reading": "れています",
-          "romaji": "reteimasu",
-          "en": "indicates passive voice (incl. the \"suffering passive\")",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": false
+          "durationMs": 1395.0720000000001
         }
       ],
       "audio": {
@@ -959,134 +679,64 @@
       "zhHant": "王室發言人表示，不會評論夫婦二人的回國安排。",
       "tokens": [
         {
-          "text": "王室",
+          "text": "王室の",
+          "reading": "おうしつの",
+          "romaji": "Oushitsu no",
+          "en": "of the royal family",
+          "zhHant": "王室的",
+          "showRuby": true,
           "offsetMs": 55.532,
-          "durationMs": 555.316,
-          "reading": "おうしつ",
-          "romaji": "oushitsu",
-          "en": "royal family",
-          "zhHant": "王室",
-          "showRuby": true
+          "durationMs": 694.145
         },
         {
-          "text": "の",
-          "offsetMs": 610.848,
-          "durationMs": 138.82899999999995,
-          "reading": "の",
-          "romaji": "no",
-          "en": "of; possessive marker",
-          "zhHant": "的；所有格助詞",
-          "showRuby": false
-        },
-        {
-          "text": "報道官",
+          "text": "報道官は",
+          "reading": "ほうどうかんは",
+          "romaji": "Houdoukan wa,",
+          "en": "the spokesperson",
+          "zhHant": "報導官",
+          "showRuby": true,
           "offsetMs": 749.677,
-          "durationMs": 735.794,
-          "reading": "ほうどうかん",
-          "romaji": "houdoukan",
-          "en": "press officer; press secretary",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 1346.6419999999998
         },
         {
-          "text": "は",
-          "offsetMs": 1485.471,
-          "durationMs": 610.848,
-          "reading": "は",
-          "romaji": "wa",
-          "en": "topic marker",
-          "zhHant": "主題助詞",
-          "showRuby": false
-        },
-        {
-          "text": "夫妻",
+          "text": "夫妻の",
+          "reading": "ふさいの",
+          "romaji": "Fusai no",
+          "en": "of the couple",
+          "zhHant": "夫妻的",
+          "showRuby": true,
           "offsetMs": 2096.319,
-          "durationMs": 388.721,
-          "reading": "ふさい",
-          "romaji": "fusai",
-          "en": "husband and wife; married couple",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 541.433
         },
         {
-          "text": "の",
-          "offsetMs": 2485.04,
-          "durationMs": 152.712,
-          "reading": "の",
-          "romaji": "no",
-          "en": "of; possessive marker",
-          "zhHant": "的；所有格助詞",
-          "showRuby": false
-        },
-        {
-          "text": "帰国",
+          "text": "帰国については",
+          "reading": "きこくについては",
+          "romaji": "Kikoku ni tsuite wa",
+          "en": "regarding the return",
+          "zhHant": "關於回國",
+          "showRuby": true,
           "offsetMs": 2637.752,
-          "durationMs": 430.3699999999999,
-          "reading": "きこく",
-          "romaji": "kikoku",
-          "en": "return to one’s country",
-          "zhHant": "回國",
-          "showRuby": true
+          "durationMs": 1291.1100000000001
         },
         {
-          "text": "について",
-          "offsetMs": 3068.122,
-          "durationMs": 541.4330000000004,
-          "reading": "について",
-          "romaji": "nitsuite",
-          "en": "concerning; regarding",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": false
-        },
-        {
-          "text": "は",
-          "offsetMs": 3609.555,
-          "durationMs": 319.30700000000024,
-          "reading": "は",
-          "romaji": "wa",
-          "en": "topic marker",
-          "zhHant": "主題助詞",
-          "showRuby": false
-        },
-        {
-          "text": "コメント",
+          "text": "コメントしないと",
+          "reading": "コメントしないと",
+          "romaji": "Komento shinai to",
+          "en": "will not comment",
+          "zhHant": "不會評論",
+          "showRuby": false,
           "offsetMs": 3928.862,
-          "durationMs": 555.3159999999998,
-          "reading": "こめんと",
-          "romaji": "komento",
-          "en": "comment",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
-        },
-        {
-          "text": "しない",
-          "offsetMs": 4484.178,
-          "durationMs": 374.83800000000065,
-          "reading": "しない",
-          "romaji": "shinai",
-          "en": "(within a) city; local",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": false
-        },
-        {
-          "text": "と",
-          "offsetMs": 4859.016,
-          "durationMs": 124.94599999999991,
-          "reading": "と",
-          "romaji": "to",
-          "en": "and; with; that",
-          "zhHant": "和；與；表示引用",
-          "showRuby": false
+          "durationMs": 1055.1009999999997
         },
         {
           "text": "述べました",
-          "offsetMs": 4983.963,
-          "durationMs": 944.0370000000003,
           "reading": "のべました",
-          "romaji": "nobemashita",
-          "en": "to state; to express",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "romaji": "nobemashita.",
+          "en": "stated",
+          "zhHant": "說",
+          "showRuby": true,
+          "offsetMs": 4983.963,
+          "durationMs": 944.0370000000003
         }
       ],
       "audio": {
@@ -1185,183 +835,153 @@
       "tokens": [
         {
           "text": "ハリー",
-          "offsetMs": 54.911,
-          "durationMs": 425.562,
-          "reading": "はりー",
-          "romaji": "harii",
+          "reading": "ハリー",
+          "romaji": "Harī",
           "en": "Harry",
-          "zhHant": "哈里",
-          "showRuby": true
+          "zhHant": "哈利",
+          "showRuby": false,
+          "offsetMs": 54.911,
+          "durationMs": 425.562
         },
         {
           "text": "王子",
-          "offsetMs": 480.473,
-          "durationMs": 398.107,
           "reading": "おうじ",
-          "romaji": "ouji",
+          "romaji": "Ōji",
           "en": "prince",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "zhHant": "王子",
+          "showRuby": true,
+          "offsetMs": 480.473,
+          "durationMs": 398.107
         },
         {
           "text": "の",
-          "offsetMs": 878.58,
-          "durationMs": 123.54999999999995,
           "reading": "の",
           "romaji": "no",
-          "en": "of; possessive marker",
-          "zhHant": "的；所有格助詞",
-          "showRuby": false
+          "en": "of",
+          "zhHant": "的",
+          "showRuby": false,
+          "offsetMs": 878.58,
+          "durationMs": 123.54999999999995
         },
         {
           "text": "兄",
-          "offsetMs": 1002.13,
-          "durationMs": 329.467,
           "reading": "あに",
-          "romaji": "ani",
-          "en": "older brother; elder brother",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "romaji": "Ani",
+          "en": "older brother",
+          "zhHant": "兄",
+          "showRuby": true,
+          "offsetMs": 1002.13,
+          "durationMs": 329.46799999999996
         },
         {
-          "text": "で",
+          "text": "である",
+          "reading": "である",
+          "romaji": "de aru",
+          "en": "is",
+          "zhHant": "是",
+          "showRuby": false,
           "offsetMs": 1331.598,
-          "durationMs": 123.54999999999995,
-          "reading": "で",
-          "romaji": "de",
-          "en": "at; by; with",
-          "zhHant": "在；以；用",
-          "showRuby": false
-        },
-        {
-          "text": "ある",
-          "offsetMs": 1455.148,
-          "durationMs": 329.46699999999987,
-          "reading": "ある",
-          "romaji": "aru",
-          "en": "to be; to exist",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": false
+          "durationMs": 453.01700000000005
         },
         {
           "text": "ウェールズ公",
-          "offsetMs": 1784.615,
-          "durationMs": 782.4849999999999,
           "reading": "うぇーるずこう",
-          "romaji": "ueeruzukou",
-          "en": "Wales",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "romaji": "weeruzukou",
+          "en": "Prince of Wales",
+          "zhHant": "威爾斯親王",
+          "showRuby": true,
+          "offsetMs": 1784.615,
+          "durationMs": 782.4860000000001
         },
         {
           "text": "ウィリアム",
-          "offsetMs": 2567.101,
-          "durationMs": 590.2959999999998,
-          "reading": "うぃりあむ",
-          "romaji": "uiriamu",
+          "reading": "ウィリアム",
+          "romaji": "U~iriyamu",
           "en": "William",
           "zhHant": "威廉",
-          "showRuby": true
+          "showRuby": false,
+          "offsetMs": 2567.101,
+          "durationMs": 590.2950000000001
         },
         {
           "text": "皇太子",
-          "offsetMs": 3157.396,
-          "durationMs": 617.7509999999997,
           "reading": "こうたいし",
-          "romaji": "koutaishi",
-          "en": "crown prince",
+          "romaji": "Kōtaishi",
+          "en": "Crown Prince",
           "zhHant": "皇太子",
-          "showRuby": true
+          "showRuby": true,
+          "offsetMs": 3157.396,
+          "durationMs": 617.752
         },
         {
-          "text": "に",
+          "text": "にも",
+          "reading": "にも",
+          "romaji": "ni mo",
+          "en": "also",
+          "zhHant": "也",
+          "showRuby": false,
           "offsetMs": 3775.148,
-          "durationMs": 123.55000000000018,
-          "reading": "に",
-          "romaji": "ni",
-          "en": "to; at; in",
-          "zhHant": "向；在；於",
-          "showRuby": false
+          "durationMs": 713.8459999999995
         },
         {
-          "text": "も",
-          "offsetMs": 3898.698,
-          "durationMs": 590.2959999999998,
-          "reading": "も",
-          "romaji": "mo",
-          "en": "also; too",
-          "zhHant": "也；亦",
-          "showRuby": false
-        },
-        {
-          "text": "2人",
+          "text": "2",
+          "reading": "2",
+          "romaji": "2",
+          "en": "2",
+          "zhHant": "2",
+          "showRuby": false,
           "offsetMs": 4488.994,
-          "durationMs": 370.65099999999984,
-          "reading": "2にん",
-          "romaji": "2nin",
-          "en": "2 people",
-          "zhHant": "2人",
-          "showRuby": true
+          "durationMs": 185.32549999999992
+        },
+        {
+          "text": "人",
+          "reading": "にん",
+          "romaji": "Nin",
+          "en": "person; people",
+          "zhHant": "人；人們",
+          "showRuby": true,
+          "offsetMs": 4674.3195,
+          "durationMs": 185.32550000000083
         },
         {
           "text": "の",
-          "offsetMs": 4859.645,
-          "durationMs": 164.73400000000038,
           "reading": "の",
           "romaji": "no",
-          "en": "of; possessive marker",
-          "zhHant": "的；所有格助詞",
-          "showRuby": false
+          "en": "of",
+          "zhHant": "的",
+          "showRuby": false,
+          "offsetMs": 4859.645,
+          "durationMs": 164.73399999999947
         },
         {
           "text": "計画",
-          "offsetMs": 5024.379,
-          "durationMs": 549.1120000000001,
           "reading": "けいかく",
-          "romaji": "keikaku",
-          "en": "plan; project",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "romaji": "Keikaku",
+          "en": "plan",
+          "zhHant": "計畫",
+          "showRuby": true,
+          "offsetMs": 5024.379,
+          "durationMs": 549.1120000000001
         },
         {
           "text": "が",
-          "offsetMs": 5573.491,
-          "durationMs": 151.0060000000003,
           "reading": "が",
           "romaji": "ga",
-          "en": "subject marker",
-          "zhHant": "主語助詞",
-          "showRuby": false
+          "en": "but",
+          "zhHant": "但",
+          "showRuby": false,
+          "offsetMs": 5573.491,
+          "durationMs": 151.0060000000003
         },
         {
-          "text": "伝え",
+          "text": "伝えられています",
+          "reading": "つたえられています",
+          "romaji": "tsutaerareteimasu",
+          "en": "is being conveyed",
+          "zhHant": "被傳達",
+          "showRuby": true,
           "offsetMs": 5724.497,
-          "durationMs": 356.9229999999998,
-          "reading": "つたえ",
-          "romaji": "tsutae",
-          "en": "legend; tradition",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
-        },
-        {
-          "text": "ら",
-          "offsetMs": 6081.42,
-          "durationMs": 123.55000000000018,
-          "reading": "ら",
-          "romaji": "ra",
-          "en": "plural suffix",
-          "zhHant": "複數詞尾",
-          "showRuby": false
-        },
-        {
-          "text": "れています",
-          "offsetMs": 6204.97,
-          "durationMs": 755.0299999999997,
-          "reading": "れています",
-          "romaji": "reteimasu",
-          "en": "indicates passive voice (incl. the \"suffering passive\")",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": false
+          "durationMs": 1235.5029999999997
         }
       ],
       "audio": {
@@ -1471,174 +1091,84 @@
       "zhHant": "一家人從加州回來，但在當地飼養的雞隻將會留下。",
       "tokens": [
         {
-          "text": "家族",
+          "text": "家族は",
+          "reading": "かぞくは",
+          "romaji": "Kazoku wa",
+          "en": "family",
+          "zhHant": "家族",
+          "showRuby": true,
           "offsetMs": 59.259,
-          "durationMs": 533.333,
-          "reading": "かぞく",
-          "romaji": "kazoku",
-          "en": "family; members of a family",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 800.0
         },
         {
-          "text": "は",
-          "offsetMs": 592.593,
-          "durationMs": 266.66700000000003,
-          "reading": "は",
-          "romaji": "wa",
-          "en": "topic marker",
-          "zhHant": "主題助詞",
-          "showRuby": false
-        },
-        {
-          "text": "カリフォルニア",
+          "text": "カリフォルニア州から",
+          "reading": "カリフォルニアしゅうから",
+          "romaji": "Kariforunia shuu kara",
+          "en": "from California",
+          "zhHant": "來自加利福尼亞州",
+          "showRuby": true,
           "offsetMs": 859.259,
-          "durationMs": 844.444,
-          "reading": "かりふぉるにあ",
-          "romaji": "kariforunia",
-          "en": "California",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 1437.0369999999998
         },
         {
-          "text": "州",
-          "offsetMs": 1703.704,
-          "durationMs": 325.92599999999993,
-          "reading": "しゅう",
-          "romaji": "shuu",
-          "en": "state (US, Australia, India, Germany, etc.); province (e.g. Canada)",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
-        },
-        {
-          "text": "から",
-          "offsetMs": 2029.63,
-          "durationMs": 266.6669999999999,
-          "reading": "から",
-          "romaji": "kara",
-          "en": "from; because",
-          "zhHant": "從；因為",
-          "showRuby": false
-        },
-        {
-          "text": "来ました",
+          "text": "来ましたが",
+          "reading": "きましたが",
+          "romaji": "Kimashita ga",
+          "en": "came, but",
+          "zhHant": "來了，但",
+          "showRuby": true,
           "offsetMs": 2296.296,
-          "durationMs": 577.7780000000002,
-          "reading": "きました",
-          "romaji": "kimashita",
-          "en": "to come (spatially or temporally); to approach",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 1214.815
         },
         {
-          "text": "が",
-          "offsetMs": 2874.074,
-          "durationMs": 637.0369999999998,
-          "reading": "が",
-          "romaji": "ga",
-          "en": "subject marker",
-          "zhHant": "主語助詞",
-          "showRuby": false
-        },
-        {
-          "text": "カリフォルニア",
+          "text": "カリフォルニアで",
+          "reading": "カリフォルニアで",
+          "romaji": "Kariforunia de",
+          "en": "in California",
+          "zhHant": "在加利福尼亞",
+          "showRuby": false,
           "offsetMs": 3511.111,
-          "durationMs": 829.6300000000001,
-          "reading": "かりふぉるにあ",
-          "romaji": "kariforunia",
-          "en": "California",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 977.7780000000002
         },
         {
-          "text": "で",
-          "offsetMs": 4340.741,
-          "durationMs": 148.14800000000014,
-          "reading": "で",
-          "romaji": "de",
-          "en": "at; by; with",
-          "zhHant": "在；以；用",
-          "showRuby": false
-        },
-        {
-          "text": "飼っ",
+          "text": "飼っていた",
+          "reading": "かっていた",
+          "romaji": "Katte ita",
+          "en": "was keeping",
+          "zhHant": "在飼養",
+          "showRuby": true,
           "offsetMs": 4488.889,
-          "durationMs": 266.66700000000037,
-          "reading": "かっ",
-          "romaji": "katsu",
-          "en": "to keep (a pet or other animal); to have",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 755.5550000000003
         },
         {
-          "text": "て",
-          "offsetMs": 4755.556,
-          "durationMs": 118.51900000000023,
-          "reading": "て",
-          "romaji": "te",
-          "en": "linking verb ending",
-          "zhHant": "連接動詞詞尾",
-          "showRuby": false
-        },
-        {
-          "text": "いた",
-          "offsetMs": 4874.074,
-          "durationMs": 370.3700000000008,
-          "reading": "いた",
-          "romaji": "ita",
-          "en": "board; plank",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": false
-        },
-        {
-          "text": "ニワトリ",
+          "text": "ニワトリは",
+          "reading": "ニワトリは",
+          "romaji": "Niwatori wa",
+          "en": "the chicken",
+          "zhHant": "雞",
+          "showRuby": false,
           "offsetMs": 5244.444,
-          "durationMs": 562.9629999999997,
-          "reading": "にわとり",
-          "romaji": "niwatori",
-          "en": "chicken (Gallus gallus domesticus); domestic chicken",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 725.9259999999995
         },
         {
-          "text": "は",
-          "offsetMs": 5807.407,
-          "durationMs": 162.96299999999974,
-          "reading": "は",
-          "romaji": "wa",
-          "en": "topic marker",
-          "zhHant": "主題助詞",
-          "showRuby": false
-        },
-        {
-          "text": "残し",
+          "text": "残して",
+          "reading": "のこして",
+          "romaji": "Nokoshite",
+          "en": "leave behind",
+          "zhHant": "留下",
+          "showRuby": true,
           "offsetMs": 5970.37,
-          "durationMs": 429.6300000000001,
-          "reading": "のこし",
-          "romaji": "nokoshi",
-          "en": "to leave (behind)",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
-        },
-        {
-          "text": "て",
-          "offsetMs": 6400.0,
-          "durationMs": 103.70399999999972,
-          "reading": "て",
-          "romaji": "te",
-          "en": "linking verb ending",
-          "zhHant": "連接動詞詞尾",
-          "showRuby": false
+          "durationMs": 533.3339999999998
         },
         {
           "text": "行きます",
-          "offsetMs": 6503.704,
-          "durationMs": 696.2960000000003,
           "reading": "いきます",
-          "romaji": "ikimasu",
-          "en": "to go; to move (in a direction or towards a specific location)",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "romaji": "Ikimasu",
+          "en": "will go.",
+          "zhHant": "去。",
+          "showRuby": true,
+          "offsetMs": 6503.704,
+          "durationMs": 696.2960000000003
         }
       ],
       "audio": {
@@ -1748,154 +1278,94 @@
       "zhHant": "他們會帶同愛犬米婭與普拉。",
       "tokens": [
         {
-          "text": "犬",
+          "text": "犬の",
+          "reading": "いぬの",
+          "romaji": "Inu no",
+          "en": "dog's",
+          "zhHant": "狗的",
+          "showRuby": true,
           "offsetMs": 64.962,
-          "durationMs": 373.534,
-          "reading": "いぬ",
-          "romaji": "inu",
-          "en": "dog (Canis (lupus) familiaris)",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 535.94
         },
         {
-          "text": "の",
-          "offsetMs": 438.496,
-          "durationMs": 162.40600000000006,
-          "reading": "の",
-          "romaji": "no",
-          "en": "of; possessive marker",
-          "zhHant": "的；所有格助詞",
-          "showRuby": false
-        },
-        {
-          "text": "ミア",
+          "text": "ミアと",
+          "reading": "ミアと",
+          "romaji": "Mia to",
+          "en": "Mia and",
+          "zhHant": "米亞和",
+          "showRuby": false,
           "offsetMs": 600.902,
-          "durationMs": 324.812,
-          "reading": "みあ",
-          "romaji": "mia",
-          "en": "Mia",
-          "zhHant": "米婭",
-          "showRuby": true
+          "durationMs": 617.143
         },
         {
-          "text": "と",
-          "offsetMs": 925.714,
-          "durationMs": 292.331,
-          "reading": "と",
-          "romaji": "to",
-          "en": "and; with; that",
-          "zhHant": "和；與；表示引用",
-          "showRuby": false
-        },
-        {
-          "text": "プーラ",
+          "text": "プーラは",
+          "reading": "プーラは",
+          "romaji": "Pūra wa",
+          "en": "Pura is",
+          "zhHant": "普拉是",
+          "showRuby": false,
           "offsetMs": 1218.045,
-          "durationMs": 487.2180000000001,
-          "reading": "ぷーら",
-          "romaji": "puura",
-          "en": "Pura",
-          "zhHant": "普拉",
-          "showRuby": true
+          "durationMs": 730.827
         },
         {
-          "text": "は",
-          "offsetMs": 1705.263,
-          "durationMs": 243.60899999999992,
-          "reading": "は",
-          "romaji": "wa",
-          "en": "topic marker",
-          "zhHant": "主題助詞",
-          "showRuby": false
-        },
-        {
-          "text": "一緒",
-          "offsetMs": 1948.872,
-          "durationMs": 406.0150000000001,
-          "reading": "いっしょ",
-          "romaji": "issho",
+          "text": "一緒に",
+          "reading": "いっしょに",
+          "romaji": "Issho ni",
           "en": "together",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "zhHant": "一起",
+          "showRuby": true,
+          "offsetMs": 1948.872,
+          "durationMs": 584.662
         },
         {
-          "text": "に",
-          "offsetMs": 2354.887,
-          "durationMs": 178.64699999999993,
-          "reading": "に",
-          "romaji": "ni",
-          "en": "to; at; in",
-          "zhHant": "向；在；於",
-          "showRuby": false
-        },
-        {
-          "text": "連れ",
+          "text": "連れて",
+          "reading": "つれて",
+          "romaji": "Tsurete",
+          "en": "take",
+          "zhHant": "帶",
+          "showRuby": true,
           "offsetMs": 2533.534,
-          "durationMs": 308.5709999999999,
-          "reading": "つれ",
-          "romaji": "tsure",
-          "en": "companion; company",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
-        },
-        {
-          "text": "て",
-          "offsetMs": 2842.105,
-          "durationMs": 129.92500000000018,
-          "reading": "て",
-          "romaji": "te",
-          "en": "linking verb ending",
-          "zhHant": "連接動詞詞尾",
-          "showRuby": false
+          "durationMs": 438.4960000000001
         },
         {
           "text": "行く",
-          "offsetMs": 2972.03,
-          "durationMs": 276.09000000000015,
           "reading": "いく",
-          "romaji": "iku",
-          "en": "to go; to move (in a direction or towards a specific location)",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "romaji": "Iku",
+          "en": "go",
+          "zhHant": "去",
+          "showRuby": true,
+          "offsetMs": 2972.03,
+          "durationMs": 276.0899999999997
         },
         {
           "text": "と",
-          "offsetMs": 3248.12,
-          "durationMs": 146.16499999999996,
           "reading": "と",
           "romaji": "to",
-          "en": "and; with; that",
-          "zhHant": "和；與；表示引用",
-          "showRuby": false
+          "en": "that",
+          "zhHant": "那",
+          "showRuby": false,
+          "offsetMs": 3248.12,
+          "durationMs": 146.16600000000017
         },
         {
-          "text": "の",
+          "text": "のこと",
+          "reading": "のこと",
+          "romaji": "no koto",
+          "en": "it is said",
+          "zhHant": "的事",
+          "showRuby": false,
           "offsetMs": 3394.286,
-          "durationMs": 162.40599999999995,
-          "reading": "の",
-          "romaji": "no",
-          "en": "of; possessive marker",
-          "zhHant": "的；所有格助詞",
-          "showRuby": false
-        },
-        {
-          "text": "こと",
-          "offsetMs": 3556.692,
-          "durationMs": 308.5709999999999,
-          "reading": "こと",
-          "romaji": "koto",
-          "en": "thing; nominalizer",
-          "zhHant": "事情；名詞化",
-          "showRuby": false
+          "durationMs": 470.97699999999986
         },
         {
           "text": "です",
-          "offsetMs": 3865.263,
-          "durationMs": 454.7370000000001,
           "reading": "です",
           "romaji": "desu",
-          "en": "is; polite copula",
-          "zhHant": "是；禮貌判斷詞",
-          "showRuby": false
+          "en": "is",
+          "zhHant": "是",
+          "showRuby": false,
+          "offsetMs": 3865.263,
+          "durationMs": 454.7370000000001
         }
       ],
       "audio": {
@@ -1981,214 +1451,154 @@
       "zhHant": "這是哈里與梅根自2022年伊利沙伯女王葬禮後，首次到訪英國。",
       "tokens": [
         {
-          "text": "ハリー",
+          "text": "ハリー王子",
+          "reading": "ハリーおうじ",
+          "romaji": "Harī ōji",
+          "en": "Prince Harry",
+          "zhHant": "哈利王子",
+          "showRuby": true,
           "offsetMs": 55.278,
-          "durationMs": 442.221,
-          "reading": "はりー",
-          "romaji": "harii",
-          "en": "Harry",
-          "zhHant": "哈里",
-          "showRuby": true
-        },
-        {
-          "text": "王子",
-          "offsetMs": 497.499,
-          "durationMs": 428.40200000000004,
-          "reading": "おうじ",
-          "romaji": "ouji",
-          "en": "prince",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 870.6229999999999
         },
         {
           "text": "と",
-          "offsetMs": 925.901,
-          "durationMs": 221.111,
           "reading": "と",
           "romaji": "to",
-          "en": "and; with; that",
-          "zhHant": "和；與；表示引用",
-          "showRuby": false
+          "en": "and",
+          "zhHant": "和",
+          "showRuby": false,
+          "offsetMs": 925.901,
+          "durationMs": 221.111
         },
         {
-          "text": "メガン",
+          "text": "メガン妃",
+          "reading": "メガンひ",
+          "romaji": "Megan hi",
+          "en": "Princess Meghan",
+          "zhHant": "梅根妃",
+          "showRuby": true,
           "offsetMs": 1147.012,
-          "durationMs": 359.30500000000006,
-          "reading": "めがん",
-          "romaji": "megan",
-          "en": "Meghan",
-          "zhHant": "梅根",
-          "showRuby": true
-        },
-        {
-          "text": "妃",
-          "offsetMs": 1506.317,
-          "durationMs": 193.47199999999998,
-          "reading": "ひ",
-          "romaji": "hi",
-          "en": "princess; consort",
-          "zhHant": "王妃",
-          "showRuby": true
+          "durationMs": 552.777
         },
         {
           "text": "が",
-          "offsetMs": 1699.789,
-          "durationMs": 152.0139999999999,
           "reading": "が",
           "romaji": "ga",
           "en": "subject marker",
-          "zhHant": "主語助詞",
-          "showRuby": false
+          "zhHant": "主格助詞",
+          "showRuby": false,
+          "offsetMs": 1699.789,
+          "durationMs": 152.01299999999992
         },
         {
-          "text": "イギリス",
+          "text": "イギリスを",
+          "reading": "イギリスを",
+          "romaji": "Igirisu o",
+          "en": "the UK",
+          "zhHant": "英國",
+          "showRuby": false,
           "offsetMs": 1851.802,
-          "durationMs": 538.9570000000001,
-          "reading": "いぎりす",
-          "romaji": "igirisu",
-          "en": "United Kingdom; Britain",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
-        },
-        {
-          "text": "を",
-          "offsetMs": 2390.76,
-          "durationMs": 96.73599999999988,
-          "reading": "を",
-          "romaji": "o",
-          "en": "object marker",
-          "zhHant": "受詞助詞",
-          "showRuby": false
+          "durationMs": 635.6940000000002
         },
         {
           "text": "訪れる",
-          "offsetMs": 2487.496,
-          "durationMs": 635.6930000000002,
           "reading": "おとずれる",
           "romaji": "otozureru",
-          "en": "to visit; to call on",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "en": "to visit",
+          "zhHant": "訪問",
+          "showRuby": true,
+          "offsetMs": 2487.496,
+          "durationMs": 635.6929999999998
         },
         {
-          "text": "の",
+          "text": "のは",
+          "reading": "のは",
+          "romaji": "no wa,",
+          "en": "is that",
+          "zhHant": "是",
+          "showRuby": false,
           "offsetMs": 3123.189,
-          "durationMs": 124.375,
-          "reading": "の",
-          "romaji": "no",
-          "en": "of; possessive marker",
-          "zhHant": "的；所有格助詞",
-          "showRuby": false
-        },
-        {
-          "text": "は",
-          "offsetMs": 3247.564,
-          "durationMs": 690.971,
-          "reading": "は",
-          "romaji": "wa",
-          "en": "topic marker",
-          "zhHant": "主題助詞",
-          "showRuby": false
+          "durationMs": 815.346
         },
         {
           "text": "2022年",
-          "offsetMs": 3938.535,
-          "durationMs": 1243.7479999999996,
-          "reading": "にせんにじゅうにねん",
-          "romaji": "nisennijuuninen",
-          "en": "2022 year",
+          "reading": "2022ねん",
+          "romaji": "2022 nen",
+          "en": "the year 2022",
           "zhHant": "2022年",
-          "showRuby": true
+          "showRuby": true,
+          "offsetMs": 3938.535,
+          "durationMs": 1243.7480000000005
         },
         {
           "text": "の",
+          "reading": "の",
+          "romaji": "no",
+          "en": "of",
+          "zhHant": "的",
+          "showRuby": false,
           "offsetMs": 5182.283,
-          "durationMs": 165.83299999999963,
-          "reading": "の",
-          "romaji": "no",
-          "en": "of; possessive marker",
-          "zhHant": "的；所有格助詞",
-          "showRuby": false
+          "durationMs": 165.83299999999963
         },
         {
-          "text": "エリザベス",
+          "text": "エリザベス女王",
+          "reading": "エリザベスじょおう",
+          "romaji": "Erizabesu joō",
+          "en": "Queen Elizabeth",
+          "zhHant": "伊莉莎白女王",
+          "showRuby": true,
           "offsetMs": 5348.116,
-          "durationMs": 690.9709999999995,
-          "reading": "えりざべす",
-          "romaji": "erizabesu",
-          "en": "Elizabeth",
-          "zhHant": "伊利沙伯",
-          "showRuby": true
-        },
-        {
-          "text": "女王",
-          "offsetMs": 6039.087,
-          "durationMs": 331.66600000000017,
-          "reading": "じょおう",
-          "romaji": "joou",
-          "en": "queen",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 1022.6369999999997
         },
         {
           "text": "の",
-          "offsetMs": 6370.753,
-          "durationMs": 165.83299999999963,
           "reading": "の",
           "romaji": "no",
-          "en": "of; possessive marker",
-          "zhHant": "的；所有格助詞",
-          "showRuby": false
+          "en": "of",
+          "zhHant": "的",
+          "showRuby": false,
+          "offsetMs": 6370.753,
+          "durationMs": 165.83300000000054
         },
         {
           "text": "葬儀",
-          "offsetMs": 6536.586,
-          "durationMs": 456.04100000000017,
           "reading": "そうぎ",
-          "romaji": "sougi",
+          "romaji": "sōgi",
           "en": "funeral",
           "zhHant": "葬禮",
-          "showRuby": true
+          "showRuby": true,
+          "offsetMs": 6536.586,
+          "durationMs": 456.04100000000017
         },
         {
           "text": "以来",
-          "offsetMs": 6992.627,
-          "durationMs": 331.66600000000017,
           "reading": "いらい",
           "romaji": "irai",
-          "en": "since; henceforth",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "en": "since",
+          "zhHant": "以來",
+          "showRuby": true,
+          "offsetMs": 6992.627,
+          "durationMs": 331.66599999999926
         },
         {
-          "text": "の",
+          "text": "のこと",
+          "reading": "のこと",
+          "romaji": "no koto",
+          "en": "the matter",
+          "zhHant": "的事",
+          "showRuby": false,
           "offsetMs": 7324.293,
-          "durationMs": 124.375,
-          "reading": "の",
-          "romaji": "no",
-          "en": "of; possessive marker",
-          "zhHant": "的；所有格助詞",
-          "showRuby": false
-        },
-        {
-          "text": "こと",
-          "offsetMs": 7448.668,
-          "durationMs": 276.3879999999999,
-          "reading": "こと",
-          "romaji": "koto",
-          "en": "thing; nominalizer",
-          "zhHant": "事情；名詞化",
-          "showRuby": false
+          "durationMs": 400.7629999999999
         },
         {
           "text": "です",
-          "offsetMs": 7725.056,
-          "durationMs": 386.9440000000004,
           "reading": "です",
-          "romaji": "desu",
-          "en": "is; polite copula",
-          "zhHant": "是；禮貌判斷詞",
-          "showRuby": false
+          "romaji": "desu.",
+          "en": "is.",
+          "zhHant": "是。",
+          "showRuby": false,
+          "offsetMs": 7725.056,
+          "durationMs": 386.9440000000004
         }
       ],
       "audio": {
@@ -2474,183 +1884,153 @@
       "tokens": [
         {
           "text": "ハリー",
-          "offsetMs": 55.938,
-          "durationMs": 433.523,
-          "reading": "はりー",
-          "romaji": "harii",
+          "reading": "ハリー",
+          "romaji": "Harī",
           "en": "Harry",
-          "zhHant": "哈里",
-          "showRuby": true
+          "zhHant": "哈利",
+          "showRuby": false,
+          "offsetMs": 55.938,
+          "durationMs": 433.524
         },
         {
           "text": "王子",
-          "offsetMs": 489.462,
-          "durationMs": 405.554,
           "reading": "おうじ",
-          "romaji": "ouji",
+          "romaji": "Ōji",
           "en": "prince",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "zhHant": "王子",
+          "showRuby": true,
+          "offsetMs": 489.462,
+          "durationMs": 405.553
         },
         {
           "text": "は",
-          "offsetMs": 895.015,
-          "durationMs": 251.72300000000007,
           "reading": "は",
           "romaji": "wa",
-          "en": "topic marker",
-          "zhHant": "主題助詞",
-          "showRuby": false
+          "en": "is",
+          "zhHant": "是",
+          "showRuby": false,
+          "offsetMs": 895.015,
+          "durationMs": 251.72300000000007
         },
         {
           "text": "以前",
-          "offsetMs": 1146.738,
-          "durationMs": 629.308,
           "reading": "いぜん",
           "romaji": "izen",
-          "en": "ago; since",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "en": "previously",
+          "zhHant": "以前",
+          "showRuby": true,
+          "offsetMs": 1146.738,
+          "durationMs": 629.308
         },
         {
-          "text": "警備",
+          "text": "警備の",
+          "reading": "けいびの",
+          "romaji": "keibi no",
+          "en": "security",
+          "zhHant": "警備",
+          "showRuby": true,
           "offsetMs": 1776.046,
-          "durationMs": 377.5849999999998,
-          "reading": "けいび",
-          "romaji": "keibi",
-          "en": "security; protection",
-          "zhHant": "保安",
-          "showRuby": true
+          "durationMs": 517.4309999999998
         },
         {
-          "text": "の",
-          "offsetMs": 2153.631,
-          "durationMs": 139.846,
-          "reading": "の",
-          "romaji": "no",
-          "en": "of; possessive marker",
-          "zhHant": "的；所有格助詞",
-          "showRuby": false
-        },
-        {
-          "text": "レベル",
+          "text": "レベルが",
+          "reading": "レベルが",
+          "romaji": "reberu ga",
+          "en": "level",
+          "zhHant": "等級",
+          "showRuby": false,
           "offsetMs": 2293.477,
-          "durationMs": 391.56899999999996,
-          "reading": "れべる",
-          "romaji": "reberu",
-          "en": "level; standard",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 573.3690000000001
         },
         {
-          "text": "が",
-          "offsetMs": 2685.046,
-          "durationMs": 181.80000000000018,
-          "reading": "が",
-          "romaji": "ga",
-          "en": "subject marker",
-          "zhHant": "主語助詞",
-          "showRuby": false
-        },
-        {
-          "text": "引き下げ",
+          "text": "引き",
+          "reading": "ひき",
+          "romaji": "hiki",
+          "en": "pull",
+          "zhHant": "拉",
+          "showRuby": true,
           "offsetMs": 2866.846,
-          "durationMs": 559.3849999999998,
-          "reading": "ひきさげ",
-          "romaji": "hikisage",
-          "en": "reduction; cut",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "durationMs": 279.6925000000001
         },
         {
-          "text": "られる",
-          "offsetMs": 3426.231,
-          "durationMs": 405.5529999999999,
-          "reading": "られる",
-          "romaji": "rareru",
-          "en": "indicates passive voice (incl. the \"suffering passive\")",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": false
+          "text": "下げられる",
+          "reading": "さげられる",
+          "romaji": "sagerareru",
+          "en": "to be lowered",
+          "zhHant": "被降低",
+          "showRuby": true,
+          "offsetMs": 3146.5385,
+          "durationMs": 685.2464999999997
         },
         {
-          "text": "こと",
+          "text": "ことに",
+          "reading": "ことに",
+          "romaji": "koto ni",
+          "en": "to",
+          "zhHant": "到",
+          "showRuby": false,
           "offsetMs": 3831.785,
-          "durationMs": 251.72299999999996,
-          "reading": "こと",
-          "romaji": "koto",
-          "en": "thing; nominalizer",
-          "zhHant": "事情；名詞化",
-          "showRuby": false
-        },
-        {
-          "text": "に",
-          "offsetMs": 4083.508,
-          "durationMs": 307.66200000000026,
-          "reading": "に",
-          "romaji": "ni",
-          "en": "to; at; in",
-          "zhHant": "向；在；於",
-          "showRuby": false
+          "durationMs": 559.384
         },
         {
           "text": "不満",
-          "offsetMs": 4391.169,
-          "durationMs": 447.5079999999998,
           "reading": "ふまん",
           "romaji": "fuman",
-          "en": "dissatisfaction; discontent",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "en": "dissatisfaction",
+          "zhHant": "不滿",
+          "showRuby": true,
+          "offsetMs": 4391.169,
+          "durationMs": 447.5079999999998
         },
         {
           "text": "を",
-          "offsetMs": 4838.677,
-          "durationMs": 139.84599999999955,
           "reading": "を",
           "romaji": "o",
           "en": "object marker",
-          "zhHant": "受詞助詞",
-          "showRuby": false
+          "zhHant": "的",
+          "showRuby": false,
+          "offsetMs": 4838.677,
+          "durationMs": 139.84600000000046
         },
         {
           "text": "持ち",
-          "offsetMs": 4978.523,
-          "durationMs": 629.308,
           "reading": "もち",
           "romaji": "mochi",
-          "en": "having; holding",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "en": "to hold",
+          "zhHant": "持有",
+          "showRuby": true,
+          "offsetMs": 4978.523,
+          "durationMs": 629.308
         },
         {
           "text": "訴訟",
-          "offsetMs": 5607.831,
-          "durationMs": 475.47699999999986,
           "reading": "そしょう",
-          "romaji": "soshou",
+          "romaji": "soshō",
           "en": "lawsuit",
           "zhHant": "訴訟",
-          "showRuby": true
+          "showRuby": true,
+          "offsetMs": 5607.831,
+          "durationMs": 475.47699999999986
         },
         {
           "text": "を",
-          "offsetMs": 6083.308,
-          "durationMs": 97.89199999999983,
           "reading": "を",
           "romaji": "o",
           "en": "object marker",
-          "zhHant": "受詞助詞",
-          "showRuby": false
+          "zhHant": "的",
+          "showRuby": false,
+          "offsetMs": 6083.308,
+          "durationMs": 97.89199999999983
         },
         {
           "text": "起こしました",
-          "offsetMs": 6181.2,
-          "durationMs": 1090.8000000000002,
           "reading": "おこしました",
           "romaji": "okoshimashita",
-          "en": "to raise; to raise up",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
+          "en": "filed",
+          "zhHant": "提出",
+          "showRuby": true,
+          "offsetMs": 6181.2,
+          "durationMs": 1090.8000000000002
         }
       ],
       "audio": {
@@ -2900,23 +2280,13 @@
           "showRuby": false
         },
         {
-          "text": "英",
+          "text": "英内務省",
           "offsetMs": 4512.857,
-          "durationMs": 236.0569999999998,
-          "reading": "えい",
-          "romaji": "ei",
-          "en": "calyx; corolla",
-          "zhHant": "參閱句子翻譯",
-          "showRuby": true
-        },
-        {
-          "text": "内務省",
-          "offsetMs": 4748.914,
-          "durationMs": 624.857,
-          "reading": "ないむしょう",
-          "romaji": "naimushou",
-          "en": "Home Ministry; Department of the Interior (US, etc.)",
-          "zhHant": "參閱句子翻譯",
+          "durationMs": 860.9139999999998,
+          "reading": "えいないむしょう",
+          "romaji": "einaimushou",
+          "en": "UK Home Office",
+          "zhHant": "英國內政部",
           "showRuby": true
         },
         {

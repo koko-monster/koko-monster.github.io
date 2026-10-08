@@ -24,6 +24,17 @@ HAS_RUBY_TEXT = re.compile(r"[一-龯々ァ-ヶー]")
 MERGE_PATTERNS = sorted((
     ("に", "つい", "て"), ("に", "よっ", "て"), ("に", "よれ", "ば"),
     ("と", "して"), ("で", "ある", "と"), ("で", "は", "ない"),
+    ("エイ", "ブラハム"), ("ティ", "ムール"), ("グリーン", "ランド"),
+    ("イコール", "アース"), ("インド", "洋"), ("英", "内務省"),
+    ("米", "東部", "時間"), ("土石", "流"), ("数", "百人"),
+    ("特", "に"), ("さら", "に"), ("共", "に"), ("対し", "て"),
+    ("通じ", "て"), ("始ま", "る"), ("使い", "やすい"),
+    ("お", "受け", "します"), ("屈し", "て", "い", "ない"),
+    ("復帰", "せ", "ず"), ("行わ", "れています"), ("発生", "しました"),
+    ("お", "受け", "し", "ます"), ("選ば", "れ", "た"), ("発表", "さ", "れ", "ます"),
+    ("確認", "し", "て", "い", "ます"), ("テーマ", "に", "し", "て", "い", "ます"),
+    ("交通", "系"), ("IC", "カード"), ("好き", "な"), ("登場", "する"),
+    ("専門", "家"), ("一", "人"), ("一", "日"), ("一", "回"),
 ), key=len, reverse=True)
 
 # Context-sensitive fragments are safer and clearer when curated than when a
@@ -227,6 +238,9 @@ def main() -> None:
         if index % 100 == 0:
             print(f"Processed {index}/{len(surfaces)} tokens")
 
+    overrides = read_json(ROOT / "word-token-overrides.json")
+    for surface, override in overrides.items():
+        lexicon[surface] = {**lexicon.get(surface, {}), **override}
     destination = ROOT / "word-token-lexicon.json"
     destination.write_text(json.dumps(lexicon, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
     print(f"Wrote {len(lexicon)} token entries to {destination}")
