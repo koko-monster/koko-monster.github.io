@@ -90,8 +90,8 @@
     const pageDescription=`${article.summary.en} Read in approachable Japanese with audio, furigana, translation and vocabulary support.`;
     const canonicalUrl=article.reservedUrl||`https://kokomonster.com${article.reservedPath}`;
     const shareImage=Number(article.id)===9991
-      ?'https://kokomonster.com/assets/social/og-news-onosato-9991.jpg'
-      :'https://kokomonster.com/assets/social/og-news.jpg';
+      ?'https://koko-monster.github.io/assets/social/og-news-onosato-9991.jpg'
+      :'https://koko-monster.github.io/assets/social/og-news.jpg';
     document.title=pageTitle;
     setMeta('meta[name="description"]',pageDescription);
     setMeta('link[rel="canonical"]',canonicalUrl,'href');

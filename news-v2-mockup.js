@@ -51,6 +51,9 @@
   const allCards=gridCards;
   const openInNewTab=link=>{if(!link)return;link.target='_blank';link.rel='noopener noreferrer';};
   gridCards.forEach(card=>{const link=$('a',card);if(link&&storyRoutes[card.dataset.storyId])link.href=storyRoutes[card.dataset.storyId];openInNewTab(link);});
+  const dailyStoryLink=$('.news-daily-card a');
+  if(dailyStoryLink)dailyStoryLink.href=storyRoutes[9991];
+  openInNewTab(dailyStoryLink);
   openInNewTab($('[data-lead-link]',leadCard));
   openInNewTab($('[data-lead-cta]',leadCard));
   openInNewTab($('.news-intro a[href^="/ja/news/"]'));
@@ -277,7 +280,7 @@
       ['.story-footer__column:nth-of-type(1) > b','EXPLORE','探索'],
       ['.story-footer__column:nth-of-type(2) > b','GET STARTED','開始學習'],
       ['.story-footer__column:nth-of-type(3) > b','HELP','幫助'],
-      ['a[href="index.html"]','Home','首頁'],['a[href="news.html"]','Easy News','簡易新聞'],['a[href="shop-redesign.html"]','Books','書籍'],
+      ['a[href="index.html"],a[href="/"]','Home','首頁'],['a[href="news.html"],a[href="/news/"]','Easy News','簡易新聞'],['a[href="shop-redesign.html"],a[href="/books/"]','Books','書籍'],
       ['.story-footer__column:nth-of-type(2) a[href="https://store.kokomonster.com/"]','Shop books','選購書籍'],['a[href="https://apps.apple.com/us/app/kokomonster/id6462056577"]','Download the app','下載應用程式'],
       ['a[href="https://store.kokomonster.com/pages/contact"]','Contact us','聯絡我們'],['a[href="https://store.kokomonster.com/pages/app"]','How it works','使用方式'],
       ['.story-footer__column:nth-of-type(3) a[href="https://store.kokomonster.com/"]','FAQ','常見問題'],
@@ -299,7 +302,7 @@
     document.title=t('Easy News — Kokomonster','簡易新聞 — Kokomonster');
     $('meta[name="description"]')?.setAttribute('content',t('Read current stories in approachable Japanese with furigana, translation and guided reading support.','閱讀真實時事，用振假名、朗讀、翻譯與引導閱讀，輕鬆理解日語新聞。'));
     const copy=[
-      ['.news-nav a[href="news.html"]','Easy News','簡易新聞'],['.news-nav a[href="shop-redesign.html"]','Books','書籍'],['.news-nav a[href*="store.kokomonster"]','Shop','商店'],['.news-nav a[href*="apps.apple"]','App','應用程式'],
+      ['.news-nav a[href="news.html"],.news-nav a[href="/news/"]','Easy News','簡易新聞'],['.news-nav a[href="shop-redesign.html"],.news-nav a[href="/books/"]','Books','書籍'],['.news-nav a[href*="store.kokomonster"]','Shop','商店'],['.news-nav a[href*="apps.apple"]','App','應用程式'],
       ['.news-login','Login','登入'],['.news-intro .news-kicker','EASY NEWS · JAPAN TODAY','簡易新聞 · 今日日本'],['.news-lede','Real current stories with furigana, narration and translation when you need them. Read one useful article, keep one useful word.','真實時事，加上需要時可開啟的振假名、朗讀與翻譯。讀完一篇實用新聞，帶走一個真正用得到的詞。'],
       ['.news-daily-card > span','TODAY’S 5-MINUTE READ','今日 5 分鐘閱讀'],['.news-daily-card strong small','Level','程度'],['.news-feed .news-kicker','LATEST STORIES','最新新聞'],['.news-feed__bar h2','Choose what you want to understand.','選擇你想讀懂的主題。'],
       ['.news-level-picker > span','Reading level','閱讀程度'],['.news-topic-picker > span','Section','分類'],['.news-word .news-kicker','WORD FROM THIS SECTION','本分類精選單字'],
@@ -342,7 +345,7 @@
     if(!isNewsReader)return;
     document.documentElement.lang=languageCode==='zh'?'zh-Hant':'en';
     const copy=[
-      ['.news-nav a[href="news.html"]','Easy News','簡易新聞'],['.news-nav a[href="shop-redesign.html"]','Books','書籍'],['.news-nav a[href*="store.kokomonster"]','Shop','商店'],['.news-nav a[href*="apps.apple"]','App','應用程式'],['.news-login','Login','登入'],
+      ['.news-nav a[href="news.html"],.news-nav a[href="/news/"]','Easy News','簡易新聞'],['.news-nav a[href="shop-redesign.html"],.news-nav a[href="/books/"]','Books','書籍'],['.news-nav a[href*="store.kokomonster"]','Shop','商店'],['.news-nav a[href*="apps.apple"]','App','應用程式'],['.news-login','Login','登入'],
       ['.reader-back','← Back to Easy News','← 返回簡易新聞'],['.reader-toolbar>div:first-child span','READ · LISTEN · UNDERSTAND','閱讀 · 聆聽 · 理解'],['.reader-toolbar>div:first-child strong','2 min · 7 keywords','2 分鐘 · 7 個關鍵字'],['.reader-word-card__head>span','KEYWORDS IN THIS STORY','本篇新聞關鍵字'],['.reader-word-card>p','Play a word or save it to your library.','播放單字，或儲存至你的單字庫。'],
       ['.reader-progress>span','YOUR DAILY PROGRESS','你的每日進度'],['.reader-progress__heading small','Daily goal · 3 stories','每日目標 · 3 篇新聞'],['.reader-chat-card__copy>small','AFTER READING','閱讀之後'],['.reader-chat-card__copy>strong','Use today’s words with Boombear.','和 Boombear 練習今天的單字。'],['.reader-chat-card__copy>em','Try Guided Chat in the app →','在 App 試用 AI 對話 →'],
       ['.reader-next .news-kicker','KEEP READING','繼續閱讀'],['.reader-next h2','More current stories, at your level.','更多符合你程度的時事新聞。'],['.login-modal .news-kicker','YOUR KOKOMONSTER ACCOUNT','你的 KOKOMONSTER 帳號'],['#login-title','Log in to save this word.','登入以儲存這個單字。'],['.login-modal__dialog>p:not(.news-kicker)','Your saved words stay with your reading history and can be used later in Guided Chat.','儲存的單字會保留在閱讀紀錄中，之後亦可用於 AI 對話。'],['.login-modal__later','Not now','暫時不要']

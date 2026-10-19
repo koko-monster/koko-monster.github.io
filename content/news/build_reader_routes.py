@@ -25,7 +25,7 @@ def main() -> None:
         published = article_data["date"]
         section = article_data["category"]["en"]
         cover_name = Path(article_data["cover"]["file"]).name
-        social_image = f"https://kokomonster.com/assets/news-covers/{cover_name}"
+        social_image = f"https://koko-monster.github.io/assets/news-covers/{cover_name}"
         document_title = f"{title} | Kokomonster Easy News"
         meta_values = {
             "title": document_title,
