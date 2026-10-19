@@ -4,6 +4,7 @@
 from __future__ import annotations
 
 import json
+import html
 import re
 from pathlib import Path
 
@@ -16,18 +17,52 @@ def main() -> None:
     manifest = json.loads((CONTENT_ROOT / "manifest.json").read_text(encoding="utf-8"))
     template = (SITE_ROOT / "news-reader.html").read_text(encoding="utf-8")
     for article in manifest["articles"]:
+        article_data = json.loads((CONTENT_ROOT / article["dataFile"]).read_text(encoding="utf-8"))
+        title = article_data["title"]["ja"]
+        english_title = article_data["title"]["en"]
+        description = article_data["summary"]["en"]
+        canonical = article_data["reservedUrl"]
+        published = article_data["date"]
+        section = article_data["category"]["en"]
+        cover_name = Path(article_data["cover"]["file"]).name
+        social_image = f"https://kokomonster.com/assets/news-covers/{cover_name}"
+        document_title = f"{title} | Kokomonster Easy News"
+        meta_values = {
+            "title": document_title,
+            "description": description,
+            "canonical": canonical,
+            "og:title": document_title,
+            "og:description": description,
+            "og:url": canonical,
+            "og:image": social_image,
+            "og:image:alt": f"Kokomonster Easy News: {english_title}",
+            "article:published_time": published,
+            "article:section": section,
+            "twitter:title": document_title,
+            "twitter:description": description,
+            "twitter:image": social_image,
+            "twitter:image:alt": f"Kokomonster Easy News: {english_title}",
+        }
         rendered = re.sub(
             r'data-story-id="\d+"',
             f'data-story-id="{article["id"]}"',
             template,
             count=1,
         )
+        rendered = re.sub(r"<title>.*?</title>", f"<title>{html.escape(meta_values['title'])}</title>", rendered, count=1)
         rendered = re.sub(
-            r"<title>.*?</title>",
-            f'<title>{article["title"]["ja"]} — Kokomonster Easy News</title>',
+            r'<link rel="canonical" href="[^"]*">',
+            f'<link rel="canonical" href="{html.escape(meta_values["canonical"], quote=True)}">',
             rendered,
             count=1,
         )
+        for key, value in meta_values.items():
+            if key in {"title", "canonical"}:
+                continue
+            attribute = "property" if key.startswith("og:") or key.startswith("article:") else "name"
+            pattern = rf'<meta {attribute}="{re.escape(key)}" content="[^"]*">'
+            replacement = f'<meta {attribute}="{key}" content="{html.escape(value, quote=True)}">'
+            rendered = re.sub(pattern, replacement, rendered, count=1)
         destination = SITE_ROOT / article["reservedPath"].lstrip("/") / "index.html"
         destination.parent.mkdir(parents=True, exist_ok=True)
         destination.write_text(rendered, encoding="utf-8")

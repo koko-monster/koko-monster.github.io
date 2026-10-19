@@ -1,8 +1,14 @@
 (()=>{
-  const root='/content/news/';
+  const isPreview=location.protocol==='file:'||/\/preview\//.test(location.pathname)||location.pathname.endsWith('/news-reader-v2-mockup.html');
+  const isLive=!isPreview;
+  const root=isLive?'/content/news/':'../content/news/';
   const cache='v=50';
   const esc=value=>String(value??'').replace(/[&<>"']/g,char=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[char]));
-  const assetPath=(value,prefix)=>value?.replace(/^(\.\.\/)+/,prefix)||'';
+  const setMeta=(selector,value,attribute='content')=>document.head.querySelector(selector)?.setAttribute(attribute,value);
+  const assetPath=(value,prefix)=>{
+    const normalized=value?.replace(/^(\.\.\/)+/,prefix)||'';
+    return !isLive&&(normalized.startsWith('assets/')||normalized.startsWith('content/'))?`../${normalized}`:normalized;
+  };
   const toHiragana=value=>String(value??'').replace(/[\u30a1-\u30f6]/g,char=>String.fromCharCode(char.charCodeAt(0)-0x60));
   const rubyMarkup=(surface,reading)=>{
     const text=String(surface??''),kana=toHiragana(reading);
@@ -80,14 +86,33 @@
     const entry=manifest.articles.find(item=>Number(item.id)===articleId())||manifest.articles[0];
     const article=await fetch(`${root}${entry.dataFile}?${cache}`).then(response=>{if(!response.ok)throw new Error(`Article ${response.status}`);return response.json();});
     document.body.dataset.storyId=String(article.id);
-    document.title=`${article.title.ja} — Kokomonster Easy News`;
+    const pageTitle=`${article.title.ja} | Kokomonster Easy News`;
+    const pageDescription=`${article.summary.en} Read in approachable Japanese with audio, furigana, translation and vocabulary support.`;
+    const canonicalUrl=article.reservedUrl||`https://kokomonster.com${article.reservedPath}`;
+    const shareImage=Number(article.id)===9991
+      ?'https://kokomonster.com/assets/social/og-news-onosato-9991.jpg'
+      :'https://kokomonster.com/assets/social/og-news.jpg';
+    document.title=pageTitle;
+    setMeta('meta[name="description"]',pageDescription);
+    setMeta('link[rel="canonical"]',canonicalUrl,'href');
+    setMeta('meta[property="og:title"]',pageTitle);
+    setMeta('meta[property="og:description"]',pageDescription);
+    setMeta('meta[property="og:url"]',canonicalUrl);
+    setMeta('meta[property="og:image"]',shareImage);
+    setMeta('meta[property="og:image:alt"]',`Kokomonster Easy News illustration for ${article.title.en}`);
+    setMeta('meta[property="article:published_time"]',article.date);
+    setMeta('meta[property="article:section"]',article.category.en);
+    setMeta('meta[name="twitter:title"]',pageTitle);
+    setMeta('meta[name="twitter:description"]',pageDescription);
+    setMeta('meta[name="twitter:image"]',shareImage);
+    setMeta('meta[name="twitter:image:alt"]',`Kokomonster Easy News illustration for ${article.title.en}`);
     window.kkmReaderArticle=article;
     if('mediaSession' in navigator&&'MediaMetadata' in window){
-      const artwork=new URL(`/assets/news-media/${article.id}-${article.slug}-512.jpg`,document.baseURI).href;
+      const artwork=new URL(isLive?`/assets/news-media/${article.id}-${article.slug}-512.jpg`:`../assets/news-media/${article.id}-${article.slug}-512.jpg`,document.baseURI).href;
       navigator.mediaSession.metadata=new MediaMetadata({title:article.title.ja,artist:'Kokomonster Easy News',album:`${article.level} · ${article.category.en}`,artwork:[{src:artwork,sizes:'512x512',type:'image/jpeg'}]});
     }
     const hero=document.querySelector('.reader-hero .news-shell');
-    if(hero)hero.innerHTML=`<a class="reader-back" href="/news.html">← Back to Easy News</a><div class="reader-hero__meta"><span>${esc(article.category.key.toUpperCase())}</span><span>${esc(article.level)}</span><time>${esc(new Date(`${article.date}T00:00:00`).toLocaleDateString('en-GB',{day:'2-digit',month:'short',year:'numeric'}).toUpperCase())}</time></div><h1 lang="ja">${esc(article.title.ja)}</h1><p data-reader-title-en>${esc(article.title.en)}</p><p data-reader-title-zh lang="zh-Hant" hidden>${esc(article.title.zhHant)}</p><figure><img src="${esc(assetPath(article.cover.file,''))}" alt="Kokomonster illustrated cover for ${esc(article.title.en)}"></figure>`;
+    if(hero)hero.innerHTML=`<a class="reader-back" href="${isLive?'/news/':'news.html'}">← Back to Easy News</a><div class="reader-hero__meta"><span>${esc(article.category.key.toUpperCase())}</span><span>${esc(article.level)}</span><time>${esc(new Date(`${article.date}T00:00:00`).toLocaleDateString('en-GB',{day:'2-digit',month:'short',year:'numeric'}).toUpperCase())}</time></div><h1 lang="ja">${esc(article.title.ja)}</h1><p data-reader-title-en>${esc(article.title.en)}</p><p data-reader-title-zh lang="zh-Hant" hidden>${esc(article.title.zhHant)}</p><figure><img src="${esc(assetPath(article.cover.file,''))}" alt="Kokomonster illustrated cover for ${esc(article.title.en)}"></figure>`;
     const toolbar=document.querySelector('.reader-toolbar>div:first-child strong');
     if(toolbar)toolbar.textContent=`${article.readingMinutes} min · ${article.keywordCount} keywords`;
     const body=document.querySelector('[data-reader-article]');
@@ -104,7 +129,7 @@
     const others=manifest.articles.filter(item=>item.id!==article.id).sort((a,b)=>(a.level===article.level?-1:1)-(b.level===article.level?-1:1)).slice(0,2);
     const next=await Promise.all(others.map(async item=>fetch(`${root}${item.dataFile}?${cache}`).then(response=>response.json())));
     const grid=document.querySelector('.reader-next__grid');
-    if(grid)grid.innerHTML=next.map(item=>`<a href="${esc(item.reservedPath)}"><img src="${esc(assetPath(item.cover.file,''))}" alt="Kokomonster illustrated cover"><span><small>${esc(item.level)} · ${esc(item.category.key.toUpperCase())}</small><b lang="ja">${esc(item.title.ja)}</b><em>${item.readingMinutes} min · ${item.keywordCount} keywords</em></span></a>`).join('');
+    if(grid)grid.innerHTML=next.map(item=>`<a href="${esc(isLive?item.reservedPath:`news-reader-v2-mockup.html?story=${item.id}`)}"><img src="${esc(assetPath(item.cover.file,''))}" alt="Kokomonster illustrated cover"><span><small>${esc(item.level)} · ${esc(item.category.key.toUpperCase())}</small><b lang="ja">${esc(item.title.ja)}</b><em>${item.readingMinutes} min · ${item.keywordCount} keywords</em></span></a>`).join('');
     document.documentElement.dataset.readerReady='true';
     return {article,manifest};
   };

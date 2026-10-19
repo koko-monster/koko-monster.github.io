@@ -1,28 +1,26 @@
 const $=(selector,root=document)=>root?.querySelector(selector)??null;
 const $$=(selector,root=document)=>root?[...root.querySelectorAll(selector)]:[];
 
-// Keep landing-page destinations canonical even when the static preview is
-// opened with a query string or from a nested URL.
+// Keep launched destinations canonical on GitHub Pages. Local previews retain
+// their local pages so the full prototype remains reviewable offline.
 if(document.body.dataset.page==='home'){
   const setHref=(selector,href)=>{const link=$(selector);if(link)link.href=href;};
-  $$('a[href="test.html"]').forEach(link=>{link.href='/level';});
-  $$('a[href="news.html"]').forEach(link=>{link.href='/news.html';});
-  $$('a[href="story.html"]').forEach(link=>{link.href='/book';});
-  $$('a[href="chat.html"]').forEach(link=>{link.href='/chat';});
-  setHref('.main-nav a:nth-child(1)','/news.html');
-  setHref('.main-nav a:nth-child(2)','/book');
-  setHref('.main-nav a:nth-child(3)','/chat');
-  setHref('.story-path--news .story-path__action','/news.html#stories');
-  setHref('.story-path--book .story-path__action','/book');
-  setHref('.story-path--chat .story-path__action','/chat');
-  setHref('.story-news-preview__action','/ja/news/Sports/onosato-promoted-to-yokozuna-9991/');
-  setHref('.story-news-item--sushi > a','/ja/news/Business/suica-mascot-public-vote-9992/');
-  setHref('.story-news-item--festival > a','/ja/news/Environment/aomori-earthquake-magnitude-7-5-9993/');
-  setHref('.story-news-preview__all','/news.html#stories');
-  setHref('.story-book-app__action','/book');
-  setHref('.story-guided-chat__action','/chat');
+  const isPreview=location.protocol==='file:'||/\/preview\//.test(location.pathname);
+  const isLive=!isPreview;
+  const route=(live,local)=>isLive?live:local;
+  $$('a[href="news.html"]').forEach(link=>{link.href=route('/news/','news.html');});
+  $$('a[href="story.html"],a[href="shop-redesign.html"]').forEach(link=>{link.href=route('/books/','shop-redesign.html');});
+  setHref('.main-nav a:nth-child(1)',route('/news/','news.html'));
+  setHref('.main-nav a:nth-child(2)',route('/books/','shop-redesign.html'));
+  setHref('.story-path--news .story-path__action',route('/news/#stories','news.html#stories'));
+  setHref('.story-path--book .story-path__action',route('/books/','shop-redesign.html'));
+  setHref('.story-news-preview__action',route('/ja/news/Sports/onosato-promoted-to-yokozuna-9991/','news-reader-v2-mockup.html?story=9991'));
+  setHref('.story-news-item--sushi > a',route('/ja/news/Business/suica-mascot-public-vote-9992/','news-reader-v2-mockup.html?story=9992'));
+  setHref('.story-news-item--festival > a',route('/ja/news/Environment/aomori-earthquake-magnitude-7-5-9993/','news-reader-v2-mockup.html?story=9993'));
+  setHref('.story-news-preview__all',route('/news/#stories','news.html#stories'));
+  setHref('.story-book-app__action',route('/books/','shop-redesign.html'));
   const articleLinks=[$('.story-news-preview__action'),$('.story-news-item--sushi > a'),$('.story-news-item--festival > a')].filter(Boolean);
-  articleLinks.forEach(link=>{link.target='_blank';link.rel='noopener noreferrer';});
+  articleLinks.forEach(link=>{if(isLive){link.target='_blank';link.rel='noopener noreferrer';}else{link.removeAttribute('target');link.removeAttribute('rel');}});
   $$('a[href^="https://apps.apple.com/"]').forEach(link=>{link.target='_blank';link.rel='noopener noreferrer';});
   const makeLinkedArea=(area,link,{newTab=false}={})=>{
     if(!area||!link)return;
@@ -51,9 +49,9 @@ document.addEventListener('keydown',event=>{if(event.key==='Escape'&&document.bo
 document.addEventListener('click',event=>{if(!document.body.classList.contains('menu-open')||event.target.closest('.site-header'))return;setMenuOpen(false);});
 
 const pathContent={
-  today:{title:'Read one story from today’s Japan',copy:'Choose your level, read once, then practise three expressions in a five-minute chat with ご飯子.',meta:['7–10 minutes','Furigana and translation optional','Moves directly into practice'],href:'/news.html',cta:'Open News',image:'assets/koko-newsroom.png'},
-  culture:{title:'Enter a story through a subject you love',copy:'Start with a chapter about art, food or craft, then use its language in an interactive reading session.',meta:['Print + digital together','Narration and cultural notes','N4 through N2+'],href:'/book',cta:'Browse Stories',image:'assets/koko-stories.png'},
-  speak:{title:'Have one useful, low-pressure conversation',copy:'Pick a theme, borrow a starter when you need one and receive concise corrections without breaking the flow.',meta:['Voice or text','Level-aware support','Chapter-linked topics'],href:'/chat',cta:'Start Chat',image:'assets/koko-chat-world.png'}
+  today:{title:'Read one story from today’s Japan',copy:'Choose your level, read once, then practise three expressions in a five-minute chat with ご飯子.',meta:['7–10 minutes','Furigana and translation optional','Moves directly into practice'],href:'/news.html',cta:'Open News',image:'../assets/koko-newsroom.png'},
+  culture:{title:'Enter a story through a subject you love',copy:'Start with a chapter about art, food or craft, then use its language in an interactive reading session.',meta:['Print + digital together','Narration and cultural notes','N4 through N2+'],href:'/book',cta:'Browse Stories',image:'../assets/koko-stories.png'},
+  speak:{title:'Have one useful, low-pressure conversation',copy:'Pick a theme, borrow a starter when you need one and receive concise corrections without breaking the flow.',meta:['Voice or text','Level-aware support','Chapter-linked topics'],href:'/chat',cta:'Start Chat',image:'../assets/koko-chat-world.png'}
 };
 $$('[data-path-choices] .choice').forEach(button=>button.addEventListener('click',()=>{
   $$('[data-path-choices] .choice').forEach(item=>item.classList.toggle('active',item===button));
@@ -105,7 +103,7 @@ $('[data-chat-support]')?.addEventListener('click',event=>{event.currentTarget.c
 const sendChat=()=>{
   const value=chatInput?.value.trim();if(!value||!conversation)return;
   const user=document.createElement('article');user.className='message user-message';user.innerHTML=`<div><p>${value.replace(/[<>]/g,'')}</p><small>Now</small></div>`;conversation.appendChild(user);chatInput.value='';conversation.scrollTop=conversation.scrollHeight;
-  window.setTimeout(()=>{const reply=document.createElement('article');reply.className='message character-message';reply.innerHTML=`<img src="assets/koko-gohanko.png" alt=""><div><p>いいね！「${value.replace(/[<>]/g,'')}」について、もう少し教えて。どうしてそう思ったの？</p><div class="message-tools"><button disabled aria-label="Audio sample pending approval">Audio pending</button><span>Helpful correction</span></div></div>`;conversation.appendChild(reply);conversation.scrollTop=conversation.scrollHeight;},650);
+  window.setTimeout(()=>{const reply=document.createElement('article');reply.className='message character-message';reply.innerHTML=`<img src="../assets/koko-gohanko.png" alt=""><div><p>いいね！「${value.replace(/[<>]/g,'')}」について、もう少し教えて。どうしてそう思ったの？</p><div class="message-tools"><button disabled aria-label="Audio sample pending approval">Audio pending</button><span>Helpful correction</span></div></div>`;conversation.appendChild(reply);conversation.scrollTop=conversation.scrollHeight;},650);
 };
 $('[data-chat-send]')?.addEventListener('click',sendChat);chatInput?.addEventListener('keydown',event=>{if(event.key==='Enter'&&!event.shiftKey){event.preventDefault();sendChat();}});
 
@@ -174,7 +172,7 @@ const compactNewsPassage=$('.story-news-reader > p');
 if(compactNewsPassage)compactNewsPassage.innerHTML='<span class="story-news-karaoke-token"><ruby>大の里<rt>おおのさと</rt></ruby>は、</span><br><span class="story-news-karaoke-token"><ruby>相撲<rt>すもう</rt></ruby>で</span><span class="story-news-karaoke-token">いちばん</span><br><span class="story-news-karaoke-token"><ruby>高<rt>たか</rt></ruby>い</span><span class="story-news-karaoke-token"><ruby>地位<rt>ちい</rt></ruby>、</span><br><mark class="story-news-karaoke-token" data-vocab-audio="yokozuna" tabindex="0" role="button" aria-label="Play 横綱 pronunciation"><ruby>横綱<rt>よこづな</rt></ruby></mark><span class="story-news-karaoke-token">に なりました。</span><br><span class="story-news-karaoke-token"><ruby>土俵<rt>どひょう</rt></ruby>での</span><span class="story-news-karaoke-token"><ruby>活躍<rt>かつやく</rt></ruby>に</span><br><span class="story-news-karaoke-token"><ruby>注目<rt>ちゅうもく</rt></ruby>が</span><span class="story-news-karaoke-token"><ruby>集<rt>あつ</rt></ruby>まります。</span>';
 
 const compactChatThread=$('.story-chat-moment__thread');
-if(compactChatThread)compactChatThread.innerHTML='<div class="story-chat-moment__assistant"><span class="story-chat-moment__avatar"><img loading="lazy" decoding="async" src="assets/design-library/characters/CHR-STYLEA-098-chat-bear-speaking-half-body.png" alt="Boombear"></span><div><p lang="ja">週末は何をしたい？</p><small>BOOMBEAR</small></div></div><div class="story-chat-moment__user" lang="ja">花火を見に行きたいです。</div><div class="story-chat-moment__assistant story-chat-moment__assistant--followup"><span class="story-chat-moment__avatar"><img loading="lazy" decoding="async" src="assets/design-library/characters/CHR-STYLEA-098-chat-bear-speaking-half-body.png" alt="Boombear"></span><div><p lang="ja">いいですね。だれと行きたいですか？</p><small>BOOMBEAR</small></div></div><div class="story-chat-moment__user story-chat-moment__user--followup" lang="ja">友達と行きたいです。</div>';
+if(compactChatThread)compactChatThread.innerHTML='<div class="story-chat-moment__assistant"><span class="story-chat-moment__avatar"><img loading="lazy" decoding="async" src="../assets/design-library/characters/CHR-STYLEA-098-chat-bear-speaking-half-body.png" alt="Boombear"></span><div><p lang="ja">週末は何をしたい？</p><small>BOOMBEAR</small></div></div><div class="story-chat-moment__user" lang="ja">花火を見に行きたいです。</div><div class="story-chat-moment__assistant story-chat-moment__assistant--followup"><span class="story-chat-moment__avatar"><img loading="lazy" decoding="async" src="../assets/design-library/characters/CHR-STYLEA-098-chat-bear-speaking-half-body.png" alt="Boombear"></span><div><p lang="ja">いいですね。だれと行きたいですか？</p><small>BOOMBEAR</small></div></div><div class="story-chat-moment__user story-chat-moment__user--followup" lang="ja">友達と行きたいです。</div>';
 
 // Landing hero: the reading controls are the product demonstration.
 const heroReader=$('[data-hero-reader]');
@@ -229,9 +227,9 @@ $$('[data-quiz-answer]').forEach(button=>button.addEventListener('click',()=>{
 }));
 
 const landingBooks={
-  dj1:{title:'Discover Japan Vol. 1',level:'N4–N3',count:'10 cultural stories',image:'assets/book-dj1.jpg',color:'#ef554f',summary:'Festivals, art, nature and delicacies—read as culture first and a lesson second.',japanese:'<ruby>日本<rt>にほん</rt></ruby>の<ruby>夏<rt>なつ</rt></ruby>の<ruby>夜空<rt>よぞら</rt></ruby>には、<ruby>大<rt>おお</rt></ruby>きな<ruby>花火<rt>はなび</rt></ruby>が<ruby>咲<rt>さ</rt></ruby>きます。',translation:'Large fireworks bloom across Japan’s summer night sky.'},
-  artisan:{title:'Artisan Japan',level:'N3–N2',count:'12 artisan profiles',image:'assets/book-artisan.jpg',color:'#f7ca49',summary:'Meet the people keeping Japanese craft alive through wood, metal, cloth, paper and patient practice.',japanese:'<ruby>職人<rt>しょくにん</rt></ruby>は、<ruby>長<rt>なが</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>をかけて<ruby>技<rt>わざ</rt></ruby>を<ruby>磨<rt>みが</rt></ruby>き、<ruby>伝統<rt>でんとう</rt></ruby>を<ruby>未来<rt>みらい</rt></ruby>へつなぎます。',translation:'Artisans refine their skills over many years and carry tradition into the future.'},
-  dj2:{title:'Discover Japan Vol. 2',level:'N4–N2',count:'12 new journeys',image:'assets/book-dj2.jpg',color:'#72f06b',summary:'Continue through regional food, seasonal customs and the rituals hidden inside everyday Japanese life.',japanese:'<ruby>季節<rt>きせつ</rt></ruby>の<ruby>行事<rt>ぎょうじ</rt></ruby>には、<ruby>地域<rt>ちいき</rt></ruby>の<ruby>歴史<rt>れきし</rt></ruby>と<ruby>人々<rt>ひとびと</rt></ruby>の<ruby>願<rt>ねが</rt></ruby>いが<ruby>込<rt>こ</rt></ruby>められています。',translation:'Seasonal customs hold the history of each region and the wishes of its people.'}
+  dj1:{title:'Discover Japan Vol. 1',level:'N4–N3',count:'10 cultural stories',image:'../assets/book-dj1.jpg',color:'#ef554f',summary:'Festivals, art, nature and delicacies—read as culture first and a lesson second.',japanese:'<ruby>日本<rt>にほん</rt></ruby>の<ruby>夏<rt>なつ</rt></ruby>の<ruby>夜空<rt>よぞら</rt></ruby>には、<ruby>大<rt>おお</rt></ruby>きな<ruby>花火<rt>はなび</rt></ruby>が<ruby>咲<rt>さ</rt></ruby>きます。',translation:'Large fireworks bloom across Japan’s summer night sky.'},
+  artisan:{title:'Artisan Japan',level:'N3–N2',count:'12 artisan profiles',image:'../assets/book-artisan.jpg',color:'#f7ca49',summary:'Meet the people keeping Japanese craft alive through wood, metal, cloth, paper and patient practice.',japanese:'<ruby>職人<rt>しょくにん</rt></ruby>は、<ruby>長<rt>なが</rt></ruby>い<ruby>時間<rt>じかん</rt></ruby>をかけて<ruby>技<rt>わざ</rt></ruby>を<ruby>磨<rt>みが</rt></ruby>き、<ruby>伝統<rt>でんとう</rt></ruby>を<ruby>未来<rt>みらい</rt></ruby>へつなぎます。',translation:'Artisans refine their skills over many years and carry tradition into the future.'},
+  dj2:{title:'Discover Japan Vol. 2',level:'N4–N2',count:'12 new journeys',image:'../assets/book-dj2.jpg',color:'#72f06b',summary:'Continue through regional food, seasonal customs and the rituals hidden inside everyday Japanese life.',japanese:'<ruby>季節<rt>きせつ</rt></ruby>の<ruby>行事<rt>ぎょうじ</rt></ruby>には、<ruby>地域<rt>ちいき</rt></ruby>の<ruby>歴史<rt>れきし</rt></ruby>と<ruby>人々<rt>ひとびと</rt></ruby>の<ruby>願<rt>ねが</rt></ruby>いが<ruby>込<rt>こ</rt></ruby>められています。',translation:'Seasonal customs hold the history of each region and the wishes of its people.'}
 };
 const bookPreview=$('[data-book-preview]');
 $$('[data-book-select]').forEach(button=>button.addEventListener('click',()=>{
@@ -395,7 +393,7 @@ const createLandingAudioPlayer=({button,file,tokens,activeClass='is-reading',spe
 createLandingAudioPlayer({button:storyHeroPlay,file:'nanami-fireworks.mp3',tokens:storyHeroTokens,activeClass:'speaking'});
 createLandingAudioPlayer({button:$('[data-hero-narrate]',heroReader),file:'nanami-fireworks.mp3',tokens:heroTokens,activeClass:'speaking',speedButton:$('[data-hero-speed]',heroReader)});
 createLandingAudioPlayer({button:$('[data-story-book-play]'),file:'nanami-snow-maiden.mp3',tokens:$$('.story-path--book .story-book-karaoke-token')});
-createLandingAudioPlayer({button:$('[data-news-reader-play]'),file:'nanami-yokozuna.mp3',tokens:$$('.story-news-reader .story-news-karaoke-token'),metadata:{title:'大の里、横綱になる',artist:'Kokomonster Easy News',album:'N4 · Sports',artwork:[{src:'assets/news-media/9991-onosato-promoted-to-yokozuna-512.jpg',sizes:'512x512',type:'image/jpeg'}]}});
+createLandingAudioPlayer({button:$('[data-news-reader-play]'),file:'nanami-yokozuna.mp3',tokens:$$('.story-news-reader .story-news-karaoke-token'),metadata:{title:'大の里、横綱になる',artist:'Kokomonster Easy News',album:'N4 · Sports',artwork:[{src:'../assets/news-media/9991-onosato-promoted-to-yokozuna-512.jpg',sizes:'512x512',type:'image/jpeg'}]}});
 createLandingAudioPlayer({button:$('[data-book-app-play]'),file:'nanami-snow-maiden.mp3',tokens:$$('.story-book-app__reader-copy .story-book-app-karaoke-token')});
 
 const vocabularyAudioFiles={nihon:'nanami-word-nihon.mp3','natsu-no-yoru':'nanami-word-natsu-no-yoru.mp3',sora:'nanami-word-sora.mp3',hanabi:'nanami-word-hanabi.mp3',hirogarimasu:'nanami-word-hirogarimasu.mp3',inori:'nanami-word-inori.mp3',yokozuna:'nanami-word-yokozuna.mp3'};
@@ -450,15 +448,15 @@ if(interfaceLanguageButton){
   const landingZh=new Map(Object.entries({
     'Easy News':'簡易新聞','Books':'書籍','Guided Chat':'AI 對話','Shop':'商店','App':'應用程式','Login':'登入','Find your level':'測出你的程度',
     'JAPANESE FOR REAL LIFE':'實用生活日語','Japanese you can':'你真正能用上的','actually use.':'日語。',
-    'Read a story. Hear every sentence. Meet useful words in context. Then try them in a real conversation.':'讀一個故事，聽懂每一句，在情境中掌握實用詞彙，再把它們帶進真實對話。','Find your starting level':'找到適合你的起點',
+    'Read a story. Hear every sentence. Meet useful words in context. Then try them in a real conversation.':'讀一個故事，聽懂每一句，在情境中掌握實用詞彙，再把它們帶進真實對話。','Find your starting level':'找到適合你的起點','Explore the books':'探索書籍',
     'TAP · LISTEN · UNDERSTAND':'點選 · 聆聽 · 理解','TRY THE READER':'試用閱讀器','A real page.':'真實頁面。','Help':'支援','when you need it.':'需要時即時出現。',
     'Furigana':'振假名','Translation':'翻譯','Text size':'文字大小','READ IT IN THE BOOK':'在書中閱讀',
     'START WHERE YOU ARE':'從適合你的地方開始','One goal.':'一個目標。','Three ways in.':'三條起點。','Not sure where to begin?':'不知道從哪裡開始？','Find your level in 3 minutes →':'3 分鐘測出你的程度 →',
     'LEVEL 1 · 初心者':'程度 1 · 初學者','LEVEL 2 · もっと読みたい':'程度 2 · 想讀更多','LEVEL 3 · 話してみたい':'程度 3 · 想開口說','I know some kana.':'我認得一些假名。','I want useful words.':'我想學實用詞彙。','EASY NEWS · STARTS WITH あ':'簡易新聞 · 從「あ」開始','breakfast':'早餐','TODAY · N5':'今日 · N5','Tap for meaning':'點擊查看意思',
-    'Start with the kana you know. Meet useful words in short, real news.':'從你認得的假名開始，在簡短的真實新聞中學習實用詞彙。','Explore Easy News':'瀏覽簡易新聞',
+    'Start with the kana you know. Meet useful words in short, real news.':'從你認得的假名開始，在簡短的真實新聞中學習實用詞彙。','Explore Easy News':'瀏覽簡易新聞','Browse all books →':'瀏覽所有書籍 →',
     'I can read a little.':'我已經能讀一點。','I want to go deeper.':'我想讀得更深入。','BOOK + READER':'書籍 + 閱讀器','OPEN A REAL PAGE':'打開真實書頁','Hear and understand Japanese from a real page.':'從真實書頁聆聽並理解日語。','Find your book':'找到適合你的書',
     'I understand Japanese.':'我看得懂日語。','I want to speak':'我想說得','more naturally.':'更自然。','That sounds natural.':'這樣說很自然。','Finding a natural reply…':'正在尋找自然的回覆⋯',
-    'Boombear is ready to help.':'Boombear 已準備好幫助你。','Try one reply. Get one useful improvement, then keep the conversation going.':'試著回覆一句，獲得一個實用改進，再繼續聊下去。','Start a guided chat':'開始 AI 對話',
+    'Boombear is ready to help.':'Boombear 已準備好幫助你。','Try one reply. Get one useful improvement, then keep the conversation going.':'試著回覆一句，獲得一個實用改進，再繼續聊下去。','Start a guided chat':'開始 AI 對話','Try Guided Chat in the app':'在 App 試用 AI 對話',
     'EASY NEWS · JAPAN TODAY':'簡易新聞 · 今日日本','Today’s Japan,':'今日日本，','in readable Japanese.':'用讀得懂的日語呈現。','FEATURED · N4':'精選 · N4','READ · LISTEN · UNDERSTAND':'閱讀 · 聆聽 · 理解',
     'Meet the newest wrestler to reach sumo’s highest rank.':'認識最新晉升相撲最高級別的力士。','Explore this story in Easy News':'前往簡易新聞閱讀這篇故事','Click to hear this word. Meet it again in News and Guided Chat.':'點擊聆聽這個詞，並在新聞與 AI 對話中再次遇見它。',
     'BOOK + APP READER':'書籍 + 應用程式閱讀器','Read the page.':'閱讀書頁。','Make the Japanese yours.':'把日語化為自己的語言。','Read in print, then use the app to hear, understand and practise the Japanese.':'先閱讀紙本，再用應用程式聆聽、理解並練習日語。',
@@ -470,7 +468,7 @@ if(interfaceLanguageButton){
     'YOUR BOOK IS THE KEY':'你的書就是鑰匙','Buy a book.':'購買一本書。','Unlock its full Japanese experience.':'解鎖完整的日語學習體驗。','Redeem the code included with your book to access every article from that title in the app—with narration, translation and the interactive reader.':'兌換書中附帶的代碼，即可在應用程式中閱讀該書全部文章，並使用朗讀、翻譯與互動閱讀器。','Scan a QR code in the book to jump straight to its matching interactive article.':'掃描書中的 QR Code，即可直接開啟對應的互動文章。',
     'FULL DIGITAL READER ACCESS':'完整數位閱讀權限','Read every article':'閱讀書中每一篇','from your book.':'文章。','Furigana, narration and translation help when you need them.':'需要時可使用振假名、朗讀與翻譯。','Choose your book':'選擇你的書','WHAT YOUR BOOK UNLOCKS':'你的書可解鎖',
     'Full digital reader access':'完整數位閱讀權限','Read every article from your book with furigana, narration and translation.':'使用振假名、朗讀與翻譯，閱讀書中每一篇文章。','Chapter-linked guided chat':'章節連動 AI 對話','Practise conversation topics connected to the chapters included in your book.':'練習與書中章節相關的對話主題。','Free Easy News':'免費簡易新聞','Keep reading current, level-friendly Japanese—free for everyone.':'持續閱讀符合程度的最新日語新聞，所有人都能免費使用。','Redeem once per book for one Kokomonster account. Book-content access continues while the product remains available.':'每本書可供一個 Kokomonster 帳號兌換一次；產品供應期間可持續存取書籍內容。',
-    'Japanese learning that begins with a story and stays with you in real life.':'從一則故事開始，讓日語走進真實生活。','Download the app':'下載應用程式','EXPLORE':'探索','GET STARTED':'開始學習','HELP':'幫助','Shop books':'選購書籍','Contact us':'聯絡我們','How it works':'使用方式','Terms of Use':'使用條款','Privacy Policy':'隱私權政策'
+    'Japanese learning that begins with a story and stays with you in real life.':'從一則故事開始，讓日語走進真實生活。','Download the app':'下載應用程式','EXPLORE':'探索','GET STARTED':'開始學習','HELP':'幫助','Home':'首頁','Shop books':'選購書籍','Contact us':'聯絡我們','How it works':'使用方式','Terms of Use':'使用條款','Privacy Policy':'隱私權政策'
   }));
   const textOriginals=new WeakMap();
   const attributeOriginals=new WeakMap();
@@ -507,6 +505,7 @@ if(interfaceLanguageButton){
     interfaceLanguageButton.textContent=interfaceLanguage==='zh'?'EN':'繁';
     interfaceLanguageButton.setAttribute('aria-label',interfaceLanguage==='zh'?'語言：繁體中文。切換至英文':'Language: English. Switch to Traditional Chinese');
     try{window.localStorage.setItem('kkm-language',interfaceLanguage);}catch(error){}
+    window.kkmLocaleReady?.();
   };
   interfaceLanguageButton.addEventListener('click',()=>{interfaceLanguage=interfaceLanguage==='en'?'zh':'en';applyInterfaceLanguage();});
   applyInterfaceLanguage();

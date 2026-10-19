@@ -86,6 +86,60 @@
       "usedBy": ["easy-news-landing-preview"],
       "text": "王室での立場が、書簡で明確にされました。",
       "highlightTokens": ["王室での", "立場が、", "書簡で", "明確にされました。"]
+    },
+    {
+      "id": "books-dj1-festival",
+      "file": "nanami-books-dj1-festival.mp3",
+      "usedBy": ["books-reader"],
+      "text": "神聖な火を囲み、力強い祭囃子に合わせて舞うことで、人々は災いを追い払い、心と土地を浄化します。受け継がれてきた所作の一つひとつに、地域の祈りが込められています。"
+    },
+    {
+      "id": "books-dj1-snow",
+      "file": "nanami-books-dj1-snow.mp3",
+      "usedBy": ["books-reader"],
+      "text": "雪は音を吸い込み、山里を静けさで包みます。住民は屋根の雪を下ろし、道を確保しながら、厳しい冬と折り合いをつけて暮らしてきました。"
+    },
+    {
+      "id": "books-dj1-goldfish",
+      "file": "nanami-books-dj1-goldfish.mp3",
+      "usedBy": ["books-reader"],
+      "text": "金魚は長い時間をかけて品種改良され、色やひれの形が異なる多彩な姿へと変化しました。愛情を注いで世話をすると、ゆったり泳ぐ姿が暮らしに安らぎをもたらします。"
+    },
+    {
+      "id": "books-dj2-kamon",
+      "file": "nanami-books-dj2-kamon.mp3",
+      "usedBy": ["books-reader"],
+      "text": "紋章上絵師は、円と線を組み合わせ、着物に家紋を描き入れます。先祖から受け継いだ願いを正確な形に整え、次の世代へ伝える仕事です。"
+    },
+    {
+      "id": "books-dj2-sushi",
+      "file": "nanami-books-dj2-sushi.mp3",
+      "usedBy": ["books-reader"],
+      "text": "職人は魚の状態を見極め、塩や酢を使って鮮度を保ちながら、うま味を引き出します。素材に手を加えることで、魚は時間とともに深い味わいへ変化します。"
+    },
+    {
+      "id": "books-dj2-mingei",
+      "file": "nanami-books-dj2-mingei.mp3",
+      "usedBy": ["books-reader"],
+      "text": "民藝は、名もない職人が日々の暮らしのために生み出した道具の美しさを見直す運動です。使い続けることで育つ形や手触りを、未来の生活へつなげようとしています。"
+    },
+    {
+      "id": "books-artisan-ukiyoe",
+      "file": "nanami-books-artisan-ukiyoe.mp3",
+      "usedBy": ["books-reader"],
+      "text": "浮世絵師の描いた下絵は、彫師と摺師の手を経て、鮮やかな木版画に仕上がります。細い線を彫り分け、色を何度も重ねることで、表情や衣服の質感まで生き生きと表現されます。"
+    },
+    {
+      "id": "books-artisan-edo",
+      "file": "nanami-books-artisan-edo.mp3",
+      "usedBy": ["books-reader"],
+      "text": "野良着姿の男たちは、太鼓や笛を鳴らしながら町を練り歩き、江戸から続く反骨の精神を現代によみがえらせます。古い作法を守るだけでなく、自分たちの暮らしに合わせて受け継いでいます。"
+    },
+    {
+      "id": "books-artisan-taiko",
+      "file": "nanami-books-artisan-taiko.mp3",
+      "usedBy": ["books-reader"],
+      "text": "演奏者は静かに呼吸を整え、一瞬の間を置いてから全身で太鼓を打ち込みます。張りつめた静けさと激しい動きが交わると、会場を震わせる唯一無二の響きが生まれます。"
     }
   ],
   "vocabulary": [
@@ -158,6 +212,32 @@
       "text": "交渉",
       "reading": "こうしょう",
       "usedBy": ["easy-news-landing-word"]
-    }
+    },
+    {"id":"books-matsuribayashi","file":"nanami-books-word-matsuribayashi.mp3","text":"祭囃子","reading":"まつりばやし","usedBy":["books-reader"]},
+    {"id":"books-wazawai","file":"nanami-books-word-wazawai.mp3","text":"災いを追い払う","reading":"わざわいをおいはらう","usedBy":["books-reader"]},
+    {"id":"books-jouka","file":"nanami-books-word-jouka.mp3","text":"浄化する","reading":"じょうかする","usedBy":["books-reader"]},
+    {"id":"books-suikomu","file":"nanami-books-word-suikomu.mp3","text":"吸い込む","reading":"すいこむ","usedBy":["books-reader"]},
+    {"id":"books-kakuho","file":"nanami-books-word-kakuho.mp3","text":"確保する","reading":"かくほする","usedBy":["books-reader"]},
+    {"id":"books-oriai","file":"nanami-books-word-oriai.mp3","text":"折り合いをつける","reading":"おりあいをつける","usedBy":["books-reader"]},
+    {"id":"books-hinshukairyou","file":"nanami-books-word-hinshukairyou.mp3","text":"品種改良","reading":"ひんしゅかいりょう","usedBy":["books-reader"]},
+    {"id":"books-aijou","file":"nanami-books-word-aijou.mp3","text":"愛情を注ぐ","reading":"あいじょうをそそぐ","usedBy":["books-reader"]},
+    {"id":"books-yasuragi","file":"nanami-books-word-yasuragi.mp3","text":"安らぎをもたらす","reading":"やすらぎをもたらす","usedBy":["books-reader"]},
+    {"id":"books-kamon","file":"nanami-books-word-kamon.mp3","text":"家紋","reading":"かもん","usedBy":["books-reader"]},
+    {"id":"books-uketsugu","file":"nanami-books-word-uketsugu.mp3","text":"受け継ぐ","reading":"うけつぐ","usedBy":["books-reader"]},
+    {"id":"books-tsutaeru","file":"nanami-books-word-tsutaeru.mp3","text":"伝える","reading":"つたえる","usedBy":["books-reader"]},
+    {"id":"books-mikiwameru","file":"nanami-books-word-mikiwameru.mp3","text":"見極める","reading":"みきわめる","usedBy":["books-reader"]},
+    {"id":"books-sendo","file":"nanami-books-word-sendo.mp3","text":"鮮度を保つ","reading":"せんどをたもつ","usedBy":["books-reader"]},
+    {"id":"books-umami","file":"nanami-books-word-umami.mp3","text":"うま味を引き出す","reading":"うまみをひきだす","usedBy":["books-reader"]},
+    {"id":"books-mingei","file":"nanami-books-word-mingei.mp3","text":"民藝","reading":"みんげい","usedBy":["books-reader"]},
+    {"id":"books-umidasu","file":"nanami-books-word-umidasu.mp3","text":"生み出す","reading":"うみだす","usedBy":["books-reader"]},
+    {"id":"books-mirai-tsunageru","file":"nanami-books-word-mirai-tsunageru.mp3","text":"未来につなげる","reading":"みらいにつなげる","usedBy":["books-reader"]},
+    {"id":"books-shitae","file":"nanami-books-word-shitae.mp3","text":"下絵","reading":"したえ","usedBy":["books-reader"]},
+    {"id":"books-horiwakeru","file":"nanami-books-word-horiwakeru.mp3","text":"彫り分ける","reading":"ほりわける","usedBy":["books-reader"]},
+    {"id":"books-shitsukan","file":"nanami-books-word-shitsukan.mp3","text":"質感","reading":"しつかん","usedBy":["books-reader"]},
+    {"id":"books-neriaruku","file":"nanami-books-word-neriaruku.mp3","text":"練り歩く","reading":"ねりあるく","usedBy":["books-reader"]},
+    {"id":"books-hankotsu","file":"nanami-books-word-hankotsu.mp3","text":"反骨の精神","reading":"はんこつのせいしん","usedBy":["books-reader"]},
+    {"id":"books-kokyuu-totonoeru","file":"nanami-books-word-kokyuu-totonoeru.mp3","text":"呼吸を整える","reading":"こきゅうをととのえる","usedBy":["books-reader"]},
+    {"id":"books-uchikomu","file":"nanami-books-word-uchikomu.mp3","text":"打ち込む","reading":"うちこむ","usedBy":["books-reader"]},
+    {"id":"books-furuwaseru","file":"nanami-books-word-furuwaseru.mp3","text":"震わせる","reading":"ふるわせる","usedBy":["books-reader"]}
   ]
 }
