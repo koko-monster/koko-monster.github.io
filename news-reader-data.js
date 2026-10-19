@@ -88,10 +88,10 @@
     document.body.dataset.storyId=String(article.id);
     const pageTitle=`${article.title.ja} | Kokomonster Easy News`;
     const pageDescription=`${article.summary.en} Read in approachable Japanese with audio, furigana, translation and vocabulary support.`;
-    const canonicalUrl=article.reservedUrl||`https://kokomonster.com${article.reservedPath}`;
+    const canonicalUrl=`https://koko-monster.github.io${article.reservedPath.replace(/\/$/,'')}/`;
     const shareImage=Number(article.id)===9991
-      ?'https://koko-monster.github.io/assets/social/og-news-onosato-9991.jpg'
-      :'https://koko-monster.github.io/assets/social/og-news.jpg';
+      ?'https://koko-monster.github.io/assets/social/og-news-onosato-9991.jpg?v=20261020-2'
+      :'https://koko-monster.github.io/assets/social/og-news.jpg?v=20261020-2';
     document.title=pageTitle;
     setMeta('meta[name="description"]',pageDescription);
     setMeta('link[rel="canonical"]',canonicalUrl,'href');
@@ -99,6 +99,8 @@
     setMeta('meta[property="og:description"]',pageDescription);
     setMeta('meta[property="og:url"]',canonicalUrl);
     setMeta('meta[property="og:image"]',shareImage);
+    setMeta('meta[property="og:image:secure_url"]',shareImage);
+    setMeta('meta[property="og:image:type"]','image/jpeg');
     setMeta('meta[property="og:image:alt"]',`Kokomonster Easy News illustration for ${article.title.en}`);
     setMeta('meta[property="article:published_time"]',article.date);
     setMeta('meta[property="article:section"]',article.category.en);

@@ -7,6 +7,7 @@ import json
 import html
 import re
 from pathlib import Path
+from urllib.parse import urlparse
 
 
 SITE_ROOT = Path(__file__).resolve().parents[2]
@@ -21,11 +22,17 @@ def main() -> None:
         title = article_data["title"]["ja"]
         english_title = article_data["title"]["en"]
         description = article_data["summary"]["en"]
-        canonical = article_data["reservedUrl"]
+        canonical_path = urlparse(article_data["reservedUrl"]).path.rstrip("/")
+        canonical = f"https://koko-monster.github.io{canonical_path}/"
         published = article_data["date"]
         section = article_data["category"]["en"]
         cover_name = Path(article_data["cover"]["file"]).name
-        social_image = f"https://koko-monster.github.io/assets/news-covers/{cover_name}"
+        if int(article["id"]) == 9991:
+            social_image = "https://koko-monster.github.io/assets/social/og-news-onosato-9991.jpg?v=20261020-2"
+            social_image_type = "image/jpeg"
+        else:
+            social_image = f"https://koko-monster.github.io/assets/news-covers/{cover_name}?v=20261020-2"
+            social_image_type = "image/webp"
         document_title = f"{title} | Kokomonster Easy News"
         meta_values = {
             "title": document_title,
@@ -35,6 +42,8 @@ def main() -> None:
             "og:description": description,
             "og:url": canonical,
             "og:image": social_image,
+            "og:image:secure_url": social_image,
+            "og:image:type": social_image_type,
             "og:image:alt": f"Kokomonster Easy News: {english_title}",
             "article:published_time": published,
             "article:section": section,
