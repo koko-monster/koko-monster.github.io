@@ -280,7 +280,7 @@
       ['.story-footer__column:nth-of-type(1) > b','EXPLORE','探索'],
       ['.story-footer__column:nth-of-type(2) > b','GET STARTED','開始學習'],
       ['.story-footer__column:nth-of-type(3) > b','HELP','幫助'],
-      ['a[href="index.html"],a[href="/"]','Home','首頁'],['a[href="news.html"],a[href="/news/"]','Easy News','簡易新聞'],['a[href="shop-redesign.html"],a[href="/books/"]','Books','書籍'],
+      ['.story-footer__column a[href="index.html"],.story-footer__column a[href="/"]','Home','首頁'],['.story-footer__column a[href="news.html"],.story-footer__column a[href="/news/"]','Easy News','簡易新聞'],['.story-footer__column a[href="shop-redesign.html"],.story-footer__column a[href="/books/"]','Books','書籍'],
       ['.story-footer__column:nth-of-type(2) a[href="https://store.kokomonster.com/"]','Shop books','選購書籍'],['a[href="https://apps.apple.com/us/app/kokomonster/id6462056577"]','Download the app','下載應用程式'],
       ['a[href="https://store.kokomonster.com/pages/contact"]','Contact us','聯絡我們'],['a[href="https://store.kokomonster.com/pages/app"]','How it works','使用方式'],
       ['.story-footer__column:nth-of-type(3) a[href="https://store.kokomonster.com/"]','FAQ','常見問題'],
